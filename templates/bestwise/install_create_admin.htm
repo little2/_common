@@ -1,0 +1,62 @@
+<div id="container">
+
+
+
+<div class="table_frame">
+<div class="table_item">
+<h1>{$lang.CreateAdministrator}</h1>
+<table class="table_signup">
+	<tbody>
+		<tr>
+			<th>{$lang.UserName}</th>
+			<td>
+			administrator
+			<input type="hidden" id="login_name" name="login_name" value="administrator"/>
+			<input type="hidden" id="user_id" name="user_id" value="100"/>
+
+			</td>
+		</tr>
+
+
+		<tr>
+			<th>{$lang.UserEmail}</th>
+			<td>
+			<input type="text" id="email" name="email" value="{email}"/>
+			</td>
+		</tr>
+		<tr>
+			<th>{$lang.UserPassword}</th>
+			<td>
+			<input type="text" id="password" name="password" value="{Password}"/>
+			</td>
+		</tr>
+
+		<tr>
+			<th>{$lang.BWDRMKey}</th>
+			<td>
+			<input type="text" id="BWDRMServerKey" name="BWDRMServerKey" value=""/>
+			</td>
+		</tr>
+		<tr>
+			<th>{$lang.Desc}</th>
+			<td>
+				請建立系統管理員的帳號。你可以運用這個帳號再創建別的系統管理員或其他權限的用戶。
+			</td>
+		</tr>
+	</tbody>
+	<tfoot>
+		<tr>
+			<td colspan="7">
+			<div align="center"><input class="sbutton_big" type="button"
+				value="{$lang.Save}" onClick="CallXajax('create_admin_act',this);" {UableModify}/></div>
+			</td>
+		</tr>
+	</tfoot>
+</table>
+
+</div>
+</div>
+</div>
+
+
+

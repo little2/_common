@@ -1,0 +1,162 @@
+<div id="container">
+
+
+
+<div class="table_frame">
+<div class="table_item">
+<h1>{$lang.User}</h1>
+<table class="table_signup">
+	<tbody>
+		<tr>
+			<th>{$lang.UserName}</th>
+			<td>
+			<input type="text" id="login_name" name="login_name" value="{login_name}"/>
+			<input type="hidden" id="user_id" name="user_id" value="{user_id}"/>
+
+			</td>
+		</tr>
+
+
+		<tr>
+			<th>{$lang.UserEmail}</th>
+			<td>
+			<input type="text" id="email" name="email" value="{email}"/>
+			</td>
+		</tr>
+		<tr>
+			<th>{$lang.UserPassword}</th>
+			<td>
+			<input type="text" id="password" name="password" value=""/>
+			({$lang.FillNullIfNotModify})
+			</td>
+		</tr>
+
+		<tr>
+			<th>{$lang.isDisable}</th>
+			<td>
+			<select id="disabled" name="disabled">
+				<option value='0' {selected_disabled_0}>No</option>
+				<option value='1' {selected_disabled_1}>Yes</option>
+			</select>
+			</td>
+		</tr>
+
+		<tr>
+			<th>{$lang.UserType}</th>
+			<td>
+			<select id="power_type" name="power_type">
+				<option value=''>{Choose}</option>
+				<!-- BEGIN USER_TYPE -->
+				<option value="{USER_TYPE.power_type}"{USER_TYPE.selected}>{USER_TYPE.user_type}</option>
+				<!-- END USER_TYPE -->
+			</select>
+			</td>
+		</tr>
+		<!-- BEGIN FUN_TIME -->
+		<tr>
+			<th>{$lang.UserPoint}</th>
+			<td>
+			<input type="text" id="point" name="point" value="{point}" {userpoint_disabled}/>{$lang.Second}
+			</td>
+		</tr>
+
+		<tr>
+			<th>{$lang.ExpiryDate}</th>
+			<td>
+				<input type="text" id="expirydate" name="expirydate" value="{expirydate}" disabled />
+			</td>
+		</tr>
+		<!-- END FUN_TIME -->
+		<!-- BEGIN Field -->
+	         <tr>
+         	  <th width="28%" align="right" bgcolor="#FFFFFF"  id="{Field.OptionChar}_{Field.extension_name}" name="{Field.OptionChar}_{Field.extension_name}">{Field.FieldTitle}</th>
+	          <td align="left" bgcolor="#FFFFFF">
+
+
+	          <!-- BEGIN FieldFullDate -->
+
+	          <select name="{Field.extension_name}_year" id="{Field.extension_name}_year" onChange="ChangeBySelect('{Field.extension_name}');">
+	          <option id=""></option>
+	          </select>
+
+	          <select name="{Field.extension_name}_month" id="{Field.extension_name}_month" onChange="ChangeBySelect('{Field.extension_name}');">
+	          <option id=""></option>
+	          </select>
+
+	          <select name="{Field.extension_name}_day" id="{Field.extension_name}_day" onChange="ChangeBySelect('{Field.extension_name}');">
+	          <option id=""></option>
+	          </select>
+	          <input name="{Field.extension_name}" type="text" id="{Field.extension_name}" class="inputborder" style="width:179px;" value="{Field.FieldFullDate.extension_value}" />
+	          <script>date_init('{Field.extension_name}')</script>
+
+	          <!-- END FieldFullDate -->
+
+
+	          <!-- BEGIN FieldSex -->
+			  <input type="radio" id="{Field.extension_name}" name="{Field.extension_name}" value="1" {Field.FieldSex.checked_1}>{$lang.Male}
+			  <input type="radio" id="{Field.extension_name}" name="{Field.extension_name}" value="2" {Field.FieldSex.checked_2}>{$lang.Female}
+	          <!-- END FieldSex -->
+
+
+	          <!-- BEGIN FieldVarchar -->
+	          <input id="{Field.extension_name}" name="{Field.extension_name}" type="text" size="25" class="inputborder" value="{Field.extension_value}" />
+	          <!-- END FieldVarchar -->
+
+	          <!-- BEGIN FieldText -->
+	          <textarea id="{Field.extension_name}" name="{Field.extension_name}" class="inputborder">{Field.extension_value}</textarea>
+	          <!-- END FieldText -->
+
+	          <!-- BEGIN FieldYear -->
+	          <select id="{Field.extension_name}" name="{Field.extension_name}" >
+	          	<!-- BEGIN YearList -->
+	          	<option value="{Field.FieldYear.YearList.index}" {Field.FieldYear.YearList.selected}>{Field.FieldYear.YearList.title}</option>
+	          	<!-- END YearList -->
+	          </select>
+	          <!-- END FieldYear -->
+
+	          <!-- BEGIN FieldSelect -->
+	          <select id="{Field.extension_name}" name="{Field.extension_name}" >
+	          	<!-- BEGIN FieldSelectOption -->
+	          	<option value="{Field.FieldSelect.FieldSelectOption.index}">{Field.FieldSelect.FieldSelectOption.title}</option>
+	          	<!-- END FieldSelectOption -->
+	          </select>
+	          <!-- END FieldSelect -->
+
+ 			  <!-- BEGIN FieldCity -->
+  			  	<select name="{Field.extension_name}_province_code" id="{Field.extension_name}_province_code" onChange="changeZone('{Field.extension_name}',this)">
+			  		<option value="110000"></option>
+				</select>
+
+			  	<select name="{Field.extension_name}_city_code" id="{Field.extension_name}_city_code" onChange="changeZone('{Field.extension_name}',this)">
+			  		<option value="110100"></option>
+				</select>
+
+			  	<select name="{Field.extension_name}_office_code" id="{Field.extension_name}_office_code" onChange="changeZone('{Field.extension_name}',this)">
+				</select>
+
+				<input type="text" id="{Field.extension_name}" name="{Field.extension_name}" value="{Field.extension_value}">
+
+ 			  <!-- END FieldCity -->
+	          <span style="color:#FF0000" id="conform_password_notice"> {Field.Option}</span>
+	          </td>
+	        </tr>
+   	 	<!-- END Field -->
+
+
+	</tbody>
+	<tfoot>
+		<tr>
+			<td colspan="7">
+			<div align="center"><input class="sbutton_big" type="button"
+				value="{$lang.Save}" onClick="CallXajax('user_save',this);" {UableModify}/></div>
+			</td>
+		</tr>
+	</tfoot>
+</table>
+
+</div>
+</div>
+</div>
+
+
+

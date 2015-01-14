@@ -1,0 +1,79 @@
+<html>
+<head>
+	<link rel="Shortcut Icon" href="templates/{TPL_STYLE}/images/defatult.ico">
+	<link rel="Bookmark" href="templates/{TPL_STYLE}/images/defatult.ico">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>{PlateName}</title>
+</head>
+<body>
+    <div style="background-color: white; margin-top: 0px; margin-right: 0px; margin-bottom: 0px;
+        margin-left: 0px; font-family: Arial; font-size: 84%;">
+        <table id="main" cellpadding="0" cellspacing="0" border="0" class="visible" style="margin-left: auto;
+            margin-right: auto; margin-top: 10px;">
+            <tr>
+                <td valign="top">
+                    <div id="mostvisitedsection" class="section" style="padding-top: 3px; padding-right: 0px;
+                        padding-bottom: 5px; padding-left: 0px; margin-bottom: 0px; margin-top: 0px;
+                        margin-right: 5px; margin-left: 0px;">
+                        <div id="mostvisited" style="position: relative;">
+
+                            <table id="mostvisitedtable">
+                            	<!-- BEGIN ROW -->
+                            
+                                <tr>
+                                	<!-- BEGIN COLUMN -->
+                                    <td style="padding-top: 0px; padding-right: 10px; padding-bottom: 10px; padding-left: 0px;">
+                                        <div style="position: relative; left: 0px; top: 0px;">                                            
+                                            <a title="{ROW.COLUMN.SiteName}" style="text-decoration: underline;
+                                                white-space: nowrap;" href="{ROW.COLUMN.SiteURL}">
+                                                
+                                                <div style="display: block; width: 172px;
+                                                    text-decoration: none;
+                                                    margin-top: 6px;
+                                                    padding-right: 0px; padding-top: 1px; padding-bottom: 4px;
+                                                    background-position: 0px 1px">
+                                                    <image src="{ROW.COLUMN.SiteIcon}" onerror="javascript:this.src='icon.jpg'"/>  {ROW.COLUMN.SiteName}</div>
+                                                <img src="{ROW.COLUMN.SiteImage}"
+                                                    style="width: 195px; height: 136px; border-top-width: 1px; border-right-width: 1px;
+                                                    border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid;
+                                                    border-bottom-style: solid; border-left-style: solid; border-top-color: rgb(204, 204, 204);
+                                                    border-right-color: rgb(204, 204, 204); border-bottom-color: rgb(204, 204, 204);
+                                                    border-left-color: rgb(204, 204, 204); background-color: rgb(238, 238, 238);
+                                                    "></a></div>
+                                    </td>
+                                    <!-- END COLUMN -->
+                                    
+                                </tr>
+                                <!-- END ROW -->
+                                
+                            </table>
+                        </div>
+                    </div>
+                </td>
+                <td valign="top" width="230">
+                    <div align="right">
+                        <img src="templates/{TPL_STYLE}/images/logo.jpg"
+                            width="145" style="padding-bottom: 8px;"></div>
+                    <div id="searches" class="sidebar" style="width: 207px; padding-top: 3px; padding-right: 10px;
+                        padding-bottom: 3px; padding-left: 9px; margin-bottom: 10px; background-color: rgb(225, 236, 254);">
+                        <div class="section-title" jscontent="searches" style="color: rgb(0, 0, 0); line-height: 19pt;
+                            font-size: 15px; font-weight: bold; margin-bottom: 4px;">
+                            	搜尋</div>
+                        <form onsubmit="return false;"
+                        style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px;
+                        margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;">
+                        <input type="text" class="hint" name="search" onfocus="javascript:this.value=''"
+                            onblur="handleInputBlur.apply(this);" value="搜尋" style="min-height: 24px;
+                            width: 182px; display: block; color: rgb(170, 170, 170); border: 1px solid rgb(127, 157, 185);
+                            margin-bottom: 8px; padding-left: 23px;
+                            background-repeat: no-repeat; background-position: 4px 50%"></form>
+                        <div id="searches-entries">
+                        </div>
+                    </div>
+                </td>
+            </tr>
+        </table>
+    </div>
+    </span>
+</body>
+</html>

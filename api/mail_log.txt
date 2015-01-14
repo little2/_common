@@ -1,0 +1,512 @@
+F:readResponse L:256
+
+
+
+F:Connect2Server L:124
+
+220 mx.google.com ESMTP tm5sm9145919pbc.64
+
+
+F:Connect2Server L:125
+
+
+
+F:readResponse L:256
+
+
+
+
+
+250-mx.google.com at your service, [219.84.116.48]
+
+
+
+
+250-mx.google.com at your service, [219.84.116.48]
+250-SIZE 35882577
+
+
+
+
+250-mx.google.com at your service, [219.84.116.48]
+250-SIZE 35882577
+250-8BITMIME
+
+
+
+
+250-mx.google.com at your service, [219.84.116.48]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH XOAUTH2
+
+
+
+
+250-mx.google.com at your service, [219.84.116.48]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH XOAUTH2
+250 ENHANCEDSTATUSCODES
+
+
+F:Connect2Server L:133
+
+
+
+F:readResponse L:256
+
+
+
+
+
+334 VXNlcm5hbWU6
+
+
+F:readResponse L:256
+
+
+
+
+
+334 UGFzc3dvcmQ6
+
+
+F:readResponse L:256
+
+
+
+
+
+235 2.7.0 Accepted
+
+
+F:readResponse L:256
+
+
+
+
+
+250 2.1.0 OK tm5sm9145919pbc.64
+
+
+F:readResponse L:256
+
+
+
+
+
+250 2.1.5 OK tm5sm9145919pbc.64
+
+
+F:readResponse L:256
+
+
+
+
+
+354  Go ahead tm5sm9145919pbc.64
+
+
+F:readResponse L:256
+
+
+
+
+
+250 2.0.0 OK 1353470245 tm5sm9145919pbc.64
+
+
+F:readResponse L:256
+
+
+
+
+
+221 2.0.0 closing connection tm5sm9145919pbc.64
+
+
+F:readResponse L:256
+
+
+
+F:Connect2Server L:124
+
+220 mx.google.com ESMTP ve6sm9186567pbc.58
+
+
+F:Connect2Server L:125
+
+
+
+F:readResponse L:256
+
+
+
+
+
+250-mx.google.com at your service, [219.84.116.48]
+
+
+
+
+250-mx.google.com at your service, [219.84.116.48]
+250-SIZE 35882577
+
+
+
+
+250-mx.google.com at your service, [219.84.116.48]
+250-SIZE 35882577
+250-8BITMIME
+
+
+
+
+250-mx.google.com at your service, [219.84.116.48]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH XOAUTH2
+
+
+
+
+250-mx.google.com at your service, [219.84.116.48]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH XOAUTH2
+250 ENHANCEDSTATUSCODES
+
+
+F:Connect2Server L:133
+
+
+
+F:readResponse L:256
+
+
+
+
+
+334 VXNlcm5hbWU6
+
+
+F:readResponse L:256
+
+
+
+
+
+334 UGFzc3dvcmQ6
+
+
+F:readResponse L:256
+
+
+
+
+
+235 2.7.0 Accepted
+
+
+F:readResponse L:256
+
+
+
+
+
+250 2.1.0 OK ve6sm9186567pbc.58
+
+
+F:readResponse L:256
+
+
+
+
+
+250 2.1.5 OK ve6sm9186567pbc.58
+
+
+F:readResponse L:256
+
+
+
+
+
+354  Go ahead ve6sm9186567pbc.58
+
+
+F:readResponse L:256
+
+
+
+
+
+250 2.0.0 OK 1353471816 ve6sm9186567pbc.58
+
+
+F:readResponse L:256
+
+
+
+
+
+221 2.0.0 closing connection ve6sm9186567pbc.58
+
+
+F:readResponse L:256
+
+
+
+F:Connect2Server L:124
+
+220 mx.google.com ESMTP gu5sm9199557pbc.10
+
+
+F:Connect2Server L:125
+
+
+
+F:readResponse L:256
+
+
+
+
+
+250-mx.google.com at your service, [219.84.116.48]
+
+
+
+
+250-mx.google.com at your service, [219.84.116.48]
+250-SIZE 35882577
+
+
+
+
+250-mx.google.com at your service, [219.84.116.48]
+250-SIZE 35882577
+250-8BITMIME
+
+
+
+
+250-mx.google.com at your service, [219.84.116.48]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH XOAUTH2
+
+
+
+
+250-mx.google.com at your service, [219.84.116.48]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH XOAUTH2
+250 ENHANCEDSTATUSCODES
+
+
+F:Connect2Server L:133
+
+
+
+F:readResponse L:256
+
+
+
+
+
+334 VXNlcm5hbWU6
+
+
+F:readResponse L:256
+
+
+
+
+
+334 UGFzc3dvcmQ6
+
+
+F:readResponse L:256
+
+
+
+
+
+235 2.7.0 Accepted
+
+
+F:readResponse L:256
+
+
+
+
+
+250 2.1.0 OK gu5sm9199557pbc.10
+
+
+F:readResponse L:256
+
+
+
+
+
+250 2.1.5 OK gu5sm9199557pbc.10
+
+
+F:readResponse L:256
+
+
+
+
+
+354  Go ahead gu5sm9199557pbc.10
+
+
+F:readResponse L:256
+
+
+
+
+
+250 2.0.0 OK 1353471958 gu5sm9199557pbc.10
+
+
+F:readResponse L:256
+
+
+
+
+
+221 2.0.0 closing connection gu5sm9199557pbc.10
+
+
+F:readResponse L:256
+
+
+
+F:Connect2Server L:124
+
+220 mx.google.com ESMTP tm5sm9194739pbc.64
+
+
+F:Connect2Server L:125
+
+
+
+F:readResponse L:256
+
+
+
+
+
+250-mx.google.com at your service, [219.84.116.48]
+
+
+
+
+250-mx.google.com at your service, [219.84.116.48]
+250-SIZE 35882577
+
+
+
+
+250-mx.google.com at your service, [219.84.116.48]
+250-SIZE 35882577
+250-8BITMIME
+
+
+
+
+250-mx.google.com at your service, [219.84.116.48]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH XOAUTH2
+
+
+
+
+250-mx.google.com at your service, [219.84.116.48]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH XOAUTH2
+250 ENHANCEDSTATUSCODES
+
+
+F:Connect2Server L:133
+
+
+
+F:readResponse L:256
+
+
+
+
+
+334 VXNlcm5hbWU6
+
+
+F:readResponse L:256
+
+
+
+
+
+334 UGFzc3dvcmQ6
+
+
+F:readResponse L:256
+
+
+
+
+
+235 2.7.0 Accepted
+
+
+F:readResponse L:256
+
+
+
+
+
+250 2.1.0 OK tm5sm9194739pbc.64
+
+
+F:readResponse L:256
+
+
+
+
+
+250 2.1.5 OK tm5sm9194739pbc.64
+
+
+F:readResponse L:256
+
+
+
+
+
+354  Go ahead tm5sm9194739pbc.64
+
+
+F:readResponse L:256
+
+
+
+
+
+250 2.0.0 OK 1353472192 tm5sm9194739pbc.64
+
+
+F:readResponse L:256
+
+
+
+
+
+221 2.0.0 closing connection tm5sm9194739pbc.64
+
+

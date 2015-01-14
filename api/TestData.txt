@@ -1,0 +1,14 @@
+15:14:26
+收到的POST:
+Client=>soEZLMS
+Version=>3.0.0
+UTC=>635022116661840000
+Unit=>TCFST
+Account=>shijie@caidiy.com
+Encpw=>7e10dc58ca48555eb14f192c2e7a4329
+EncType=>OTPW
+HashCode=>1073cec1d20fc145ac6f4141f1a8787204a50f0a
+ExclusionUserID=>
+
+121
+127 : 849364f6f302718a2d3fcb48cab3e25d : 7e10dc58ca48555eb14f192c2e7a4329

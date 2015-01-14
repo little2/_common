@@ -1,0 +1,142 @@
+        <div id="container"> 
+
+			<div align="right" valign="bottom" style="width:97%;display:none" id="searchbar_close" name="searchbar_close">
+				<div class="table_frame" style="width:20%"  >
+					<div class="table_item"  onclick="searchbar_oc('searchbar');">
+						<h1>{$lang.Filter}   <img src="templates/{TPL_STYLE}/images/icon_open.gif" onclick="searchbar_oc('searchbar');"></h1>
+					</div>
+				</div>
+			</div>
+			
+			<div class="table_frame" id="searchbar_open" name="searchbar_open" >
+				<div class="table_item">
+					
+					<h1><span onclick="searchbar_oc('searchbar');">{$lang.Filter}   <img src="templates/{TPL_STYLE}/images/icon_close.gif" onclick="searchbar_oc('searchbar');"></span></h1>
+					
+					
+					<table class="table_signup">		
+					<!-- 				
+						<tr>
+							<th>{Acode}{Keyword}</th>
+							<td><input type="text" name="s_keyword" value="{s_keyword}" style="width:70%"/></td>
+						</tr>	
+					 -->							
+						<tr>
+							<th>{$lang.UsedUnit}</th>
+							<td><input type="text" name="s_usedunit" id="s_usedunit" value="{s_usedunit}" style="width:70%"/></td>
+						
+						</tr>	
+						
+<tr>
+							<th>{$lang.ExpiryDate}</th>
+							<td>
+							
+							<span id="begin_s_date_span" name="begin_s_date_span"> 
+								<input type="text" id="begin_s_date_text" name="begin_s_date_text" 
+								value="{begin_s_date_text}" style="width:80"
+								onclick="cal1x.select(document.getElementById('begin_s_date_text'),'begin_s_date_cal','yyyy-MM-dd','{begin_s_date}'); return false;"
+								readonly /> 
+								
+								<img id="begin_s_datecal" name="begin_s_date_cal"
+								src="templates/{TPL_STYLE}/images/popcalendar.gif" border="0"
+								onclick="cal1x.select(document.getElementById('begin_s_date_text'),'begin_s_date_cal','yyyy-MM-dd','{begin_s_date}'); return false;">
+				
+							</span> 
+			
+							~
+							
+							<span id="begin_e_date_span" name="begin_e_date_span"> 
+								<input type="text" id="begin_e_date_text" name="begin_e_date_text" style="width:80"
+								value="{begin_e_date_text}"
+								onclick="cal1x.select(document.getElementById('begin_e_date_text'),'begin_e_date_cal','yyyy-MM-dd','{begin_e_date}'); return false;"
+								readonly /> <img id="begin_e_datecal" name="begin_e_date_cal"
+								src="templates/{TPL_STYLE}/images/popcalendar.gif" border="0"
+								onclick="cal1x.select(document.getElementById('begin_e_date_text'),'begin_e_date_cal','yyyy-MM-dd','{begin_e_date}'); return false;">
+				
+							</span> 
+							
+							</td>
+						</tr>
+ 
+						<tfoot>
+							<tr>
+								<td colspan="3" align="center">
+								<input class="sbutton"  type="button" value="{$lang.Search}" name="submitReg" id="submitReg"
+									onClick="CallXajax('user_point',this);"></td>
+							</tr>
+						</tfoot>
+					</table>
+				</div>
+			</div>        	      
+        
+            <div class="table_frame">
+                <div class="table_item">
+                    <h1>{$lang.UserList}</h1>
+                    <table>
+                        <thead>
+                            <tr>
+                                <td>   
+               						<input type="checkbox" id="allselect" onclick="chkallbutton(this)">	
+                                </td>
+                              	<td style="font-weight: {order_login_name};" onClick="CallXajaxWithParameterByName('user_point','mng','f_order=login_name;','f');">
+                                    {$lang.UserName}              
+                                </td>
+                              	<td style="font-weight: {order_point};" onClick="CallXajaxWithParameterByName('user_point','mng','f_order=point;','f');">                               
+                                    {$lang.UserPoint}
+                                </td>
+                                <td style="font-weight: {order_expirydate};" onClick="CallXajaxWithParameterByName('user_point','mng','f_order=expirydate;','f');">                               
+                                   	 {$lang.ExpiryDate}
+                                </td>  
+                                <td style="font-weight: {order_ip};" onClick="CallXajaxWithParameterByName('user_point','mng','f_order=ip;','f');">
+                                   	 {$lang.IP}
+                                </td>   
+                                 <td style="font-weight: {order_unit};" onClick="CallXajaxWithParameterByName('user_point','mng','f_order=unit;','f');">
+                                   	 {$lang.UsedUnit}
+                                </td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                        <!-- BEGIN List -->
+                            <tr>
+                                <td>
+                 					<input type="checkbox" id="user_id[{List.user_id}]" name="user_id[{List.user_id}]" value="{List.user_id}">	
+                                </td>
+                                <td>
+                                   <div id="user_name[{List.user_id}]" name="user_name[{List.user_id}]">{List.login_name}</div> 
+                                </td>
+                                <td>
+                                   {List.point}
+                                </td>
+                                <td>                                   
+                                    {List.expirydate}
+                                </td>
+                                <td>
+                                {List.IP}
+                                 </td>
+                                <td>                                                                                 
+                                 	{List.unit}
+                                 </td>                                
+                            </tr>
+                        <!-- END List -->
+                        </tbody>
+                        <tfoot>
+                            <tr>
+
+                                 <td colspan="5"/>
+                                <td align="center">
+                                   	<input class="sbutton" type="button" value="{$lang.Export}" name="export" onClick="CallXajax('export_point_xls',this);"  />
+
+                                </td>
+                            </tr>
+                        </tfoot>
+                        
+
+                        
+                    </table>
+                </div>
+            </div>
+            <div class="state" id="page_zone" name="page_zone">	
+				<div style="float:left" class="PageLink">{STATISTICS}</div>
+				<div style="float:right" class="PageLink">{Pagination}</div>
+			</div>            
+        </div>

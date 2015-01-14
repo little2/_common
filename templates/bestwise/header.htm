@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta http-equiv="Content-Language" content="zh-cn" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="templates/{TPL_STYLE}/css/style.css" rel="stylesheet"
+	type="text/css" />
+<link href="templates/{TPL_STYLE}/css/bar_style.css" rel="stylesheet"
+	type="text/css" />
+	
+<link href="images/favicon.ico" rel="Shortcut Icon">
+<link rel="Bookmark" href="images/favicon.ico">	
+<title>User Center</title>
+</head>
+<object classid="clsid:8C1B76B1-0FD3-4038-AB2A-8D4809D77101" ID="soEZLecturingCaller" width="0" height="0"></object>
+
+<body>
+<script type="text/javascript" charset="utf-8"
+	src="javascript/function.js"></script>
+<script type="text/javascript" charset="utf-8"
+	src="javascript/AutoComplete.js"></script>
+<script type="text/javascript" charset="utf-8"
+	src="javascript/CalendarPopup.js"></script>
+<script type="text/javascript" charset="utf-8" 
+	src="module/city_code.js"></script>
+<script>
+var tpl_style='{TPL_STYLE}';
+var lang = new Array();
+<!-- BEGIN JSLANG -->
+lang['{JSLANG.INDEX}']='{JSLANG.VALUE}';
+<!-- END JSLANG -->
+</script>
+
+<!-- BEGIN LocalJS -->
+<script type="text/javascript" charset="utf-8"
+	src="module/{LocalJS.js_name}"></script>
+<!-- END LocalJS -->
+
+
+<!-- 
+<img src="templates/{TPL_STYLE}/images/dcms_logo.jpg" /> 
+ -->
+
+<div id="wrapper">
+<div id="caldiv"
+	style="z-index: 9999; position: absolute; display: block; visibility: hidden; background-color: white; layer-background-color: white;"></div>
+
+<div id="header">
+<div id="header_info">
+
+<!-- BEGIN LOGIN --> 
+<!-- BEGIN MANAGER -->
+
+<!-- END MANAGER -->
+<a href="manager.php?action=logout">{$lang.Logout}</a> 
+<!-- END LOGIN -->
+
+<!-- BEGIN LOGOUT --> 
+
+<!-- END LOGOUT -->
+</div>
+
+<div id="debug" name="debug"></div>

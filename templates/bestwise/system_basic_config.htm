@@ -1,0 +1,47 @@
+<div id="container">
+
+<div class="table_frame">
+<div class="table_item">
+<h1>{$lang.SystemBasicConfig}</h1>
+<table class="table_signup">
+	<tbody>
+		<tr>
+			<th>{$lang.SystemTime}</th>
+			<td><input type="text" name="systemtime" id="systemtime" onClick="fresh_now_time(this.id)" value="{CurrentTime}" size="100" readonly /></td>
+
+		</tr>
+		<tr>
+			<th>{$lang.Edtion}</th>
+			<td>{Edtion}</td>
+		</tr>
+	
+	
+		<tr>
+			<th>{$lang.Version}</th>
+			<td>{Version}</td>
+		</tr>		
+		<tr>
+			<th>{$lang.UpdateDate}</th>
+			<td>{UpdateDate}<input type="button" name="click88" id="click88" value="{$lang.AutoUpdate}" onClick="CallXajax('update_version',this)"></td>
+		</tr>
+	</tbody>
+	<tfoot>
+		<tr>
+			<td colspan="7">
+			<!-- 
+			<div align="center">
+			
+			<input class="sbutton_big" type="button" value="儲存设定" onClick="CallXajax('save_config',this)" /></div>
+			 -->
+			</td>
+		</tr>
+	</tfoot>
+</table>
+
+</div>
+</div>
+
+
+</div>
+
+

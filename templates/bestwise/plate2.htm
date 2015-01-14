@@ -1,0 +1,253 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>soEZOnline</title>
+	<link href="templates/bestwise/css/ubar_style.css" rel="stylesheet" type="text/css" />    
+    <style type="text/css">
+        /*------------------BODY--------------------*/
+        body
+        {
+            font-family: Arial, Verdana, sans-serif;
+            background-color: #FFF;
+            color: #666;
+            font-size: 11px;
+        }
+        a
+        {
+            text-decoration: none;
+            font-weight: bold;
+            color: #ff6600;
+        }
+        a:link
+        {
+        }
+        a:visited
+        {
+        }
+        a:active
+        {
+        }
+        a:hover
+        {
+            text-decoration: underline;
+        }
+        /*------------------ICON BOX ------------------*/
+        #boxes
+        {
+            font-family: Arial, sans-serif;
+            list-style-type: none;
+            margin: 0px;
+            padding: 0px;
+            width: 100%;
+        }
+        #boxes li
+        {
+            position: relative;
+            float: left;
+            margin: 2px 2px 0px 0px;
+            width: 228px;
+            height: 200px;
+            border: 1px solid #f2f4f8;
+            text-align: center;
+            background-color: #fff;
+            background-image: url(./templates/{TPL_STYLE}/images//bg.png);
+            background-repeat: repeat-x;
+            padding: 0px;
+        }
+        .IconTitle
+        {
+            font-size: 14px;
+            text-transform: uppercase;
+        }
+
+        .bordergrey
+        {
+            border: 1px solid #CCCCCC;
+        }
+        .Container
+        {
+            width: 968px;
+            margin-top: 0px;
+            margin-right: auto;
+            margin-bottom: 0px;
+            margin-left: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="Container">
+        <div id="MainContainer">
+            <!-- SKIN MENU -->
+            <ul id="boxes">
+                <!-- BEGIN ROW -->
+                <li class="box">
+                    <div>
+                        &nbsp;</div>
+                    <a href="{ROW.SiteURL}">
+                        <img onerror="javascript:this.src='http://www.websitethumbnail.de/shots/artviperx.php?&url={ROW.SiteURL}&w=218&h=142&q=100&sdx=1024&sdy=768&errImg=http://www.only2clicks.com/img/thumbnail.jpg'"
+                            name="" width="218" height="142" class="bordergrey" id="" title="{ROW.SiteName}" alt="{ROW.SiteName}"
+                            src="{ROW.SiteImage}"
+                             />
+                    </a>
+                    <div class="IconTitle">
+                        <a href="{ROW.SiteURL}">{ROW.SiteName}</a>
+                    </div>
+                </li>
+                <!-- END ROW -->
+                
+            </ul>
+        </div>
+    </div>
+
+<!-- 下方工具列 -->
+<!-- 
+   <div id="wibiyaToolbar" style="" state="on">
+        <div style="bottom: -24px;" class="wibiya_toolbar_wrapper" id="wibiya_toolbar_wrapper">
+            <div class="wibiya_toolbar_holder">
+                
+                <!-- 左邊沿 ->
+                <div class="wibiya_toolbar_sideLeft" style="">
+                    <div class="wibiya_toolbar_side_seperator">
+                    </div>
+                    <div class="wibiya_toolbar_left_gradian">
+                    </div>
+                    <div class="wibiya_toolbar_side_seperator wibiya_toolbar_side_left">
+                        <div class="wibiya_toolbar_side_70per side_70perFirstLeft wibiya_toolbar_BG">
+                        </div>
+                        <div class="wibiya_toolbar_side_20per side_20perFirstLeft wibiya_toolbar_BG">
+                        </div>
+                        <div class="wibiya_toolbar_side_40per side_40perFirstLeft wibiya_toolbar_BG">
+                        </div>
+                        <div class="wibiya_toolbar_side_20per side_20perSecondLeft wibiya_toolbar_BG">
+                        </div>
+                        <div class="wibiya_toolbar_side_70per side_70perSecondLeft wibiya_toolbar_BG">
+                        </div>
+                        <div class="wibiya_toolbar_side_twopx wibiya_toolbar_BG wibiya_toolbar_opacity">
+                        </div>
+                        <div class="wibiya_toolbar_side_threepx wibiya_toolbar_BG wibiya_toolbar_opacity">
+                        </div>
+                        <div class="wibiya_toolbar_side_colHold wibiya_toolbar_BG wibiya_toolbar_opacity">
+                        </div>
+                    </div>
+                </div>
+                <!-- 左邊沿END ->
+                
+                
+                <div class="wibiya_toolbar_holder_middle">
+                    <div class="wibiya_toolbar_middle_bg wibiya_toolbar_BG wibiya_toolbar_opacity">
+                    </div>
+                    <div class="wibiya_toolbar_middle_gradian">
+                    </div>
+                    <div id="wibiya_toolbar_middle_item_holder">
+
+        
+                       
+                        <div class="itemLeft"> 
+                            <!-- 我的最愛文字 ->
+                            
+                            <div class="wibiya_appOver">
+                            </div>                         
+                            <div class="wibiyaToolbar_item_normal" >
+                                <div class="TBcontainerDiv " show="yes">
+                               		
+                                    <table class="itemTable" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                            <tr>
+                                                <!-- 圖標 ->
+                                                <td>
+                                                 
+                                                    <img src="home.png"/>
+                                                   
+                                                </td>
+                                                <!-- 文字 ->
+                                                <td>
+                                                    <span class="wibiyaToolbar_itemText ">My Bookmarks11</span>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table> 
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <!-- 分隔線 ->
+                        <div class="itemLeft">
+                            <div class="wibiyaToolbar_divider">
+                            </div>
+                        </div>
+                        <!-- 分隔線 ->
+                        
+                        
+
+                        
+                        <!-- 家的圖示 ->
+                        <div class="itemRight"> 
+                            <div class="wibiya_appOver">
+                            </div>     
+                            <a href="http://soezonline.com">                    
+                            <div class="wibiyaToolbar_item_normal">
+                                <div class="TBcontainerDiv " show="yes">
+                                    <table class="itemTable" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                            <tr>
+                                                <td>
+                                                	<img src="home.png"/>
+                                                   
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                            </a>
+                        </div>
+                        <!-- 分隔線 ->
+                        <div class="itemRight">
+                            <div class="wibiyaToolbar_divider">
+                            </div>
+                        </div>
+                        <!-- 分隔線 ->
+                        
+                        
+
+ 						
+
+                    </div>
+                </div>
+                <!-- 右邊沿 ->
+                <div class="wibiya_toolbar_sideRight" style="">
+                    <div class="wibiya_toolbar_side_seperator wibiya_toolbar_side_right">
+                        <div class="wibiya_toolbar_side_70per side_70perFirstRight wibiya_toolbar_BG">
+                        </div>
+                        <div class="wibiya_toolbar_side_20per side_20perFirstRight wibiya_toolbar_BG">
+                        </div>
+                        <div class="wibiya_toolbar_side_40per side_40perFirstRight wibiya_toolbar_BG">
+                        </div>
+                        <div class="wibiya_toolbar_side_20per side_20perSecondRight wibiya_toolbar_BG">
+                        </div>
+                        <div class="wibiya_toolbar_side_70per side_70perSecondRight wibiya_toolbar_BG">
+                        </div>
+                        <div class="wibiya_toolbar_side_twopx wibiya_toolbar_BG wibiya_toolbar_opacity">
+                        </div>
+                        <div class="wibiya_toolbar_side_threepx wibiya_toolbar_BG wibiya_toolbar_opacity">
+                        </div>
+                        <div class="wibiya_toolbar_side_colHold wibiya_toolbar_BG wibiya_toolbar_opacity">
+                        </div>
+                    </div>
+                    <div class="wibiya_toolbar_right_gradian">
+                    </div>
+                    <div class="wibiya_toolbar_side_seperator">
+                    </div>
+                </div>
+                <!-- 右邊沿 ->
+            </div>
+        </div>
+    </div>
+ -->
+</body>
+
+
+
+</html>
+

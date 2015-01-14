@@ -1,0 +1,78 @@
+<!-- Update Date: 2012.4.12 -->
+<div id="container">
+<table>
+	<tr>
+		<td height="36" colspan="9" class="itemTitle"><img
+			src="templates/{TPL_STYLE}/images/icon_details.gif" width="16"
+			height="13" hspace="3"> {nav}</td>
+	</tr>
+</table>
+
+<div class="table_frame">
+<div class="table_item">
+
+<h1>{$lang.SMTP}</h1>
+<table class="table_signup">
+
+	<tbody>
+	
+		<tr>
+			<th>{$lang.SMTPHost}</th>
+			<td><input type="text" style="width:60%" id="email_smtpServer" name="email_smtpServer" value="{email_smtpServer}"/></td>
+		</tr>
+		<tr>
+			<th>{$lang.SMTPUusername}</th>
+			<td><input type="text" style="width:60%" id="email_username" name="email_username" value="{email_username}"/></td>
+		</tr>	
+		<tr>
+			<th>{$lang.SMTPPassword}</th>
+			<td><input type="password" style="width:60%" id="email_password" name="email_password" value="{email_password}"/></td>
+		</tr>	
+		<tr>
+			<th>{$lang.SMTPPort}</th>
+			<td><input type="text" style="width:60%" id="email_port" name="email_port" value="{email_port}"/></td>
+		</tr>	
+		<tr>
+			<th>{$lang.SMTPSSL}</th>
+			<td>		
+			<select  id="email_ssl" name="email_ssl">
+				<option value="0" {selected_ssh_0}>{$lang.No}</option>
+				<option value="1" {selected_ssh_1}>{$lang.Yes}</option>
+			</select>
+			</td>
+		</tr>	
+		<tr>
+			<th>{$lang.BoardEmail}</th>
+			<td><input type="text" style="width:60%" id="email_sender" name="email_sender" value="{email_sender}"/></td>
+		</tr>		
+		<tr>
+			<th>{$lang.EmailBackup}</th>
+			<td><input type="text" style="width:60%" id="email_backup" name="email_backup" value="{email_backup}"/></td>
+		</tr>			
+		<tr>
+			<th>{$lang.TestReceiverEmail}</th>
+			<td><input type="text" name="receiver" id="receiver" value=""/>
+			<input class="sbutton" type="button" id="test_bt" name="test_bt" value="测试" onClick="this.style.display='none';CallXajax('send_test',this)"/>	
+				</td>
+		</tr>
+		
+		<tr>
+		<td colspan="2" align="center">
+		<input class="sbutton" type="button"
+			value="{$lang.Update}" name="B2"
+			onClick="CallXajax('save_smtp',this);" {disabled} />
+			
+			
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+
+</div>
+</div>
+</div>
+
+
+

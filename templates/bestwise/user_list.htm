@@ -1,0 +1,108 @@
+        <div id="container"> 
+        
+		<div align="right" valign="bottom" style="width:97%;display:none" id="searchbar_close" name="searchbar_close">
+				<div class="table_frame" style="width:20%"  >
+					<div class="table_item"  onclick="searchbar_oc('searchbar');">
+						<h1>{$lang.Filter}   <img src="templates/{TPL_STYLE}/images/icon_open.gif" onclick="searchbar_oc('searchbar');"></h1>
+					</div>
+				</div>
+			</div>
+			
+			<div class="table_frame" id="searchbar_open" name="searchbar_open" >
+				<div class="table_item">
+					
+					<h1><span onclick="searchbar_oc('searchbar');">{$lang.Filter}   <img src="templates/{TPL_STYLE}/images/icon_close.gif" onclick="searchbar_oc('searchbar');"></span></h1>
+					
+					
+					<table class="table_signup">
+						<tr>
+							<th>{$lang.Keyword}</th>
+							<td>
+								<input type="text" name="s_keyword" id="s_keyword" size="30" value="{s_keyword}"/>
+							</td>
+						</tr>	
+ 
+						<tfoot>
+							<tr>
+								<td colspan="3" align="center">
+								<input class="sbutton"  type="button" value="{$lang.Search}" name="submitReg" id="submitReg"
+									onClick="CallXajax('user_list',this);"></td>
+							</tr>
+						</tfoot>
+					</table>
+				</div>
+			</div>          
+        
+            <div class="table_frame">
+                <div class="table_item">
+                    <h1>{$lang.UserList}</h1>
+                    <table>
+                        <thead>
+                            <tr>
+                                <td>   
+               						<input type="checkbox" id="allselect" onclick="chkallbutton(this)">	
+                                </td>
+                              	<td style="font-weight: {order_login_name};" onClick="CallXajaxWithParameterByName('user_list','mng','f_order=login_name;','f');">
+                                    {$lang.UserName}              
+                                </td>
+                              	<td style="font-weight: {order_email};" onClick="CallXajaxWithParameterByName('user_list','mng','f_order=email;','f');">                               
+                                    {$lang.UserEmail}
+                                </td>
+                                <td style="font-weight: {order_reg_date};" onClick="CallXajaxWithParameterByName('user_list','mng','f_order=reg_date;','f');">                               
+                                   	 {$lang.RegistTime}
+                                </td>  
+                                <td style="font-weight: {order_update_date};" onClick="CallXajaxWithParameterByName('user_list','mng','f_order=update_date;','f');">
+                                   	 {$lang.LoginTime}
+                                </td>   
+                                
+                                 
+                                <td>
+                                   {$lang.Manage}
+                                </td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                        <!-- BEGIN List -->
+                            <tr>
+                                <td>
+                 					<input type="checkbox" id="user_id[{List.user_id}]" name="user_id[{List.user_id}]" value="{List.user_id}">	
+                                </td>
+                                <td>
+                                   <div id="user_name[{List.user_id}]" name="user_name[{List.user_id}]">{List.login_name}</div> 
+                                </td>
+                                <td>
+                                   {List.email}
+                                </td>
+                                <td>                                   
+                                    {List.reg_date}
+                                </td>
+                                <td>
+                                {List.update_date}
+                                 </td>
+                                <td>                                                                                 
+                                 	<input class="sbutton" type="button" value="{$lang.Manage}" name="B2" onClick="CallXajaxWithParameter('show_user_edit',this,'f_user_id={List.user_id}','f');"  />
+                                 </td>                                
+                            </tr>
+                        <!-- END List -->
+                        </tbody>
+                        <tfoot>
+                            <tr>
+
+                                 <td colspan="5"/>
+                                <td align="center">
+                                    <input class="sbutton" type="button" value="{$lang.Add}" id="B4" onClick="CallXajaxWithParameter('show_user_edit',this,'f_user_id=0','f');"  /> 
+                                    <input class="sbutton" type="button" value="{$lang.DelSeleted}" id="B5" onClick="remove_and_confirm(this,'user');"  />                  
+                                </td>
+                            </tr>
+                        </tfoot>
+                        
+                        
+                        
+                    </table>
+                </div>
+            </div>
+            <div class="state" id="page_zone" name="page_zone">	
+				<div style="float:left" class="PageLink">{STATISTICS}</div>
+				<div style="float:right" class="PageLink">{Pagination}</div>
+			</div>            
+        </div>

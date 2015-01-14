@@ -1,0 +1,78 @@
+<div id="container">
+
+
+
+<div class="table_frame">
+<div class="table_item">
+<h1>{$lang.Database}</h1>
+<table class="table_signup">
+	<tbody>
+
+		<tr>
+			<th>{$lang.DBType}</th>
+			<td>
+			<select id="dbtype" name="dbtype">
+				<option value=""></option>
+				<option value="mssql">mssql</option>
+				<option value="mysql">mysql</option>
+			</select>
+			</td>
+		</tr>
+
+		<tr>
+			<th>{$lang.DBHost}</th>
+			<td>
+			<input type="text" id="dbhost" name="dbhost" value="{dbhost}"/>
+			</td>
+		</tr>
+
+
+		<tr>
+			<th>{$lang.DBName}</th>
+			<td>
+			<input type="text" id="dbname" name="dbname" value="{dbname}"/>
+			</td>
+		</tr>
+		<tr>
+			<th>{$lang.DBUser}</th>
+			<td>
+			<input type="text" id="dbuser" name="dbuser" value="{dbuser}"/>
+			</td>
+		</tr>
+
+		<tr>
+			<th>{$lang.DBPassword}</th>
+			<td>
+			<input type="password" id="dbpasswd" name="dbpasswd" value="{dbpasswd}"/>
+			</td>
+		</tr>
+
+
+
+		<tr>
+			<th>{$lang.Desc}</th>
+			<td>
+				請建立系統管理員的帳號。你可以運用這個帳號再創建別的系統管理員或其他權限的用戶。
+			</td>
+		</tr>
+
+
+
+
+	</tbody>
+	<tfoot>
+		<tr>
+			<td colspan="7">
+			<div align="center"><input class="sbutton_big" type="button"
+				value="{$lang.Save}" onClick="CallXajax('install_db_act',this);" {UableModify}/></div>
+			</td>
+		</tr>
+	</tfoot>
+</table>
+
+</div>
+</div>
+</div>
+
+
+

@@ -1,0 +1,94 @@
+<div style="height: 5px"></div>
+
+<div id="container">
+<form method="POST" name="mng" id="mng"><!-- 系统参数 --> 
+	<input type="hidden" name="function_number" id="function_number" value="{default_func_tag}_1" /> 
+	<input type="hidden" name="action"	id="action" /> 
+	<!-- 目前頁面 -->
+	<input type="hidden" name="gotopage" id="gotopage" /> 
+	
+	<!-- 來源功能 -->	
+    <input type="hidden" name="source_item" id="source_item" value="{source_item}"/> 
+
+	<!-- 暫存變數 -->
+    <input type="hidden" name="val" id="val" value="{val}"/> 
+    <input type="hidden" name="tempval" id="tempval" value="{tempval}"/> 
+    <input type="hidden" name="ctempval" id="ctempval" value="{ctempval}"/> 
+    <input type="hidden" name="fixedtempval" id="fixedtempval" value="{fixedtempval}"/> 
+    <input type="hidden" name="selectedtempval" id="selectedtempval" value="{selectedtempval}"/> 
+
+
+	<!-- 用於匯出資枓時 -->
+	<input type="hidden" name="tempsql" id="tempsql"/>
+<!-- 系统参数 --> <!-- 導覽列 -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<!-- BEGIN FUNCTION -->
+		<td id="{FUNCTION.func_tag}" class="{FUNCTION.activeClass}" nowrap
+			onclick="preefunction(this.id)">
+		<div id="{FUNCTION.func_tag}_a" class="{FUNCTION.activeSubClass}1">
+		<div id="{FUNCTION.func_tag}_b" class="{FUNCTION.activeSubClass}2">
+		<div id="{FUNCTION.func_tag}_c" class="{FUNCTION.activeSubClass}3">
+		</div>
+		</div>
+		</div>
+		<div id="{FUNCTION.func_tag}_d"
+			class="{FUNCTION.activeSubClass}TabText">
+		&nbsp;&nbsp;{FUNCTION.func_name}&nbsp;&nbsp;</div>
+		</td>
+		<td>&nbsp;&nbsp;</td>
+		<!-- END FUNCTION -->
+		<td width="100%">&nbsp;</td>
+	</tr>
+</table>
+<div id="subfun" style="padding-bottom: 5px;"></div>
+<!-- 導覽列 -->
+<!-- 
+<div id="quota_status" name="quota_status" align="right"  style="font-size: 10pt; color: #800000; font-weight: bold">{QuotaStatus}&nbsp;&nbsp;&nbsp;&nbsp;</div>
+ -->
+<div id="mngcontain" name="mngcontain"></div>
+
+
+<!-- 副導覽列 --> 
+<!-- BEGIN SUBFUNCTION --> 
+<span id="{SUBFUNCTION.func_tag}_e" style="padding-bottom: 10px; visibility: hidden">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" align="center" id="subTabs">
+	<tr>
+		<td>
+		<!-- BEGIN SUBFUNCTION_DETAIL --> 
+		&nbsp; <span
+			class="{SUBFUNCTION.SUBFUNCTION_DETAIL.activeClass}"
+			id="{SUBFUNCTION.func_tag}_{SUBFUNCTION.SUBFUNCTION_DETAIL.func_tag}"
+			onclick="preefunction(this.id)">{SUBFUNCTION.SUBFUNCTION_DETAIL.funcname}</span>
+		&nbsp;| 
+		<!-- END SUBFUNCTION_DETAIL -->
+		</td>
+		<td width="1%" valign="top" style="padding: 0px;">
+		<div class="subtab2"></div>
+		</td>
+	</tr>
+</table>
+</span> 
+<!-- END SUBFUNCTION --> 
+<!-- 副導覽列(結束) -->
+</form>
+</div>
+<!-- container-->
+
+<span id="debug" name="debug"></span>
+
+<script>
+document.getElementById("subfun").innerHTML=document.getElementById("{default_func_tag}_e").innerHTML;
+</script>
+
+
+<script>
+preefunction("{default_func_tag}_1"); 
+</script>
+
+
+<!-- BEGIN GoFunc -->
+<script>
+CallXajaxWithParameterByName('{GoFunc.func}','mng','{GoFunc.parameter}','f');
+</script>
+<!-- END GoFunc -->

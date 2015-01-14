@@ -1,0 +1,8 @@
+12:25:27
+&Client=soEZLMS&Version=5.0.0&UTC=635144055274980000&Unit=TCFST&Encpw=e0141ba2f1770f9b6d40a497fbe4e25b&CreateNewIfNoExist=True&HashCode=ff0384b0092cf056b9645499c93185baba047861&ExclusionUserID=
+http://localhost/common/api/GetUserInfo.php
+
+12:26:00
+&Client=soEZLMS&Version=5.0.0&UTC=635144055274980000&Unit=TCFST&Encpw=e0141ba2f1770f9b6d40a497fbe4e25b&CreateNewIfNoExist=True&HashCode=ff0384b0092cf056b9645499c93185baba047861&ExclusionUserID=
+http://localhost/common/api/GetUserInfo.php?&Client=soEZLMS&Version=5.0.0&UTC=635144055274980000&Unit=TCFST&Encpw=e0141ba2f1770f9b6d40a497fbe4e25b&CreateNewIfNoExist=True&HashCode=ff0384b0092cf056b9645499c93185baba047861&ExclusionUserID=
+

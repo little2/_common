@@ -1,0 +1,36 @@
+<div id="container">
+
+
+
+<div class="table_frame">
+<div class="table_item">
+<h1>{$lang.Login}</h1>
+<table class="table_signup">
+	<tbody>
+		<tr>
+			<th>{$lang.UserName}</th>
+			<td>
+			<input type="text" id="login_name" name="login_name" value="{login_name}"/>				
+			</td>
+		</tr>		
+		<tr>
+			<th>{$lang.UserPassword}</th>
+			<td>
+			<input type="password" id="password" name="password" value="" onkeypress="if(event.keyCode==13){Javascript:CallXajax('check_auth',this);}"//>
+			</td>
+		</tr>
+	</tbody>
+	<tfoot>
+		<tr>
+			<td colspan="7">
+			<div align="center"><input class="sbutton_big" type="button"
+				value="{$lang.Login}" onClick="CallXajax('check_auth',this);" {UableModify}/></div>
+			</td>
+		</tr>
+	</tfoot>
+</table>
+
+</div>
+</div>
+</div>
+
