@@ -1,0 +1,8 @@
+# Enable Rewriting  
+RewriteEngine on  
+  
+RewriteRule (.+)\.bw$ $1.php
+RewriteRule (.+)\.jsp$ $1.php
+RewriteRule ^CE(.+)$ course.php?bd=$1
+RewriteRule ^GE(.+)$ goods.php?bd=$1
+

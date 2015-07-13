@@ -1,0 +1,56 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+    <title>Table Drag and Drop jQuery plugin</title>
+    <link rel="stylesheet" href="tablednd.css" type="text/css"/>
+</head>
+<body>
+
+
+<div class="tableDemo">
+<table id="table-4" cellspacing="0" cellpadding="2">
+	<thead>
+		<tr id="4.0" class="nodrop nodrag"><th>H1</th><th>H2</th><th>H3</th></tr>
+	</thead>
+	<tbody>
+        <tr id="4.1"><td>4.1</td><td>One</td><td><input type="text" name="one" value="one"/></td></tr>
+        <tr id="4.2"><td>4.2</td><td>Two</td><td><input type="text" name="two" value="two"/></td></tr>
+        <tr id="4.3"><td>4.3</td><td>Three</td><td><input type="text" name="three" value="three"/></td></tr>
+        <tr id="4.4"><td>4.4</td><td>Four</td><td><input type="text" name="four" value="four"/></td></tr>
+        <tr id="4.5"><td>4.5</td><td>Five</td><td><input type="text" name="five" value="five"/></td></tr>
+        <tr id="4.6"><td>4.6</td><td>Six</td><td><input type="text" name="six" value="six"/></td></tr>
+	</tbody>
+	<tbody>
+		<tr id="5.0" class="nodrop nodrag"><th>H1</th><th>H2</th><th>H3</th></tr>
+        <tr id="5.1"><td>5.1</td><td>One</td><td><input type="text" name="one" value="one"/></td></tr>
+        <tr id="5.2"><td>5.2</td><td>Two</td><td><input type="text" name="two" value="two"/></td></tr>
+        <tr id="5.3"><td>5.3</td><td>Three</td><td><input type="text" name="three" value="three"/></td></tr>
+        <tr id="5.4"><td>5.4</td><td>Four</td><td><input type="text" name="four" value="four"/></td></tr>
+        <tr id="5.5"><td>5.5</td><td>Five</td><td><input type="text" name="five" value="five"/></td></tr>
+        <tr id="5.6"><td>5.6</td><td>Six</td><td><input type="text" name="six" value="six"/></td></tr>
+	</tbody>
+	<tbody>
+		<tr id="6.0" class="nodrop nodrag"><th>H1</th><th>H2</th><th>H3</th></tr>
+        <tr id="6.1"><td>6.1</td><td>One</td><td><input type="text" name="one" value="one"/></td></tr>
+        <tr id="6.2"><td>6.2</td><td>Two</td><td><input type="text" name="two" value="two"/></td></tr>
+        <tr id="6.3"><td>6.3</td><td>Three</td><td><input type="text" name="three" value="three"/></td></tr>
+        <tr id="6.4"><td>6.4</td><td>Four</td><td><input type="text" name="four" value="four"/></td></tr>
+        <tr id="6.5"><td>6.5</td><td>Five</td><td><input type="text" name="five" value="five"/></td></tr>
+        <tr id="6.6"><td>6.6</td><td>Six</td><td><input type="text" name="six" value="six"/></td></tr>
+	</tbody>
+</table>
+</div>
+
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script type="text/javascript" src="js/jquery.tablednd.js"></script>
+
+
+<script type="text/javascript">
+    $(document).ready(function() {
+           $('#table-4').tableDnD(); // no options currently
+    });
+</script>
+
+</body>
+</html>
