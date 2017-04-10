@@ -1,85 +1,101 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
+<?php
+/////////////////////////////////////////////////////////////////
+/// getID3() by James Heinrich <info@getid3.org>               //
+//  available at http://getid3.sourceforge.net                 //
+//            or http://www.getid3.org                         //
+/////////////////////////////////////////////////////////////////
+// See readme.txt for more details                             //
+/////////////////////////////////////////////////////////////////
+//                                                             //
+// module.graphic.svg.php                                      //
+// module for analyzing SVG Image files                        //
+// dependencies: NONE                                          //
+//                                                            ///
+/////////////////////////////////////////////////////////////////
+
+
+class getid3_svg extends getid3_handler
+{
+
+
+	public function Analyze() {
+		$info = &$this->getid3->info;
+
+		fseek($this->getid3->fp, $info['avdataoffset'], SEEK_SET);
+
+		$SVGheader = fread($this->getid3->fp, 4096);
+		if (preg_match('#\<\?xml([^\>]+)\?\>#i', $SVGheader, $matches)) {
+			$info['svg']['xml']['raw'] = $matches;
+		}
+		if (preg_match('#\<\!DOCTYPE([^\>]+)\>#i', $SVGheader, $matches)) {
+			$info['svg']['doctype']['raw'] = $matches;
+		}
+		if (preg_match('#\<svg([^\>]+)\>#i', $SVGheader, $matches)) {
+			$info['svg']['svg']['raw'] = $matches;
+		}
+		if (isset($info['svg']['svg']['raw'])) {
+
+			$sections_to_fix = array('xml', 'doctype', 'svg');
+			foreach ($sections_to_fix as $section_to_fix) {
+				if (!isset($info['svg'][$section_to_fix])) {
+					continue;
+				}
+				$section_data = array();
+				while (preg_match('/ "([^"]+)"/', $info['svg'][$section_to_fix]['raw'][1], $matches)) {
+					$section_data[] = $matches[1];
+					$info['svg'][$section_to_fix]['raw'][1] = str_replace($matches[0], '', $info['svg'][$section_to_fix]['raw'][1]);
+				}
+				while (preg_match('/([^\s]+)="([^"]+)"/', $info['svg'][$section_to_fix]['raw'][1], $matches)) {
+					$section_data[] = $matches[0];
+					$info['svg'][$section_to_fix]['raw'][1] = str_replace($matches[0], '', $info['svg'][$section_to_fix]['raw'][1]);
+				}
+				$section_data = array_merge($section_data, preg_split('/[\s,]+/', $info['svg'][$section_to_fix]['raw'][1]));
+				foreach ($section_data as $keyvaluepair) {
+					$keyvaluepair = trim($keyvaluepair);
+					if ($keyvaluepair) {
+						$keyvalueexploded = explode('=', $keyvaluepair);
+						$key   = (isset($keyvalueexploded[0]) ? $keyvalueexploded[0] : '');
+						$value = (isset($keyvalueexploded[1]) ? $keyvalueexploded[1] : '');
+						$info['svg'][$section_to_fix]['sections'][$key] = trim($value, '"');
+					}
+				}
+			}
+
+			$info['fileformat']                  = 'svg';
+			$info['video']['dataformat']         = 'svg';
+			$info['video']['lossless']           = true;
+			//$info['video']['bits_per_sample']    = 24;
+			$info['video']['pixel_aspect_ratio'] = (float) 1;
+
+			if (!empty($info['svg']['svg']['sections']['width'])) {
+				$info['svg']['width']  = intval($info['svg']['svg']['sections']['width']);
+			}
+			if (!empty($info['svg']['svg']['sections']['height'])) {
+				$info['svg']['height'] = intval($info['svg']['svg']['sections']['height']);
+			}
+			if (!empty($info['svg']['svg']['sections']['version'])) {
+				$info['svg']['version'] = $info['svg']['svg']['sections']['version'];
+			}
+			if (!isset($info['svg']['version']) && isset($info['svg']['doctype']['sections'])) {
+				foreach ($info['svg']['doctype']['sections'] as $key => $value) {
+					if (preg_match('#//W3C//DTD SVG ([0-9\.]+)//#i', $key, $matches)) {
+						$info['svg']['version'] = $matches[1];
+						break;
+					}
+				}
+			}
+
+			if (!empty($info['svg']['width'])) {
+				$info['video']['resolution_x'] = $info['svg']['width'];
+			}
+			if (!empty($info['svg']['height'])) {
+				$info['video']['resolution_y'] = $info['svg']['height'];
+			}
+
+			return true;
+		}
+		$info['error'][] = 'Did not find expected <svg> tag';
+		return false;
+	}
+
+}

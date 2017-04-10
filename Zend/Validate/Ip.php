@@ -1,30 +1,76 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-HR+cPzG1f/2VwXl7ShSoquPOmxsEHR9PtBcb5BEiX5armdQhSXJHIfZH+qPldF1wvA5EY2SFgvAt
-vc9D0w7tX6solRIelN7NKWPTcurIj+dkoI9qw1Dtii/oeA6RCpuPjPRxm0+3dQL97kLzlXkY77da
-VVJi1311co7trwcRuTiu/jJhem3JD4EulBp7LJuZ3RUdnHUtSqLHgS4nwO3qVw4/EKvckdgzFGiH
-lj4dqcLsd63TyRsD9M4pweW+pYE9d3TmcNPNW82mpYbguY2qlrgVaRnXoHKhhC9Z6ycEkKDIAEvd
-gQNHpvyP31JBBtBK5bL1R6X79eEjHCGSk87AYtX+6xyqInQfuhR4JQRJrb0XGV2AHsw2Vm8EcNln
-nAIvqKD/e81uasUDNZhONEJ82K9qCPN+0W7d6bHv0ifWeHBvLz6agckwPbSHh0gyaJO8daUH9MO9
-GH+1b5tNtHIcpMkggAPoiroZ8nal5basHRm4UvsnOghUBfYAv0/xapyPxFYPk+t4b33IA4isAnqi
-0pM2SU85oPl3AN/1YnJXQvuwqaPt9bvRzIqW9o/DQUIZeyhnrhLvSbMpegdNSjVmX8SG7ipnPlWW
-siUnNIjET/Cvxyhn60DOHYmc2NZhfxF8NIMNqo/Id5UVg6VGsMjdYk7uGBUETJNb/fj74b/k8LJN
-I/IW8fwka3g5AK2FpfIZRl9tmKmghv2PMMN6HFxIf+twu77RsoQj8EKfQ/azyTDvsa7iTZQGNHH4
-DboSOtY8gBhizSwkeOmDB6+L+hSHjPl6RFZilQAMuvkgCiGF+dPEUDOH7VF5gpgzdpGePMLxD9iG
-Dh80wSfRj8Kp55LzSy66I18hJ+fMZABrlcq7Q6LYt3ier927zjO9mrMERtF/ibioutIK5ZEibln2
-EZLK1TRgRgf4JH3/m9c0ObY7A5hGmb6ce2gShEuCaihA01MTE/J+bE8a4Ltewh4bsj58yEYr+GRZ
-Oar93lz24K7ZZbF5h01lcUQt4FtVzjND6y6y7sGTyXHHyBM5KqRJBzXQftuMBOW6X6Jw7Gmr7GLD
-GFJUtdy4J4UPsg5PchyNFb3uyjkpOQxfzfQ8gU1rMF6wFU4FrLWg+fufz6aAoIbFfszcM2Rwcg2T
-GM1fmTxR1W4Qjapn1TT0mnaP7Q6HCwPm11Rwvd1FLFqMuP2duu+eizjepbGgt5GwqsMlUWMvBRsR
-OvNVT4HNWXyeoq6gs+AO6iZrM9ms4C2rkYhXjKI3zbV5DV3QJJzz4pydD363O8zUIUglLe9L8Wlz
-w4+s7UGFLJ8Qeh/TKZDlGSqZJyWc7lff+Z7wUpQT+m1e/tenaO0F2Xxr/2BvnTsEZJgpEkSPMBcN
-DRsMtJGdomxUtkoqPgvF6/idteXSB4OcALvyy7jVHtCWvz702YLS5W8pA2L7K0rQ+y6+AdaqtJeb
-iPvMjQvkeox42F1fUN0en0t3cQMsiUcT/GEHiIH5uWnOJVEYGG5QllCoXSBqx8+0lT9eizYAsaSW
-NGfuukctIxYpnGs8Eq2PQPwX71DMW/5ROwD4ptWoKrbqOH5vfLtwHboKPl2n28/riXbhNbBRJQBD
-x8EJwjY4Yu6yKBv00AQdGTWmXeV8UpYzwpRSldkiwIVmySKddBVJuB2S9evIUc3amGY/XtYC/rlX
-Oom7StduOM5tkuszNmPt7ORhaS170TfS2wutatHxxBVB7H4U7nYzTDzb7Vdx5sepEOkOLfu/nfLG
-RcS99xvUmF0zWBnTM6FafD7ZQ1Woj5KrYrskEA8FyP6WTpfNCfJ1y8zHRZunm3QS8ovkZYTN6WJb
-fGXlr+Kh+i5kOZcde0DrG7cx+OQjROhnLPWA72NqC08f8OIv6u1sFQ5BPC7eXmCRzlaHvEh6tPed
-Sy8Vej/0qApmWAmGPkcy0Gidgdq8cwwvvf7YCHu2F+r68BPxAbQtfCxgINh2p0fDUAEkFH/m8Jdx
-zqScBegnIynnpPVWrB9+X9x/471cdC0/58EiuuL0N0==
+<?php
+/**
+ * Zend Framework
+ *
+ * LICENSE
+ *
+ * This source file is subject to the new BSD license that is bundled
+ * with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://framework.zend.com/license/new-bsd
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@zend.com so we can send you a copy immediately.
+ *
+ * @category   Zend
+ * @package    Zend_Validate
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ * @version    $Id: Ip.php 17470 2009-08-08 22:27:09Z thomas $
+ */
+
+/**
+ * @see Zend_Validate_Abstract
+ */
+require_once 'Zend/Validate/Abstract.php';
+
+/**
+ * @category   Zend
+ * @package    Zend_Validate
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+class Zend_Validate_Ip extends Zend_Validate_Abstract
+{
+    const INVALID        = 'ipInvalid';
+    const NOT_IP_ADDRESS = 'notIpAddress';
+
+    /**
+     * @var array
+     */
+    protected $_messageTemplates = array(
+        self::INVALID        => "Invalid type given, value should be a string",
+        self::NOT_IP_ADDRESS => "'%value%' does not appear to be a valid IP address"
+    );
+
+    /**
+     * Defined by Zend_Validate_Interface
+     *
+     * Returns true if and only if $value is a valid IP address
+     *
+     * @param  mixed $value
+     * @return boolean
+     */
+    public function isValid($value)
+    {
+        if (!is_string($value)) {
+            $this->_error(self::INVALID);
+            return false;
+        }
+
+        $this->_setValue($value);
+
+        if ((ip2long($value) === false) || (long2ip(ip2long($value)) !== $value)) {
+            if (!function_exists('inet_pton')) {
+                $this->_error(self::NOT_IP_ADDRESS);
+                return false;
+            } else if ((@inet_pton($value) === false) ||(inet_ntop(@inet_pton($value)) !== $value)) {
+                $this->_error(self::NOT_IP_ADDRESS);
+                return false;
+            }
+        }
+
+        return true;
+    }
+
+}

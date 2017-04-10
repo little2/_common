@@ -1,51 +1,268 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
-X1aw4nK+JBq0HiDz70GMaj2Tr2+3oWYvvk02uW==
+<?php
+
+/**
+ * Zend Framework
+ *
+ * LICENSE
+ *
+ * This source file is subject to the new BSD license that is bundled
+ * with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://framework.zend.com/license/new-bsd
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@zend.com so we can send you a copy immediately.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Gbase
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ * @version    $Id: Query.php 18951 2009-11-12 16:26:19Z alexander $
+ */
+
+/**
+ * @see Zend_Gdata_Query
+ */
+require_once('Zend/Gdata/Query.php');
+
+/**
+ * Assists in constructing queries for Google Base
+ *
+ * @link http://code.google.com/apis/base
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Gbase
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+class Zend_Gdata_Gbase_Query extends Zend_Gdata_Query
+{
+
+    /**
+     * Path to the customer items feeds on the Google Base server.
+     */
+    const GBASE_ITEM_FEED_URI = 'http://www.google.com/base/feeds/items';
+
+    /**
+     * Path to the snippets feeds on the Google Base server.
+     */
+    const GBASE_SNIPPET_FEED_URI = 'http://www.google.com/base/feeds/snippets';
+
+    /**
+     * The default URI for POST methods
+     *
+     * @var string
+     */
+    protected $_defaultFeedUri = self::GBASE_ITEM_FEED_URI;
+
+    /**
+     * @param string $value
+     * @return Zend_Gdata_Gbase_Query Provides a fluent interface
+     */
+    public function setKey($value)
+    {
+        if ($value !== null) {
+            $this->_params['key'] = $value;
+        } else {
+            unset($this->_params['key']);
+        }
+        return $this;
+    }
+
+    /**
+     * @param string $value
+     * @return Zend_Gdata_Gbase_ItemQuery Provides a fluent interface
+     */
+    public function setBq($value)
+    {
+        if ($value !== null) {
+            $this->_params['bq'] = $value;
+        } else {
+            unset($this->_params['bq']);
+        }
+        return $this;
+    }
+
+    /**
+     * @param string $value
+     * @return Zend_Gdata_Gbase_ItemQuery Provides a fluent interface
+     */
+    public function setRefine($value)
+    {
+        if ($value !== null) {
+            $this->_params['refine'] = $value;
+        } else {
+            unset($this->_params['refine']);
+        }
+        return $this;
+    }
+
+    /**
+     * @param string $value
+     * @return Zend_Gdata_Gbase_ItemQuery Provides a fluent interface
+     */
+    public function setContent($value)
+    {
+        if ($value !== null) {
+            $this->_params['content'] = $value;
+        } else {
+            unset($this->_params['content']);
+        }
+        return $this;
+    }
+
+    /**
+     * @param string $value
+     * @return Zend_Gdata_Gbase_ItemQuery Provides a fluent interface
+     */
+    public function setOrderBy($value)
+    {
+        if ($value !== null) {
+            $this->_params['orderby'] = $value;
+        } else {
+            unset($this->_params['orderby']);
+        }
+        return $this;
+    }
+
+    /**
+     * @param string $value
+     * @return Zend_Gdata_Gbase_ItemQuery Provides a fluent interface
+     */
+    public function setSortOrder($value)
+    {
+        if ($value !== null) {
+            $this->_params['sortorder'] = $value;
+        } else {
+            unset($this->_params['sortorder']);
+        }
+        return $this;
+    }
+
+    /**
+     * @param string $value
+     * @return Zend_Gdata_Gbase_ItemQuery Provides a fluent interface
+     */
+    public function setCrowdBy($value)
+    {
+        if ($value !== null) {
+            $this->_params['crowdby'] = $value;
+        } else {
+            unset($this->_params['crowdby']);
+        }
+        return $this;
+    }
+
+    /**
+     * @param string $value
+     * @return Zend_Gdata_Gbase_ItemQuery Provides a fluent interface
+     */
+    public function setAdjust($value)
+    {
+        if ($value !== null) {
+            $this->_params['adjust'] = $value;
+        } else {
+            unset($this->_params['adjust']);
+        }
+        return $this;
+    }
+
+    /**
+     * @return string key
+     */
+    public function getKey()
+    {
+        if (array_key_exists('key', $this->_params)) {
+            return $this->_params['key'];
+        } else {
+            return null;
+        }
+    }
+
+    /**
+     * @return string bq
+     */
+    public function getBq()
+    {
+        if (array_key_exists('bq', $this->_params)) {
+            return $this->_params['bq'];
+        } else {
+            return null;
+        }
+    }
+
+    /**
+     * @return string refine
+     */
+    public function getRefine()
+    {
+        if (array_key_exists('refine', $this->_params)) {
+            return $this->_params['refine'];
+        } else {
+            return null;
+        }
+    }
+
+    /**
+     * @return string content
+     */
+    public function getContent()
+    {
+        if (array_key_exists('content', $this->_params)) {
+            return $this->_params['content'];
+        } else {
+            return null;
+        }
+    }
+
+    /**
+     * @return string orderby
+     */
+    public function getOrderBy()
+    {
+        if (array_key_exists('orderby', $this->_params)) {
+            return $this->_params['orderby'];
+        } else {
+            return null;
+        }
+    }
+
+    /**
+     * @return string sortorder
+     */
+    public function getSortOrder()
+    {
+        if (array_key_exists('sortorder', $this->_params)) {
+            return $this->_params['sortorder'];
+        } else {
+            return null;
+        }
+    }
+
+    /**
+     * @return string crowdby
+     */
+    public function getCrowdBy()
+    {
+        if (array_key_exists('crowdby', $this->_params)) {
+            return $this->_params['crowdby'];
+        } else {
+            return null;
+        }
+    }
+
+    /**
+     * @return string adjust
+     */
+    public function getAdjust()
+    {
+        if (array_key_exists('adjust', $this->_params)) {
+            return $this->_params['adjust'];
+        } else {
+            return null;
+        }
+    }
+
+}

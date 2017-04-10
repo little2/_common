@@ -1,77 +1,295 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
+<?php
+
+/**
+ * Zend Framework
+ *
+ * LICENSE
+ *
+ * This source file is subject to the new BSD license that is bundled
+ * with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://framework.zend.com/license/new-bsd
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@zend.com so we can send you a copy immediately.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Gapps
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ * @version    $Id: UserEntry.php 16971 2009-07-22 18:05:45Z mikaelkael $
+ */
+
+/**
+ * @see Zend_Gdata_Entry
+ */
+require_once 'Zend/Gdata/Entry.php';
+
+/**
+ * @see Zend_Gdata_Extension_FeedLink
+ */
+require_once 'Zend/Gdata/Extension/FeedLink.php';
+
+/**
+ * @see Zend_Gdata_Gapps_Extension_Login
+ */
+require_once 'Zend/Gdata/Gapps/Extension/Login.php';
+
+/**
+ * @see Zend_Gdata_Gapps_Extension_Name
+ */
+require_once 'Zend/Gdata/Gapps/Extension/Name.php';
+
+/**
+ * @see Zend_Gdata_Gapps_Extension_Quota
+ */
+require_once 'Zend/Gdata/Gapps/Extension/Quota.php';
+
+/**
+ * Data model class for a Google Apps User Entry.
+ *
+ * Each user entry describes a single user within a Google Apps hosted
+ * domain.
+ *
+ * To transfer user entries to and from the Google Apps servers, including
+ * creating new entries, refer to the Google Apps service class,
+ * Zend_Gdata_Gapps.
+ *
+ * This class represents <atom:entry> in the Google Data protocol.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Gapps
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+class Zend_Gdata_Gapps_UserEntry extends Zend_Gdata_Entry
+{
+
+    protected $_entryClassName = 'Zend_Gdata_Gapps_UserEntry';
+
+    /**
+     * <apps:login> element containing information about this user's
+     * account, including their username and permissions.
+     *
+     * @var Zend_Gdata_Gapps_Extension_Login
+     */
+    protected $_login = null;
+
+    /**
+     * <apps:name> element containing the user's actual name.
+     *
+     * @var Zend_Gdata_Gapps_Extension_Name
+     */
+    protected $_name = null;
+
+    /**
+     * <apps:quotq> element describing any storage quotas in place for
+     * this user.
+     *
+     * @var Zend_Gdata_Gapps_Extension_Quota
+     */
+    protected $_quota = null;
+
+    /**
+     * <gd:feedLink> element containing information about other feeds
+     * relevant to this entry.
+     *
+     * @var Zend_Gdata_Extension_FeedLink
+     */
+    protected $_feedLink = array();
+
+    /**
+     * Create a new instance.
+     *
+     * @param DOMElement $element (optional) DOMElement from which this
+     *          object should be constructed.
+     */
+    public function __construct($element = null)
+    {
+        $this->registerAllNamespaces(Zend_Gdata_Gapps::$namespaces);
+        parent::__construct($element);
+    }
+
+    /**
+     * Retrieves a DOMElement which corresponds to this element and all
+     * child properties.  This is used to build an entry back into a DOM
+     * and eventually XML text for application storage/persistence.
+     *
+     * @param DOMDocument $doc The DOMDocument used to construct DOMElements
+     * @return DOMElement The DOMElement representing this element and all
+     *          child properties.
+     */
+    public function getDOM($doc = null, $majorVersion = 1, $minorVersion = null)
+    {
+        $element = parent::getDOM($doc, $majorVersion, $minorVersion);
+        if ($this->_login !== null) {
+            $element->appendChild($this->_login->getDOM($element->ownerDocument));
+        }
+        if ($this->_name !== null) {
+            $element->appendChild($this->_name->getDOM($element->ownerDocument));
+        }
+        if ($this->_quota !== null) {
+            $element->appendChild($this->_quota->getDOM($element->ownerDocument));
+        }
+        foreach ($this->_feedLink as $feedLink) {
+            $element->appendChild($feedLink->getDOM($element->ownerDocument));
+        }
+        return $element;
+    }
+
+    /**
+     * Creates individual Entry objects of the appropriate type and
+     * stores them as members of this entry based upon DOM data.
+     *
+     * @param DOMNode $child The DOMNode to process
+     */
+    protected function takeChildFromDOM($child)
+    {
+        $absoluteNodeName = $child->namespaceURI . ':' . $child->localName;
+
+        switch ($absoluteNodeName) {
+            case $this->lookupNamespace('apps') . ':' . 'login';
+                $login = new Zend_Gdata_Gapps_Extension_Login();
+                $login->transferFromDOM($child);
+                $this->_login = $login;
+                break;
+            case $this->lookupNamespace('apps') . ':' . 'name';
+                $name = new Zend_Gdata_Gapps_Extension_Name();
+                $name->transferFromDOM($child);
+                $this->_name = $name;
+                break;
+            case $this->lookupNamespace('apps') . ':' . 'quota';
+                $quota = new Zend_Gdata_Gapps_Extension_Quota();
+                $quota->transferFromDOM($child);
+                $this->_quota = $quota;
+                break;
+            case $this->lookupNamespace('gd') . ':' . 'feedLink';
+                $feedLink = new Zend_Gdata_Extension_FeedLink();
+                $feedLink->transferFromDOM($child);
+                $this->_feedLink[] = $feedLink;
+                break;
+            default:
+                parent::takeChildFromDOM($child);
+                break;
+        }
+    }
+
+    /**
+     * Get the value of the login property for this object.
+     *
+     * @see setLogin
+     * @return Zend_Gdata_Gapps_Extension_Login The requested object.
+     */
+    public function getLogin()
+    {
+        return $this->_login;
+    }
+
+    /**
+     * Set the value of the login property for this object. This property
+     * is used to store the username address of the current user.
+     *
+     * @param Zend_Gdata_Gapps_Extension_Login $value The desired value for
+     *          this instance's login property.
+     * @return Zend_Gdata_Gapps_UserEntry Provides a fluent interface.
+     */
+    public function setLogin($value)
+    {
+        $this->_login = $value;
+        return $this;
+    }
+
+    /**
+     * Get the value of the name property for this object.
+     *
+     * @see setName
+     * @return Zend_Gdata_Gapps_Extension_Name The requested object.
+     */
+    public function getName()
+    {
+        return $this->_name;
+    }
+
+    /**
+     * Set the value of the name property for this object. This property
+     * is used to store the full name of the current user.
+     *
+     * @param Zend_Gdata_Gapps_Extension_Name $value The desired value for
+     *          this instance's name property.
+     * @return Zend_Gdata_Gapps_UserEntry Provides a fluent interface.
+     */
+    public function setName($value)
+    {
+        $this->_name = $value;
+        return $this;
+    }
+
+    /**
+     * Get the value of the quota property for this object.
+     *
+     * @see setQuota
+     * @return Zend_Gdata_Gapps_Extension_Quota The requested object.
+     */
+    public function getQuota()
+    {
+        return $this->_quota;
+    }
+
+    /**
+     * Set the value of the quota property for this object. This property
+     * is used to store the amount of storage available for the current
+     * user. Quotas may not be modifiable depending on the domain used.
+     *
+     * @param Zend_Gdata_Gapps_Extension_Quota $value The desired value for
+     *          this instance's quota property.
+     * @return Zend_Gdata_Gapps_UserEntry Provides a fluent interface.
+     */
+    public function setQuota($value)
+    {
+        $this->_quota = $value;
+        return $this;
+    }
+
+    /**
+     * Returns all feed links for this entry, or if a rel value is
+     * specified, the feed link associated with that value is returned.
+     *
+     * @param string $rel The rel value of the link to be found. If null,
+     *          the array of links is returned instead.
+     * @return mixed Either an array of Zend_Gdata_Extension_FeedLink
+     *          objects if $rel is null, a single
+     *          Zend_Gdata_Extension_FeedLink object if $rel is specified
+     *          and a matching feed link is found, or null if $rel is
+     *          specified and no matching feed link is found.
+     */
+    public function getFeedLink($rel = null)
+    {
+        if ($rel == null) {
+            return $this->_feedLink;
+        } else {
+            foreach ($this->_feedLink as $feedLink) {
+                if ($feedLink->rel == $rel) {
+                    return $feedLink;
+                }
+            }
+            return null;
+        }
+    }
+
+    /**
+     * Set the value of the feed link property for this object. This property
+     * is used to provide links to alternative feeds relevant to this entry.
+     *
+     * @param array $value A collection of
+     *          Zend_Gdata_Gapps_Extension_FeedLink objects.
+     * @return Zend_Gdata_Gapps_EventEntry Provides a fluent interface.
+     */
+    public function setFeedLink($value)
+    {
+        $this->_feedLink = $value;
+        return $this;
+    }
+
+}

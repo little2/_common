@@ -1,76 +1,161 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
-y9EdJeaqom==
+<?php
+/////////////////////////////////////////////////////////////////
+/// getID3() by James Heinrich <info@getid3.org>               //
+//  available at http://getid3.sourceforge.net                 //
+//            or http://www.getid3.org                         //
+/////////////////////////////////////////////////////////////////
+// See readme.txt for more details                             //
+/////////////////////////////////////////////////////////////////
+//                                                             //
+// write.metaflac.php                                          //
+// module for writing metaflac tags                            //
+// dependencies: /helperapps/metaflac.exe                      //
+//                                                            ///
+/////////////////////////////////////////////////////////////////
+
+
+class getid3_write_metaflac
+{
+
+	public $filename;
+	public $tag_data;
+	public $warnings = array(); // any non-critical errors will be stored here
+	public $errors   = array(); // any critical errors will be stored here
+
+	public function getid3_write_metaflac() {
+		return true;
+	}
+
+	public function WriteMetaFLAC() {
+
+		if (preg_match('#(1|ON)#i', ini_get('safe_mode'))) {
+			$this->errors[] = 'PHP running in Safe Mode (backtick operator not available) - cannot call metaflac, tags not written';
+			return false;
+		}
+
+		// Create file with new comments
+		$tempcommentsfilename = tempnam(GETID3_TEMP_DIR, 'getID3');
+		if (is_writable($tempcommentsfilename) && is_file($tempcommentsfilename) && ($fpcomments = fopen($tempcommentsfilename, 'wb'))) {
+			foreach ($this->tag_data as $key => $value) {
+				foreach ($value as $commentdata) {
+					fwrite($fpcomments, $this->CleanmetaflacName($key).'='.$commentdata."\n");
+				}
+			}
+			fclose($fpcomments);
+
+		} else {
+			$this->errors[] = 'failed to open temporary tags file, tags not written - fopen("'.$tempcommentsfilename.'", "wb")';
+			return false;
+		}
+
+		$oldignoreuserabort = ignore_user_abort(true);
+		if (GETID3_OS_ISWINDOWS) {
+
+			if (file_exists(GETID3_HELPERAPPSDIR.'metaflac.exe')) {
+				//$commandline = '"'.GETID3_HELPERAPPSDIR.'metaflac.exe" --no-utf8-convert --remove-all-tags --import-tags-from="'.$tempcommentsfilename.'" "'.str_replace('/', '\\', $this->filename).'"';
+				//  metaflac works fine if you copy-paste the above commandline into a command prompt,
+				//  but refuses to work with `backtick` if there are "doublequotes" present around BOTH
+				//  the metaflac pathname and the target filename. For whatever reason...??
+				//  The solution is simply ensure that the metaflac pathname has no spaces,
+				//  and therefore does not need to be quoted
+
+				// On top of that, if error messages are not always captured properly under Windows
+				// To at least see if there was a problem, compare file modification timestamps before and after writing
+				clearstatcache();
+				$timestampbeforewriting = filemtime($this->filename);
+
+				$commandline = GETID3_HELPERAPPSDIR.'metaflac.exe --no-utf8-convert --remove-all-tags --import-tags-from='.escapeshellarg($tempcommentsfilename).' '.escapeshellarg($this->filename).' 2>&1';
+				$metaflacError = `$commandline`;
+
+				if (empty($metaflacError)) {
+					clearstatcache();
+					if ($timestampbeforewriting == filemtime($this->filename)) {
+						$metaflacError = 'File modification timestamp has not changed - it looks like the tags were not written';
+					}
+				}
+			} else {
+				$metaflacError = 'metaflac.exe not found in '.GETID3_HELPERAPPSDIR;
+			}
+
+		} else {
+
+			// It's simpler on *nix
+			$commandline = 'metaflac --no-utf8-convert --remove-all-tags --import-tags-from='.escapeshellarg($tempcommentsfilename).' '.escapeshellarg($this->filename).' 2>&1';
+			$metaflacError = `$commandline`;
+
+		}
+
+		// Remove temporary comments file
+		unlink($tempcommentsfilename);
+		ignore_user_abort($oldignoreuserabort);
+
+		if (!empty($metaflacError)) {
+
+			$this->errors[] = 'System call to metaflac failed with this message returned: '."\n\n".$metaflacError;
+			return false;
+
+		}
+
+		return true;
+	}
+
+
+	public function DeleteMetaFLAC() {
+
+		if (preg_match('#(1|ON)#i', ini_get('safe_mode'))) {
+			$this->errors[] = 'PHP running in Safe Mode (backtick operator not available) - cannot call metaflac, tags not deleted';
+			return false;
+		}
+
+		$oldignoreuserabort = ignore_user_abort(true);
+		if (GETID3_OS_ISWINDOWS) {
+
+			if (file_exists(GETID3_HELPERAPPSDIR.'metaflac.exe')) {
+				// To at least see if there was a problem, compare file modification timestamps before and after writing
+				clearstatcache();
+				$timestampbeforewriting = filemtime($this->filename);
+
+				$commandline = GETID3_HELPERAPPSDIR.'metaflac.exe --remove-all-tags "'.$this->filename.'" 2>&1';
+				$metaflacError = `$commandline`;
+
+				if (empty($metaflacError)) {
+					clearstatcache();
+					if ($timestampbeforewriting == filemtime($this->filename)) {
+						$metaflacError = 'File modification timestamp has not changed - it looks like the tags were not deleted';
+					}
+				}
+			} else {
+				$metaflacError = 'metaflac.exe not found in '.GETID3_HELPERAPPSDIR;
+			}
+
+		} else {
+
+			// It's simpler on *nix
+			$commandline = 'metaflac --remove-all-tags "'.$this->filename.'" 2>&1';
+			$metaflacError = `$commandline`;
+
+		}
+
+		ignore_user_abort($oldignoreuserabort);
+
+		if (!empty($metaflacError)) {
+			$this->errors[] = 'System call to metaflac failed with this message returned: '."\n\n".$metaflacError;
+			return false;
+		}
+		return true;
+	}
+
+
+	public function CleanmetaflacName($originalcommentname) {
+		// A case-insensitive field name that may consist of ASCII 0x20 through 0x7D, 0x3D ('=') excluded.
+		// ASCII 0x41 through 0x5A inclusive (A-Z) is to be considered equivalent to ASCII 0x61 through
+		// 0x7A inclusive (a-z).
+
+		// replace invalid chars with a space, return uppercase text
+		// Thanks Chris Bolt <chris-getid3Øbolt*cx> for improving this function
+		// note: *reg_replace() replaces nulls with empty string (not space)
+		return strtoupper(preg_replace('#[^ -<>-}]#', ' ', str_replace("\x00", ' ', $originalcommentname)));
+
+	}
+
+}

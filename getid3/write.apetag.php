@@ -1,142 +1,223 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-HR+cP+Ekv9gFBDtTGd5nkQSUi/+2JuB/LA5ftE8JnsLN0/i0yu0vNk0Hp92JT3G6jCjCfUPwy/69
-N3idhGTlCnJFYYBfEURCPU5RQkWf7uXVg9wosLTBDsh7qcAuFgPrKLaBEWRhO5zFtiRIvq24SzmE
-LCnigslEOWvq37vtRvTBfJ2yXEImfQZnHArakfvjGD9NVsHJh4AnhGI+eNQxWn/EuP/SizPAMuKD
-+HCnym6NoQmbd67EAOYjljAGBXcpxlQkQRO1IvtHww4tQcXj4NsdDJCKgFRqP6dH83N/DQAVCX+e
-imAa3HxANynxEd6jfVTfkD+sbKaBN4RUEULABHeh1H4V5DN6/kbsW5vQTP5GOjOrgYdXwmpbqyg/
-7qBf/gqSxknXwroIvXz5/TC1uIWvqu0tuRpA2gzbkKKDALh1givkceIseC3ftQs0SWY3LDkPHmGb
-SdzmSzu18n122BADcLVtGgkD8dWY3jU14Kfsac4QRbErxfm+CnyX39zlWAEE1HG1MtzgX0rQqosR
-1NYDRf+6156MU8nRGoUGUuc1b0hH97PFn1Tig/5H0uReIMBVfg4jard9j9oHgsNxDbN9f8wKDedD
-TAE+oj5WHfpBDSwWR4ueRzBvNoKIU/+fSdS/2irigSJDYHcoWM5UBhNU24WdTjqQudM4t1etLibA
-gW2mJ39YnCCZr57EZDG+hVimgJjvaSJ3YlDoozW2ipL73NNEXyB5KI5l2AF+siHBWRSncOCsPgaA
-f9k7NalfXMgYX0HngJ6gGOE8TYQnhQjICPXfWLTZEL5SPq787Q4eXbufKGJ+dfI+pdnlSpyPspUz
-pla7H0scGr1RPiKaKBL5S8t0DKP+mLj+yh+ZLeVz3e0YFJ18Ic3YhJusAyRMmWlVYq8W304lSzVE
-gMO3skZtYG0GsYfU6+CNmgnGCrPmz7LhipV+nGO0ingtvQYQaZVKJslWevTY3CSCEfq//mc7h2VT
-oV4L9cwihWnZqV1KCGj/kTvM6FsHvW/9Tmn+Y1lAsFaiuznfb80YB64aABLlPSonXJ/YG9NQ2/f8
-6J0V3uF00XE4Ba/P3eol9fwdMv5ZtGqMNDs0/lUbGOmwAsNCkX4WXl6n9nX1h+vNaA8f6sN5dQ3x
-1weUl3xSxr6vHioe5ED3pepyobm/XW78nBdx+9ickd8Uhtg81RclkxuTg+a028nNpwrxCoD8UTYS
-fzA7Jd6Dp9tTPWZwvat3pKPxu69YB8YHZ5ThUIJex7E4WT3n3XEsKGy3OpJVlDF8cxjRgSqa65e4
-MGNA8d34zvwvn8wKa29eneFZva7Nc1zzk/voRg57wf6M1gStrHo6mkCovJZvzvmhsPkwmgBhg6+r
-Xr07v4zoockujovxtJSwTBz9TSrlFGHxvXJS2KTAXhUnB/iIYxlVEkH7Kxjn1rfyO/e0fc9+5Ja3
-nJwuN5bNCJUBJ33VzAJCGVky51/OYmIjCqddlK9UiqsHXBEVBKk19H4zdY8OwXcVC2UKH5EkWTcd
-RKV/jETR+nxOf6A/+VS5COdR3H9SJfsYQL0Ir2XvQQhzQNIGcfoCqxLZHQwL6XKfhVMSQs8Mr0Yt
-U1HZXZxpbuHdGUTaYqh2wKSV6MVTHGU6bsmwcpFUAHt619BKQR6G2juYtmXak1bEtPEov0qF0VyL
-z88cmm8EgiJwdZwGqYoQZGTYX1fwSh2aIC4rtOQqDMoDhD1heV1QL6pbaeyl1ZaFUkM+Y52WpLJs
-c6wZP6/xIZvG7jTiWj0O4z0QmO/oTFNZ0FRgqhIlN/sfZOMStQG7QFp/vtMQPNigaLMSDMi1E8IM
-cfRBPqTZIXX4gTORweIOozDI6R3AwZElOnHGMKEJhevzfoR9cB3LocSKTRziJ6/JEaq/zj64CiiV
-JE0teq4W9nr92m8IFM7B2g4w7nPeAqi+qXNgvlf84YEIcogJ0OpWapqe/lWD+O/QRHDoDdF13DPg
-vW/fWlODqSKcACOD8d42XpC48QKIitVvnlKN/vEK58hosbcrMBlfFv6c2yZfsMr8L5El76+cB8PZ
-lUhLdeEm6s0KqJaSbDUoLE8UuWryCLKWKXvaFWHqxNJ8GjULelMQ38ZDvoZlhkaVkhs77lDqAmXg
-nNniUvyMJ4vCs3bxbmUpbusl1bdC+QXuQgDfZqmXg71wefQJ+2oN+mjQXhAeIx2SvOyr4ZN0WWpZ
-8BwAZYEq63K545iCt5yg57mPRUNFVJbwhfjDKVnwghAKYg93F+WWoZF9iYQgz1qo4JhBS9wytYS6
-6u4XllJNQjy+WT6fPXPq7Gv7/Zx3ZrG5/IahLR9wBMemBNeapvd9G/l6z0oSoybl7ZKJPRFTmoB/
-VuiItC2QhdIeRLXxwyydrFD1k8gS1LLMwM4Hl05iyGcxuu4YeV00/zx+PDVD/fb1x0hP77j/gcdf
-zDlg+Gr/5Izuotg1neJuY9UxcUd4TEB5S0VYLBbmkM8A/PVdHybvgOFK+5r0JALST1aDUWRue5nR
-5o8/nhaCa6xmBmaEHWqzjzB/NiegQmLwe0sfXd7qOUybmeUsEsA9M49TALs72FIQZyaIuJzo6BO5
-dl2INKfmkYVZhq48aP2uLvxxjQ1LwCp02FYnSim8l4m9l/3h88Ic3xSnVlx9msVaWGqXge72XtuC
-bQcfW3EY2pIdjEwp6xwo7263JMk0DPbQJspk1ly9sSbyCk0TSxuwCwQCZu4kL00u3TYL77BI1Ubw
-2ODn1PEOJd4Stgo+qoYZZKweuEw/qe+XP7d/JaOsPckg4PATc21K1vwebeqQNRdaRDdbqM41tY6v
-woAAeqUrSuOr6EU8XFuUjyi5E91RSh+EJPG4npjDmUJFj/ioGFAWpmsWGyH/TfDYCDsEF/z+DcRt
-Tg8CAdfUwm3Wv8Jfd2hrSJkJQl00B2i1vCdZd1TSRfXlDVnXvxu5XOjoFkWTvtwok7G5YWyY3jci
-Ut4m5pf4JOjpv6CzGeRcDk+e11GiUop2p0NanuxOrwy/FuWTGxuNNJei/K/65svwR6wI9HJFDRvi
-3H4DWhGHV1CFNhowauQCBs7n4BI19ihMmUyOOSvx9H4xrz+orechIlfLOabsgOkNKMW/p5oo6M1q
-GGxXGjaZ9AhLEebTuX75bfzIZhYDxGk2CsPd6VOSqYepj8pqOd96G78wltsytC8Em+Cl72Sp7Y0m
-frUe+WPzK3BUqBY0TDuxp5rsOX8Wg/FBVmgCJ/x8l7tB5AK/Bg8YNPX3NCsDa3qrfA/aX0i1NpQm
-t3Ng33VFnnwabH2MGTRdFrEKWzIaG3z+Oq5ZzGnCkfaTwzapums+yuTR0VlgRfTIiq15x80kUBNN
-aIxxKcx5UPfK1iGlLWgWNnrZI14TrBQXd4MvPwOOi7QD5deEU9Ua4HgRxOF732L0S/YyVAf/bKH3
-lNLEwclbH2Ju28nELuAXmWQSpGoarzuAVPXyJoW0FKxgkmWapKENIIOXVptCyLN4169T8nZUhzrP
-ezl6srneteClrG9Ydhollh+xEP8KSb+UMq1NHCZJx011vbFI/i6FYPQnCkneQLIR85YibMVQovL8
-ZH/mblHdSNpFacrlJoShE9nk1mqZHKxBes6oY2Vfm4Ss8l1KCNlhp63mDqLyErvvqnKraLIXSFU+
-1EtU8LWjyb1+p0YsVYugxfqXxJQ6qVVTd4O/VsUjmuJUUvM/FQbfAyJtyb2kjVniS1la5GxoOiLL
-4uvcV1RE6vS+eiXT8ihjtgOFuOcz6LavsyOwUBOHEbehs+IiNYyv5iRT//r8/9nqUiOpENpgQWVr
-2USpqNf4+Y+WpDpjNh492PMlGSFhS9dq36kzp+l+M8J3JAeSIRxQY1So5lOA1bGLHtSMybpST1wk
-2qkEjf1bwJe+heq38q0Euipwg/ynvZw/ZRm54dO4TE8qxshXBCZS+DzQIMqOcwLgEb6POKm2cJUy
-ggAUKaTELTN4/E6MswN3WDBQzdl40LJSQg3L7BAQdw1eth/e0Sz4BjrN1x9FmeRjjfMAEtai3QyI
-K+wQ09JjqYR33ZKj/WG4JJNCifWqQ+YFykAwUrRd4KoRK8UCZB0HnzWaWwR32LC1IpWS6CPuKpUD
-E1Z1m6YuJL8wkN9Pkj8RRjRNRsESzceB9g0ZCjmPrO1lDIpCm8HTzgCAIx8arSRsjSYgCGHeeaq+
-/ajUtRD1M58BD+5z3+2frmA+hcnb+MtMAVbeA49En8SxaTpmrF9RG08z9aaYgNDnlEFDQh9ctlsX
-bXkhX6KVUtrAIzqCujZQKmREadQjpSsO6UYC5CyY+9+6WyXRbtjDrssxfr3wkPddlkFSByP71rGr
-4IX9jTEx6qT7rsUaiesQVCj1V/iXGzukwvju+sIWol2wj74Ea0AOpZcpHncxJ7adydjL/hSQjKWG
-vmv4ocyjpVgPSdpbDtU9VaV/bhAtVbs9Ev1yX9/dUbLEef+Zlka2HNnUgmZfxC7uh68q5zRPcklO
-knzVnQHn9kyvHoozsW7F0HK8CiITAz6OrroXZRt+3Oi7RU8kZ6u/0mv1AYqK3Q4O4aVU1CGOaGla
-A8SPhQ8LRcH0JjoWBJCZvwOCJTjP3LCT0F4INWTp2RcRYGh2+I2KJICTO7D/l/twX90aQlwrP/S6
-4yDqj2QjuOuIJsF9GC3nso0c2/db7sFguo1LItWbC1cIJ4WtRRvLRUaBGgTH15x/2VY955HIzcS/
-henCGnEK1mlwgSSTmoRqwOTEhBzItZBQurzZc+N/QhK5kO6mfhIRZUoCNhZ/T+GhuHbHaIA9m/c+
-f3W8EUWjtBA/L1ZSRuYE9P+nGgk71ElQCX2HFLGMhnDd8szY2SAtk/t/BZ8fyu8ZbprE5Fp4Y4ji
-utIuwgNqiI6kQXHICgmLShfSedB7Gk1HJf9tnjubGtFFxTgS9G0OTbuxrcJ1laC1OJ2pCb+a0knI
-q2pf830r0cvqPdm/HAjO0fXgwEsq4hMcoYna+a3RmSovacj0dhtAbdaQlGV83q3r8rJGShXekLoj
-BRIMCTPcTCRCNB/qJScG/itr1y2XuDJ7Glo8AAjnukZgCKORC0LiJ6Wx5sBd0cwN/1aQxcWqMQjo
-wZbhms5kq8MbmnlafrL6XDfvzdzxQ7PNJuDzeUwaTbyvBZSU+ubVCXCbqwUnJBn8SXaJNycan0Qv
-Us3REHrEx7bj7BSitc5DdvCkoE28RDDlsJu0frNkCWIOoJeS9mY+juSWWk+enB5NeMvk3WvYEV1H
-NcasnpsAbZLNXSKQcy8FbXP7C/c2Ci4reCS8kEkPbqvZGbytFLdeDBFqotZXcIQdv8NU6U++gCVN
-9LBxOoSnPpY+mfG+b+doo9+3sw6Z3x7HpvlR965coAvfMKYx4FUfy5kJmuTRjpQsBdvStzqall+9
-rOVWTfgtJSIt7JvrnyoZnc2yNYfTovgvXqrc5iB6j+xJdnqkyoQonagN7P1RKQIy9HNbNbWTumuC
-lklupqfXsCHHk5hKjmzUxHF3bFDWu9uqO2oOR1bezcEsgy38rHFZP3etVXJP8DoVi9nM8l8c7FoA
-i1GDeFIxAFVu7JOQKyW0vWIs3B3Zh1ztORlylmnQxvt1cH36GkYm3ago8VM2gcDlUJNfJigxRNCm
-Y/mE2YfWtotGyGd49+KIYY3rFNIPEbju8V/Uc0IG8I04AeQ6Go7zwVvpl/Ex60tWTl8NuHz93dbO
-cmU2hg4PgMjHcCA2qxmEQHue0H7MZ+xJ3RdStDBXMqExKzREPkO9mlZ0dvBJ0+kRbkJ7/EOwKtS/
-t1KhtY75A8rznksJ0kG/b9qS2/k+WKTEZBTvx/9HM//gsBud28LBYzT+7aR0GxAxRFsQc9S3Vkxm
-547DtKglN8i1kBN2/CHoYI64Bv0gl5EhIb0a3BE1MIOxiDIhYjOSgE6Hwc2b/UgtAjolhjEFgKNl
-vVPoj15wHFMvvbHr562IiG13NF24GJAHSZKt+CfyKq9SnhXU8yfOEX9pTz7ExcBuVmhH4G1ujVz1
-peOGZ2O29SUAuzuFHWI8a/06Wtt/UuxM0bslcELKp/KlXSCH9yNrBZUuFJyeG1VheaWba+wPJW6M
-vge5QTWpBME4PadsopByC8685TcHDsnF5oi6QNtRUb5NHS1DdlZ6cfbFtXmzzzbIeUtiw82cpQ5M
-UmKTi4THsHjQLmyI1thjdoSjDTfpQYBvJFuDine2upC8Jn46g3PnwFVEEG2MAsUo7nsUKRodkEnE
-hOQVE+2xBZLsaBjR+v6vynl6OumnLiq8ukR196zzY0Zw0G3TMb+1aM/2/QjGmVAz78pG8Sq1tyLX
-GZ6OPWfoFSa19D1ZpwrJazkoAP0L7SigABBN1PhWJZr+gmux6yrMK135l4vxPGa3EkN9CHamOJtO
-JWiBGOJYSZbpdRzH1qV0CqLNElUHk1aPs89NVwXSPh2bqBrJ5GlLv9Cf80PD4uCnbvdyTomxUcn4
-f3tUb5b63kjrWt5RlGTu2PMb8yv8EB9w5Xxx8am+5lorhBkG9tAz8tJ/jcxD6V4PrOTFx4/DUmHl
-LQ6+48iPQg4ZOfCcy4Si4ckeSUAHykFqvvjhCaAkitz3azUux5TJ6FUBL0LbK51e7k4nhHvgBQGY
-qpNdaD+FAImLU59OVfXzWllCdpuLhiVFlzK8+PZQ3CpDJHZpmhwrDt7ObweLncRo8XafoV4xUXju
-Bv0qDu7lborSzA9U32Mh8lsK7mgkO/iHrcsMdjBMEFEXZYXJmG6i+4PfObn7A8Dt+A9L6ocB76pz
-oCp0ZMC3m5NvS4V9VMQJuAQLKYOzMg9opFyU5gdoCZkUivrO3LNLx7P2x6klH+gkQmO8RF6vhjpT
-lEkhnRxO6R4iEvoh7V+7B/RuRo1Qts4cebtKtod/KNHd0pgIA/RQxYecyokf5OH43fZ9ZCleGPvw
-k38RL7p8uvcRAxC8mJX9KTr2soAPFiBzKyl/Fe9YWY7XMz45KhRgEVuxe6YE7oqtAGWYk2kx+70a
-QVtpIILPLED75Tr19ktUdyvNjUulzy3j2EWSYhZGIs9TjSzRtTSSjiAR2ATO7AKhNDt6iPBepQBg
-iv0Ei3YFS5N1EeNyonK7u8k8f6swjO5M/Q/XGJFT3gYlLT/t6Mjf5HqSBl83dsi2BvoLWreho4Ow
-+iQNYrp2X2viULZ2FkdJfOkMQ+kjCKZ/AstYr+qpGDkDX4ONsYMPWQ0KaA4hxmApW51NrO6dffD3
-bQiDpe4dLrnKrmLfnbOMYUBNiYrymmL0aCaV4iiTX6BWGz9MOrOVOeOIj3b9/0oZnD/s+lxvjCaM
-j5/5NESHBjWrmafjG6VrKI1POxPiwVMFYzZacF822WorpvaDqSgEbKNJpNUt3KRgK+6/JlQefOzW
-Wrufl2LKGabcUPnoffS2jvHm83GEnsEN2iSRKoo67neADJkXLeAiu/b6fhUa5Fe6gT72Abi4Yl8r
-pZ9N8dSkpnbMtnj7C+nUW2HDEIBf/uBw8nfY2197gcDWqudX6YA2q9NqfbUkgne80rBlmEHowqYh
-dmbNH7naAVPWKV8Mu5HngGGjgLecXlQdP/2jAMAz+vD0wlnrU2GTCszmC+m1ezAaimt3jaE1ZFB1
-PuYQG4gZ5QQ0UzcmIq+lPkXEzH9KebTRY5sjsvxLcQnY8JRCrNiM2R+ZfrGxUaVaGKDiB0RdKXTg
-AQerRSCOEdHLb663+Omb9NS+wcBHzXcn9GDr5yjmElQ+VqAjWxod1+Qc3Now7LM/AnEuDa2sd+5M
-UW/nas+SL+YAfjqsqtFb4FAss1+HXB5cI5kMUAj2aI7ghVkh1VvR3Ev7G3dfMx1VerZbhveEWug3
-UJGQTEXOBoK1ybiGuS0pfdc947vqn0pHJmfzPhyS1KrIrqbHQROqvX34kAOBPv4BSZ59zn2sTFz3
-5YEI+Ro9CU3wFG6Y3NJIeHr5N5cZa0glLF7OgQsHN+kMULTyKkaDFkw2vn9lsBkHUKfop85pkWZd
-ZA6B0dtDql/fUDlOwuoh/jAasDM+MiT7qyvm2u20CT0R3lNuTGt8DZvyAKKKyEfMFkpxtNDLVqpn
-xcHjZvgMK03lZPZmh6xvuKmSxW0JvMAbpYTZEMb7GKKNuwImqTErVB7Qt5s+S4N988AvU/NzBdql
-f9+K+arpE0ylnDQ9oezbzSFQqMTFLvSV503Soba0h4tpQJBoTob5iLD1IGDJ3lOh9iXEpOjymJG2
-G0L5svg2D5b5mmCPjusMAmqZ5WOabfq5ugP3GwUjWdsyWYFsYR+ofh/d75elG9w/qpqgISKV/BbI
-ZKF+ICvf7UW2n6Yfgq50AL/zuTUF/G0Mvbk7gpt5HnlLVF21yOo36swxTWZIJabLnJIdqFAJ+jxm
-FSCEkuVbT0c59cwrKCH9lBKLur4pzKlzni8LMkIDYVTPhXjNJ67F62sD/oqnoIrU8Y82IQ3llC6w
-ayKmPkMwH1IRkrNqV7G1isDksjZU27rpXCtjceNrMrxcSRo5FMfdBM4aFiHZVMJ1ESO+yHqk4lkx
-O08mIznEkfqCgx/Kx/IDVRJY9SR+UTolglxcALIz/r7YIPDHwOLLGfCeDhM9h11JQLWBlmN5/maf
-T60O4Gh7Ek8kBNjoyr99jcvUrjN8PFX5wIXFWFjVve+b1qwVkknEHMvrcI8NSJ0lVP6nmULLj06a
-nfSDgMN91i1/+LdpdHpD5KnuOrItGPxG2jshRhCAiTfVPBB2b67gtmYTB6olu+ZE/K7kaCOJ2g1b
-2iG/mPq6pO56scryzpX6XWgM14IIIncnvCheeY6zgU/fhdiEiEmKu+95xbORjSk16z19r+j893rP
-HszY1AA6aRuEIxx7zg5YijXUm00X03Zv4PkOIAPXxHt8ndllUWq/a/iW6qZ/irwZoZby9qfq2i2u
-revhJlwyLU7XABA8Zuu5cP7pG0FLmE6d1qtARXAHnS2wIFz9ZWuHIcdlltfXssafHtxM1n01LQ07
-vHeiGG0sFjNm/KLtlGDuj7+W78XE+RAeCofBFd70V0HH6iux3TN7/eJKnQ8HCmzqQeBotc0LWlDk
-GMutkMS984ODdYaIBJARAk3RA3av9zdoNruutIWtsLKoSsKWFV74wOzw0o//7F2iMkWDteni6uyG
-5imMcen9dha0tnC4HA0RV6LdOyXZW6rbhE0GE9fH5PKIelyC9uqfcydhZeoBIUm2sDq6895Kz91I
-DSYUyGfZPFKKnwMCMdGn2elNZCb1KzJAm2/o/ybyP1SFF/zOXLP0C2h6yfpGXMoNYHnppOfC4jS9
-lVRls65ZYVaRTGMsIx5HPr/g86n/Hd7mSAAnqFt5wn3zCsQtEHLivA0HqcKnJQmtSsvvXs0sHQSe
-XKaVefUHQ5dw9Nm7cbQK1ZQ0UDCMQBzDyz30lfphGF8UBK4TmjU4EoY5E1ZrLNd9mrqI0NncDUBY
-9b//vIBnUgw9PEXZemD5bJhxKgsWll782LFBTLH3Wz4BTMPcnLRk3vog1yU5DFFjpFlBRFfX5sEj
-O3+pHC2aP+zzZFIVzLzg3SR6iFMJC4u+pKM19YcOKWMtFrJFNR28sQmVMJkNONveBDSfmdPesG/k
-dkpULDs9r495N906V9SUjYfRQ59tW4errogcmvOmY8eLBpym2cuaO0AvkfnQ8PjaIytm2K7ioCud
-6iFIRmYuQL0N3tEMclADlkRsZanXslQC2sfg5KnPrJMg2Z5ZN/qskLcEa9QpO8Fu21GchMKoHKSk
-GErucmBH191GGUQL1rsvAq/hV//FAKPJyteh0kX8UT7niPEcvK+zSmsqfRo5kjSbMAaHSvWQDm/d
-2wgiZOtaBhbE8o4Lm6l5HlCBEZqnztc3xjfbmevTTcK8OCpieVqiNAlmwZcBFGjuaNmDtH/fgpGD
-ldYHj2ZuCINyCbKO4MJneG8eCT7HLkuLqW2eEr2uTpUI4QTtnh/IDmPzPBvFkKFgs09rwZic6ytk
-n8C78hgHmcM6s+jIAlzhrq9oagwRarqBuTI8bKFau6UtvbY2O5HYsGnm0rByhjaDAN4xogHLR6lr
-1wcztvxrwgcr2zSS5Ml5qIzxvjiGsNnNx0l3x1xi79VK3nrbAWnD5pKAIn5dPqdV7eoeHMtkQu68
-ArSLyxlU7wf4tkao/XW8x9YHQoLnTbM3BGUn7vH3myvYdvQ2f1vUrOAZqg+EYk2/ALHBuBv81G2g
-8psyC0fx620BHkHPgfJiFXQx0HI58iD1GYlYT2GkXIJ4KHMpIvs3cKwhvCFoCQ73RlwVHGnfnZlt
-zhw2Pmc/sQ+Nz2032VSnEzQ6N/wE8LlKAbGAXQY7A65UF+S43znNpNaLiOgO/HMi6XW2TeK1WxX3
-lq2lmzcNpc3VAdDCwIsiemyTIPTjOSWppm4POQrXsQDpw2kniQt8I2qHLsq/+drGrGPqjXqQ6lQq
-qqUwIaRqICnKtCZPaidfDEgSLD5CTgoiMfrtTKHWcv3l4cqsSL6CKPA6uAN1nGhH/dhrI5fWaHqD
-UQm8VT7q94wIXYyWuDIMen5pgi5jQpHTdPTHtWoHddZjJvPWsx6l167vBhW/2/MZ4g+lo6pO
+<?php
+/////////////////////////////////////////////////////////////////
+/// getID3() by James Heinrich <info@getid3.org>               //
+//  available at http://getid3.sourceforge.net                 //
+//            or http://www.getid3.org                         //
+/////////////////////////////////////////////////////////////////
+// See readme.txt for more details                             //
+/////////////////////////////////////////////////////////////////
+//                                                             //
+// write.apetag.php                                            //
+// module for writing APE tags                                 //
+// dependencies: module.tag.apetag.php                         //
+//                                                            ///
+/////////////////////////////////////////////////////////////////
+
+
+getid3_lib::IncludeDependency(GETID3_INCLUDEPATH.'module.tag.apetag.php', __FILE__, true);
+
+class getid3_write_apetag
+{
+
+	public $filename;
+	public $tag_data;
+	public $always_preserve_replaygain = true;    // ReplayGain / MP3gain tags will be copied from old tag even if not passed in data
+	public $warnings                   = array(); // any non-critical errors will be stored here
+	public $errors                     = array(); // any critical errors will be stored here
+
+	public function getid3_write_apetag() {
+		return true;
+	}
+
+	public function WriteAPEtag() {
+		// NOTE: All data passed to this function must be UTF-8 format
+
+		$getID3 = new getID3;
+		$ThisFileInfo = $getID3->analyze($this->filename);
+
+		if (isset($ThisFileInfo['ape']['tag_offset_start']) && isset($ThisFileInfo['lyrics3']['tag_offset_end'])) {
+			if ($ThisFileInfo['ape']['tag_offset_start'] >= $ThisFileInfo['lyrics3']['tag_offset_end']) {
+				// Current APE tag between Lyrics3 and ID3v1/EOF
+				// This break Lyrics3 functionality
+				if (!$this->DeleteAPEtag()) {
+					return false;
+				}
+				$ThisFileInfo = $getID3->analyze($this->filename);
+			}
+		}
+
+		if ($this->always_preserve_replaygain) {
+			$ReplayGainTagsToPreserve = array('mp3gain_minmax', 'mp3gain_album_minmax', 'mp3gain_undo', 'replaygain_track_peak', 'replaygain_track_gain', 'replaygain_album_peak', 'replaygain_album_gain');
+			foreach ($ReplayGainTagsToPreserve as $rg_key) {
+				if (isset($ThisFileInfo['ape']['items'][strtolower($rg_key)]['data'][0]) && !isset($this->tag_data[strtoupper($rg_key)][0])) {
+					$this->tag_data[strtoupper($rg_key)][0] = $ThisFileInfo['ape']['items'][strtolower($rg_key)]['data'][0];
+				}
+			}
+		}
+
+		if ($APEtag = $this->GenerateAPEtag()) {
+			if (is_writable($this->filename) && is_file($this->filename) && ($fp = fopen($this->filename, 'a+b'))) {
+				$oldignoreuserabort = ignore_user_abort(true);
+				flock($fp, LOCK_EX);
+
+				$PostAPEdataOffset = $ThisFileInfo['avdataend'];
+				if (isset($ThisFileInfo['ape']['tag_offset_end'])) {
+					$PostAPEdataOffset = max($PostAPEdataOffset, $ThisFileInfo['ape']['tag_offset_end']);
+				}
+				if (isset($ThisFileInfo['lyrics3']['tag_offset_start'])) {
+					$PostAPEdataOffset = max($PostAPEdataOffset, $ThisFileInfo['lyrics3']['tag_offset_start']);
+				}
+				fseek($fp, $PostAPEdataOffset, SEEK_SET);
+				$PostAPEdata = '';
+				if ($ThisFileInfo['filesize'] > $PostAPEdataOffset) {
+					$PostAPEdata = fread($fp, $ThisFileInfo['filesize'] - $PostAPEdataOffset);
+				}
+
+				fseek($fp, $PostAPEdataOffset, SEEK_SET);
+				if (isset($ThisFileInfo['ape']['tag_offset_start'])) {
+					fseek($fp, $ThisFileInfo['ape']['tag_offset_start'], SEEK_SET);
+				}
+				ftruncate($fp, ftell($fp));
+				fwrite($fp, $APEtag, strlen($APEtag));
+				if (!empty($PostAPEdata)) {
+					fwrite($fp, $PostAPEdata, strlen($PostAPEdata));
+				}
+				flock($fp, LOCK_UN);
+				fclose($fp);
+				ignore_user_abort($oldignoreuserabort);
+				return true;
+			}
+		}
+		return false;
+	}
+
+	public function DeleteAPEtag() {
+		$getID3 = new getID3;
+		$ThisFileInfo = $getID3->analyze($this->filename);
+		if (isset($ThisFileInfo['ape']['tag_offset_start']) && isset($ThisFileInfo['ape']['tag_offset_end'])) {
+			if (is_writable($this->filename) && is_file($this->filename) && ($fp = fopen($this->filename, 'a+b'))) {
+
+				flock($fp, LOCK_EX);
+				$oldignoreuserabort = ignore_user_abort(true);
+
+				fseek($fp, $ThisFileInfo['ape']['tag_offset_end'], SEEK_SET);
+				$DataAfterAPE = '';
+				if ($ThisFileInfo['filesize'] > $ThisFileInfo['ape']['tag_offset_end']) {
+					$DataAfterAPE = fread($fp, $ThisFileInfo['filesize'] - $ThisFileInfo['ape']['tag_offset_end']);
+				}
+
+				ftruncate($fp, $ThisFileInfo['ape']['tag_offset_start']);
+				fseek($fp, $ThisFileInfo['ape']['tag_offset_start'], SEEK_SET);
+
+				if (!empty($DataAfterAPE)) {
+					fwrite($fp, $DataAfterAPE, strlen($DataAfterAPE));
+				}
+
+				flock($fp, LOCK_UN);
+				fclose($fp);
+				ignore_user_abort($oldignoreuserabort);
+
+				return true;
+			}
+			return false;
+		}
+		return true;
+	}
+
+
+	public function GenerateAPEtag() {
+		// NOTE: All data passed to this function must be UTF-8 format
+
+		$items = array();
+		if (!is_array($this->tag_data)) {
+			return false;
+		}
+		foreach ($this->tag_data as $key => $arrayofvalues) {
+			if (!is_array($arrayofvalues)) {
+				return false;
+			}
+
+			$valuestring = '';
+			foreach ($arrayofvalues as $value) {
+				$valuestring .= str_replace("\x00", '', $value)."\x00";
+			}
+			$valuestring = rtrim($valuestring, "\x00");
+
+			// Length of the assigned value in bytes
+			$tagitem  = getid3_lib::LittleEndian2String(strlen($valuestring), 4);
+
+			//$tagitem .= $this->GenerateAPEtagFlags(true, true, false, 0, false);
+			$tagitem .= "\x00\x00\x00\x00";
+
+			$tagitem .= $this->CleanAPEtagItemKey($key)."\x00";
+			$tagitem .= $valuestring;
+
+			$items[] = $tagitem;
+
+		}
+
+		return $this->GenerateAPEtagHeaderFooter($items, true).implode('', $items).$this->GenerateAPEtagHeaderFooter($items, false);
+	}
+
+	public function GenerateAPEtagHeaderFooter(&$items, $isheader=false) {
+		$tagdatalength = 0;
+		foreach ($items as $itemdata) {
+			$tagdatalength += strlen($itemdata);
+		}
+
+		$APEheader  = 'APETAGEX';
+		$APEheader .= getid3_lib::LittleEndian2String(2000, 4);
+		$APEheader .= getid3_lib::LittleEndian2String(32 + $tagdatalength, 4);
+		$APEheader .= getid3_lib::LittleEndian2String(count($items), 4);
+		$APEheader .= $this->GenerateAPEtagFlags(true, true, $isheader, 0, false);
+		$APEheader .= str_repeat("\x00", 8);
+
+		return $APEheader;
+	}
+
+	public function GenerateAPEtagFlags($header=true, $footer=true, $isheader=false, $encodingid=0, $readonly=false) {
+		$APEtagFlags = array_fill(0, 4, 0);
+		if ($header) {
+			$APEtagFlags[0] |= 0x80; // Tag contains a header
+		}
+		if (!$footer) {
+			$APEtagFlags[0] |= 0x40; // Tag contains no footer
+		}
+		if ($isheader) {
+			$APEtagFlags[0] |= 0x20; // This is the header, not the footer
+		}
+
+		// 0: Item contains text information coded in UTF-8
+		// 1: Item contains binary information °)
+		// 2: Item is a locator of external stored information °°)
+		// 3: reserved
+		$APEtagFlags[3] |= ($encodingid << 1);
+
+		if ($readonly) {
+			$APEtagFlags[3] |= 0x01; // Tag or Item is Read Only
+		}
+
+		return chr($APEtagFlags[3]).chr($APEtagFlags[2]).chr($APEtagFlags[1]).chr($APEtagFlags[0]);
+	}
+
+	public function CleanAPEtagItemKey($itemkey) {
+		$itemkey = preg_replace("#[^\x20-\x7E]#i", '', $itemkey);
+
+		// http://www.personal.uni-jena.de/~pfk/mpp/sv8/apekey.html
+		switch (strtoupper($itemkey)) {
+			case 'EAN/UPC':
+			case 'ISBN':
+			case 'LC':
+			case 'ISRC':
+				$itemkey = strtoupper($itemkey);
+				break;
+
+			default:
+				$itemkey = ucwords($itemkey);
+				break;
+		}
+		return $itemkey;
+
+	}
+
+}

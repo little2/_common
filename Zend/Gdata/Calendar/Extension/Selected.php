@@ -1,42 +1,133 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-HR+cP/yPaoo8VdoLhnCYkQjuQ/m8jyeBPRLy+eMitr4E/UU0GrKABzQaGdRjZFVVbFfOhXR7OFT0
-j6f8shfVajMrUkTQWexc3ZHxKH/rA8lNct9zn9IydLT9zVFYBbmjmPdber1na06Sze5SgoF00qRj
-OnkE7u+fqMMDE9KPvZ79z/+PRayI3CAi6xwCmrag3QEA2nhZWGFwmmXQSgEUhIujHz+CuRZhSCAA
-hJxx/4poMWRiDwnhLSX/weW+pYE9d3TmcNPNW82mphHd7PQXPcgBtBpaEXM20MTnP6xa65h6JmTd
-NGKl8/vmm9A7E71LwnnFMgM9ae/iioS8+Mj7h5FQQ4mXM6qnE5lcUS6abpsjiVI0sdwNIVCZmo/p
-0C+41sfgaaHQPxMoFQRM7s8N3QPLpPTdsnYQWO3RoqTyN1oHFLYQSh9JFt8CFf8pothi17bE6IZL
-He8D6Bk83/M7i6V10xrNyX15eAXpwpsCchs4eJ6RG/0ARufv9O/ks7k1gJtIKWFT0HvdsOiv+Vsh
-gL0bkGAv0j/XfeY2Y4UslTkeOy00oElUkXtXTPLuvuRdE/dcVgO6nWnfiPN28zktTuEY0ytEjx1d
-0WN373TmiMKA4lfoSW4zFrDHANp0bOSaNKjBlj3eLAZbMSz7cATUDOyRH8c/ogq47kDO8W/VgTVX
-UCYyN0w2sJ32Or6yQwOsztNGgYcxERIKHoKEEvf7WgxunAy+rmZVnZB4YqMTlaUo/dL7YowJolNG
-hAIBOs9XGwprlQ3jbuaSjRED7PUu4Htp33xYyhHhmeCk7lQFQvVwsieACjH7un3EWMo5FTdx8cqU
-FRe+rSJk277uUtDAEYsFXSytXX5LcH2wX10Rmf+5hKA1haGb+0LnH6y234yB3y2UiKGsjg3/+avq
-RMfoRwzmIaLS4dYazOiVKXt19hcuzdj9O7gmL5syTL+7hc22TTdNJ1G7j0VJA29L7wswqf0WdbF/
-DWR3rrHXBLtmukb1+NHcwK0iBksH6XRV23KUBPMg7bzSvcvxcYWHH6C/XLWuLJqZfFwBfyx5GR5v
-on2SWEAvcYpCR/N7v9PxakEdP0t7LMRcAQ3CfukoTP01lvesMLPJiKksAuMPKvRgTYnHayFxbDM7
-4rArG8GMyd15p40/fV/pbrl9RhpY7WFxtkumtpcX+uUrOX6I4t8EcOep1UG4f/+OrqurNxPdiEhL
-A++1HFEDXpGqoodSLJzlhlwn2/Kkg4OgeiARAj7Wp6FWzMnALDhO5nxCw+Iqurj0qdj6naJDRZ8+
-iDtwrmA1y+QitzC+Vy7mV988mMeKMrf4dYHw7F+5DBALBJA6w6r96dwrwNIt8/Ko1ESq48DTw096
-bRUAIxxnTwwWNANt/Tn4aZFDFLXjpnyVd1IK3mjaX/NiBtLq2VD9EPs7e1DO5bAMpIXUfzmJOJ68
-1oURpHm2e4AKnAdGo2NQezbQENreXQtk9XvkDge9pw0dTy21K9LDB2orwh7RDBNeOHjHxuwnutDk
-VrSP3tdJDEOY6iCjNxvbKbFyD3gOTtRzfmlrummCdXAE6QMLyjax1L9neqEB7rbithZFjr49odmb
-6zE0qpN7eFjY1bX4tYfZL5l8ZFkbmLxId8Dba03RDWzQs+8nnTFXhYM8DD1OOlHsMChOSucwTv18
-/tCgzIB7dxN1QGHcK/qY1rIuMsdoK//g+5ohSRaOGv7sRT59ALgPTfPHcRIefmLdbtnDj9r3bE6z
-ALVgK8ahPPAnaD8s64GRL8N5kegbUDie/9Z/FTJkPqtu+Yr1FldqB+3kgL180pUGIKpaZlxyDimg
-hkoLSXkSfLJBB3/TApg/TpXg+ZFqtrD62Q6hqpkQjpXLpjlYU6cwG8mHHA97dLVwkXzylAn2WYAm
-nkbBVOORPi22+0f2Fx3/vxyRyZXGbSJC8Tm2+/PxnwLdwetMqBPp3yNliCEzahYN1kLAnQKBLa8P
-nzhTitLBdB5N7sqYAuVJHqTTqJ4sDOoPnt2cOaKUINKuWEH1bHeUb4KeAWmhKceJCFwxPCjGvCTj
-FWIoXLjSZ3ael+HSQae3R73suwBGZyk/N+B9hFDvsRyGClspNZdsZy7Vutwnw2FV0QMc/wmigFUc
-gJMYiNU1t/fz6lyW85Ysc1vFUQ1fPKY9Jk8HmWcYA2g7Ul4sKKhp1snEGEkJVNF8LdW9XbkKzqUb
-GnhGGMh3gZSWCE8XjcmGElMTgJOOcHTLZvU+AMKr2Cs6dDbyKukinrKRLxY8UmkBVKvua7C2k5uv
-KXj6+2huIi8hVW3749987zfFYz3K9KIh8sQCu+QFVQLEEX+H0x62cLoNY3E0hUMGKAah167fKImq
-4SL+f3CfSzhJhnbEACGslX9Fyulvc3z92/tw62BlEoAJ5688aDVXA/Ro1Q+NsmcYnMk5NRa/bUWQ
-S3T0+wIarJGd57zDYRXP3n3AZqWpaOdVP224hUetBKjEU1YY9lQl/D+Mxnz+tjPeXrqDW54avHfj
-4sDFbLUdKvJ4MYeKOPXJCUfe6WIVySuBWIbD296JxHdH/8pv1vgZCoNFw6eO6iIX46iwXhJX2Lub
-spMs7Nbs/hwep5XUY6gMZWTnSbgepir6804m9ReJA/roxSXPdGEErZehVOyjTcnLgG5HOJ6MKvFR
-1oGoKzpfvHd1pcVGfLvozESAGIsmsABBMddH+ZuiH1BJVi9BKKSzguNdwgD0qz9aAG18r4DjJwNJ
-UVtHHpVGcHgryXj9qGKZC602mdWpcUPRohFcPapVVVG41UMfR10FPdvAU1stHv/b559fGRoBKXT5
-UlhfrW8KIjxiR2uYhIPcDhOmKahz4eem/w9A+nLRm7P7TxGhkCAW2WDeJ116h3DEEXHtHyMTbeqe
-JQvBlbyuJaOZUckOAGbyHnm2MHbdN/brzDIdflpAwqBJ2uNQjZWplw4Jprx4
+<?php
+
+/**
+ * Zend Framework
+ *
+ * LICENSE
+ *
+ * This source file is subject to the new BSD license that is bundled
+ * with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://framework.zend.com/license/new-bsd
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@zend.com so we can send you a copy immediately.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Calendar
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ * @version    $Id: Selected.php 16971 2009-07-22 18:05:45Z mikaelkael $
+ */
+
+/**
+ * @see Zend_Gdata_Extension
+ */
+require_once 'Zend/Gdata/Extension.php';
+
+/**
+ * Represents the gCal:selected element used by the Calendar data API
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Calendar
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+class Zend_Gdata_Calendar_Extension_Selected extends Zend_Gdata_Extension
+{
+
+    protected $_rootNamespace = 'gCal';
+    protected $_rootElement = 'selected';
+    protected $_value = null;
+
+    /**
+     * Constructs a new Zend_Gdata_Calendar_Extension_Selected object.
+     * @param bool $value (optional) The value of the element.
+     */
+    public function __construct($value = null)
+    {
+        $this->registerAllNamespaces(Zend_Gdata_Calendar::$namespaces);
+        parent::__construct();
+        $this->_value = $value;
+    }
+
+    /**
+     * Retrieves a DOMElement which corresponds to this element and all
+     * child properties.  This is used to build an entry back into a DOM
+     * and eventually XML text for sending to the server upon updates, or
+     * for application storage/persistence.
+     *
+     * @param DOMDocument $doc The DOMDocument used to construct DOMElements
+     * @return DOMElement The DOMElement representing this element and all
+     * child properties.
+     */
+    public function getDOM($doc = null, $majorVersion = 1, $minorVersion = null)
+    {
+        $element = parent::getDOM($doc, $majorVersion, $minorVersion);
+        if ($this->_value !== null) {
+            $element->setAttribute('value', ($this->_value ? "true" : "false"));
+        }
+        return $element;
+    }
+
+    /**
+     * Given a DOMNode representing an attribute, tries to map the data into
+     * instance members.  If no mapping is defined, the name and value are
+     * stored in an array.
+     *
+     * @param DOMNode $attribute The DOMNode attribute needed to be handled
+     */
+    protected function takeAttributeFromDOM($attribute)
+    {
+        switch ($attribute->localName) {
+        case 'value':
+            if ($attribute->nodeValue == "true") {
+                $this->_value = true;
+            }
+            else if ($attribute->nodeValue == "false") {
+                $this->_value = false;
+            }
+            else {
+                require_once 'Zend/Gdata/App/InvalidArgumentException.php';
+                throw new Zend_Gdata_App_InvalidArgumentException("Expected 'true' or 'false' for gCal:selected#value.");
+            }
+            break;
+        default:
+            parent::takeAttributeFromDOM($attribute);
+        }
+    }
+
+    /**
+     * Get the value for this element's value attribute.
+     *
+     * @return bool The value associated with this attribute.
+     */
+    public function getValue()
+    {
+        return $this->_value;
+    }
+
+    /**
+     * Set the value for this element's value attribute.
+     *
+     * @param bool $value The desired value for this attribute.
+     * @return Zend_Gdata_Calendar_Extension_Selected The element being modified.
+     */
+    public function setValue($value)
+    {
+        $this->_value = $value;
+        return $this;
+    }
+
+    /**
+     * Magic toString method allows using this directly via echo
+     * Works best in PHP >= 4.2.0
+     */
+    public function __toString()
+    {
+        return $this->_value;
+    }
+
+}

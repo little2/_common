@@ -1,86 +1,162 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
-YskOwykAHDLSeRgO0FK=
+<?php
+/////////////////////////////////////////////////////////////////
+/// getID3() by James Heinrich <info@getid3.org>               //
+//  available at http://getid3.sourceforge.net                 //
+//            or http://www.getid3.org                         //
+/////////////////////////////////////////////////////////////////
+// See readme.txt for more details                             //
+/////////////////////////////////////////////////////////////////
+//                                                             //
+// module.audio.au.php                                         //
+// module for analyzing AU files                               //
+// dependencies: NONE                                          //
+//                                                            ///
+/////////////////////////////////////////////////////////////////
+
+
+class getid3_au extends getid3_handler
+{
+
+	public function Analyze() {
+		$info = &$this->getid3->info;
+
+		fseek($this->getid3->fp, $info['avdataoffset'], SEEK_SET);
+		$AUheader  = fread($this->getid3->fp, 8);
+
+		$magic = '.snd';
+		if (substr($AUheader, 0, 4) != $magic) {
+			$info['error'][] = 'Expecting "'.getid3_lib::PrintHexBytes($magic).'" (".snd") at offset '.$info['avdataoffset'].', found "'.getid3_lib::PrintHexBytes(substr($AUheader, 0, 4)).'"';
+			return false;
+		}
+
+		// shortcut
+		$info['au'] = array();
+		$thisfile_au        = &$info['au'];
+
+		$info['fileformat']            = 'au';
+		$info['audio']['dataformat']   = 'au';
+		$info['audio']['bitrate_mode'] = 'cbr';
+		$thisfile_au['encoding']               = 'ISO-8859-1';
+
+		$thisfile_au['header_length']   = getid3_lib::BigEndian2Int(substr($AUheader,  4, 4));
+		$AUheader .= fread($this->getid3->fp, $thisfile_au['header_length'] - 8);
+		$info['avdataoffset'] += $thisfile_au['header_length'];
+
+		$thisfile_au['data_size']             = getid3_lib::BigEndian2Int(substr($AUheader,  8, 4));
+		$thisfile_au['data_format_id']        = getid3_lib::BigEndian2Int(substr($AUheader, 12, 4));
+		$thisfile_au['sample_rate']           = getid3_lib::BigEndian2Int(substr($AUheader, 16, 4));
+		$thisfile_au['channels']              = getid3_lib::BigEndian2Int(substr($AUheader, 20, 4));
+		$thisfile_au['comments']['comment'][] =                      trim(substr($AUheader, 24));
+
+		$thisfile_au['data_format'] = $this->AUdataFormatNameLookup($thisfile_au['data_format_id']);
+		$thisfile_au['used_bits_per_sample'] = $this->AUdataFormatUsedBitsPerSampleLookup($thisfile_au['data_format_id']);
+		if ($thisfile_au['bits_per_sample'] = $this->AUdataFormatBitsPerSampleLookup($thisfile_au['data_format_id'])) {
+			$info['audio']['bits_per_sample'] = $thisfile_au['bits_per_sample'];
+		} else {
+			unset($thisfile_au['bits_per_sample']);
+		}
+
+		$info['audio']['sample_rate']  = $thisfile_au['sample_rate'];
+		$info['audio']['channels']     = $thisfile_au['channels'];
+
+		if (($info['avdataoffset'] + $thisfile_au['data_size']) > $info['avdataend']) {
+			$info['warning'][] = 'Possible truncated file - expecting "'.$thisfile_au['data_size'].'" bytes of audio data, only found '.($info['avdataend'] - $info['avdataoffset']).' bytes"';
+		}
+
+		$info['playtime_seconds'] = $thisfile_au['data_size'] / ($thisfile_au['sample_rate'] * $thisfile_au['channels'] * ($thisfile_au['used_bits_per_sample'] / 8));
+		$info['audio']['bitrate'] = ($thisfile_au['data_size'] * 8) / $info['playtime_seconds'];
+
+		return true;
+	}
+
+	public function AUdataFormatNameLookup($id) {
+		static $AUdataFormatNameLookup = array(
+			0  => 'unspecified format',
+			1  => '8-bit mu-law',
+			2  => '8-bit linear',
+			3  => '16-bit linear',
+			4  => '24-bit linear',
+			5  => '32-bit linear',
+			6  => 'floating-point',
+			7  => 'double-precision float',
+			8  => 'fragmented sampled data',
+			9  => 'SUN_FORMAT_NESTED',
+			10 => 'DSP program',
+			11 => '8-bit fixed-point',
+			12 => '16-bit fixed-point',
+			13 => '24-bit fixed-point',
+			14 => '32-bit fixed-point',
+
+			16 => 'non-audio display data',
+			17 => 'SND_FORMAT_MULAW_SQUELCH',
+			18 => '16-bit linear with emphasis',
+			19 => '16-bit linear with compression',
+			20 => '16-bit linear with emphasis + compression',
+			21 => 'Music Kit DSP commands',
+			22 => 'SND_FORMAT_DSP_COMMANDS_SAMPLES',
+			23 => 'CCITT g.721 4-bit ADPCM',
+			24 => 'CCITT g.722 ADPCM',
+			25 => 'CCITT g.723 3-bit ADPCM',
+			26 => 'CCITT g.723 5-bit ADPCM',
+			27 => 'A-Law 8-bit'
+		);
+		return (isset($AUdataFormatNameLookup[$id]) ? $AUdataFormatNameLookup[$id] : false);
+	}
+
+	public function AUdataFormatBitsPerSampleLookup($id) {
+		static $AUdataFormatBitsPerSampleLookup = array(
+			1  => 8,
+			2  => 8,
+			3  => 16,
+			4  => 24,
+			5  => 32,
+			6  => 32,
+			7  => 64,
+
+			11 => 8,
+			12 => 16,
+			13 => 24,
+			14 => 32,
+
+			18 => 16,
+			19 => 16,
+			20 => 16,
+
+			23 => 16,
+
+			25 => 16,
+			26 => 16,
+			27 => 8
+		);
+		return (isset($AUdataFormatBitsPerSampleLookup[$id]) ? $AUdataFormatBitsPerSampleLookup[$id] : false);
+	}
+
+	public function AUdataFormatUsedBitsPerSampleLookup($id) {
+		static $AUdataFormatUsedBitsPerSampleLookup = array(
+			1  => 8,
+			2  => 8,
+			3  => 16,
+			4  => 24,
+			5  => 32,
+			6  => 32,
+			7  => 64,
+
+			11 => 8,
+			12 => 16,
+			13 => 24,
+			14 => 32,
+
+			18 => 16,
+			19 => 16,
+			20 => 16,
+
+			23 => 4,
+
+			25 => 3,
+			26 => 5,
+			27 => 8,
+		);
+		return (isset($AUdataFormatUsedBitsPerSampleLookup[$id]) ? $AUdataFormatUsedBitsPerSampleLookup[$id] : false);
+	}
+
+}

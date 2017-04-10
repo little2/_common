@@ -1,108 +1,267 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-HR+cPyqu5ROsa+svs/yfW9NkEMLmmDCs0W/bckflMXLwjETvESZL2ghSw6hxrMQN6yIUn+hUcBcn
-rZHDqmBOUsqiYm1JkSnWQiIMMR1ooLwQCj1IvR1zk1WqfQiP4CR6hCaY0uOVx9j3ou8rgKoK2kYr
-ZXkISNew9SD2B/DtJ8BBuKcHJ3JDmnHiRof3ZJjUG5YJe0TKKpiG/xhxaqwIrlOX/5RR5Un9n5cx
-LM1sMZAmRNTOrrZvRlub4Eg8FiuZYPmtS9bsLu20i801pXbcYu8k5OgXpOhP81M2FiCh/o3cvyoM
-ouzGPttCEBFTyMDpUSIDIYEvozwQ2fj3lltoVoQMs69LnJZjd0TdY5b5Zw5l8kRjaGxkEAMZtQ7J
-B0EIzzAfHhXmKcXwPSDcRZhuTp3+gm3Jjz01kOjYDpa5RUj8dfgd5EOciZBxp83xRhtYuAOUNnnz
-ov76R0e5AhlgMC4/euUgwm0z7lmSK5v3pTpCpwIS9h8bHCjUZWJyBSuitg2JQeqt7qrDXQ88WKNP
-g16rjcWCRLlhZOP8jBdewHQvCzKZaQtuQW3KlGFAe+JEDb4fgz5PAfnrsZh4+Q1HFUgU7L2jfkub
-fHXD/zDZNswqoCi3sKgsz2SZB/tHbsmxVL3RugjHSiw3HeGgyqR6Q9HjNF5m0tgy/JlCVDOdyY8z
-v84om+zVIfJvKbj5996JuVhIB9mjHx4UlsPD0GsDV6n40yxZGZrEoDS03AS9JPWW8TXLmyZDjMrH
-786W6qYgLcwSmRq9E7ra/UsZrLZs032OejFQkKh4SYdZxccTKevQigevv8ECdKzznsFFxlyYWQRH
-w9Rnfl62oLWFPfZCgG3BAv22afNDl9kjSqKV4MU/n0EsXmx92H0IIicNFHoJqc35/h9dQkFnlvil
-ycIlTE71mUrb3EO3DyX7jvWg6jpAleG7G9dg+KoPVU7ttr/V+PxGcyWhMPaFZQWWyicB8/DOi5S+
-TQzIonGYDRaVRo9z4PwNy9qHOhdkLA9KqXeSxFoCf0LsgW1IIlXC8bjCPYUOxBF3wO9yAkrIpCCr
-CfsvkR5Ep47M5sAiwrRtmgk/HCEVYFoaBQXA651v4hpec59lC3RYShxSjYT6zEWvLZtbtknNTLB2
-2nrnfd5n94B0e6GBH1DxtE3a0qseilQ9z/K5jVcbJ4pmxqjsVs7PNpzL9NToA6mn9/JFuItSpB4G
-xtIf9WSv6jjoSFF7AMXO59ONZ5RRbVPypa7lux+mlOco8fLFal5HCorQA4IwHFsWPzc1zTEUDK3I
-ctD0T3zhh2fMRnmo4mnB5EzF24jjOQOIxn9lozUzyrV4ZGd/6C5XggOu+1p7gwvsxyNKD7BQGUQ6
-uB+NDs2MupHrh2uYDVA4aVTRPEBLUrtDEdku97e7gPvbQ0dSlSAXWruE5vXYmVCtc5jAYw5sOWoI
-N2VnwC1+9M+hXmog9PRGRLHZ0P5LwAuzQmC3ACRRz4/IbaAcKczJ47OnK05rImagN69lfKoswwok
-a7kq/1m966V1eW/HO1rBUO9NXqw1BQNgzX3MJdDU3I0dfVsvrkRy3amIVNPcicyCyyVcOS0LBS/X
-hzeMyzwa9C+h/diF7DSO5wjUNYbEs7s6Sdmtpoa267uJpRia2R8RIr26sZr4ZjjvVEAROIcdtyo8
-HcwuW+yaMsVUPKTZliTb8yZwYID4d5vZTLO0CcD0GFoGCSNIdI1GuucsbKLjR85r5aqjcVRxQxji
-EEd2MGImYP1PGxrJLdl0XAE+QvshTFLbL8lBbMMUZKZceuO3RNUEWop8qVHkANbxjoG8PprRcpyU
-bsfnwVhyHXEUzSqT5coQCBE7a4BpeXdYM6AVoDGAGd8Kg4cSynx+qcLkfE21TaITUVfnEdn/vsiG
-6sLewuTyhHBcEUVHpKgRNgp+uHXsnQxPJn9Oayz9CV1B3gAjVS6Og/XjtwvHCywhjr+m/hw5AaJK
-h8pE62oq40HR43O8+WXuA3CLZ8po3HqvUMUDq7KtGNjMyUApPzXn/vDQII95/Ny+e4fCTtAfe8kG
-tu95OBsFoksbJPm96UAJQ6VTs4NMjwo6SzFHhE6F6wU9swmQYNFTPi9mS452qrW+MPRfoKT7UKvM
-4loa8JULpCk+Aoiis6nhAF1gUmCeZJYBmpUWX6AMtSswEw4qb4bE5eLtO7exhBhhGoa2p2foAf6d
-nzMRS7SL6MDOEKbRtTIF7KMb3nHbBVs87nByEw1IN5pDOmLmh3luzOLG2kw7hUKpa/rCTVDU7zqg
-YAdoKNnOsYyR6DJa6n2NDj9Q8peEeRr+yASoWsnTY9keMlV9WKDhLUXgP7JYnqliW8ojaaONWCLy
-7p5Cerk9Mmd5e2N/trwmBaAC+R6BzCY5mRml9ZNFpJQR6AT6sOuSSaTeo5kqjG71tVGjHFMDmqiG
-9CpI4YbLEpswqSzmWU27j++ABJzlOq4Q8coUnqk4/6jZ7u40uSuvh1Mhi1Pg5nq4A2m/+Qa++W/a
-uSpCsKbeWlWUQZ5xmYNMHLw8csGnNZR0MzEr5xhQZx8d/1rJcCfvkJvXJeCjoCXa7siMrj64UqgN
-PxK/991a5drHMR8LVymEN/p4JjUWoX1Nn6JOjeMrSddutwkcdut2cycc1QaJTEyx7vZAsGiCUHY+
-TT+qgfM/7sQil884Ls6mXxRER4w/70fqArbMBfHRbB7izDlMMX+7ECcAGdJLwPtNqZAlBs2+UPhI
-7ci3doJXgICbekfT7C2xsg3h0tzbfWkw6pt7Y1rvKvaJScfoJjQJosSle7Gg6QVruq2RYY7+Eh1h
-uiRgTSa4rmIMSrMUglNZMvvbc+rT9jC7eXa0W4Nekti0n1TAqrjm19nBszvfw0UwAKVanlS+C7HV
-IJ2skPKirB/eYvyW72kAxeHJsHbW6y0C9PkGnEDFMo6uvo5bWDKQUQY0xfmfRTk/XYm7MuqwzJ+E
-Il2yFmzpW9qVdv3xX+oOLd0ri54Nh3DKnpAc6zAA7X6ugE8ZlV/Dbg7NHjyP4Ung4RlwaYLL0nXh
-qnKh4wJFaM+8MvlvNTnx/pPCis2dwPeT+VQP+AXL5oMWvsx1ploFG4JcE7spTpQ4RssleYpva5l8
-KluqYAhTNmytnfO3K8BEvSaLtFojswn1Ct1dB+H/A62QQCsPQRkvyyE4CADJMLh8rfxsrKoGEqR9
-5TJYr7qmUtslDVPlNc0edPpNV1dHZNvbK8h9BYvE5BLOjs12iHRLDGZzMVjqWtWT/wIlcnmnrW+x
-EqH5FJzGEDvXjAfhoHBNi0GYYithEFTdqfFfmBlJrLGe2i0qTuj8hCUh1grMmNfdcZdlEBCk+nsJ
-DTErI2Ts9LyxI+MQyrFj1fwnNPWx5zWfn1f/cdeUOEX7GlPMDGbARq/i/rOZwgfzOfpZhSazBV5Z
-+I/wPaQPraUwU4tA2lPC5Qv1/qE/sn6MPHtRJgymNEu+VyCQP3sa6g/SWKy3lVVo6tZgrGfBMjDY
-0MDJNhW2DhU6DD32tm0uly49EeFOVEbzTkSG+gAjXhNeWn+Sg1VVkkt7+Nj5iEJWkQ1mdmY8dhBd
-u6qPa29bzOVqCjSH5m81JLQ8ukGnks2wkhYpqfQb8wZUoMWG8UYGM65o2ZtXH7kr0htelvhB8Rp2
-6R16hVL0a/A8H/pUpTuashMOEj4W0lYv+ihz15FZyGyM3+ntMXzNctlm3q3Z7ykeQovHJgJnJfkK
-Rhi3SaP22oOc4odMFxG3foeIHlz0EEGi9218gzSQbPIG6Y+aPYxkiNXfofF/l1t04frk91e/5LxP
-n01EIdAq8SJj+9kdWVRZaRS4cHARQN5zs2B5h8juyP5T+ZrMUg8rL5Cx4fxDt61jrjN3DLrs+rPY
-faiXKiVl/sV3sXP2C5oYn5PeLNynNXr8nsuJl+AD3bI3r/smH8xaZ5OkLE1kX7ALdpCfEjjUIUrr
-XTQyjApqa35KqCfrMdZBxVrzrIasMgZqwFYXWWPZLLkDMz6ZivGs3ITmZ4J23Hu2s8iCKn/by+XG
-JQVyj9G8ZNbknrwftN0Bwf7ksp8Lw9MNOjUG/4ek+OjTcceYSp8Dz6oN+46MU0ya/ymSP8RBRdI6
-NlA1PyK7mmHBdcf7+/MzSUL1hKEzXreDki9wtszy6Z0xXoE0M0/LPb4HNWvtG6LvldEjtM+DMo9E
-v+2aNwTDdFknm77H81c8mgb+Z6LSPEdnItc46dCpcxfjhFVrnbQSbTIG04TJ0qGxDWNOQhCIi6nE
-NCCYx7eIui9tRW55GwLVLerUrJchesOQYiGdwXKTBPi0L4IKjUVdZrYXY8b5ided6gFIy/SSCBXd
-tjRHNHV+vST+6TYEmKn9V+cnWzOfmojWky7WDGIkf+MkzFg5gD7BBhxXWvAuh4a9iLS49UqzKHoA
-2r06uewJkFJv9KUhmSlznN1u/n8VRfPfz8AawpfCYsZdbI5IuRO1Nevjn/rA4olnoocTWv9KI2D6
-JlYwgsOXKWURvKwr7ZB8AhvDhYk6Wj0KXb26HFc9N9w+98XOFnyN71M5s9BAnNOWuFxoZQ09Kal6
-m/LtmMqDKJ2BuyGKd/iecr6VTWNxRcnIfgpLRfmEhNy2pxh5odIxB/GFOCAKoV8zCKsxVCV6Dx6E
-56H08jASsTGDeoWIVF+Ep3Kj0sefHKymwpUSPbEw7r78zdQ66ACZnvVbTTFhJpQf+6iNc+NyHKFk
-rbczejGrbOSitA+Kpr4D2e1EQQhQ/RWIKlLrnB6OdFp3N1/bJCAVRxLI2q+G62SGhMsdK0Vp7znh
-JTST4kJ56HERXK7CQTej+7ffIlqhM7EZElHm1zLRKwJ/8F2gukJbCnrejZVesB9ZfYVPvJuFI5eG
-T21r+bStpvk1ZSr9U8qRD+hRm666AmoK4NsjaiybdQL4BMcNzLgwcAT/6EFS7bIafdHoGqLLPiPF
-1fCh3lo6f7IL6N8QteNJzvQyH0sB9qAqEiAmPMeUycbBLnoF7neFHqKhTzHASs16mmvVMlpWab6d
-jzJmcw1cc9c7pYObKneDRlxRs2Ob0MRjSrt8x4rZxzji5MaZLOnAMO+IXc5/SOtJPoTp//qD/QJ5
-Y4bO6tpH/XkhckB5YkemJsF/XcqE593V5TdMGW2thrr+/y0d4pBwWDGmP6AQ7iwZaDa1w1gTPgq9
-5gNRPaalYV1NFN1m/9SP67n67nht4DVe78O5cwL+8jNlOtU4QhUnvOaw7Gy/DKaxv3xwcNUHV4xj
-K3fhCUHcowqQW9dsIhmR9yBZH9zryzWs+wbI+JGBZJIsz1Jhpc9NKUSnpPwNwBpmAE5GFK+7r3FR
-9YHRuWOHZnAJtKVBA8iY8D6zRiiVb+oWr3soYihIt6P4UY0upiMoJnhkUWJDxK2nqM8l4I4Arxvf
-3DS4HgG7JHlmjuECo38Bzh26OfK9caW3PJxWeIh2U37XJD/CvlcP+cMv8SUphl1WM2/W5fyNWSkK
-oow8kr/7+GwAZ5ZvgkYEmU3sAHpMSmLijBGobmz1YrHifUxnQNXzhb5xRniq2X3Bsvv9t/gxt/6x
-y5UdRf5dZBCtH3dzIhqDO4rcZ1jr4nQFKbhAfJIMLO9gQ72h8dbJcip5dtCXUXlj5cp8ROTTtkXh
-a9HKUQclVDtbM1tWUXcciAFOz3rIz9sbodwa9AUpQnliDicVnZGhrbfkUCokWNmZuyVojpUOr46n
-N14zMsxpWJOUkUGZHdG5uahQhPEbrm0E33AVVNaInTYFgfzgK2GRg85bO3lht8A9m7uJXyKKy+cr
-ftpwhphS1+DoCPXqS4lhsm6GzH8IKLVnPPWRAuGd6blG0dnPlrF1G3zMMPE0cJlKY189C9hee6Wa
-X0h5GNKsOodmH0Y/62d7VVho0Fm3QHZnZRsCusqCd4IVIbpRDnDgPAS9kJ/6AD+0z0j3Hb/HuRNy
-a5I3pbyBw3UZA2aorLo1HiSinBexr0mC2dBuYv7Pug4RkGRHi+LFrr48xZR53Lg/BV80gXU/UAvz
-zdYv58i407kyPuNrYW/huEOs/k1KJ74+g+MbL/HYIDcLS4qlI/3N1bnAEvOO9vqx6Ac23W7M0lrO
-EtUYlnAyIzNFKje3Ldl+ZKmWnlh0KgIp796M/jIEOR2Vs+q0kBhiTjk7k99GpPDIGr+JBl40y5XN
-7kuac8HY0iQGe6KmmRsiLqzoQo/tzvmW4l62CoyLOVGTHxkP1whD9D4HKjXiskwkGgr+7JMt/v1b
-Xh5NFRJtCydZ8D341qI0TfN6HDTrL0UDseWiTO41ahq6gbpiM8quO3B3cc9S4mxu0I6BpaBegiOq
-NXOlL15VaxmcqbUZaaXVatawlmFrowIYnYE3tnrJm1CxjAcpo3+oXS65kHsiqdwxXZvPENvUZs+k
-zgGmjtBOrjeqpQa/Bwfl+OdAUvdAPAPAq0i4zZc2TV/jGFPdmot4x0mMZ70etYmzo7Jk9K3R3XvP
-cpIZkhvQpTe26F3cW4wcmkko9EUQ3arQMuB6+601hYfK/BtaVCriuSC6i+IGlSzz8bWNEroatVIV
-HOebLHOiIz4HG7AK4YucMyUOw3CqELRSSEox7zeUdLnNwyCextkJ05AC/KhrY7Zpb2ClEkRdx4l7
-8QhWxGUhqYeJO6hvAM+jefCUSGhlEUkArgaYPcuNaL5nfoSL5nnL1SsBKW6fFRDkg+RX/SmXOMXB
-gwHVl1Kb9+7sXNl30FRM7iSsCXfTqRHq1WHbeTR0hakdt0njPv2FOElPtWUkxGAxFMsgqyhjKs+s
-JFBgr01vAjKw8wQm0R6kXxpP9LFS+TwO8q7qkzmil7s6QYngzRWSVONge4N286nIAcF1fxg4uC42
-BZZYxQEQ3m2e5FoFf5IYk4PblVOBeOyxPrqB/mIIV/ygeoPV9jjHXgxVYbdIGgxhIY852QT00/3R
-BPa7x+5ImSDARJNQ7MxtTmXQ4Hu/Nu9pGhLMtNjIqxmDtkv71wfUAnpJ51qhD0VZQjcVZlKi0NPf
-sbAlQdjn5VyU3klxpPNT3I23AuNiDkqpADjEQyL9AVKCww0nnoOZLCjBQNj1b8Ved0ZJxKGuM463
-cPMs2+ZULKKq7vGST4IGiS0fXkXZz2xYuHmoIexyxmNw7qObw90LED8931LoNV6ia8ueE1py9hCZ
-SyfyxzKt/n1PcuvOpcKqMjTi3IfciennLENyvcE+KFDxP6j7tH70MFXVisKtNFzHBqjuf9OVuBj1
-Z89W/rtCCYp0xOruLAMzxuzd5yM66rN+MD7stLmizMUTK8zWfs7NCfSMC7tayyVjqMfeK10Cp7DU
-EJRQD8XqoJ3suzBwzAXz3mHf5Gi3/FGPdyTrcgn008/3DI8UbGk93yJsScpOW6s2p/kmPONVAVe3
-igtanq0Y2NfhcXwoUGRjfUw4fVHjFqGKKPEtrpfkYpNI1IbZxoEM+3e5Q3tff/LObBVc/F9aKMcw
-oRZH46RDL3doPFC2uCX6TWWaM9zDRbTMvrLCghCcfny9+rQR5aAB/91E5Sz4UyYt6N04FipXodts
-2cb3bzJo5m+fdpgxAo1dHPYcXYvRP1ltcbJSW1pW6KF/8sW+d7sIkO0Ul6BHY6XVBR//+bwZSMc7
-IPCUcBtEKLgWLuzXYbQQdvCt3P6oe2FwKxnfaW8Q3RV5tkVwE6sGf7lFFlONRSv6JoGF9FbmcYH5
-cHKCjaksSyOBx+bHmwsSDNWY0v7S89dBmLC3/8wJK9yCME55ffKEYvCBw0dScTJgUcuG0t0TC8x8
-qc9eVUoEvXVMBT6xsEI32deSvncVSXy4RhVjULjx2qdgwEt+pkoST/qzWYef59Ud2oYIZUD+MX/V
-OIv4cqbR8FU/EpKMyGMlmZLAZC0xx7KCAMJtAhT6kKTdfKppdEXjrhPN1DtoS3Lzr9K039Sc1Kp3
-BJaWBWVyt14WsCwEe9ygDoq=
+<?php
+
+/**
+ * Zend Framework
+ *
+ * LICENSE
+ *
+ * This source file is subject to the new BSD license that is bundled
+ * with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://framework.zend.com/license/new-bsd
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@zend.com so we can send you a copy immediately.
+ *
+ * @category   Zend
+ * @package    Zend_Http
+ * @subpackage Client_Adapter
+ * @version    $Id: Proxy.php 17118 2009-07-26 09:41:41Z shahar $
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+
+/**
+ * @see Zend_Uri_Http
+ */
+require_once 'Zend/Uri/Http.php';
+/**
+ * @see Zend_Http_Client
+ */
+require_once 'Zend/Http/Client.php';
+/**
+ * @see Zend_Http_Client_Adapter_Socket
+ */
+require_once 'Zend/Http/Client/Adapter/Socket.php';
+
+/**
+ * HTTP Proxy-supporting Zend_Http_Client adapter class, based on the default
+ * socket based adapter.
+ *
+ * Should be used if proxy HTTP access is required. If no proxy is set, will
+ * fall back to Zend_Http_Client_Adapter_Socket behavior. Just like the
+ * default Socket adapter, this adapter does not require any special extensions
+ * installed.
+ *
+ * @category   Zend
+ * @package    Zend_Http
+ * @subpackage Client_Adapter
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+class Zend_Http_Client_Adapter_Proxy extends Zend_Http_Client_Adapter_Socket
+{
+    /**
+     * Parameters array
+     *
+     * @var array
+     */
+    protected $config = array(
+        'ssltransport'  => 'ssl',
+        'sslcert'       => null,
+        'sslpassphrase' => null,
+        'proxy_host'    => '',
+        'proxy_port'    => 8080,
+        'proxy_user'    => '',
+        'proxy_pass'    => '',
+        'proxy_auth'    => Zend_Http_Client::AUTH_BASIC,
+        'persistent'    => false
+    );
+
+    /**
+     * Whether HTTPS CONNECT was already negotiated with the proxy or not
+     *
+     * @var boolean
+     */
+    protected $negotiated = false;
+
+    /**
+     * Connect to the remote server
+     *
+     * Will try to connect to the proxy server. If no proxy was set, will
+     * fall back to the target server (behave like regular Socket adapter)
+     *
+     * @param string  $host
+     * @param int     $port
+     * @param boolean $secure
+     */
+    public function connect($host, $port = 80, $secure = false)
+    {
+        // If no proxy is set, fall back to Socket adapter
+        if (! $this->config['proxy_host']) {
+            return parent::connect($host, $port, $secure);
+        }
+
+        // Connect (a non-secure connection) to the proxy server
+        return parent::connect(
+            $this->config['proxy_host'],
+            $this->config['proxy_port'],
+            false
+        );
+    }
+
+    /**
+     * Send request to the proxy server
+     *
+     * @param string        $method
+     * @param Zend_Uri_Http $uri
+     * @param string        $http_ver
+     * @param array         $headers
+     * @param string        $body
+     * @return string Request as string
+     */
+    public function write($method, $uri, $http_ver = '1.1', $headers = array(), $body = '')
+    {
+        // If no proxy is set, fall back to default Socket adapter
+        if (! $this->config['proxy_host']) return parent::write($method, $uri, $http_ver, $headers, $body);
+
+        // Make sure we're properly connected
+        if (! $this->socket) {
+            require_once 'Zend/Http/Client/Adapter/Exception.php';
+            throw new Zend_Http_Client_Adapter_Exception("Trying to write but we are not connected");
+        }
+
+        $host = $this->config['proxy_host'];
+        $port = $this->config['proxy_port'];
+
+        if ($this->connected_to[0] != "tcp://$host" || $this->connected_to[1] != $port) {
+            require_once 'Zend/Http/Client/Adapter/Exception.php';
+            throw new Zend_Http_Client_Adapter_Exception("Trying to write but we are connected to the wrong proxy server");
+        }
+
+        // Add Proxy-Authorization header
+        if ($this->config['proxy_user'] && ! isset($headers['proxy-authorization'])) {
+            $headers['proxy-authorization'] = Zend_Http_Client::encodeAuthHeader(
+                $this->config['proxy_user'], $this->config['proxy_pass'], $this->config['proxy_auth']
+            );
+        }
+
+        // if we are proxying HTTPS, preform CONNECT handshake with the proxy
+        if ($uri->getScheme() == 'https' && (! $this->negotiated)) {
+            $this->connectHandshake($uri->getHost(), $uri->getPort(), $http_ver, $headers);
+            $this->negotiated = true;
+        }
+
+        // Save request method for later
+        $this->method = $method;
+
+        // Build request headers
+        if ($this->negotiated) {
+            $path = $uri->getPath();
+            if ($uri->getQuery()) {
+                $path .= '?' . $uri->getQuery();
+            }
+            $request = "$method $path HTTP/$http_ver\r\n";
+        } else {
+            $request = "$method $uri HTTP/$http_ver\r\n";
+        }
+
+        // Add all headers to the request string
+        foreach ($headers as $k => $v) {
+            if (is_string($k)) $v = "$k: $v";
+            $request .= "$v\r\n";
+        }
+
+        // Add the request body
+        $request .= "\r\n" . $body;
+
+        // Send the request
+        if (! @fwrite($this->socket, $request)) {
+            require_once 'Zend/Http/Client/Adapter/Exception.php';
+            throw new Zend_Http_Client_Adapter_Exception("Error writing request to proxy server");
+        }
+
+        return $request;
+    }
+
+    /**
+     * Preform handshaking with HTTPS proxy using CONNECT method
+     *
+     * @param string  $host
+     * @param integer $port
+     * @param string  $http_ver
+     * @param array   $headers
+     */
+    protected function connectHandshake($host, $port = 443, $http_ver = '1.1', array &$headers = array())
+    {
+        $request = "CONNECT $host:$port HTTP/$http_ver\r\n" .
+                   "Host: " . $this->config['proxy_host'] . "\r\n";
+
+        // Add the user-agent header
+        if (isset($this->config['useragent'])) {
+            $request .= "User-agent: " . $this->config['useragent'] . "\r\n";
+        }
+
+        // If the proxy-authorization header is set, send it to proxy but remove
+        // it from headers sent to target host
+        if (isset($headers['proxy-authorization'])) {
+            $request .= "Proxy-authorization: " . $headers['proxy-authorization'] . "\r\n";
+            unset($headers['proxy-authorization']);
+        }
+
+        $request .= "\r\n";
+
+        // Send the request
+        if (! @fwrite($this->socket, $request)) {
+            require_once 'Zend/Http/Client/Adapter/Exception.php';
+            throw new Zend_Http_Client_Adapter_Exception("Error writing request to proxy server");
+        }
+
+        // Read response headers only
+        $response = '';
+        $gotStatus = false;
+        while ($line = @fgets($this->socket)) {
+            $gotStatus = $gotStatus || (strpos($line, 'HTTP') !== false);
+            if ($gotStatus) {
+                $response .= $line;
+                if (!chop($line)) break;
+            }
+        }
+
+        // Check that the response from the proxy is 200
+        if (Zend_Http_Response::extractCode($response) != 200) {
+            require_once 'Zend/Http/Client/Adapter/Exception.php';
+            throw new Zend_Http_Client_Adapter_Exception("Unable to connect to HTTPS proxy. Server response: " . $response);
+        }
+
+        // If all is good, switch socket to secure mode. We have to fall back
+        // through the different modes
+        $modes = array(
+            STREAM_CRYPTO_METHOD_TLS_CLIENT,
+            STREAM_CRYPTO_METHOD_SSLv3_CLIENT,
+            STREAM_CRYPTO_METHOD_SSLv23_CLIENT,
+            STREAM_CRYPTO_METHOD_SSLv2_CLIENT
+        );
+
+        $success = false;
+        foreach($modes as $mode) {
+            $success = stream_socket_enable_crypto($this->socket, true, $mode);
+            if ($success) break;
+        }
+
+        if (! $success) {
+                require_once 'Zend/Http/Client/Adapter/Exception.php';
+                throw new Zend_Http_Client_Adapter_Exception("Unable to connect to" .
+                    " HTTPS server through proxy: could not negotiate secure connection.");
+        }
+    }
+
+    /**
+     * Close the connection to the server
+     *
+     */
+    public function close()
+    {
+        parent::close();
+        $this->negotiated = false;
+    }
+
+    /**
+     * Destructor: make sure the socket is disconnected
+     *
+     */
+    public function __destruct()
+    {
+        if ($this->socket) $this->close();
+    }
+}

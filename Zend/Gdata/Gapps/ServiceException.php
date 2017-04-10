@@ -1,65 +1,208 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-HR+cPoSRlBm4oGIpnTKfdsh/31lGvpdolmFti+Xms8qwj19PvDtwvBPt2TUGfrZTfeX9pw+8Wn2Y
-TCJNpxapyDJeixixVpd7n3h5XIXdNOKwuQ8E99HjN0N5sGMrBrVm+5H9lQ+Jhk/lmCoMrugiRhVc
-fRIjfmPQgrumaX2cBqzSIIdRVDTKgVeFvGAhJh0xwj3sdUHcFHubwquNkyCDNXLzoUi6wCGsLtIe
-B2rL3F1nIbv2qdxYiVg9sUg8FiuZYPmtS9bsLu20iCwUQfTk0rFeuya9TkaLQYs38F/cIdG8gw/b
-mmkRnZGjDRyXQffH+rhJNSQjbq+F2iVT0wKp901Ggv8Hx59p7obH/bFrFXZn737hdnL+wTygAmfQ
-1Pqejm1ZYN5dlCt7bQ1SSd1ppr/FeDdMxibBRksHxj8JSxgIEaBQpQP5JQn5EAwFs/Y4jN9FbARP
-sPCqAjnOKfgcX/3o8/VWEjWXvq5IAmljyPrBYWt/WGEqReXdQK5Pw81aV0sgXN3TddB8A5dFyMsw
-MQ/PTW/KSvvc3ob2ZdZlMAgPPzrZvqZo+hOZO3iCP9ApRlM2J5JpAYBeRCo+T+4bPXM7CAsdJFF4
-26fQAn6Sk7zL0zV7U1OFuiKkVUW+1Z+Pl3uayvxeDIfP+MQHIuws+2PMTD8jxAVrSWnVkKHUPUS0
-nVhXy4PTccJGoPQOXuKZ6OYL0nEx5TrjnCGOe+sFOIf/Oxq0LdGSw0dQxV3B8LlfzaUzEjrYbFnc
-zB33i2BHGlizUol15AhtewxeyFQP5FTFd3c1LWwX/7W+hHpt+uoH6mOJ2Vsu2tCXm3BIJZalMajh
-QXpE7w2OD8tFZqKFk/2nTPq4/qiMT4fsmx4e7xlrHEfCNke9mGT19wkoPeUIOJUu+YsmkwcWvvYy
-hBM34mX7XYqE8J+lLNXP2NRYEhSFjEl343QvcjdmEdX/YAEd8vDYGH5ohFSC2QQnfQCgKtGKDhMB
-ndPL6drA3LzAqfqabMDK1GXv3ne7eYhL9E9UicYVqMmPqwnQasJB+jjjMq8kza6dwqJ9jnrDh4NI
-jVt9deB08mgKiuUKnE53Vw0oE2NETT2+UGfPIX6vCPO/Hwajpyfy83fV5BXsMMPQnq7OkPQGBHlG
-xVxUgOc+Rg95V9te33J+dOqYQJCAiJt4cDvbtT3PZyFwWH7LhMch90x4O4KhDLFut66IKxzJf9+x
-Cuq1ieysn/df7MDt520QgkflsY4DvUCZBNGnDmIe3kOzjKYzNvhlVODqFqY5V3QVO9z6SjqXbv4C
-hEtd6+RQOuv9HEPRegWD8eFU9o8rFp9kHafHqho3XVzk7//OoXnt5MR0ahW/C+w5xXE+fdUauHfn
-42KkZmqxO4RntQDTdSGfUdmkCbU+QOwdcDq1VcNSEVuPfB3cNhdVWDFUxw+sCej8UQlTaOpH9Ttp
-EZEhHXrFp0u3nNdCSgFZiZtPlvEnvEJ1lBFTvp0j9GQf3ayP468wvP05PRgLYx+9S5FAHO2Vhqnc
-1WT5U+EIZg1ON9DkGo3P/Vz0e7J8RJKM5n3IrjTaqaZ+1wxITK9zCxF7YWHa3mB4YCb5fBZQ+/d1
-VGtECj57b4TvCtUyFgyjeRmdH65aMgAzLTVZSfiiDVk+1WeD5xNQdwrfkXGet3jbfuvyz7cYVpYg
-7yTNWJ8f/vCi6A231mg7Pu/Ks0QAtiEqd2GH+vhE5HZV4nYqWIMOtYUO6uI7haZpSCRCVaL89nqw
-ov4BsExV2LI4m7+DTzN07dlYjE4JXiLUtNQ+7th/L3Z8fCaAQNloe1qz9iwFRtjY0PNFDyP8unXE
-kISWobvzMjucBlWkX5yH4RR36JAaGIgkYb9+jbzJAd6WB1bSCzvkAqOPD8ErP2CgFWY2LlZtIlUp
-iPV551yw+5Y4tvYgeHFNjzON8zP6n4K7TtZDd+ncA0JLTKmjxpcNHmR1QCoOsu6dFmvIfc+IUc1Q
-wW3egUL9yePIE1ZNzRy3Yq8IIHN5wBKVLmMuC1733XIZKYV/8GAQ/6B6sFJwcMt9j0oIUNvUuzeN
-GfTG4E/dAJwNRB7/NccErTyqFIvLMdpCHZu+897jfmjbDS9f/nWvYu9GSDbH9oKInacy4MoBLQLC
-9E5WpC39EzTre5Bc197mcMuKe83DUDgfOuet6A76hTaT3O1VhPeNwxRGweZ/DTOv3Lh0bvKjVK2f
-06vVjg6LCT7ljC26RJCSeYbV5em7eDwj8STq/6sxdb91G7E1+tGlIu4NRco0WltZOFlcQCZ9vvA6
-//Ad0h490RaooOZTW1KA+THyg/Km/pHGGGO9gCFyKvS9MG1qRtPkJWzxBQKsGnLpmLoeyWIzcTNR
-NmJzLgfzDFy0+2p26nwaMWJwdf42W/+ZIFZkaw+inrojTTiHcZybYz0j8xqkuSE0z/4v6uL3PUul
-L//X67pkWaYvelJ236hO9zj2AV5KsBuZ/FH7q7pxR1vNIMwXBxur3Gl0MwuC/AnKTvW/8mYnN4iL
-v0sw7F/SJ262ZuGdVk5pHjUUa0nMplB0lESVAdDo3KEhN5qOZ88GetFh6iCZxKGwE145/G66ItLO
-xFGqa/6SClB0upeTxRUBc4ZveLFynsfMryxbFV/jFPB+X2vbXwplneqeV8dhryJghmOlOCnqyZ8z
-eUDDdfElsoEF+b84eAexUWFu6fUFNRA7HrHgB/8KbEeh5aPiZwSlKLgOSJEPpp+QbgBx5QnoU1ev
-ywjRyCovN1dOmbTfifR5kO8H85vhfQe833QH4H9XYbSSfYbuSn0M9xM7nW0QZ8dGtZ56CeCr1tQ7
-LtoL4ge3wN21hj4Poy2GAhjtnS7dGNgty+XYrovOeTrmkRKDSomnXhoe/ssiQQXkVNgoDfjWUEdj
-EX6RYRtJ2ZE4Z3vrRqEbKtqGDCfkO3zkYP/kGT7hp16sBfDm+mLlYBGCsbFtZ7Kd8PywwWn/pYkn
-NTOKtD4kBuLo+0CY6HWVujZGh8uR3uhTdW/6WenE+NdrmmGkW51hfqV1FLb8BAhXHio1z429Rcpx
-xnGK5bUtAbZYwr/KOt9sxVMJD7OrJxRzm1QCDbXUAXX9xhKEx3Ch/xsmrOpDSG/mAzYkTEqjZJEd
-IAQbk2JmhCmqORs9GnPeblZlO1e8E4Ka566Cb0OX8+fX1AJwemdWvqvfOyRZ1ryTvQ9Ufz2+NTmh
-NWLPvTfxvp8eDEhgHRoWgtYYwec7qao4sHCefr3ECijJ1Dv8AsylUKjMiXPpPYNkbjQ3KCbTMhvy
-GOiiz5zpI/sk7QGoAaWKQREy6/k7QSSW0jR+xgE9XqgDO0aqHBD2TvmAF+Ar5Ninsp2JssAVdd4g
-s6fyOh9HRMwGhPNwmpHIZjmMirGw7xUONukgZqiWQ52T97151Ag3kJzrRiXS7lyDaZZo5gpLcLju
-iEig6XDAl02zvvA4VT67+5aJA9yIZ4Fd6gCKe99zuBwURdm0UsdjlV6upH9dqield//nRd5K0XK5
-Nf0iLaaqHh1kYoxINSmb6U0r5h6saHQu/GgjhcLg4L9kXWvX6dFG+qcPkOA45JB5tE7s0U4YKTY1
-3kZEydY+zhzJMSHsiuZEYQIIc9rzdOjz4esl3on5OTZ66p/gVnMxVxZntudlxEDxYJVKozLT2fuH
-G4CYcO9TJA0lFHzSVtLnk8w8D3Peeb7VhSp0XC2GRuTpRoGWhxOgj3L1I0695/6HPuFdIWdID7RO
-brjzQxwhHKSvjb1N5HbdxuWKRMcdYF9BHps1iTuT+XTx9eWwHiOEcV3Z0OOl3/+Q17GlllL/Z5dS
-R/Hu9p9+wr98e5mwfumDePGa8Iz7z5BYNchDNFY7Sul/5oxB3E9nTnQ1FTHJIA5PvTS6LArHSzkW
-T/5JvTuQMDInaEGCK/kKep6HBhe07imebCd6z6rhvn7ZBjgWelGMi3RVlYqH8KuZBC9Yf1EW1XVu
-QGwKqBzQ7vv8MBZr8fp/uxHpcKHpQxDIaJAv2DzxFevwSK+aUbihlHidVjMUUgX0svcv1QGWhcfj
-wy2OjHrL3LDut1258Y38LtXMmOtvgJaeACUSTnBrUq3SCGLCwylj7ANWmbB+2DLrRX3/HA4mSwvN
-0spefIFJ9zPNQuALfxdbWFsDQFqnII7bO67cUWBfL1Q9kczx7mvUzTHamKZhPfz80wDdXVZQVgEK
-7EtAUIsamlf/5V+J8eWEoJurvC2A09/bSv4AlZjY+f80P/gqwP0oszC0tVWdspjAdUMcLm3R3Ikp
-ivK/D+/STyjNNfh6m6ceNnH5lprGhhCmRzQDDrumgV78jZPSUI2dagdhWACHmuqYtttDNm4stX0X
-YNx/geFjHRUYfz1vW6jnzC1G5tTeb6TYQbodXrdjhdLcQdiQMmqP00vkYfbAKUgfc8QGaoUhHWLu
-nNAE/ReLzoIlhVm193ZKVUXJREkoQQVY98KVugI4Z1DS0PjtbkVL+wjv3QpL1032kJx/I74OAK68
-ZEgIaeNlk7SSqDUhPVRGZxV4AntlwWWGZpYBb0VpEOfbXmYmJh7BoMDC4wAi/fDZoDLIyvNHoY4U
-aO09gtYKnZhtKpaeGTZHA7gGvpr3QH9fWY0M1G063XIVnLVGzmrcsGa9wvdMh1juX8NoKaJzsWlQ
-rv684uxbcn3UVjHglVffx2gXGQs9KAUy
+<?php
+
+/**
+ * Zend Framework
+ *
+ * LICENSE
+ *
+ * This source file is subject to the new BSD license that is bundled
+ * with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://framework.zend.com/license/new-bsd
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@zend.com so we can send you a copy immediately.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Gapps
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ * @version    $Id: ServiceException.php 18951 2009-11-12 16:26:19Z alexander $
+ */
+
+
+/**
+ * Zend_Exception
+ */
+require_once 'Zend/Exception.php';
+
+/**
+ * Zend_Gdata_Gapps_Error
+ */
+require_once 'Zend/Gdata/Gapps/Error.php';
+
+/**
+ * Gdata Gapps Exception class. This is thrown when an
+ * AppsForYourDomainErrors message is received from the Google Apps
+ * servers.
+ *
+ * Several different errors may be represented by this exception. For a list
+ * of error codes available, see getErrorCode.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Gapps
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+class Zend_Gdata_Gapps_ServiceException extends Zend_Exception
+{
+
+    protected $_rootElement = "AppsForYourDomainErrors";
+
+    /**
+     * Array of Zend_Gdata_Error objects indexed by error code.
+     *
+     * @var array
+     */
+    protected $_errors = array();
+
+    /**
+     * Create a new ServiceException.
+     *
+     * @return array An array containing a collection of
+     *          Zend_Gdata_Gapps_Error objects.
+     */
+    public function __construct($errors = null) {
+        parent::__construct("Server errors encountered");
+        if ($errors !== null) {
+            $this->setErrors($errors);
+        }
+    }
+
+    /**
+     * Add a single Error object to the list of errors received by the
+     * server.
+     *
+     * @param Zend_Gdata_Gapps_Error $error An instance of an error returned
+     *          by the server. The error's errorCode must be set.
+     * @throws Zend_Gdata_App_Exception
+     */
+    public function addError($error) {
+        // Make sure that we don't try to index an error that doesn't
+        // contain an index value.
+        if ($error->getErrorCode() == null) {
+            require_once 'Zend/Gdata/App/Exception.php';
+            throw new Zend_Gdata_App_Exception("Error encountered without corresponding error code.");
+        }
+
+        $this->_errors[$error->getErrorCode()] = $error;
+    }
+
+    /**
+     * Set the list of errors as sent by the server inside of an
+     * AppsForYourDomainErrors tag.
+     *
+     * @param array $array An associative array containing a collection of
+     *          Zend_Gdata_Gapps_Error objects. All errors must have their
+     *          errorCode value set.
+     * @throws Zend_Gdata_App_Exception
+     */
+    public function setErrors($array) {
+        $this->_errors = array();
+        foreach ($array as $error) {
+            $this->addError($error);
+        }
+    }
+
+    /**
+     * Get the list of errors as sent by the server inside of an
+     * AppsForYourDomainErrors tag.
+     *
+     * @return array An associative array containing a collection of
+     *          Zend_Gdata_Gapps_Error objects, indexed by error code.
+     */
+    public function getErrors() {
+        return $this->_errors;
+    }
+
+    /**
+     * Return the Error object associated with a specific error code.
+     *
+     * @return Zend_Gdata_Gapps_Error The Error object requested, or null
+     *              if not found.
+     */
+    public function getError($errorCode) {
+        if (array_key_exists($errorCode, $this->_errors)) {
+            $result = $this->_errors[$errorCode];
+            return $result;
+        } else {
+            return null;
+        }
+    }
+
+    /**
+     * Check whether or not a particular error code was returned by the
+     * server.
+     *
+     * @param integer $errorCode The error code to check against.
+     * @return boolean Whether or not the supplied error code was returned
+     *          by the server.
+     */
+    public function hasError($errorCode) {
+        return array_key_exists($errorCode, $this->_errors);
+    }
+
+    /**
+     * Import an AppsForYourDomain error from XML.
+     *
+     * @param string $string The XML data to be imported
+     * @return Zend_Gdata_Gapps_ServiceException Provides a fluent interface.
+     * @throws Zend_Gdata_App_Exception
+     */
+    public function importFromString($string) {
+        if ($string) {
+            // Check to see if an AppsForYourDomainError exists
+            //
+            // track_errors is temporarily enabled so that if an error
+            // occurs while parsing the XML we can append it to an
+            // exception by referencing $php_errormsg
+            @ini_set('track_errors', 1);
+            $doc = new DOMDocument();
+            $success = @$doc->loadXML($string);
+            @ini_restore('track_errors');
+
+            if (!$success) {
+                require_once 'Zend/Gdata/App/Exception.php';
+                // $php_errormsg is automatically generated by PHP if
+                // an error occurs while calling loadXML(), above.
+                throw new Zend_Gdata_App_Exception("DOMDocument cannot parse XML: $php_errormsg");
+            }
+
+            // Ensure that the outermost node is an AppsForYourDomain error.
+            // If it isn't, something has gone horribly wrong.
+            $rootElement = $doc->getElementsByTagName($this->_rootElement)->item(0);
+            if (!$rootElement) {
+                require_once 'Zend/Gdata/App/Exception.php';
+                throw new Zend_Gdata_App_Exception('No root <' . $this->_rootElement . '> element found, cannot parse feed.');
+            }
+
+            foreach ($rootElement->childNodes as $errorNode) {
+                if (!($errorNode instanceof DOMText)) {
+                    $error = new Zend_Gdata_Gapps_Error();
+                    $error->transferFromDom($errorNode);
+                    $this->addError($error);
+                }
+            }
+            return $this;
+        } else {
+            require_once 'Zend/Gdata/App/Exception.php';
+            throw new Zend_Gdata_App_Exception('XML passed to transferFromXML cannot be null');
+        }
+
+    }
+
+    /**
+     * Get a human readable version of this exception.
+     *
+     * @return string
+     */
+    public function __toString() {
+        $result = "The server encountered the following errors processing the request:";
+        foreach ($this->_errors as $error) {
+            $result .= "\n" . $error->__toString();
+        }
+        return $result;
+    }
+}

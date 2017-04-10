@@ -1,95 +1,336 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
+<?php
+
+/**
+ * Zend Framework
+ *
+ * LICENSE
+ *
+ * This source file is subject to the new BSD license that is bundled
+ * with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://framework.zend.com/license/new-bsd
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@zend.com so we can send you a copy immediately.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage YouTube
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ * @version    $Id: MediaGroup.php 16971 2009-07-22 18:05:45Z mikaelkael $
+ */
+
+/**
+ * @see Zend_Gdata_Media_Extension_MediaGroup
+ */
+require_once 'Zend/Gdata/Media/Extension/MediaGroup.php';
+
+/**
+ * @see Zend_Gdata_YouTube_Extension_MediaContent
+ */
+require_once 'Zend/Gdata/YouTube/Extension/MediaContent.php';
+
+/**
+ * @see Zend_Gdata_YouTube_Extension_Duration
+ */
+require_once 'Zend/Gdata/YouTube/Extension/Duration.php';
+
+/**
+ * @see Zend_Gdata_YouTube_Extension_MediaRating
+ */
+require_once 'Zend/Gdata/YouTube/Extension/MediaRating.php';
+
+/**
+ * @see Zend_Gdata_YouTube_Extension_MediaCredit
+ */
+require_once 'Zend/Gdata/YouTube/Extension/MediaCredit.php';
+
+/**
+ * @see Zend_Gdata_YouTube_Extension_Private
+ */
+require_once 'Zend/Gdata/YouTube/Extension/Private.php';
+
+/**
+ * @see Zend_Gdata_YouTube_Extension_VideoId
+ */
+require_once 'Zend/Gdata/YouTube/Extension/VideoId.php';
+
+/**
+ * @see Zend_Gdata_YouTube_Extension_Uploaded
+ */
+require_once 'Zend/Gdata/YouTube/Extension/Uploaded.php';
+
+/**
+ * This class represents the media:group element of Media RSS.
+ * It allows the grouping of media:content elements that are
+ * different representations of the same content.  When it exists,
+ * it is a child of an Entry (Atom) or Item (RSS).
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage YouTube
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+class Zend_Gdata_YouTube_Extension_MediaGroup extends Zend_Gdata_Media_Extension_MediaGroup
+{
+
+    protected $_rootElement = 'group';
+    protected $_rootNamespace = 'media';
+
+    /**
+     * @var Zend_Gdata_YouTube_Extension_Duration
+     */
+    protected $_duration = null;
+
+    /**
+     * @var Zend_Gdata_YouTube_Extension_Private
+     */
+    protected $_private = null;
+
+    /**
+     * @var Zend_Gdata_YouTube_Extension_VideoId
+     */
+    protected $_videoid = null;
+
+    /**
+     * @var Zend_Gdata_YouTube_Extension_MediaRating
+     */
+    protected $_mediarating = null;
+
+    /**
+     * @var Zend_Gdata_YouTube_Extension_MediaCredit
+     */
+    protected $_mediacredit = null;
+
+    /**
+     * @var Zend_Gdata_YouTube_Extension_Uploaded
+     */
+    protected $_uploaded = null;
+
+    public function __construct($element = null)
+    {
+        $this->registerAllNamespaces(Zend_Gdata_YouTube::$namespaces);
+        parent::__construct($element);
+    }
+
+    public function getDOM($doc = null, $majorVersion = 1, $minorVersion = null)
+    {
+        $element = parent::getDOM($doc, $majorVersion, $minorVersion);
+        if ($this->_duration !== null) {
+            $element->appendChild(
+                $this->_duration->getDOM($element->ownerDocument));
+        }
+        if ($this->_private !== null) {
+            $element->appendChild(
+                $this->_private->getDOM($element->ownerDocument));
+        }
+        if ($this->_videoid != null) {
+            $element->appendChild(
+                $this->_videoid->getDOM($element->ownerDocument));
+        }
+        if ($this->_uploaded != null) {
+            $element->appendChild(
+                $this->_uploaded->getDOM($element->ownerDocument));
+        }
+        if ($this->_mediacredit != null) {
+            $element->appendChild(
+                $this->_mediacredit->getDOM($element->ownerDocument));
+        }
+        if ($this->_mediarating != null) {
+            $element->appendChild(
+                $this->_mediarating->getDOM($element->ownerDocument));
+        }
+        return $element;
+    }
+
+    /**
+     * Creates individual Entry objects of the appropriate type and
+     * stores them in the $_entry array based upon DOM data.
+     *
+     * @param DOMNode $child The DOMNode to process
+     */
+    protected function takeChildFromDOM($child)
+    {
+        $absoluteNodeName = $child->namespaceURI . ':' . $child->localName;
+        switch ($absoluteNodeName) {
+            case $this->lookupNamespace('media') . ':' . 'content':
+                $content = new Zend_Gdata_YouTube_Extension_MediaContent();
+                $content->transferFromDOM($child);
+                $this->_content[] = $content;
+                break;
+            case $this->lookupNamespace('media') . ':' . 'rating':
+                $mediarating = new Zend_Gdata_YouTube_Extension_MediaRating();
+                $mediarating->transferFromDOM($child);
+                $this->_mediarating = $mediarating;
+                break;
+            case $this->lookupNamespace('media') . ':' . 'credit':
+                $mediacredit = new Zend_Gdata_YouTube_Extension_MediaCredit();
+                $mediacredit->transferFromDOM($child);
+                $this->_mediacredit = $mediacredit;
+                break;
+            case $this->lookupNamespace('yt') . ':' . 'duration':
+                $duration = new Zend_Gdata_YouTube_Extension_Duration();
+                $duration->transferFromDOM($child);
+                $this->_duration = $duration;
+                break;
+            case $this->lookupNamespace('yt') . ':' . 'private':
+                $private = new Zend_Gdata_YouTube_Extension_Private();
+                $private->transferFromDOM($child);
+                $this->_private = $private;
+                break;
+            case $this->lookupNamespace('yt') . ':' . 'videoid':
+                $videoid = new Zend_Gdata_YouTube_Extension_VideoId();
+                $videoid ->transferFromDOM($child);
+                $this->_videoid = $videoid;
+                break;
+            case $this->lookupNamespace('yt') . ':' . 'uploaded':
+                $uploaded = new Zend_Gdata_YouTube_Extension_Uploaded();
+                $uploaded ->transferFromDOM($child);
+                $this->_uploaded = $uploaded;
+                break;
+        default:
+            parent::takeChildFromDOM($child);
+            break;
+        }
+    }
+
+    /**
+     * Returns the duration value of this element
+     *
+     * @return Zend_Gdata_YouTube_Extension_Duration
+     */
+    public function getDuration()
+    {
+        return $this->_duration;
+    }
+
+    /**
+     * Sets the duration value of this element
+     *
+     * @param Zend_Gdata_YouTube_Extension_Duration $value The duration value
+     * @return Zend_Gdata_YouTube_Extension_MediaGroup Provides a fluent
+     *         interface
+     */
+    public function setDuration($value)
+    {
+        $this->_duration = $value;
+        return $this;
+    }
+
+    /**
+     * Returns the videoid value of this element
+     *
+     * @return Zend_Gdata_YouTube_Extension_VideoId
+     */
+    public function getVideoId()
+    {
+        return $this->_videoid;
+    }
+
+    /**
+     * Sets the videoid value of this element
+     *
+     * @param Zend_Gdata_YouTube_Extension_VideoId $value The video id value
+     * @return Zend_Gdata_YouTube_Extension_MediaGroup Provides a fluent
+     *         interface
+     */
+    public function setVideoId($value)
+    {
+        $this->_videoid = $value;
+        return $this;
+    }
+
+    /**
+     * Returns the yt:uploaded element
+     *
+     * @return Zend_Gdata_YouTube_Extension_Uploaded
+     */
+    public function getUploaded()
+    {
+        return $this->_uploaded;
+    }
+
+    /**
+     * Sets the yt:uploaded element
+     *
+     * @param Zend_Gdata_YouTube_Extension_Uploaded $value The uploaded value
+     * @return Zend_Gdata_YouTube_Extension_MediaGroup Provides a fluent
+     *         interface
+     */
+    public function setUploaded($value)
+    {
+        $this->_uploaded = $value;
+        return $this;
+    }
+
+    /**
+     * Returns the private value of this element
+     *
+     * @return Zend_Gdata_YouTube_Extension_Private
+     */
+    public function getPrivate()
+    {
+        return $this->_private;
+    }
+
+    /**
+     * Sets the private value of this element
+     *
+     * @param Zend_Gdata_YouTube_Extension_Private $value The private value
+     * @return Zend_Gdata_YouTube_Extension_MediaGroup Provides a fluent
+     *         interface
+     */
+    public function setPrivate($value)
+    {
+        $this->_private = $value;
+        return $this;
+    }
+
+    /**
+     * Returns the rating value of this element
+     *
+     * @return Zend_Gdata_YouTube_Extension_MediaRating
+     */
+    public function getMediaRating()
+    {
+        return $this->_mediarating;
+    }
+
+    /**
+     * Sets the media:rating value of this element
+     *
+     * @param Zend_Gdata_YouTube_Extension_MediaRating $value The rating element
+     * @return Zend_Gdata_YouTube_Extension_MediaGroup Provides a fluent
+     *         interface
+     */
+    public function setMediaRating($value)
+    {
+        $this->_mediarating = $value;
+        return $this;
+    }
+
+    /**
+     * Returns the media:credit value of this element
+     *
+     * @return Zend_Gdata_YouTube_Extension_MediaCredit
+     */
+    public function getMediaCredit()
+    {
+        return $this->_mediacredit;
+    }
+
+    /**
+     * Sets the media:credit value of this element
+     *
+     * @param Zend_Gdata_YouTube_Extension_MediaCredit $value The credit element
+     * @return Zend_Gdata_YouTube_Extension_MediaGroup Provides a fluent
+     *         interface
+     */
+    public function setMediaCredit($value)
+    {
+        $this->_mediacredit = $value;
+        return $this;
+    }
+}

@@ -1,74 +1,175 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
+<?php
+
+/**
+ * Zend Framework
+ *
+ * LICENSE
+ *
+ * This source file is subject to the new BSD license that is bundled
+ * with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://framework.zend.com/license/new-bsd
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@zend.com so we can send you a copy immediately.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Gdata
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ * @version    $Id: FeedLink.php 16971 2009-07-22 18:05:45Z mikaelkael $
+ */
+
+/**
+ * @see Zend_Gdata_Extension
+ */
+require_once 'Zend/Gdata/Extension.php';
+
+/**
+ * @see Zend_Gdata_Feed
+ */
+require_once 'Zend/Gdata/Feed.php';
+
+/**
+ * Represents the gd:feedLink element
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Gdata
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+class Zend_Gdata_Extension_FeedLink extends Zend_Gdata_Extension
+{
+
+    protected $_rootElement = 'feedLink';
+    protected $_countHint = null;
+    protected $_href = null;
+    protected $_readOnly = null;
+    protected $_rel = null;
+    protected $_feed = null;
+
+    public function __construct($href = null, $rel = null,
+            $countHint = null, $readOnly = null, $feed = null)
+    {
+        parent::__construct();
+        $this->_countHint = $countHint;
+        $this->_href = $href;
+        $this->_readOnly = $readOnly;
+        $this->_rel = $rel;
+        $this->_feed = $feed;
+    }
+
+    public function getDOM($doc = null, $majorVersion = 1, $minorVersion = null)
+    {
+        $element = parent::getDOM($doc, $majorVersion, $minorVersion);
+        if ($this->_countHint !== null) {
+            $element->setAttribute('countHint', $this->_countHint);
+        }
+        if ($this->_href !== null) {
+            $element->setAttribute('href', $this->_href);
+        }
+        if ($this->_readOnly !== null) {
+            $element->setAttribute('readOnly', ($this->_readOnly ? "true" : "false"));
+        }
+        if ($this->_rel !== null) {
+            $element->setAttribute('rel', $this->_rel);
+        }
+        if ($this->_feed !== null) {
+            $element->appendChild($this->_feed->getDOM($element->ownerDocument));
+        }
+        return $element;
+    }
+
+    protected function takeChildFromDOM($child)
+    {
+        $absoluteNodeName = $child->namespaceURI . ':' . $child->localName;
+        switch ($absoluteNodeName) {
+            case $this->lookupNamespace('atom') . ':' . 'feed';
+                $feed = new Zend_Gdata_Feed();
+                $feed->transferFromDOM($child);
+                $this->_feed = $feed;
+                break;
+        default:
+            parent::takeChildFromDOM($child);
+            break;
+        }
+    }
+
+    protected function takeAttributeFromDOM($attribute)
+    {
+        switch ($attribute->localName) {
+        case 'countHint':
+            $this->_countHint = $attribute->nodeValue;
+            break;
+        case 'href':
+            $this->_href = $attribute->nodeValue;
+            break;
+        case 'readOnly':
+            if ($attribute->nodeValue == "true") {
+                $this->_readOnly = true;
+            }
+            else if ($attribute->nodeValue == "false") {
+                $this->_readOnly = false;
+            }
+            else {
+                throw new Zend_Gdata_App_InvalidArgumentException("Expected 'true' or 'false' for gCal:selected#value.");
+            }
+            break;
+        case 'rel':
+            $this->_rel = $attribute->nodeValue;
+            break;
+        default:
+            parent::takeAttributeFromDOM($attribute);
+        }
+    }
+
+    /**
+     * @return string
+     */
+    public function getHref()
+    {
+        return $this->_href;
+    }
+
+    public function setHref($value)
+    {
+        $this->_href = $value;
+        return $this;
+    }
+
+    public function getReadOnly()
+    {
+        return $this->_readOnly;
+    }
+
+    public function setReadOnly($value)
+    {
+        $this->_readOnly = $value;
+        return $this;
+    }
+
+    public function getRel()
+    {
+        return $this->_rel;
+    }
+
+    public function setRel($value)
+    {
+        $this->_rel = $value;
+        return $this;
+    }
+
+    public function getFeed()
+    {
+        return $this->_feed;
+    }
+
+    public function setFeed($value)
+    {
+        $this->_feed = $value;
+        return $this;
+    }
+
+}

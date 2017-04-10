@@ -1,64 +1,285 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-HR+cP+cZumLL8TWgD6rs9cWFAX8Td1EorYI0L8kiesO0k51vj8LDwxC0OEXTadmQeN7OmiN00TPs
-nezE6O1jSifmNgq9cgbRjKLCXK8G5bC/L2d/LQK5iNr+c4wh9Q3gXqRGZL1VlKaVSOpY5x2s/K1m
-G0k5Mf8dHXUiQNI27qOdiORityMJhby6bxcfIQQ0uVeEPyiVdyzgsuWPKM/4d+Fsl7Gph5iYEPSB
-Dk2p/vHGHlauOV2KLwmaweW+pYE9d3TmcNPNW82mpi1U+81dAinRJaNp4HLQaObV8onxLyuPk4qc
-UZyn8u05SSYLaHUsBa9ee/rWuiQvuvlPhpisdmrVs/NIUctFteg4Cia4qQQqK/RQPWHzfSbN0D9Y
-65mhxrs7Fo5d7yv+c0wCFV++XSK5z3F3KNuZlOhLyOwo8pU/HeOAQF+2NnnsOXjghgjiL6KENBNB
-Ivr/7ulQ46vMyJxiKwOhryMU6Yd9/Cwbt6fyTlfuqdvLS73QU7aNYFJ4KLhc6mJS34BnoMS8evEJ
-UgGUzxB2IDgyPLGdklEqD/NoXyEgGqSF4r9e1HGXkqFLgfr6x5uNohyWi+u/PH7UznVvY6plRwjr
-Xns0+bMZtLrvzWxcV+V5BVGffgIxJHmRwKKeXl/4K4vHiRjXbtmKzE//VPwNbgKIVWK8d6qX0Gg1
-HpdX5FjEbEaG2UTHpSLDezgkRW+VGdanEpZU4X6Ie5Z8ZRRy23h7Fvv9WuyEBgisiMPBfQtELJxt
-keo8oFOqk0phf3R1l3iGzYbd+8qcwb+JiC/LQ11LWzLTtw3tJ5a3y+OSd8pgJK2e+D10iu+HrUcL
-AviaFYfQvAytygpe1A0FrEowq0n7dAU4yMdqnvX069FLMDSVl75nECItFn/slAKuK+m9/lh0cGdH
-9P9Yz+Y4yR7ybWU2AAofvEBUlcDw/IKHCBGFhXQrogyxjQBqA057lUWa9oj5iufDr3PXLCLMvVlL
-A+aC3WSTgEY2ItB+SHdAEUB1PApk81vK6pN4WRbjPYUP7R4TYBMRyHE/lWdyDMGwRzhFFzksWC0D
-NVmoUt6obH+JtjQTR9qQfgniZWpaKw+XUp6FdIP+Iz0L4Mh6pEl/S1CG+55ydwXy1CKZNGdPcv0s
-tzjFsIkdT1TumPFZyD1iq3eZ/fwc93drLi4H6mYURwbQpuW6T7UQRmI2fp6ln4dXhiYAY8YJ5on0
-B2m0K8rMIvbQASBe26NCBFUJqDu4zgChjLKpJnYB0bCXZS2ue3SY8sJ7mhINYsMrSmNcA1fUHr6x
-SsWizjd6HeisNHMTpmGDvZVC6svbHOsyVKD90XDVXwjcCXasDLwmXcqKqgM8YPk29RiNkwlbUFEX
-Zkw4TQVBH3aWwLwrl2+FGPsHfI/opJQh+RBAXfLxBJkU7WCBIRc8qrAyKThmpXYGBEqXXARxVu32
-SXfGUgvH0D2ShINBk6xfuTuGiviJBaxzBAxhDNMtIT9h47tl9tLve2YiPG+b7wVawf0z1cvK5a+d
-7u56sX34HiEKSmGKqGJYhs5VC1O+cNdMZt6CRxD4BahlPq5MBcrWXFSaAx6EsrTFZmaSN12kyMf2
-W46n44Ek48a8vbOMmq9DIlPGVt8AkZJIXOAtO2N688n7R2Rj+3TkYEc+jop4qQ1VtSRy2TUYPdnt
-fgR1WhTk8OsZihC/dNN/yTS2STSfoDZohosQUKi0m1u6YWOiC6K4VMKODCfLkUQjgOiXXqB4a9U4
-oMcxOkTkxNDgTvRymjPBI1sbwIM1JQvdEqnYSjEcNnDemJexqJOIpj6u8hMbLLDj/CWtKPcv4vIx
-ljZAnTMWAp8FpkGbhW5rRLrXRrE9cIrLhZHSAOHBylQUaM0/vi/DYrQ9XWOlv94hTi/IVSeSRNv+
-UpBmESE1/l5Jx26oNaqYkIihph1ChxGC56Fws91ObPugXgNrIsvPXlhjjXK3Xd35inE8f6jINoWU
-NGliajzqdGnbFbxM46l7HKzZe/xPRS/xe/7fmwQ1iPN0zbl+aP/LHMw3VssHONIKHd2iSQjpTtIL
-wXLB4+xJguyf1t76BgmsGuCsNGAVjYsZXX9kWq4Cwqaav6bodDVO620W18MXZKCvVIMPjgtc5Sn0
-WGNZmc94bOZfmfVrWUdAGkg9gX4DGiCqvrpxmdqjiy/DQ7uUn4tDdrbbaMceh2en9cZJVxe02hRk
-V5SDBXrxAWGX23OL/KAntAtwMP0xej6LHFe8Ts4WAZ5thRmfwsgsGBwYl6IR8Tev1uFixciYxr2t
-6WgnAwZZri6eO2nJT91xdY3NfHFjA3TX6qo+JZ19pF/z26Dx7wzjOrHK7lhu2Es8Hg4bjvmTa3YE
-Fm38WdnfmAFdQGY6CLqi9H8b//s3/gshachuvhZmK7uZcoTwNaV6j4lBCSJzPuw//gpRsjDesOWU
-Jp3r9ZbZnsZFylD7FIqnqR9cRwe1DneaaD2SkdV89gl3Dd7ldi2TMDdEZLx66jMbgVHxR5UKE5Kj
-WWzJiiSx05OGYovRu6P5buJazY/ox5DFb67Su0LPe1bfEfE20a8Zm0+LCPRqc0EwpO0hDmpOrWvT
-Qeq+78inltyL10ZnNMOWTevX6367UQRPvarXZjhA2i2trYqDu3kEAOCot/6JVDpfXggrUvzfIS3L
-EmB19gweN3tC7ScH5RkuTHy5vkIdZlSC1tXIaf0Bdht6G2rBsrortijvvOEDSnc0N43gNznpPLcw
-HDbtS14+yedugueMm72R3py32n0KSNT2O3OewuDlHFNMYegEM7V6rsQUi56nVzKkqzoXZSa8M4nK
-PIrrmfKMOcAyb+mAicLY6wfD8jLb4Du6W+Gjob85Hb9j8kduqzovXc0bz5lVLYd9LA3fU/rkw8CN
-TaSEAgwPA3b+RN2NSx6n20yCaUAkaymdRVl+kjXg77dNHyq5dBrIDCZyffCw5B/bOARE9EqLRa6Z
-zVUYphQB00aha74W2oSM8UPFGNs4BTNT3sQIJdDTaGpUS7vR6q0g8Ixl10bvknBzWyL/Bcr097D3
-X9gkxA6phFKoX1idmBxzbq8qMTOH6/EoDjJTILbkUW1PQVf86Z+keeh0S8t4gn55HaAj2XtBqA67
-EYkgQQZEUNfijZgLqRjHLi7IPlvvwfgeuLBaTNVuWpuEzsGDOS5sHNw3jduPk6nK+b2dYOtPIGQz
-JqMJuHM5mn4zObWs3XOZ+QOhaNElo90S4473jIosselE4eN+MGVeGZ88IdA/GwrdQDKFA4b7Kea5
-FTScWK1EzTYewFlJj2JwYGMZ6jTEee8M9ZyBJ69rLimtkFud06GkzIGQ+D0LpL/tnbiohEP1j+0H
-0eiN7yMlrDfeu/y+OH2tCC/qObmcxMl0U0BSKMk4nwVJOzudibYRBt8BtjrPYssBJRbYZMiTj7iF
-5aed1bskrKEsvKC6Oe9UNnjeSAaG2njQfNZkipyLnF/BkSkx8irYsnVZews8+ojs6Q8OX+aNxycs
-jhkPf5rT49Hyu9aTwD+wO9sOlzmLuROFNHlt8jEz2BC+y5fc1/xSWsIjZ19YohsRvSP6WvcrhsFA
-IWBKRlh1hbOshrmoD/oqFzUwaSGXv4l563/rqIjiHk6VPwGH+Zz4MqfQe9PgshN5MBnTdIaNxBhL
-slnoRQJMgfsqUKhdVBftP6TTD1Uq7yjVLPoBc2WenaNA5JY3GgAwHnonEgTAC85JmsmsvoGhlF/a
-uZ0Udq9FvWLI4ObakFUOz+yo+Q/rZaLhc+eYIbSkmafsIJWUAjkhfcIoGj6ZOiLvDhYCo5qR48qM
-DaXbvlNRL+FWH7Fs1ZdazHvs+PV2Uz3+Aw7F4VgOIjoSEXx7adH9j9jx7InCO/yRQRW5UFI5D1p/
-vQGdwdyj1mt2ChcyC+Qcf327715Lr8ATFG5fhr7LA85YrheMDCmD1/6y0GVKlRP+f3H3Nl3xqua1
-8785KMZNkyXSqshDhm3oHYiGS+4G+p92QE+tsnl6n/J57tdTIbrCivv1ex6DVRgBGWQbYt8BRBHj
-TeQ1E5JYqPmBYaZUGYLWoNSdbLKLvYUwD4z9oAjFIsXhwkmPVmkJVOg6L3fYgGj6Pqi6jJsT4RAy
-tDWo8F+Wz0KGGbCsyPrNu2On/rRPHynSCZMT1d4eMlgYE7KF7BRLRCTj+8w0dZZR6cdA9e4XSMlM
-Q63cT/xBrrBRTiZq5NT7p6znFwCgAwzKxJVt2WO8vC6c+1FdE/GlCVVxA8DShno7i5qlBM0o8Iqb
-H4nes9vP8fY/06WYbvJCNBaJobFny7u/EriHkx4mHlUt07nXSE0rTNdSc6+E/o5pW01OmWYLPUeL
-zWmT5R/4o/m1vt1ScxicnBrq0UWV3NZ3+10CyA3p/x6dUOJacgNrgaRMGzhQzGfUEbtAMScUnTv7
-FyOuR3X2IyDTXfyRdv3gEhsIaHNvT+74BfrtVk7C7SH9O+BrLpWph8uZd6rBNinEYbM54jl3gMxL
-aOr8euJaHBzwwDYLZvLEtnJ4M3fNOgeSAQ9m82hpXZFdmro8aGYiGYiZ61Z1dSZKJKZ1a5Q5yorR
-IY16vMwQMPy63629T7nXRa6KJxmwCzmN
+<?php
+
+/**
+ * Zend Framework
+ *
+ * LICENSE
+ *
+ * This source file is subject to the new BSD license that is bundled
+ * with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://framework.zend.com/license/new-bsd
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@zend.com so we can send you a copy immediately.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Health
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ * @version    $Id: Query.php 18951 2009-11-12 16:26:19Z alexander $
+ */
+
+/**
+ * @see Zend_Gdata_Query
+ */
+require_once('Zend/Gdata/Query.php');
+
+/**
+ * Assists in constructing queries for Google Health
+ *
+ * @link http://code.google.com/apis/health
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Health
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+class Zend_Gdata_Health_Query extends Zend_Gdata_Query
+{
+    /**
+     * URI of a user's profile feed.
+     */
+    const HEALTH_PROFILE_FEED_URI =
+        'https://www.google.com/health/feeds/profile/default';
+
+    /**
+     * URI of register (notices) feed.
+     */
+    const HEALTH_REGISTER_FEED_URI =
+        'https://www.google.com/health/feeds/register/default';
+
+    /**
+     * Namespace for an item category
+     */
+    const ITEM_CATEGORY_NS = 'http://schemas.google.com/health/item';
+
+    /**
+     * The default URI for POST methods
+     *
+     * @var string
+     */
+    protected $_defaultFeedUri = self::HEALTH_PROFILE_FEED_URI;
+
+    /**
+     * Sets the digest parameter's value.
+     *
+     * @param string $value
+     * @return Zend_Gdata_Health_Query Provides a fluent interface
+     */
+    public function setDigest($value)
+    {
+        if ($value !== null) {
+            $this->_params['digest'] = $value;
+        }
+        return $this;
+    }
+
+    /**
+     * Returns the digest parameter's value.
+     *
+     * @return string The value set for the digest parameter.
+     */
+    public function getDigest()
+    {
+        if (array_key_exists('digest', $this->_params)) {
+            return $this->_params['digest'];
+        } else {
+            return null;
+        }
+    }
+
+    /**
+     * Setter for category queries.
+     *
+     * @param string $item A category to query.
+     * @param string $name (optional) A specific item to search a category for.
+     *     An example would be 'Lipitor' if $item is set to 'medication'.
+     * @return Zend_Gdata_Health_Query Provides a fluent interface
+     */
+    public function setCategory($item, $name = null)
+    {
+        $this->_category = $item .
+            ($name ? '/' . urlencode('{' . self::ITEM_CATEGORY_NS . '}' . $name) : null);
+        return $this;
+    }
+
+    /**
+     * Returns the query object's category.
+     *
+     * @return string id
+     */
+    public function getCategory()
+    {
+        return $this->_category;
+    }
+
+    /**
+     * Setter for the grouped parameter.
+     *
+     * @param string $value setting a count of results per group.
+     * @return Zend_Gdata_Health_Query Provides a fluent interface
+     */
+    public function setGrouped($value)
+    {
+        if ($value !== null) {
+            $this->_params['grouped'] = $value;
+        }
+        return $this;
+    }
+
+    /**
+     * Returns the value set for the grouped parameter.
+     *
+     * @return string grouped parameter.
+     */
+    public function getGrouped()
+    {
+        if (array_key_exists('grouped', $this->_params)) {
+            return $this->_params['grouped'];
+        } else {
+            return null;
+        }
+    }
+
+    /**
+     * Setter for the max-results-group parameter.
+     *
+     * @param int $value Specifies the maximum number of groups to be
+     *     retrieved. Must be an integer value greater than zero. This parameter
+     *     is only valid if grouped=true.
+     * @return Zend_Gdata_Health_Query Provides a fluent interface
+     */
+    public function setMaxResultsGroup($value)
+    {
+        if ($value !== null) {
+            if ($value <= 0 || $this->getGrouped() !== 'true') {
+                require_once 'Zend/Gdata/App/InvalidArgumentException.php';
+                throw new Zend_Gdata_App_InvalidArgumentException(
+                    'The max-results-group parameter must be set to a value
+                    greater than 0 and can only be used if grouped=true');
+            } else {
+              $this->_params['max-results-group'] = $value;
+            }
+        }
+        return $this;
+    }
+
+    /**
+     *  Returns the value set for max-results-group.
+     *
+     * @return int Returns max-results-group parameter.
+     */
+    public function getMaxResultsGroup()
+    {
+        if (array_key_exists('max-results-group', $this->_params)) {
+            return $this->_params['max-results-group'];
+        } else {
+            return null;
+        }
+    }
+
+    /**
+     *  Setter for the max-results-group parameter.
+     *
+     * @param int $value Specifies the maximum number of records to be
+     *     retrieved from each group.  The limits that you specify with this
+     *     parameter apply to all groups. Must be an integer value greater than
+     *     zero. This parameter is only valid if grouped=true.
+     * @return Zend_Gdata_Health_Query Provides a fluent interface
+     */
+    public function setMaxResultsInGroup($value)
+    {
+        if ($value !== null) {
+            if ($value <= 0 || $this->getGrouped() !== 'true') {
+              throw new Zend_Gdata_App_InvalidArgumentException(
+                  'The max-results-in-group parameter must be set to a value
+                  greater than 0 and can only be used if grouped=true');
+            } else {
+              $this->_params['max-results-in-group'] = $value;
+            }
+        }
+        return $this;
+    }
+
+    /**
+     *  Returns the value set for max-results-in-group.
+     *
+     * @return int Returns max-results-in-group parameter.
+     */
+    public function getMaxResultsInGroup()
+    {
+        if (array_key_exists('max-results-in-group', $this->_params)) {
+            return $this->_params['max-results-in-group'];
+        } else {
+            return null;
+        }
+    }
+
+    /**
+     * Setter for the start-index-group parameter.
+     *
+     * @param int $value Retrieves only items whose group ranking is at
+     *     least start-index-group. This should be set to a 1-based index of the
+     *     first group to be retrieved. The range is applied per category.
+     *     This parameter is only valid if grouped=true.
+     * @return Zend_Gdata_Health_Query Provides a fluent interface
+     */
+    public function setStartIndexGroup($value)
+    {
+        if ($value !== null && $this->getGrouped() !== 'true') {
+            throw new Zend_Gdata_App_InvalidArgumentException(
+                'The start-index-group can only be used if grouped=true');
+        } else {
+          $this->_params['start-index-group'] = $value;
+        }
+        return $this;
+    }
+
+    /**
+     *  Returns the value set for start-index-group.
+     *
+     * @return int Returns start-index-group parameter.
+     */
+    public function getStartIndexGroup()
+    {
+        if (array_key_exists('start-index-group', $this->_params)) {
+            return $this->_params['start-index-group'];
+        } else {
+            return null;
+        }
+    }
+
+    /**
+     *  Setter for the start-index-in-group parameter.
+     *
+     * @param int $value  A 1-based index of the records to be retrieved from
+     *     each group. This parameter is only valid if grouped=true.
+     * @return Zend_Gdata_Health_Query Provides a fluent interface
+     */
+    public function setStartIndexInGroup($value)
+    {
+        if ($value !== null && $this->getGrouped() !== 'true') {
+            throw new Zend_Gdata_App_InvalidArgumentException('start-index-in-group');
+        } else {
+          $this->_params['start-index-in-group'] = $value;
+        }
+        return $this;
+    }
+
+    /**
+     * Returns the value set for start-index-in-group.
+     *
+     * @return int Returns start-index-in-group parameter.
+     */
+    public function getStartIndexInGroup()
+    {
+        if (array_key_exists('start-index-in-group', $this->_params)) {
+            return $this->_params['start-index-in-group'];
+        } else {
+            return null;
+        }
+    }
+}

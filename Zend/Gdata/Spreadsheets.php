@@ -1,152 +1,445 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
+<?php
+
+/**
+ * Zend Framework
+ *
+ * LICENSE
+ *
+ * This source file is subject to the new BSD license that is bundled
+ * with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://framework.zend.com/license/new-bsd
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@zend.com so we can send you a copy immediately.
+ *
+ * @category     Zend
+ * @package      Zend_Gdata
+ * @subpackage   Spreadsheets
+ * @copyright    Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ * @version    $Id: Spreadsheets.php 16971 2009-07-22 18:05:45Z mikaelkael $
+ */
+
+/**
+ * Zend_Gdata
+ */
+require_once('Zend/Gdata.php');
+
+/**
+ * Zend_Gdata_Spreadsheets_SpreadsheetFeed
+ */
+require_once('Zend/Gdata/Spreadsheets/SpreadsheetFeed.php');
+
+/**
+ * Zend_Gdata_Spreadsheets_WorksheetFeed
+ */
+require_once('Zend/Gdata/Spreadsheets/WorksheetFeed.php');
+
+/**
+ * Zend_Gdata_Spreadsheets_CellFeed
+ */
+require_once('Zend/Gdata/Spreadsheets/CellFeed.php');
+
+/**
+ * Zend_Gdata_Spreadsheets_ListFeed
+ */
+require_once('Zend/Gdata/Spreadsheets/ListFeed.php');
+
+/**
+ * Zend_Gdata_Spreadsheets_SpreadsheetEntry
+ */
+require_once('Zend/Gdata/Spreadsheets/SpreadsheetEntry.php');
+
+/**
+ * Zend_Gdata_Spreadsheets_WorksheetEntry
+ */
+require_once('Zend/Gdata/Spreadsheets/WorksheetEntry.php');
+
+/**
+ * Zend_Gdata_Spreadsheets_CellEntry
+ */
+require_once('Zend/Gdata/Spreadsheets/CellEntry.php');
+
+/**
+ * Zend_Gdata_Spreadsheets_ListEntry
+ */
+require_once('Zend/Gdata/Spreadsheets/ListEntry.php');
+
+/**
+ * Zend_Gdata_Spreadsheets_DocumentQuery
+ */
+require_once('Zend/Gdata/Spreadsheets/DocumentQuery.php');
+
+/**
+ * Zend_Gdata_Spreadsheets_ListQuery
+ */
+require_once('Zend/Gdata/Spreadsheets/ListQuery.php');
+
+/**
+ * Zend_Gdata_Spreadsheets_CellQuery
+ */
+require_once('Zend/Gdata/Spreadsheets/CellQuery.php');
+
+/**
+ * Gdata Spreadsheets
+ *
+ * @link http://code.google.com/apis/gdata/spreadsheets.html
+ *
+ * @category     Zend
+ * @package      Zend_Gdata
+ * @subpackage   Spreadsheets
+ * @copyright    Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+class Zend_Gdata_Spreadsheets extends Zend_Gdata
+{
+    const SPREADSHEETS_FEED_URI = 'http://spreadsheets.google.com/feeds/spreadsheets';
+    const SPREADSHEETS_POST_URI = 'http://spreadsheets.google.com/feeds/spreadsheets/private/full';
+    const WORKSHEETS_FEED_LINK_URI = 'http://schemas.google.com/spreadsheets/2006#worksheetsfeed';
+    const LIST_FEED_LINK_URI = 'http://schemas.google.com/spreadsheets/2006#listfeed';
+    const CELL_FEED_LINK_URI = 'http://schemas.google.com/spreadsheets/2006#cellsfeed';
+    const AUTH_SERVICE_NAME = 'wise';
+
+    /**
+     * Namespaces used for Zend_Gdata_Photos
+     *
+     * @var array
+     */
+    public static $namespaces = array(
+        array('gs', 'http://schemas.google.com/spreadsheets/2006', 1, 0),
+        array(
+            'gsx', 'http://schemas.google.com/spreadsheets/2006/extended', 1, 0)
+    );
+
+    /**
+     * Create Gdata_Spreadsheets object
+     *
+     * @param Zend_Http_Client $client (optional) The HTTP client to use when
+     *          when communicating with the Google servers.
+     * @param string $applicationId The identity of the app in the form of Company-AppName-Version
+     */
+    public function __construct($client = null, $applicationId = 'MyCompany-MyApp-1.0')
+    {
+        $this->registerPackage('Zend_Gdata_Spreadsheets');
+        $this->registerPackage('Zend_Gdata_Spreadsheets_Extension');
+        parent::__construct($client, $applicationId);
+        $this->_httpClient->setParameterPost('service', self::AUTH_SERVICE_NAME);
+        $this->_server = 'spreadsheets.google.com';
+    }
+
+    /**
+     * Gets a spreadsheet feed.
+     *
+     * @param mixed $location A DocumentQuery or a string URI specifying the feed location.
+     * @return Zend_Gdata_Spreadsheets_SpreadsheetFeed
+     */
+    public function getSpreadsheetFeed($location = null)
+    {
+        if ($location == null) {
+            $uri = self::SPREADSHEETS_FEED_URI;
+        } else if ($location instanceof Zend_Gdata_Spreadsheets_DocumentQuery) {
+            if ($location->getDocumentType() == null) {
+                $location->setDocumentType('spreadsheets');
+            }
+            $uri = $location->getQueryUrl();
+        } else {
+            $uri = $location;
+        }
+
+        return parent::getFeed($uri, 'Zend_Gdata_Spreadsheets_SpreadsheetFeed');
+    }
+
+    /**
+     * Gets a spreadsheet entry.
+     *
+     * @param string $location A DocumentQuery or a URI specifying the entry location.
+     * @return SpreadsheetEntry
+     */
+    public function getSpreadsheetEntry($location)
+    {
+        if ($location instanceof Zend_Gdata_Spreadsheets_DocumentQuery) {
+            if ($location->getDocumentType() == null) {
+                $location->setDocumentType('spreadsheets');
+            }
+            $uri = $location->getQueryUrl();
+        } else {
+            $uri = $location;
+        }
+
+        return parent::getEntry($uri, 'Zend_Gdata_Spreadsheets_SpreadsheetEntry');
+    }
+
+    /**
+     * Gets a worksheet feed.
+     *
+     * @param mixed $location A DocumentQuery, SpreadsheetEntry, or a string URI
+     * @return Zend_Gdata_Spreadsheets_WorksheetFeed The feed of worksheets
+     */
+    public function getWorksheetFeed($location)
+    {
+        if ($location instanceof Zend_Gdata_Spreadsheets_DocumentQuery) {
+            if ($location->getDocumentType() == null) {
+                $location->setDocumentType('worksheets');
+            }
+            $uri = $location->getQueryUrl();
+        } else if ($location instanceof Zend_Gdata_Spreadsheets_SpreadsheetEntry) {
+            $uri = $location->getLink(self::WORKSHEETS_FEED_LINK_URI)->href;
+        } else {
+            $uri = $location;
+        }
+
+        return parent::getFeed($uri, 'Zend_Gdata_Spreadsheets_WorksheetFeed');
+    }
+
+    /**
+     * Gets a worksheet entry.
+     *
+     * @param string $location A DocumentQuery or a URI specifying the entry location.
+     * @return WorksheetEntry
+     */
+    public function GetWorksheetEntry($location)
+    {
+        if ($location instanceof Zend_Gdata_Spreadsheets_DocumentQuery) {
+            if ($location->getDocumentType() == null) {
+                $location->setDocumentType('worksheets');
+            }
+            $uri = $location->getQueryUrl();
+        } else {
+            $uri = $location;
+        }
+
+        return parent::getEntry($uri, 'Zend_Gdata_Spreadsheets_WorksheetEntry');
+    }
+
+    /**
+     * Gets a cell feed.
+     *
+     * @param string $location A CellQuery, WorksheetEntry or a URI specifying the feed location.
+     * @return CellFeed
+     */
+    public function getCellFeed($location)
+    {
+        if ($location instanceof Zend_Gdata_Spreadsheets_CellQuery) {
+            $uri = $location->getQueryUrl();
+        } else if ($location instanceof Zend_Gdata_Spreadsheets_WorksheetEntry) {
+            $uri = $location->getLink(self::CELL_FEED_LINK_URI)->href;
+        } else {
+            $uri = $location;
+        }
+        return parent::getFeed($uri, 'Zend_Gdata_Spreadsheets_CellFeed');
+    }
+
+    /**
+     * Gets a cell entry.
+     *
+     * @param string $location A CellQuery or a URI specifying the entry location.
+     * @return CellEntry
+     */
+    public function getCellEntry($location)
+    {
+        if ($location instanceof Zend_Gdata_Spreadsheets_CellQuery) {
+            $uri = $location->getQueryUrl();
+        } else {
+            $uri = $location;
+        }
+
+        return parent::getEntry($uri, 'Zend_Gdata_Spreadsheets_CellEntry');
+    }
+
+    /**
+     * Gets a list feed.
+     *
+     * @param mixed $location A ListQuery, WorksheetEntry or string URI specifying the feed location.
+     * @return ListFeed
+     */
+    public function getListFeed($location)
+    {
+        if ($location instanceof Zend_Gdata_Spreadsheets_ListQuery) {
+            $uri = $location->getQueryUrl();
+        } else if ($location instanceof Zend_Gdata_Spreadsheets_WorksheetEntry) {
+            $uri = $location->getLink(self::LIST_FEED_LINK_URI)->href;
+        } else {
+            $uri = $location;
+        }
+
+        return parent::getFeed($uri, 'Zend_Gdata_Spreadsheets_ListFeed');
+    }
+
+    /**
+     * Gets a list entry.
+     *
+     * @param string $location A ListQuery or a URI specifying the entry location.
+     * @return ListEntry
+     */
+    public function getListEntry($location)
+    {
+        if ($location instanceof Zend_Gdata_Spreadsheets_ListQuery) {
+            $uri = $location->getQueryUrl();
+        } else {
+            $uri = $location;
+        }
+
+        return parent::getEntry($uri, 'Zend_Gdata_Spreadsheets_ListEntry');
+    }
+
+    /**
+     * Updates an existing cell.
+     *
+     * @param int $row The row containing the cell to update
+     * @param int $col The column containing the cell to update
+     * @param int $inputValue The new value for the cell
+     * @param string $key The key for the spreadsheet to be updated
+     * @param string $wkshtId (optional) The worksheet to be updated
+     * @return CellEntry The updated cell entry.
+     */
+    public function updateCell($row, $col, $inputValue, $key, $wkshtId = 'default')
+    {
+        $cell = 'R'.$row.'C'.$col;
+
+        $query = new Zend_Gdata_Spreadsheets_CellQuery();
+        $query->setSpreadsheetKey($key);
+        $query->setWorksheetId($wkshtId);
+        $query->setCellId($cell);
+
+        $entry = $this->getCellEntry($query);
+        $entry->setCell(new Zend_Gdata_Spreadsheets_Extension_Cell(null, $row, $col, $inputValue));
+        $response = $entry->save();
+        return $response;
+    }
+
+    /**
+     * Inserts a new row with provided data.
+     *
+     * @param array $rowData An array of column header to row data
+     * @param string $key The key of the spreadsheet to modify
+     * @param string $wkshtId (optional) The worksheet to modify
+     * @return ListEntry The inserted row
+     */
+    public function insertRow($rowData, $key, $wkshtId = 'default')
+    {
+        $newEntry = new Zend_Gdata_Spreadsheets_ListEntry();
+        $newCustomArr = array();
+        foreach ($rowData as $k => $v) {
+            $newCustom = new Zend_Gdata_Spreadsheets_Extension_Custom();
+            $newCustom->setText($v)->setColumnName($k);
+            $newEntry->addCustom($newCustom);
+        }
+
+        $query = new Zend_Gdata_Spreadsheets_ListQuery();
+        $query->setSpreadsheetKey($key);
+        $query->setWorksheetId($wkshtId);
+
+        $feed = $this->getListFeed($query);
+        $editLink = $feed->getLink('http://schemas.google.com/g/2005#post');
+
+        return $this->insertEntry($newEntry->saveXML(), $editLink->href, 'Zend_Gdata_Spreadsheets_ListEntry');
+    }
+
+    /**
+     * Updates an existing row with provided data.
+     *
+     * @param ListEntry $entry The row entry to update
+     * @param array $newRowData An array of column header to row data
+     */
+    public function updateRow($entry, $newRowData)
+    {
+        $newCustomArr = array();
+        foreach ($newRowData as $k => $v) {
+            $newCustom = new Zend_Gdata_Spreadsheets_Extension_Custom();
+            $newCustom->setText($v)->setColumnName($k);
+            $newCustomArr[] = $newCustom;
+        }
+        $entry->setCustom($newCustomArr);
+
+        return $entry->save();
+    }
+
+    /**
+     * Deletes an existing row .
+     *
+     * @param ListEntry $entry The row to delete
+     */
+    public function deleteRow($entry)
+    {
+        $entry->delete();
+    }
+
+    /**
+     * Returns the content of all rows as an associative array
+     *
+     * @param mixed $location A ListQuery or string URI specifying the feed location.
+     * @return array An array of rows.  Each element of the array is an associative array of data
+     */
+    public function getSpreadsheetListFeedContents($location)
+    {
+        $listFeed = $this->getListFeed($location);
+        $listFeed = $this->retrieveAllEntriesForFeed($listFeed);
+        $spreadsheetContents = array();
+        foreach ($listFeed as $listEntry) {
+            $rowContents = array();
+            $customArray = $listEntry->getCustom();
+            foreach ($customArray as $custom) {
+                $rowContents[$custom->getColumnName()] = $custom->getText();
+            }
+            $spreadsheetContents[] = $rowContents;
+        }
+        return $spreadsheetContents;
+    }
+
+    /**
+     * Returns the content of all cells as an associative array, indexed
+     * off the cell location  (ie 'A1', 'D4', etc).  Each element of
+     * the array is an associative array with a 'value' and a 'function'.
+     * Only non-empty cells are returned by default.  'range' is the
+     * value of the 'range' query parameter specified at:
+     * http://code.google.com/apis/spreadsheets/reference.html#cells_Parameters
+     *
+     * @param mixed $location A CellQuery, WorksheetEntry or a URL (w/o query string) specifying the feed location.
+     * @param string $range The range of cells to retrieve
+     * @param boolean $empty Whether to retrieve empty cells
+     * @return array An associative array of cells
+     */
+    public function getSpreadsheetCellFeedContents($location, $range = null, $empty = false)
+    {
+        $cellQuery = null;
+        if ($location instanceof Zend_Gdata_Spreadsheets_CellQuery) {
+            $cellQuery = $location;
+        } else if ($location instanceof Zend_Gdata_Spreadsheets_WorksheetEntry) {
+            $url = $location->getLink(self::CELL_FEED_LINK_URI)->href;
+            $cellQuery = new Zend_Gdata_Spreadsheets_CellQuery($url);
+        } else {
+            $url = $location;
+            $cellQuery = new Zend_Gdata_Spreadsheets_CellQuery($url);
+        }
+
+        if ($range != null) {
+            $cellQuery->setRange($range);
+        }
+        $cellQuery->setReturnEmpty($empty);
+
+        $cellFeed = $this->getCellFeed($cellQuery);
+        $cellFeed = $this->retrieveAllEntriesForFeed($cellFeed);
+        $spreadsheetContents = array();
+        foreach ($cellFeed as $cellEntry) {
+            $cellContents = array();
+            $cell = $cellEntry->getCell();
+            $cellContents['formula'] = $cell->getInputValue();
+            $cellContents['value'] = $cell->getText();
+            $spreadsheetContents[$cellEntry->getTitle()->getText()] = $cellContents;
+        }
+        return $spreadsheetContents;
+    }
+
+    /**
+     * Alias for getSpreadsheetFeed
+     *
+     * @param mixed $location A DocumentQuery or a string URI specifying the feed location.
+     * @return Zend_Gdata_Spreadsheets_SpreadsheetFeed
+     */
+    public function getSpreadsheets($location = null)
+    {
+        return $this->getSpreadsheetFeed($location = null);
+    }
+
+}

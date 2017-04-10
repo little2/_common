@@ -1,117 +1,159 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
-TLBpaRnBISdi
+<?php
+/////////////////////////////////////////////////////////////////
+/// getID3() by James Heinrich <info@getid3.org>               //
+//  available at http://getid3.sourceforge.net                 //
+//            or http://www.getid3.org                         //
+/////////////////////////////////////////////////////////////////
+// See readme.txt for more details                             //
+/////////////////////////////////////////////////////////////////
+//                                                             //
+// module.audio.vqf.php                                        //
+// module for analyzing VQF audio files                        //
+// dependencies: NONE                                          //
+//                                                            ///
+/////////////////////////////////////////////////////////////////
+
+
+class getid3_vqf extends getid3_handler
+{
+	public function Analyze() {
+		$info = &$this->getid3->info;
+
+		// based loosely on code from TTwinVQ by Jurgen Faul <jfaulØgmx*de>
+		// http://jfaul.de/atl  or  http://j-faul.virtualave.net/atl/atl.html
+
+		$info['fileformat']            = 'vqf';
+		$info['audio']['dataformat']   = 'vqf';
+		$info['audio']['bitrate_mode'] = 'cbr';
+		$info['audio']['lossless']     = false;
+
+		// shortcut
+		$info['vqf']['raw'] = array();
+		$thisfile_vqf               = &$info['vqf'];
+		$thisfile_vqf_raw           = &$thisfile_vqf['raw'];
+
+		fseek($this->getid3->fp, $info['avdataoffset'], SEEK_SET);
+		$VQFheaderData = fread($this->getid3->fp, 16);
+
+		$offset = 0;
+		$thisfile_vqf_raw['header_tag'] = substr($VQFheaderData, $offset, 4);
+		$magic = 'TWIN';
+		if ($thisfile_vqf_raw['header_tag'] != $magic) {
+			$info['error'][] = 'Expecting "'.getid3_lib::PrintHexBytes($magic).'" at offset '.$info['avdataoffset'].', found "'.getid3_lib::PrintHexBytes($thisfile_vqf_raw['header_tag']).'"';
+			unset($info['vqf']);
+			unset($info['fileformat']);
+			return false;
+		}
+		$offset += 4;
+		$thisfile_vqf_raw['version'] =                           substr($VQFheaderData, $offset, 8);
+		$offset += 8;
+		$thisfile_vqf_raw['size']    = getid3_lib::BigEndian2Int(substr($VQFheaderData, $offset, 4));
+		$offset += 4;
+
+		while (ftell($this->getid3->fp) < $info['avdataend']) {
+
+			$ChunkBaseOffset = ftell($this->getid3->fp);
+			$chunkoffset = 0;
+			$ChunkData = fread($this->getid3->fp, 8);
+			$ChunkName = substr($ChunkData, $chunkoffset, 4);
+			if ($ChunkName == 'DATA') {
+				$info['avdataoffset'] = $ChunkBaseOffset;
+				break;
+			}
+			$chunkoffset += 4;
+			$ChunkSize = getid3_lib::BigEndian2Int(substr($ChunkData, $chunkoffset, 4));
+			$chunkoffset += 4;
+			if ($ChunkSize > ($info['avdataend'] - ftell($this->getid3->fp))) {
+				$info['error'][] = 'Invalid chunk size ('.$ChunkSize.') for chunk "'.$ChunkName.'" at offset '.$ChunkBaseOffset;
+				break;
+			}
+			if ($ChunkSize > 0) {
+				$ChunkData .= fread($this->getid3->fp, $ChunkSize);
+			}
+
+			switch ($ChunkName) {
+				case 'COMM':
+					// shortcut
+					$thisfile_vqf['COMM'] = array();
+					$thisfile_vqf_COMM    = &$thisfile_vqf['COMM'];
+
+					$thisfile_vqf_COMM['channel_mode']   = getid3_lib::BigEndian2Int(substr($ChunkData, $chunkoffset, 4));
+					$chunkoffset += 4;
+					$thisfile_vqf_COMM['bitrate']        = getid3_lib::BigEndian2Int(substr($ChunkData, $chunkoffset, 4));
+					$chunkoffset += 4;
+					$thisfile_vqf_COMM['sample_rate']    = getid3_lib::BigEndian2Int(substr($ChunkData, $chunkoffset, 4));
+					$chunkoffset += 4;
+					$thisfile_vqf_COMM['security_level'] = getid3_lib::BigEndian2Int(substr($ChunkData, $chunkoffset, 4));
+					$chunkoffset += 4;
+
+					$info['audio']['channels']        = $thisfile_vqf_COMM['channel_mode'] + 1;
+					$info['audio']['sample_rate']     = $this->VQFchannelFrequencyLookup($thisfile_vqf_COMM['sample_rate']);
+					$info['audio']['bitrate']         = $thisfile_vqf_COMM['bitrate'] * 1000;
+					$info['audio']['encoder_options'] = 'CBR' . ceil($info['audio']['bitrate']/1000);
+
+					if ($info['audio']['bitrate'] == 0) {
+						$info['error'][] = 'Corrupt VQF file: bitrate_audio == zero';
+						return false;
+					}
+					break;
+
+				case 'NAME':
+				case 'AUTH':
+				case '(c) ':
+				case 'FILE':
+				case 'COMT':
+				case 'ALBM':
+					$thisfile_vqf['comments'][$this->VQFcommentNiceNameLookup($ChunkName)][] = trim(substr($ChunkData, 8));
+					break;
+
+				case 'DSIZ':
+					$thisfile_vqf['DSIZ'] = getid3_lib::BigEndian2Int(substr($ChunkData, 8, 4));
+					break;
+
+				default:
+					$info['warning'][] = 'Unhandled chunk type "'.$ChunkName.'" at offset '.$ChunkBaseOffset;
+					break;
+			}
+		}
+
+		$info['playtime_seconds'] = (($info['avdataend'] - $info['avdataoffset']) * 8) / $info['audio']['bitrate'];
+
+		if (isset($thisfile_vqf['DSIZ']) && (($thisfile_vqf['DSIZ'] != ($info['avdataend'] - $info['avdataoffset'] - strlen('DATA'))))) {
+			switch ($thisfile_vqf['DSIZ']) {
+				case 0:
+				case 1:
+					$info['warning'][] = 'Invalid DSIZ value "'.$thisfile_vqf['DSIZ'].'". This is known to happen with VQF files encoded by Ahead Nero, and seems to be its way of saying this is TwinVQF v'.($thisfile_vqf['DSIZ'] + 1).'.0';
+					$info['audio']['encoder'] = 'Ahead Nero';
+					break;
+
+				default:
+					$info['warning'][] = 'Probable corrupted file - should be '.$thisfile_vqf['DSIZ'].' bytes, actually '.($info['avdataend'] - $info['avdataoffset'] - strlen('DATA'));
+					break;
+			}
+		}
+
+		return true;
+	}
+
+	public function VQFchannelFrequencyLookup($frequencyid) {
+		static $VQFchannelFrequencyLookup = array(
+			11 => 11025,
+			22 => 22050,
+			44 => 44100
+		);
+		return (isset($VQFchannelFrequencyLookup[$frequencyid]) ? $VQFchannelFrequencyLookup[$frequencyid] : $frequencyid * 1000);
+	}
+
+	public function VQFcommentNiceNameLookup($shortname) {
+		static $VQFcommentNiceNameLookup = array(
+			'NAME' => 'title',
+			'AUTH' => 'artist',
+			'(c) ' => 'copyright',
+			'FILE' => 'filename',
+			'COMT' => 'comment',
+			'ALBM' => 'album'
+		);
+		return (isset($VQFcommentNiceNameLookup[$shortname]) ? $VQFcommentNiceNameLookup[$shortname] : $shortname);
+	}
+
+}

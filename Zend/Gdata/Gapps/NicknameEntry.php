@@ -1,52 +1,189 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
+<?php
+
+/**
+ * Zend Framework
+ *
+ * LICENSE
+ *
+ * This source file is subject to the new BSD license that is bundled
+ * with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://framework.zend.com/license/new-bsd
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@zend.com so we can send you a copy immediately.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Gapps
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ * @version    $Id: NicknameEntry.php 16971 2009-07-22 18:05:45Z mikaelkael $
+ */
+
+/**
+ * @see Zend_Gdata_Entry
+ */
+require_once 'Zend/Gdata/Entry.php';
+
+/**
+ * @see Zend_Gdata_Gapps_Extension_Login
+ */
+require_once 'Zend/Gdata/Gapps/Extension/Login.php';
+
+/**
+ * @see Zend_Gdata_Gapps_Extension_Nickname
+ */
+require_once 'Zend/Gdata/Gapps/Extension/Nickname.php';
+
+/**
+ * Data model class for a Google Apps Nickname Entry.
+ *
+ * Each nickname entry describes a single nickname within a Google Apps
+ * hosted domain. Each user may own several nicknames, but each nickname may
+ * only belong to one user. Multiple entries are contained within instances
+ * of Zend_Gdata_Gapps_NicknameFeed.
+ *
+ * To transfer nickname entries to and from the Google Apps servers,
+ * including creating new entries, refer to the Google Apps service class,
+ * Zend_Gdata_Gapps.
+ *
+ * This class represents <atom:entry> in the Google Data protocol.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Gapps
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+class Zend_Gdata_Gapps_NicknameEntry extends Zend_Gdata_Entry
+{
+
+    protected $_entryClassName = 'Zend_Gdata_Gapps_NicknameEntry';
+
+    /**
+     * <apps:login> element used to hold information about the owner
+     * of this nickname, including their username.
+     *
+     * @var Zend_Gdata_Gapps_Extension_Login
+     */
+    protected $_login = null;
+
+    /**
+     * <apps:nickname> element used to hold the name of this nickname.
+     *
+     * @var Zend_Gdata_Gapps_Extension_Nickname
+     */
+    protected $_nickname = null;
+
+    /**
+     * Create a new instance.
+     *
+     * @param DOMElement $element (optional) DOMElement from which this
+     *          object should be constructed.
+     */
+    public function __construct($element = null)
+    {
+        $this->registerAllNamespaces(Zend_Gdata_Gapps::$namespaces);
+        parent::__construct($element);
+    }
+
+    /**
+     * Retrieves a DOMElement which corresponds to this element and all
+     * child properties.  This is used to build an entry back into a DOM
+     * and eventually XML text for application storage/persistence.
+     *
+     * @param DOMDocument $doc The DOMDocument used to construct DOMElements
+     * @return DOMElement The DOMElement representing this element and all
+     *          child properties.
+     */
+    public function getDOM($doc = null, $majorVersion = 1, $minorVersion = null)
+    {
+        $element = parent::getDOM($doc, $majorVersion, $minorVersion);
+        if ($this->_login !== null) {
+            $element->appendChild($this->_login->getDOM($element->ownerDocument));
+        }
+        if ($this->_nickname !== null) {
+            $element->appendChild($this->_nickname->getDOM($element->ownerDocument));
+        }
+        return $element;
+    }
+
+    /**
+     * Creates individual Entry objects of the appropriate type and
+     * stores them as members of this entry based upon DOM data.
+     *
+     * @param DOMNode $child The DOMNode to process
+     */
+    protected function takeChildFromDOM($child)
+    {
+        $absoluteNodeName = $child->namespaceURI . ':' . $child->localName;
+
+        switch ($absoluteNodeName) {
+            case $this->lookupNamespace('apps') . ':' . 'login';
+                $login = new Zend_Gdata_Gapps_Extension_Login();
+                $login->transferFromDOM($child);
+                $this->_login = $login;
+                break;
+            case $this->lookupNamespace('apps') . ':' . 'nickname';
+                $nickname = new Zend_Gdata_Gapps_Extension_Nickname();
+                $nickname->transferFromDOM($child);
+                $this->_nickname = $nickname;
+                break;
+            default:
+                parent::takeChildFromDOM($child);
+                break;
+        }
+    }
+
+    /**
+     * Get the value of the login property for this object.
+     *
+     * @see setLogin
+     * @return Zend_Gdata_Gapps_Extension_Login The requested object.
+     */
+    public function getLogin()
+    {
+        return $this->_login;
+    }
+
+    /**
+     * Set the value of the login property for this object. This property
+     * is used to store the username address of the current user.
+     *
+     * @param Zend_Gdata_Gapps_Extension_Login $value The desired value for
+     *          this instance's login property.
+     * @return Zend_Gdata_Gapps_NicknameEntry Provides a fluent interface.
+     */
+    public function setLogin($value)
+    {
+        $this->_login = $value;
+        return $this;
+    }
+
+    /**
+     * Get the value of the nickname property for this object.
+     *
+     * @see setNickname
+     * @return Zend_Gdata_Gapps_Extension_Nickname The requested object.
+     */
+    public function getNickname()
+    {
+        return $this->_nickname;
+    }
+
+    /**
+     * Set the value of the nickname property for this object. This property
+     * is used to store the the name of the current nickname.
+     *
+     * @param Zend_Gdata_Gapps_Extension_Nickname $value The desired value for
+     *          this instance's nickname property.
+     * @return Zend_Gdata_Gapps_NicknameEntry Provides a fluent interface.
+     */
+    public function setNickname($value)
+    {
+        $this->_nickname = $value;
+        return $this;
+    }
+
+}

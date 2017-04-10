@@ -1,35 +1,90 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
-Q2aoAjAkegq2ZCm=
+<?php
+
+/**
+ * Zend Framework
+ *
+ * LICENSE
+ *
+ * This source file is subject to the new BSD license that is bundled
+ * with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://framework.zend.com/license/new-bsd
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@zend.com so we can send you a copy immediately.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage App
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ * @version    $Id: Text.php 16971 2009-07-22 18:05:45Z mikaelkael $
+ */
+
+/**
+ * @see Zend_Gdata_App_Extension
+ */
+require_once 'Zend/Gdata/App/Extension.php';
+
+/**
+ * Abstract class for data models that require only text and type-- such as:
+ * title, summary, etc.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage App
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+abstract class Zend_Gdata_App_Extension_Text extends Zend_Gdata_App_Extension
+{
+
+    protected $_rootElement = null;
+    protected $_type = 'text';
+
+    public function __construct($text = null, $type = 'text')
+    {
+        parent::__construct();
+        $this->_text = $text;
+        $this->_type = $type;
+    }
+
+    public function getDOM($doc = null, $majorVersion = 1, $minorVersion = null)
+    {
+        $element = parent::getDOM($doc, $majorVersion, $minorVersion);
+        if ($this->_type !== null) {
+            $element->setAttribute('type', $this->_type);
+        }
+        return $element;
+    }
+
+    protected function takeAttributeFromDOM($attribute)
+    {
+        switch ($attribute->localName) {
+        case 'type':
+            $this->_type = $attribute->nodeValue;
+            break;
+        default:
+            parent::takeAttributeFromDOM($attribute);
+        }
+    }
+
+    /*
+     * @return Zend_Gdata_App_Extension_Type
+     */
+    public function getType()
+    {
+        return $this->_type;
+    }
+
+    /*
+     * @param string $value
+     * @return Zend_Gdata_App_Extension_Text Provides a fluent interface
+     */
+    public function setType($value)
+    {
+        $this->_type = $value;
+        return $this;
+    }
+
+}

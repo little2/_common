@@ -1,68 +1,208 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-HR+cPpWOEgXBo9wF1jQlYwN/nwrxygNM8EnD+S4LgyQrJBCxwHjHV7pXAi1sjJstO2y2efP/VjUw
-swKlqE5EAkebxU8MYqN5l9RnoFzAtMR59edqRR2Jrm2UwyBWx8Ccp0iOOrFvlLtLjyHPbG4gYFie
-6k5KXak52W9UtOupQm+eH8Yfdj9H8qslZ2p8VEFB/eKrI0vFfPJ3BRxZgDhTx6ApEemvUrTshDRJ
-RGcHEVnKHSnUO9zazJttS90k6RFkzgvfjW5BdT7heJV6QgyeHnUYZ/eKqrXyeOG9VcOuKh+zMFPo
-f9llp+VAmnC8yx81PmrLXPjKiFATCiLbzpAG9PuPn4Uje8pYh4GB9MRhWXG2+rUQ15ZcHLE78YaV
-DL/cR2oIz25/6aWn6TsZbgB7T9/JOguUgQtEuTldSOvkLWDP90cUjcmjlPyjdohR4fNFIPX4oeif
-DrQiRNvRyhrCzhs/wP9WgCwlx9IqrEQS/4si2gyIZ0vYQbh7yf6vnHfcuEsoUeNyt+13PFSunJvT
-azGAYfuek0jy4XXDddCViUuG9pgOFNli1noBeBIuhkzZkX63Jau3FrTUhSa57NANiHHfQAS2w65b
-MbKi82xsqOY78KxddvPBjTmHRMtZpVb88xzc/KdB+F3DX4s05bPS/aDfXnH43vaHgI0ZhziAaEJE
-J01WZly/P39vcURpPSjFkj/oRkji8io3Wu+5LHT4VA8iWRM0jyzZ5sN/dDtKKkaCM+iAPZ8bzQ3M
-GNCQmZc+PNE4VB2l9xboEg5nOkff86pLsrdbq4oVrgS4iIjrFwh/vkrbO56lqBIyNnHMbTVSlpzE
-K8YZ7VbN7odjWUTyVEJcEUeLE20N/ika7pNpU4zV5+CE+btVeLIPqhmde3rpFYUIQYGDROilVu/8
-FIcLA80uvi+A/04Z72hD2HSsGGnV9TaH4EZHZAm7vqSpajr4YkM8ui1wYxIwzP+oAAeoRYY64ni1
-JnBIvlmi6hVbxTYxrPhnzf1JRFOVvDwVqH/97+X6trbEsArUch4qDIcQMwGoc5MD/qHtA5O3RPuo
-s4oaw/C2V0A/lgNtLQ3viiwjY0aa3dAI0cqC8TijN1gd2vbxsY7x2qrROTbXooZZ17vVj5hlcGnx
-O9UGuvz9b8wu2NaCql8CZ61MawtcmzweVtfXXYsHYyl8V1hmPeQ+3TtJPt2dGxwsc7hIOS9fQBmv
-gvh2OiUYNvdmCuGEz1F8j8a8D38wHvXOOUNvRyytfQX9IrlUHhdVKM/vaXOkB48cbNGxLE6TVtHn
-cTIIWhP97pWOQ1b+5KQ5GbLsgFfA8/Aj6zZwcBCNAdY/RAIjqr166W0YkRiO8zSAXFyqk/0/a1H2
-FOpTLcqu5ub20FwSZmOAsJ15tqR6GFWhydU7Iaq7CYg52qFI8tht+h2eHByGCpGwG5yTgpyGkEO3
-uJ9prk5rhY2zTm1caOmgcHc+JWaQshQl9HKej/k4szp5sTF/TxWCguPV3rjVqFqtKUhx/dTfLeUm
-7AybwPruqPQH+PPK6yyUXV1OT0h6xpuEcssdLepP93QWrmYQ9fjtLxhrqO0jPs+tFxaG+tZUFqKJ
-xuAtjStCoLvBzaY4mJ+pCuCRkVlDinHuhDqwvrU4w7OZZoLTri5T0l10cS8cPMZEwdjCGDFcaAbF
-5O/ZJwAUyKnBUiKU/oiVh809QN9PIXIJYu1brhX3KbpUd6aL2h5mnsDs0cZaFbzSURpfA2Vpqf97
-LS4Cv/kDUJH05ak5T2bHYNe+AMTMk6/Xo5hLlKfOIHJ+BxejTHLY7DPMQt43a03KVAO+lhkS4Uo+
-9XKPUkgYl4N8sazRKqdFSXe5FKv1jfEXrk4zZJvGVdKfXqhTdq/IeA8uNbyL/3Nhd9/scbkqLFZ1
-cwC4Dekllmr12pDCQjkv2p8LVCRXIjoU77+iHjQsC1TQof664uZv+X5FCPcI73HaqH+vg6BLLvJ2
-lUYFxBBrLIO7IAD9v6gF/tf9IkBCN3dyHywVjNFurq0z4ZKr18N7IqhUNNXM/vqVkltY00yXf0NW
-J7L1aP24rnADqiRO1ZSKTjjO2JNScA44OsFuGcYmStvhWKWaWGYgSBKFHNLkRzJyvY37WeVMOv53
-Snz+ZSJ1InWfFXhVq5gOOpb9Brqo6+DneJHbAgcKE5dhrioxedBlKmEQXI3jOtNEXCAmlK5YtJGr
-ohXjaNkRtWE0vl8GlEhRqCJqvQ3QocKhXbBzR6bS042Fv3zabsIA3xpk8NAkb53mOk/TAu0jfc9o
-sJdBMNRZ/AwA6BSYHFNGvdQ9036eorrPY6mWfpis0eRYgfw0YlfP87pmJIHhCIV0PpXtOoyps4NO
-jvA5l0q6lBacTItaNow4EVyi6+rWmOOWwOxh3Uo63Wr2pr0asvj552GATmAc6klQPXezINnaDR7X
-cdOYUNx9gqwe802mQnFPwnGAueSBf1ZUI/11I9KrBa2WfY87Ic4Eb8ZukM3JHVyq0dLEgGKZAVCX
-MJrF/jO9eQ0ZrhnWK9pkkbYCiPTomJx7l8uXdvuPK/Ncg6qT0VyIV8lO7rOdGleLjSoGBdscQ4rl
-0CVGz+bDnQSU+5jXcuA6QX5eqhHuUitDJbP9XwsaxcoqkRkSFMTgZ/NdE+DeG8COx0Ww827Ythc6
-aypZ34wi4Teotef9j0R5+zGI5qNOK7ZPRQG+Wlo6Cdj2OfepZIgDc3lmVP9o/s8JT+6iV0lpmqV+
-Wx8u+gELkzhYqbDXTDdAaS0Fkui6y2UDNffjPAAvpJHRa3JWbCJ5q5O97gcaC27lDeqruYUQ7TgE
-k1oVu+0dJn+CCGETtA200rRai3iZ6VL7rkCaWYnB/h90IU8HtwOcaQtUBL+oW0DTD3bZl9A9EsId
-8ZYmy/RRl9+j5rasSokgVk9EwOTfh7470A6aVcpl8JbPiLVi8RlTXvls5V0c23la7MQUlxDI6MTl
-2eYTuYzn+sPuC+yg68XKtAw0mKpuLMCVjGVb9N6aNZk74WnnSu+e/oYeT6uoMpvm+zvDo5el0XDp
-unvTwtVyKPH7VK3Vr+UGrdJ/tE8A8apvlAcfm5UxwuCEjn9wqVqH4MgotmTZE9YlfNT8CfQwDOol
-wWjEQ5nEWHIxY4P9o43iVnPCPlU6wmzKXr261KhWN5FD6iu/zpHE/tkLNHR4s8PlRJIB0wt/fW5P
-qtXPpo3Sp1A/WahoCzm1gMWZ/3ULunPG0WWNGp9UJ5zLyPCVAS+LQiyQS7nuy2X53UkLjF52B3ry
-iE0j7Q6/68ybiKrWtkVvOeTcBNRIn0939xr8s8SSAQNMu+XqTjIcoi7OyhIwDEeLdLZH+9xBjb1U
-AyL0sEvt7lwdyXzn/A1EB2iOug6PiGCCIjTckP2BVPs8trYnky0eIq6gQ+UV0+WYxn8H75p5QyPf
-BQpWBvepET7NP3CaHJF7jz890MiQlnm+1FwLQKY8o4CIIMIH+dq3uW5ncD8HOREug9XZyK2gt2+k
-z3OrPEsbKbgQiLrH0E7CrXOYFuVJNewsGUhtUuveZe9htVVU1ZZOAJgHosJRL90oXhtMT6/NnWp5
-95kuqHbg75WfwjPT8nO4qO4smRbzRlHv2J/O+R6RtGeJbUJ2PSh8I9vrjpWU3/L2CIntWnkdBAjf
-EfxonmYIVJlZn+NYQtdy4bmuVyG/JY4r2FZQG5H31ak07jmBnp0LPFDtKB2XjomwxPEbWsb45X4s
-H/WbcUkev6MlJBD3bkbSXhPmRUvP/u/iJ0jfptTVLATIIInW1T/7dccSeihR0MW2g7WnecDu/QiG
-e9TqRfdDnJkm2jN6Fux2+JLLz5+bsftusJ7RmgZHdP2clz75clV/BvJmgTGWsATpr/Qb3lIL9DnO
-oQg7xbiGhO92CrYQ2uf3KliY7KYaBMEPqWugHvMVhtkDG5DEZ9MO6yJjcjYx0Dbm+Tiq13WK2cvc
-SqoVpfmld58gJVW53Ca2PX0sIoYGwWYR9FttlDdSEEIhgC+ZxYvRR4d6Bdw9tEgQq6fpGWe6cOK3
-gOwLFQFkV6nl44YH4na9rZgBIiGKwTn9+aWTK/B8L/VlfoxiodQSY253Ui69tNZHfdnd+Pi+5eWW
-4YehG+VUSaRaPRWz+d9bq2uKhovi3mhIArajnSEaYXmwTTlmvx+28ZTU/+gSHPXDhZk+39sD+Onz
-/09izAexTnR0NjD8hDaNqek5ei5xXxK17F1e19FdS7NSb5lVHXouc9n0HvU3n1klmfKHw6GgxiGA
-QmGSEGZ1KxEbO6KJpPHuFOThNYu2ZNRxA5VJc/Xzh2hb6UMupsFFcPejt3LaT/Nm9WE8piaO+bS4
-ZVyirlmTdTawvCQNAcovqP54wYkKS/gy/USHeE0K0gksYi1APVcQssq404e2Xp5sDSbdvroSabbT
-1JLDA0wabRYp+JsU8Jkmk58qnW+xOh5jDF/xn4gXmx49SkFSEpDEOUbKptkQ0fBOgAtkOvSsHfdu
-ghLRO2UbEdn+onwugDl9fE+9eJJhvJgcb08IGUjUdPhIPPplcBpCUNIBB0j2oUx9NRM/ccRnK/rf
-KY8ppy1rk5E/JTli0I5HIigBZ9NvOpddqz+RaJJgLgHQfeseGLG7tapr2UZVTZtY1BGSONII9F/z
-dnEE30QrjD9ktuV9ZrVQRb0jy+EKbg8X9DfMHYeRhu3gpr2r6eiZM7wQcYMJycxsWaNXIowNaLIr
-0NFPjPtNqrMpAoEHRXqVz3ZmE3XOnr8t3trzparN/djWAwtCUnwrwYzCsLQ5gPL0CroTO3rPHznY
-BlesyMQrO2dk1+M1YHjW0Pr8s2VIbQjKL2Y+8DLwaODuSYBXbNVNKVblCOAsjP/UYZQKZ/l5bGUM
-9mPIOon3WKkrZSgNgOUh0hW=
+<?php
+/////////////////////////////////////////////////////////////////
+/// getID3() by James Heinrich <info@getid3.org>               //
+//  available at http://getid3.sourceforge.net                 //
+//            or http://www.getid3.org                         //
+/////////////////////////////////////////////////////////////////
+//                                                             //
+// extension.cache.dbm.php - part of getID3()                  //
+// Please see readme.txt for more information                  //
+//                                                            ///
+/////////////////////////////////////////////////////////////////
+//                                                             //
+// This extension written by Allan Hansen <ahØartemis*dk>      //
+//                                                            ///
+/////////////////////////////////////////////////////////////////
+
+
+/**
+* This is a caching extension for getID3(). It works the exact same
+* way as the getID3 class, but return cached information very fast
+*
+* Example:
+*
+*    Normal getID3 usage (example):
+*
+*       require_once 'getid3/getid3.php';
+*       $getID3 = new getID3;
+*       $getID3->encoding = 'UTF-8';
+*       $info1 = $getID3->analyze('file1.flac');
+*       $info2 = $getID3->analyze('file2.wv');
+*
+*    getID3_cached usage:
+*
+*       require_once 'getid3/getid3.php';
+*       require_once 'getid3/getid3/extension.cache.dbm.php';
+*       $getID3 = new getID3_cached('db3', '/tmp/getid3_cache.dbm',
+*                                          '/tmp/getid3_cache.lock');
+*       $getID3->encoding = 'UTF-8';
+*       $info1 = $getID3->analyze('file1.flac');
+*       $info2 = $getID3->analyze('file2.wv');
+*
+*
+* Supported Cache Types
+*
+*   SQL Databases:          (use extension.cache.mysql)
+*
+*   cache_type          cache_options
+*   -------------------------------------------------------------------
+*   mysql               host, database, username, password
+*
+*
+*   DBM-Style Databases:    (this extension)
+*
+*   cache_type          cache_options
+*   -------------------------------------------------------------------
+*   gdbm                dbm_filename, lock_filename
+*   ndbm                dbm_filename, lock_filename
+*   db2                 dbm_filename, lock_filename
+*   db3                 dbm_filename, lock_filename
+*   db4                 dbm_filename, lock_filename  (PHP5 required)
+*
+*   PHP must have write access to both dbm_filename and lock_filename.
+*
+*
+* Recommended Cache Types
+*
+*   Infrequent updates, many reads      any DBM
+*   Frequent updates                    mysql
+*/
+
+
+class getID3_cached_dbm extends getID3
+{
+
+	// public: constructor - see top of this file for cache type and cache_options
+	public function getID3_cached_dbm($cache_type, $dbm_filename, $lock_filename) {
+
+		// Check for dba extension
+		if (!extension_loaded('dba')) {
+			throw new Exception('PHP is not compiled with dba support, required to use DBM style cache.');
+		}
+
+		// Check for specific dba driver
+		if (!function_exists('dba_handlers') || !in_array($cache_type, dba_handlers())) {
+			throw new Exception('PHP is not compiled --with '.$cache_type.' support, required to use DBM style cache.');
+		}
+
+		// Create lock file if needed
+		if (!file_exists($lock_filename)) {
+			if (!touch($lock_filename)) {
+				throw new Exception('failed to create lock file: '.$lock_filename);
+			}
+		}
+
+		// Open lock file for writing
+		if (!is_writeable($lock_filename)) {
+			throw new Exception('lock file: '.$lock_filename.' is not writable');
+		}
+		$this->lock = fopen($lock_filename, 'w');
+
+		// Acquire exclusive write lock to lock file
+		flock($this->lock, LOCK_EX);
+
+		// Create dbm-file if needed
+		if (!file_exists($dbm_filename)) {
+			if (!touch($dbm_filename)) {
+				throw new Exception('failed to create dbm file: '.$dbm_filename);
+			}
+		}
+
+		// Try to open dbm file for writing
+		$this->dba = dba_open($dbm_filename, 'w', $cache_type);
+		if (!$this->dba) {
+
+			// Failed - create new dbm file
+			$this->dba = dba_open($dbm_filename, 'n', $cache_type);
+
+			if (!$this->dba) {
+				throw new Exception('failed to create dbm file: '.$dbm_filename);
+			}
+
+			// Insert getID3 version number
+			dba_insert(getID3::VERSION, getID3::VERSION, $this->dba);
+		}
+
+		// Init misc values
+		$this->cache_type   = $cache_type;
+		$this->dbm_filename = $dbm_filename;
+
+		// Register destructor
+		register_shutdown_function(array($this, '__destruct'));
+
+		// Check version number and clear cache if changed
+		if (dba_fetch(getID3::VERSION, $this->dba) != getID3::VERSION) {
+			$this->clear_cache();
+		}
+
+		parent::getID3();
+	}
+
+
+
+	// public: destructor
+	public function __destruct() {
+
+		// Close dbm file
+		dba_close($this->dba);
+
+		// Release exclusive lock
+		flock($this->lock, LOCK_UN);
+
+		// Close lock file
+		fclose($this->lock);
+	}
+
+
+
+	// public: clear cache
+	public function clear_cache() {
+
+		// Close dbm file
+		dba_close($this->dba);
+
+		// Create new dbm file
+		$this->dba = dba_open($this->dbm_filename, 'n', $this->cache_type);
+
+		if (!$this->dba) {
+			throw new Exception('failed to clear cache/recreate dbm file: '.$this->dbm_filename);
+		}
+
+		// Insert getID3 version number
+		dba_insert(getID3::VERSION, getID3::VERSION, $this->dba);
+
+		// Re-register shutdown function
+		register_shutdown_function(array($this, '__destruct'));
+	}
+
+
+
+	// public: analyze file
+	public function analyze($filename) {
+
+		if (file_exists($filename)) {
+
+			// Calc key     filename::mod_time::size    - should be unique
+			$key = $filename.'::'.filemtime($filename).'::'.filesize($filename);
+
+			// Loopup key
+			$result = dba_fetch($key, $this->dba);
+
+			// Hit
+			if ($result !== false) {
+				return unserialize($result);
+			}
+		}
+
+		// Miss
+		$result = parent::analyze($filename);
+
+		// Save result
+		if (file_exists($filename)) {
+			dba_insert($key, serialize($result), $this->dba);
+		}
+
+		return $result;
+	}
+
+}

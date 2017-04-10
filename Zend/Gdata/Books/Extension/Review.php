@@ -1,43 +1,152 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
-7XH5SKwT3s2e2T3Bqm==
+<?php
+
+/**
+ * Zend Framework
+ *
+ * LICENSE
+ *
+ * This source file is subject to the new BSD license that is bundled
+ * with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://framework.zend.com/license/new-bsd
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@zend.com so we can send you a copy immediately.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Books
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ * @version    $Id: Review.php 16971 2009-07-22 18:05:45Z mikaelkael $
+ */
+
+/**
+ * @see Zend_Gdata_Extension
+ */
+require_once 'Zend/Gdata/Extension.php';
+
+/**
+ * User-provided review
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Books
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+class Zend_Gdata_Books_Extension_Review extends Zend_Gdata_Extension
+{
+
+    protected $_rootNamespace = 'gbs';
+    protected $_rootElement = 'review';
+    protected $_lang = null;
+    protected $_type = null;
+
+    /**
+     * Constructor for Zend_Gdata_Books_Extension_Review which
+     * User-provided review
+     *
+     * @param string|null $lang Review language.
+     * @param string|null $type Type of text construct (typically text, html,
+     *        or xhtml).
+     * @param string|null $value Text content of the review.
+     */
+    public function __construct($lang = null, $type = null, $value = null)
+    {
+        $this->registerAllNamespaces(Zend_Gdata_Books::$namespaces);
+        parent::__construct();
+        $this->_lang = $lang;
+        $this->_type = $type;
+        $this->_text = $value;
+    }
+
+    /**
+     * Retrieves DOMElement which corresponds to this element and all
+     * child properties. This is used to build this object back into a DOM
+     * and eventually XML text for sending to the server upon updates, or
+     * for application storage/persistance.
+     *
+     * @param DOMDocument $doc The DOMDocument used to construct DOMElements
+     * @return DOMElement The DOMElement representing this element and all
+     * child properties.
+     */
+    public function getDOM($doc = null, $majorVersion = 1, $minorVersion = null)
+    {
+        $element = parent::getDOM($doc);
+        if ($this->_lang !== null) {
+            $element->setAttribute('lang', $this->_lang);
+        }
+        if ($this->_type !== null) {
+            $element->setAttribute('type', $this->_type);
+        }
+        return $element;
+    }
+
+    /**
+     * Extracts XML attributes from the DOM and converts them to the
+     * appropriate object members.
+     *
+     * @param DOMNode $attribute The DOMNode attribute to be handled.
+     */
+    protected function takeAttributeFromDOM($attribute)
+    {
+        switch ($attribute->localName) {
+        case 'lang':
+            $this->_lang = $attribute->nodeValue;
+            break;
+        case 'type':
+            $this->_type = $attribute->nodeValue;
+            break;
+        default:
+            parent::takeAttributeFromDOM($attribute);
+        }
+    }
+
+    /**
+     * Returns the language of link title
+     *
+     * @return string The lang
+     */
+    public function getLang()
+    {
+        return $this->_lang;
+    }
+
+    /**
+     * Returns the type of text construct (typically 'text', 'html' or 'xhtml')
+     *
+     * @return string The type
+     */
+    public function getType()
+    {
+        return $this->_type;
+    }
+
+    /**
+     * Sets the language of link title
+     *
+     * @param string $lang language of link title
+     * @return Zend_Gdata_Books_Extension_Review Provides a fluent interface
+     */
+    public function setLang($lang)
+    {
+        $this->_lang = $lang;
+        return $this;
+    }
+
+    /**
+     * Sets the type of text construct (typically 'text', 'html' or 'xhtml')
+     *
+     * @param string $type type of text construct (typically 'text', 'html' or 'xhtml')
+     * @return Zend_Gdata_Books_Extension_Review Provides a fluent interface
+     */
+    public function setType($type)
+    {
+        $this->_type = $type;
+        return $this;
+    }
+
+
+}
+

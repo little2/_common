@@ -1,273 +1,426 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
+<?php
+/////////////////////////////////////////////////////////////////
+/// getID3() by James Heinrich <info@getid3.org>               //
+//  available at http://getid3.sourceforge.net                 //
+//            or http://www.getid3.org                         //
+/////////////////////////////////////////////////////////////////
+// See readme.txt for more details                             //
+/////////////////////////////////////////////////////////////////
+//                                                             //
+// module.audio.optimfrog.php                                  //
+// module for analyzing OptimFROG audio files                  //
+// dependencies: module.audio.riff.php                         //
+//                                                            ///
+/////////////////////////////////////////////////////////////////
+
+getid3_lib::IncludeDependency(GETID3_INCLUDEPATH.'module.audio-video.riff.php', __FILE__, true);
+
+class getid3_optimfrog extends getid3_handler
+{
+
+	public function Analyze() {
+		$info = &$this->getid3->info;
+
+		$info['fileformat']            = 'ofr';
+		$info['audio']['dataformat']   = 'ofr';
+		$info['audio']['bitrate_mode'] = 'vbr';
+		$info['audio']['lossless']     = true;
+
+		fseek($this->getid3->fp, $info['avdataoffset'], SEEK_SET);
+		$OFRheader  = fread($this->getid3->fp, 8);
+		if (substr($OFRheader, 0, 5) == '*RIFF') {
+
+			return $this->ParseOptimFROGheader42();
+
+		} elseif (substr($OFRheader, 0, 3) == 'OFR') {
+
+			return $this->ParseOptimFROGheader45();
+
+		}
+
+		$info['error'][] = 'Expecting "*RIFF" or "OFR " at offset '.$info['avdataoffset'].', found "'.getid3_lib::PrintHexBytes($OFRheader).'"';
+		unset($info['fileformat']);
+		return false;
+	}
+
+
+	public function ParseOptimFROGheader42() {
+		// for fileformat of v4.21 and older
+
+		$info = &$this->getid3->info;
+		fseek($this->getid3->fp, $info['avdataoffset'], SEEK_SET);
+		$OptimFROGheaderData = fread($this->getid3->fp, 45);
+		$info['avdataoffset'] = 45;
+
+		$OptimFROGencoderVersion_raw   = getid3_lib::LittleEndian2Int(substr($OptimFROGheaderData, 0, 1));
+		$OptimFROGencoderVersion_major = floor($OptimFROGencoderVersion_raw / 10);
+		$OptimFROGencoderVersion_minor = $OptimFROGencoderVersion_raw - ($OptimFROGencoderVersion_major * 10);
+		$RIFFdata                = substr($OptimFROGheaderData, 1, 44);
+		$OrignalRIFFheaderSize   = getid3_lib::LittleEndian2Int(substr($RIFFdata,  4, 4)) +  8;
+		$OrignalRIFFdataSize     = getid3_lib::LittleEndian2Int(substr($RIFFdata, 40, 4)) + 44;
+
+		if ($OrignalRIFFheaderSize > $OrignalRIFFdataSize) {
+			$info['avdataend'] -= ($OrignalRIFFheaderSize - $OrignalRIFFdataSize);
+			fseek($this->getid3->fp, $info['avdataend'], SEEK_SET);
+			$RIFFdata .= fread($this->getid3->fp, $OrignalRIFFheaderSize - $OrignalRIFFdataSize);
+		}
+
+		// move the data chunk after all other chunks (if any)
+		// so that the RIFF parser doesn't see EOF when trying
+		// to skip over the data chunk
+		$RIFFdata = substr($RIFFdata, 0, 36).substr($RIFFdata, 44).substr($RIFFdata, 36, 8);
+
+		$getid3_temp = new getID3();
+		$getid3_temp->openfile($this->getid3->filename);
+		$getid3_temp->info['avdataoffset'] = $info['avdataoffset'];
+		$getid3_temp->info['avdataend']    = $info['avdataend'];
+		$getid3_riff = new getid3_riff($getid3_temp);
+		$getid3_riff->ParseRIFFdata($RIFFdata);
+		$info['riff'] = $getid3_temp->info['riff'];
+
+		$info['audio']['encoder']         = 'OptimFROG '.$OptimFROGencoderVersion_major.'.'.$OptimFROGencoderVersion_minor;
+		$info['audio']['channels']        = $info['riff']['audio'][0]['channels'];
+		$info['audio']['sample_rate']     = $info['riff']['audio'][0]['sample_rate'];
+		$info['audio']['bits_per_sample'] = $info['riff']['audio'][0]['bits_per_sample'];
+		$info['playtime_seconds']         = $OrignalRIFFdataSize / ($info['audio']['channels'] * $info['audio']['sample_rate'] * ($info['audio']['bits_per_sample'] / 8));
+		$info['audio']['bitrate']         = (($info['avdataend'] - $info['avdataoffset']) * 8) / $info['playtime_seconds'];
+
+		unset($getid3_riff, $getid3_temp, $RIFFdata);
+
+		return true;
+	}
+
+
+	public function ParseOptimFROGheader45() {
+		// for fileformat of v4.50a and higher
+
+		$info = &$this->getid3->info;
+		$RIFFdata = '';
+		fseek($this->getid3->fp, $info['avdataoffset'], SEEK_SET);
+		while (!feof($this->getid3->fp) && (ftell($this->getid3->fp) < $info['avdataend'])) {
+			$BlockOffset = ftell($this->getid3->fp);
+			$BlockData   = fread($this->getid3->fp, 8);
+			$offset      = 8;
+			$BlockName   =                  substr($BlockData, 0, 4);
+			$BlockSize   = getid3_lib::LittleEndian2Int(substr($BlockData, 4, 4));
+
+			if ($BlockName == 'OFRX') {
+				$BlockName = 'OFR ';
+			}
+			if (!isset($info['ofr'][$BlockName])) {
+				$info['ofr'][$BlockName] = array();
+			}
+			$thisfile_ofr_thisblock = &$info['ofr'][$BlockName];
+
+			switch ($BlockName) {
+				case 'OFR ':
+
+					// shortcut
+					$thisfile_ofr_thisblock['offset'] = $BlockOffset;
+					$thisfile_ofr_thisblock['size']   = $BlockSize;
+
+					$info['audio']['encoder'] = 'OptimFROG 4.50 alpha';
+					switch ($BlockSize) {
+						case 12:
+						case 15:
+							// good
+							break;
+
+						default:
+							$info['warning'][] = '"'.$BlockName.'" contains more data than expected (expected 12 or 15 bytes, found '.$BlockSize.' bytes)';
+							break;
+					}
+					$BlockData .= fread($this->getid3->fp, $BlockSize);
+
+					$thisfile_ofr_thisblock['total_samples']      = getid3_lib::LittleEndian2Int(substr($BlockData, $offset, 6));
+					$offset += 6;
+					$thisfile_ofr_thisblock['raw']['sample_type'] = getid3_lib::LittleEndian2Int(substr($BlockData, $offset, 1));
+					$thisfile_ofr_thisblock['sample_type']        = $this->OptimFROGsampleTypeLookup($thisfile_ofr_thisblock['raw']['sample_type']);
+					$offset += 1;
+					$thisfile_ofr_thisblock['channel_config']     = getid3_lib::LittleEndian2Int(substr($BlockData, $offset, 1));
+					$thisfile_ofr_thisblock['channels']           = $thisfile_ofr_thisblock['channel_config'];
+					$offset += 1;
+					$thisfile_ofr_thisblock['sample_rate']        = getid3_lib::LittleEndian2Int(substr($BlockData, $offset, 4));
+					$offset += 4;
+
+					if ($BlockSize > 12) {
+
+						// OFR 4.504b or higher
+						$thisfile_ofr_thisblock['channels']           = $this->OptimFROGchannelConfigNumChannelsLookup($thisfile_ofr_thisblock['channel_config']);
+						$thisfile_ofr_thisblock['raw']['encoder_id']  = getid3_lib::LittleEndian2Int(substr($BlockData, $offset, 2));
+						$thisfile_ofr_thisblock['encoder']            = $this->OptimFROGencoderNameLookup($thisfile_ofr_thisblock['raw']['encoder_id']);
+						$offset += 2;
+						$thisfile_ofr_thisblock['raw']['compression'] = getid3_lib::LittleEndian2Int(substr($BlockData, $offset, 1));
+						$thisfile_ofr_thisblock['compression']        = $this->OptimFROGcompressionLookup($thisfile_ofr_thisblock['raw']['compression']);
+						$thisfile_ofr_thisblock['speedup']            = $this->OptimFROGspeedupLookup($thisfile_ofr_thisblock['raw']['compression']);
+						$offset += 1;
+
+						$info['audio']['encoder']         = 'OptimFROG '.$thisfile_ofr_thisblock['encoder'];
+						$info['audio']['encoder_options'] = '--mode '.$thisfile_ofr_thisblock['compression'];
+
+						if ((($thisfile_ofr_thisblock['raw']['encoder_id'] & 0xF0) >> 4) == 7) { // v4.507
+							if (strtolower(getid3_lib::fileextension($info['filename'])) == 'ofs') {
+								// OptimFROG DualStream format is lossy, but as of v4.507 there is no way to tell the difference
+								// between lossless and lossy other than the file extension.
+								$info['audio']['dataformat']   = 'ofs';
+								$info['audio']['lossless']     = true;
+							}
+						}
+
+					}
+
+					$info['audio']['channels']        = $thisfile_ofr_thisblock['channels'];
+					$info['audio']['sample_rate']     = $thisfile_ofr_thisblock['sample_rate'];
+					$info['audio']['bits_per_sample'] = $this->OptimFROGbitsPerSampleTypeLookup($thisfile_ofr_thisblock['raw']['sample_type']);
+					break;
+
+
+				case 'COMP':
+					// unlike other block types, there CAN be multiple COMP blocks
+
+					$COMPdata['offset'] = $BlockOffset;
+					$COMPdata['size']   = $BlockSize;
+
+					if ($info['avdataoffset'] == 0) {
+						$info['avdataoffset'] = $BlockOffset;
+					}
+
+					// Only interested in first 14 bytes (only first 12 needed for v4.50 alpha), not actual audio data
+					$BlockData .= fread($this->getid3->fp, 14);
+					fseek($this->getid3->fp, $BlockSize - 14, SEEK_CUR);
+
+					$COMPdata['crc_32']                       = getid3_lib::LittleEndian2Int(substr($BlockData, $offset, 4));
+					$offset += 4;
+					$COMPdata['sample_count']                 = getid3_lib::LittleEndian2Int(substr($BlockData, $offset, 4));
+					$offset += 4;
+					$COMPdata['raw']['sample_type']           = getid3_lib::LittleEndian2Int(substr($BlockData, $offset, 1));
+					$COMPdata['sample_type']                  = $this->OptimFROGsampleTypeLookup($COMPdata['raw']['sample_type']);
+					$offset += 1;
+					$COMPdata['raw']['channel_configuration'] = getid3_lib::LittleEndian2Int(substr($BlockData, $offset, 1));
+					$COMPdata['channel_configuration']        = $this->OptimFROGchannelConfigurationLookup($COMPdata['raw']['channel_configuration']);
+					$offset += 1;
+					$COMPdata['raw']['algorithm_id']          = getid3_lib::LittleEndian2Int(substr($BlockData, $offset, 2));
+					//$COMPdata['algorithm']                    = OptimFROGalgorithmNameLookup($COMPdata['raw']['algorithm_id']);
+					$offset += 2;
+
+					if ($info['ofr']['OFR ']['size'] > 12) {
+
+						// OFR 4.504b or higher
+						$COMPdata['raw']['encoder_id']        = getid3_lib::LittleEndian2Int(substr($BlockData, $offset, 2));
+						$COMPdata['encoder']                  = $this->OptimFROGencoderNameLookup($COMPdata['raw']['encoder_id']);
+						$offset += 2;
+
+					}
+
+					if ($COMPdata['crc_32'] == 0x454E4F4E) {
+						// ASCII value of 'NONE' - placeholder value in v4.50a
+						$COMPdata['crc_32'] = false;
+					}
+
+					$thisfile_ofr_thisblock[] = $COMPdata;
+					break;
+
+				case 'HEAD':
+					$thisfile_ofr_thisblock['offset'] = $BlockOffset;
+					$thisfile_ofr_thisblock['size']   = $BlockSize;
+
+					$RIFFdata .= fread($this->getid3->fp, $BlockSize);
+					break;
+
+				case 'TAIL':
+					$thisfile_ofr_thisblock['offset'] = $BlockOffset;
+					$thisfile_ofr_thisblock['size']   = $BlockSize;
+
+					if ($BlockSize > 0) {
+						$RIFFdata .= fread($this->getid3->fp, $BlockSize);
+					}
+					break;
+
+				case 'RECV':
+					// block contains no useful meta data - simply note and skip
+
+					$thisfile_ofr_thisblock['offset'] = $BlockOffset;
+					$thisfile_ofr_thisblock['size']   = $BlockSize;
+
+					fseek($this->getid3->fp, $BlockSize, SEEK_CUR);
+					break;
+
+
+				case 'APET':
+					// APEtag v2
+
+					$thisfile_ofr_thisblock['offset'] = $BlockOffset;
+					$thisfile_ofr_thisblock['size']   = $BlockSize;
+					$info['warning'][] = 'APEtag processing inside OptimFROG not supported in this version ('.$this->getid3->version().') of getID3()';
+
+					fseek($this->getid3->fp, $BlockSize, SEEK_CUR);
+					break;
+
+
+				case 'MD5 ':
+					// APEtag v2
+
+					$thisfile_ofr_thisblock['offset'] = $BlockOffset;
+					$thisfile_ofr_thisblock['size']   = $BlockSize;
+
+					if ($BlockSize == 16) {
+
+						$thisfile_ofr_thisblock['md5_binary'] = fread($this->getid3->fp, $BlockSize);
+						$thisfile_ofr_thisblock['md5_string'] = getid3_lib::PrintHexBytes($thisfile_ofr_thisblock['md5_binary'], true, false, false);
+						$info['md5_data_source'] = $thisfile_ofr_thisblock['md5_string'];
+
+					} else {
+
+						$info['warning'][] = 'Expecting block size of 16 in "MD5 " chunk, found '.$BlockSize.' instead';
+						fseek($this->getid3->fp, $BlockSize, SEEK_CUR);
+
+					}
+					break;
+
+
+				default:
+					$thisfile_ofr_thisblock['offset'] = $BlockOffset;
+					$thisfile_ofr_thisblock['size']   = $BlockSize;
+
+					$info['warning'][] = 'Unhandled OptimFROG block type "'.$BlockName.'" at offset '.$thisfile_ofr_thisblock['offset'];
+					fseek($this->getid3->fp, $BlockSize, SEEK_CUR);
+					break;
+			}
+		}
+		if (isset($info['ofr']['TAIL']['offset'])) {
+			$info['avdataend'] = $info['ofr']['TAIL']['offset'];
+		}
+
+		$info['playtime_seconds'] = (float) $info['ofr']['OFR ']['total_samples'] / ($info['audio']['channels'] * $info['audio']['sample_rate']);
+		$info['audio']['bitrate'] = (($info['avdataend'] - $info['avdataoffset']) * 8) / $info['playtime_seconds'];
+
+		// move the data chunk after all other chunks (if any)
+		// so that the RIFF parser doesn't see EOF when trying
+		// to skip over the data chunk
+		$RIFFdata = substr($RIFFdata, 0, 36).substr($RIFFdata, 44).substr($RIFFdata, 36, 8);
+
+		$getid3_temp = new getID3();
+		$getid3_temp->openfile($this->getid3->filename);
+		$getid3_temp->info['avdataoffset'] = $info['avdataoffset'];
+		$getid3_temp->info['avdataend']    = $info['avdataend'];
+		$getid3_riff = new getid3_riff($getid3_temp);
+		$getid3_riff->ParseRIFFdata($RIFFdata);
+		$info['riff'] = $getid3_temp->info['riff'];
+
+		unset($getid3_riff, $getid3_temp, $RIFFdata);
+
+		return true;
+	}
+
+
+	public static function OptimFROGsampleTypeLookup($SampleType) {
+		static $OptimFROGsampleTypeLookup = array(
+			0  => 'unsigned int (8-bit)',
+			1  => 'signed int (8-bit)',
+			2  => 'unsigned int (16-bit)',
+			3  => 'signed int (16-bit)',
+			4  => 'unsigned int (24-bit)',
+			5  => 'signed int (24-bit)',
+			6  => 'unsigned int (32-bit)',
+			7  => 'signed int (32-bit)',
+			8  => 'float 0.24 (32-bit)',
+			9  => 'float 16.8 (32-bit)',
+			10 => 'float 24.0 (32-bit)'
+		);
+		return (isset($OptimFROGsampleTypeLookup[$SampleType]) ? $OptimFROGsampleTypeLookup[$SampleType] : false);
+	}
+
+	public static function OptimFROGbitsPerSampleTypeLookup($SampleType) {
+		static $OptimFROGbitsPerSampleTypeLookup = array(
+			0  => 8,
+			1  => 8,
+			2  => 16,
+			3  => 16,
+			4  => 24,
+			5  => 24,
+			6  => 32,
+			7  => 32,
+			8  => 32,
+			9  => 32,
+			10 => 32
+		);
+		return (isset($OptimFROGbitsPerSampleTypeLookup[$SampleType]) ? $OptimFROGbitsPerSampleTypeLookup[$SampleType] : false);
+	}
+
+	public static function OptimFROGchannelConfigurationLookup($ChannelConfiguration) {
+		static $OptimFROGchannelConfigurationLookup = array(
+			0 => 'mono',
+			1 => 'stereo'
+		);
+		return (isset($OptimFROGchannelConfigurationLookup[$ChannelConfiguration]) ? $OptimFROGchannelConfigurationLookup[$ChannelConfiguration] : false);
+	}
+
+	public static function OptimFROGchannelConfigNumChannelsLookup($ChannelConfiguration) {
+		static $OptimFROGchannelConfigNumChannelsLookup = array(
+			0 => 1,
+			1 => 2
+		);
+		return (isset($OptimFROGchannelConfigNumChannelsLookup[$ChannelConfiguration]) ? $OptimFROGchannelConfigNumChannelsLookup[$ChannelConfiguration] : false);
+	}
+
+
+
+	// static function OptimFROGalgorithmNameLookup($AlgorithID) {
+	//     static $OptimFROGalgorithmNameLookup = array();
+	//     return (isset($OptimFROGalgorithmNameLookup[$AlgorithID]) ? $OptimFROGalgorithmNameLookup[$AlgorithID] : false);
+	// }
+
+
+	public static function OptimFROGencoderNameLookup($EncoderID) {
+		// version = (encoderID >> 4) + 4500
+		// system  =  encoderID & 0xF
+
+		$EncoderVersion  = number_format(((($EncoderID & 0xF0) >> 4) + 4500) / 1000, 3);
+		$EncoderSystemID = ($EncoderID & 0x0F);
+
+		static $OptimFROGencoderSystemLookup = array(
+			0x00 => 'Windows console',
+			0x01 => 'Linux console',
+			0x0F => 'unknown'
+		);
+		return $EncoderVersion.' ('.(isset($OptimFROGencoderSystemLookup[$EncoderSystemID]) ? $OptimFROGencoderSystemLookup[$EncoderSystemID] : 'undefined encoder type (0x'.dechex($EncoderSystemID).')').')';
+	}
+
+	public static function OptimFROGcompressionLookup($CompressionID) {
+		// mode    = compression >> 3
+		// speedup = compression & 0x07
+
+		$CompressionModeID    = ($CompressionID & 0xF8) >> 3;
+		//$CompressionSpeedupID = ($CompressionID & 0x07);
+
+		static $OptimFROGencoderModeLookup = array(
+			0x00 => 'fast',
+			0x01 => 'normal',
+			0x02 => 'high',
+			0x03 => 'extra', // extranew (some versions)
+			0x04 => 'best',  // bestnew (some versions)
+			0x05 => 'ultra',
+			0x06 => 'insane',
+			0x07 => 'highnew',
+			0x08 => 'extranew',
+			0x09 => 'bestnew'
+		);
+		return (isset($OptimFROGencoderModeLookup[$CompressionModeID]) ? $OptimFROGencoderModeLookup[$CompressionModeID] : 'undefined mode (0x'.str_pad(dechex($CompressionModeID), 2, '0', STR_PAD_LEFT).')');
+	}
+
+	public static function OptimFROGspeedupLookup($CompressionID) {
+		// mode    = compression >> 3
+		// speedup = compression & 0x07
+
+		//$CompressionModeID    = ($CompressionID & 0xF8) >> 3;
+		$CompressionSpeedupID = ($CompressionID & 0x07);
+
+		static $OptimFROGencoderSpeedupLookup = array(
+			0x00 => '1x',
+			0x01 => '2x',
+			0x02 => '4x'
+		);
+		return (isset($OptimFROGencoderSpeedupLookup[$CompressionSpeedupID]) ? $OptimFROGencoderSpeedupLookup[$CompressionSpeedupID] : 'undefined mode (0x'.dechex($CompressionSpeedupID));
+	}
+
+}

@@ -1,35 +1,123 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
+<?php
+
+/**
+ * Zend Framework
+ *
+ * LICENSE
+ *
+ * This source file is subject to the new BSD license that is bundled
+ * with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://framework.zend.com/license/new-bsd
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@zend.com so we can send you a copy immediately.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Gdata
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ * @version    $Id: AttendeeStatus.php 16971 2009-07-22 18:05:45Z mikaelkael $
+ */
+
+/**
+ * @see Zend_Gdata_Extension
+ */
+require_once 'Zend/Gdata/Extension.php';
+
+/**
+ * Data model class to represent an attendee's status (gd:attendeeStatus)
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Gdata
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+class Zend_Gdata_Extension_AttendeeStatus extends Zend_Gdata_Extension
+{
+
+    protected $_rootElement = 'attendeeStatus';
+    protected $_value = null;
+
+    /**
+     * Constructs a new Zend_Gdata_Extension_AttendeeStatus object.
+     * @param string $value (optional) Visibility value as URI.
+     */
+    public function __construct($value = null)
+    {
+        parent::__construct();
+        $this->_value = $value;
+    }
+
+    /**
+     * Retrieves a DOMElement which corresponds to this element and all
+     * child properties.  This is used to build an entry back into a DOM
+     * and eventually XML text for sending to the server upon updates, or
+     * for application storage/persistence.
+     *
+     * @param DOMDocument $doc The DOMDocument used to construct DOMElements
+     * @return DOMElement The DOMElement representing this element and all
+     * child properties.
+     */
+    public function getDOM($doc = null, $majorVersion = 1, $minorVersion = null)
+    {
+        $element = parent::getDOM($doc, $majorVersion, $minorVersion);
+        if ($this->_value !== null) {
+            $element->setAttribute('value', $this->_value);
+        }
+        return $element;
+    }
+
+    /**
+     * Given a DOMNode representing an attribute, tries to map the data into
+     * instance members.  If no mapping is defined, the name and value are
+     * stored in an array.
+     *
+     * @param DOMNode $attribute The DOMNode attribute needed to be handled
+     */
+    protected function takeAttributeFromDOM($attribute)
+    {
+        switch ($attribute->localName) {
+        case 'value':
+            $this->_value = $attribute->nodeValue;
+            break;
+        default:
+            parent::takeAttributeFromDOM($attribute);
+        }
+    }
+
+    /**
+     * Get the value for this element's Value attribute.
+     *
+     * @return string The requested attribute.
+     */
+    public function getValue()
+    {
+        return $this->_value;
+    }
+
+    /**
+     * Set the value for this element's Value attribute.
+     *
+     * @param string $value The desired value for this attribute.
+     * @return Zend_Gdata_Extension_Visibility The element being modified.
+     */
+    public function setValue($value)
+    {
+        $this->_value = $value;
+        return $this;
+    }
+
+    /**
+     * Magic toString method allows using this directly via echo
+     * Works best in PHP >= 4.2.0
+     */
+    public function __toString()
+    {
+        return $this->getValue();
+    }
+
+}
+

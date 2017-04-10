@@ -1,60 +1,119 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
+<?php
+/////////////////////////////////////////////////////////////////
+/// getID3() by James Heinrich <info@getid3.org>               //
+//  available at http://getid3.sourceforge.net                 //
+//            or http://www.getid3.org                         //
+/////////////////////////////////////////////////////////////////
+// See readme.txt for more details                             //
+/////////////////////////////////////////////////////////////////
+//                                                             //
+// write.vorbiscomment.php                                     //
+// module for writing VorbisComment tags                       //
+// dependencies: /helperapps/vorbiscomment.exe                 //
+//                                                            ///
+/////////////////////////////////////////////////////////////////
+
+
+class getid3_write_vorbiscomment
+{
+
+	public $filename;
+	public $tag_data;
+	public $warnings = array(); // any non-critical errors will be stored here
+	public $errors   = array(); // any critical errors will be stored here
+
+	public function getid3_write_vorbiscomment() {
+		return true;
+	}
+
+	public function WriteVorbisComment() {
+
+		if (preg_match('#(1|ON)#i', ini_get('safe_mode'))) {
+			$this->errors[] = 'PHP running in Safe Mode (backtick operator not available) - cannot call vorbiscomment, tags not written';
+			return false;
+		}
+
+		// Create file with new comments
+		$tempcommentsfilename = tempnam(GETID3_TEMP_DIR, 'getID3');
+		if (is_writable($tempcommentsfilename) && is_file($tempcommentsfilename) && ($fpcomments = fopen($tempcommentsfilename, 'wb'))) {
+
+			foreach ($this->tag_data as $key => $value) {
+				foreach ($value as $commentdata) {
+					fwrite($fpcomments, $this->CleanVorbisCommentName($key).'='.$commentdata."\n");
+				}
+			}
+			fclose($fpcomments);
+
+		} else {
+			$this->errors[] = 'failed to open temporary tags file "'.$tempcommentsfilename.'", tags not written';
+			return false;
+		}
+
+		$oldignoreuserabort = ignore_user_abort(true);
+		if (GETID3_OS_ISWINDOWS) {
+
+			if (file_exists(GETID3_HELPERAPPSDIR.'vorbiscomment.exe')) {
+				//$commandline = '"'.GETID3_HELPERAPPSDIR.'vorbiscomment.exe" -w --raw -c "'.$tempcommentsfilename.'" "'.str_replace('/', '\\', $this->filename).'"';
+				//  vorbiscomment works fine if you copy-paste the above commandline into a command prompt,
+				//  but refuses to work with `backtick` if there are "doublequotes" present around BOTH
+				//  the metaflac pathname and the target filename. For whatever reason...??
+				//  The solution is simply ensure that the metaflac pathname has no spaces,
+				//  and therefore does not need to be quoted
+
+				// On top of that, if error messages are not always captured properly under Windows
+				// To at least see if there was a problem, compare file modification timestamps before and after writing
+				clearstatcache();
+				$timestampbeforewriting = filemtime($this->filename);
+
+				$commandline = GETID3_HELPERAPPSDIR.'vorbiscomment.exe -w --raw -c "'.$tempcommentsfilename.'" "'.$this->filename.'" 2>&1';
+				$VorbiscommentError = `$commandline`;
+
+				if (empty($VorbiscommentError)) {
+					clearstatcache();
+					if ($timestampbeforewriting == filemtime($this->filename)) {
+						$VorbiscommentError = 'File modification timestamp has not changed - it looks like the tags were not written';
+					}
+				}
+			} else {
+				$VorbiscommentError = 'vorbiscomment.exe not found in '.GETID3_HELPERAPPSDIR;
+			}
+
+		} else {
+
+			$commandline = 'vorbiscomment -w --raw -c "'.$tempcommentsfilename.'" "'.$this->filename.'" 2>&1';
+			$VorbiscommentError = `$commandline`;
+
+		}
+
+		// Remove temporary comments file
+		unlink($tempcommentsfilename);
+		ignore_user_abort($oldignoreuserabort);
+
+		if (!empty($VorbiscommentError)) {
+
+			$this->errors[] = 'system call to vorbiscomment failed with message: '."\n\n".$VorbiscommentError;
+			return false;
+
+		}
+
+		return true;
+	}
+
+	public function DeleteVorbisComment() {
+		$this->tag_data = array(array());
+		return $this->WriteVorbisComment();
+	}
+
+	public function CleanVorbisCommentName($originalcommentname) {
+		// A case-insensitive field name that may consist of ASCII 0x20 through 0x7D, 0x3D ('=') excluded.
+		// ASCII 0x41 through 0x5A inclusive (A-Z) is to be considered equivalent to ASCII 0x61 through
+		// 0x7A inclusive (a-z).
+
+		// replace invalid chars with a space, return uppercase text
+		// Thanks Chris Bolt <chris-getid3Øbolt*cx> for improving this function
+		// note: *reg_replace() replaces nulls with empty string (not space)
+		return strtoupper(preg_replace('#[^ -<>-}]#', ' ', str_replace("\x00", ' ', $originalcommentname)));
+
+	}
+
+}

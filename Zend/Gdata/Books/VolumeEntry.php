@@ -1,202 +1,687 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
+<?php
+
+/**
+ * Zend Framework
+ *
+ * LICENSE
+ *
+ * This source file is subject to the new BSD license that is bundled
+ * with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://framework.zend.com/license/new-bsd
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@zend.com so we can send you a copy immediately.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Books
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ * @version    $Id: VolumeEntry.php 16971 2009-07-22 18:05:45Z mikaelkael $
+ */
+
+/**
+ * @see Zend_Gdata_Entry
+ */
+require_once 'Zend/Gdata/Entry.php';
+
+/**
+ * @see Zend_Gdata_Extension_Comments
+ */
+require_once 'Zend/Gdata/Extension/Comments.php';
+
+/**
+ * @see Zend_Gdata_DublinCore_Extension_Creator
+ */
+require_once 'Zend/Gdata/DublinCore/Extension/Creator.php';
+
+/**
+ * @see Zend_Gdata_DublinCore_Extension_Date
+ */
+require_once 'Zend/Gdata/DublinCore/Extension/Date.php';
+
+/**
+ * @see Zend_Gdata_DublinCore_Extension_Description
+ */
+require_once 'Zend/Gdata/DublinCore/Extension/Description.php';
+
+/**
+ * @see Zend_Gdata_Books_Extension_Embeddability
+ */
+require_once 'Zend/Gdata/Books/Extension/Embeddability.php';
+
+/**
+ * @see Zend_Gdata_DublinCore_Extension_Format
+ */
+require_once 'Zend/Gdata/DublinCore/Extension/Format.php';
+
+/**
+ * @see Zend_Gdata_DublinCore_Extension_Identifier
+ */
+require_once 'Zend/Gdata/DublinCore/Extension/Identifier.php';
+
+/**
+ * @see Zend_Gdata_DublinCore_Extension_Language
+ */
+require_once 'Zend/Gdata/DublinCore/Extension/Language.php';
+
+/**
+ * @see Zend_Gdata_DublinCore_Extension_Publisher
+ */
+require_once 'Zend/Gdata/DublinCore/Extension/Publisher.php';
+
+/**
+ * @see Zend_Gdata_Extension_Rating
+ */
+require_once 'Zend/Gdata/Extension/Rating.php';
+
+/**
+ * @see Zend_Gdata_Books_Extension_Review
+ */
+require_once 'Zend/Gdata/Books/Extension/Review.php';
+
+/**
+ * @see Zend_Gdata_DublinCore_Extension_Subject
+ */
+require_once 'Zend/Gdata/DublinCore/Extension/Subject.php';
+
+/**
+ * @see Zend_Gdata_DublinCore_Extension_Title
+ */
+require_once 'Zend/Gdata/DublinCore/Extension/Title.php';
+
+/**
+ * @see Zend_Gdata_Books_Extension_Viewability
+ */
+require_once 'Zend/Gdata/Books/Extension/Viewability.php';
+
+/**
+ * Describes an entry in a feed of Book Search volumes
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Books
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+class Zend_Gdata_Books_VolumeEntry extends Zend_Gdata_Entry
+{
+
+    const THUMBNAIL_LINK_REL = 'http://schemas.google.com/books/2008/thumbnail';
+    const PREVIEW_LINK_REL = 'http://schemas.google.com/books/2008/preview';
+    const INFO_LINK_REL = 'http://schemas.google.com/books/2008/info';
+    const ANNOTATION_LINK_REL = 'http://schemas.google.com/books/2008/annotation';
+
+    protected $_comments = null;
+    protected $_creators = array();
+    protected $_dates = array();
+    protected $_descriptions = array();
+    protected $_embeddability = null;
+    protected $_formats = array();
+    protected $_identifiers = array();
+    protected $_languages = array();
+    protected $_publishers = array();
+    protected $_rating = null;
+    protected $_review = null;
+    protected $_subjects = array();
+    protected $_titles = array();
+    protected $_viewability = null;
+
+    /**
+     * Constructor for Zend_Gdata_Books_VolumeEntry which
+     * Describes an entry in a feed of Book Search volumes
+     *
+     * @param DOMElement $element (optional) DOMElement from which this
+     *          object should be constructed.
+     */
+    public function __construct($element = null)
+    {
+        $this->registerAllNamespaces(Zend_Gdata_Books::$namespaces);
+        parent::__construct($element);
+    }
+
+    /**
+     * Retrieves DOMElement which corresponds to this element and all
+     * child properties. This is used to build this object back into a DOM
+     * and eventually XML text for sending to the server upon updates, or
+     * for application storage/persistance.
+     *
+     * @param DOMDocument $doc The DOMDocument used to construct DOMElements
+     * @return DOMElement The DOMElement representing this element and all
+     * child properties.
+     */
+    public function getDOM($doc = null, $majorVersion = 1, $minorVersion = null)
+    {
+        $element = parent::getDOM($doc);
+        if ($this->_creators !== null) {
+            foreach ($this->_creators as $creators) {
+                $element->appendChild($creators->getDOM(
+                    $element->ownerDocument));
+            }
+        }
+        if ($this->_dates !== null) {
+            foreach ($this->_dates as $dates) {
+                $element->appendChild($dates->getDOM($element->ownerDocument));
+            }
+        }
+        if ($this->_descriptions !== null) {
+            foreach ($this->_descriptions as $descriptions) {
+                $element->appendChild($descriptions->getDOM(
+                    $element->ownerDocument));
+            }
+        }
+        if ($this->_formats !== null) {
+            foreach ($this->_formats as $formats) {
+                $element->appendChild($formats->getDOM(
+                    $element->ownerDocument));
+            }
+        }
+        if ($this->_identifiers !== null) {
+            foreach ($this->_identifiers as $identifiers) {
+                $element->appendChild($identifiers->getDOM(
+                    $element->ownerDocument));
+            }
+        }
+        if ($this->_languages !== null) {
+            foreach ($this->_languages as $languages) {
+                $element->appendChild($languages->getDOM(
+                    $element->ownerDocument));
+            }
+        }
+        if ($this->_publishers !== null) {
+            foreach ($this->_publishers as $publishers) {
+                $element->appendChild($publishers->getDOM(
+                    $element->ownerDocument));
+            }
+        }
+        if ($this->_subjects !== null) {
+            foreach ($this->_subjects as $subjects) {
+                $element->appendChild($subjects->getDOM(
+                    $element->ownerDocument));
+            }
+        }
+        if ($this->_titles !== null) {
+            foreach ($this->_titles as $titles) {
+                $element->appendChild($titles->getDOM($element->ownerDocument));
+            }
+        }
+        if ($this->_comments !== null) {
+            $element->appendChild($this->_comments->getDOM(
+                $element->ownerDocument));
+        }
+        if ($this->_embeddability !== null) {
+            $element->appendChild($this->_embeddability->getDOM(
+                $element->ownerDocument));
+        }
+        if ($this->_rating !== null) {
+            $element->appendChild($this->_rating->getDOM(
+                $element->ownerDocument));
+        }
+        if ($this->_review !== null) {
+            $element->appendChild($this->_review->getDOM(
+                $element->ownerDocument));
+        }
+        if ($this->_viewability !== null) {
+            $element->appendChild($this->_viewability->getDOM(
+                $element->ownerDocument));
+        }
+        return $element;
+    }
+
+    /**
+     * Creates individual objects of the appropriate type and stores
+     * them in this object based upon DOM data.
+     *
+     * @param DOMNode $child The DOMNode to process.
+     */
+    protected function takeChildFromDOM($child)
+    {
+        $absoluteNodeName = $child->namespaceURI . ':' . $child->localName;
+        switch ($absoluteNodeName) {
+        case $this->lookupNamespace('dc') . ':' . 'creator':
+            $creators = new Zend_Gdata_DublinCore_Extension_Creator();
+            $creators->transferFromDOM($child);
+            $this->_creators[] = $creators;
+            break;
+        case $this->lookupNamespace('dc') . ':' . 'date':
+            $dates = new Zend_Gdata_DublinCore_Extension_Date();
+            $dates->transferFromDOM($child);
+            $this->_dates[] = $dates;
+            break;
+        case $this->lookupNamespace('dc') . ':' . 'description':
+            $descriptions = new Zend_Gdata_DublinCore_Extension_Description();
+            $descriptions->transferFromDOM($child);
+            $this->_descriptions[] = $descriptions;
+            break;
+        case $this->lookupNamespace('dc') . ':' . 'format':
+            $formats = new Zend_Gdata_DublinCore_Extension_Format();
+            $formats->transferFromDOM($child);
+            $this->_formats[] = $formats;
+            break;
+        case $this->lookupNamespace('dc') . ':' . 'identifier':
+            $identifiers = new Zend_Gdata_DublinCore_Extension_Identifier();
+            $identifiers->transferFromDOM($child);
+            $this->_identifiers[] = $identifiers;
+            break;
+        case $this->lookupNamespace('dc') . ':' . 'language':
+            $languages = new Zend_Gdata_DublinCore_Extension_Language();
+            $languages->transferFromDOM($child);
+            $this->_languages[] = $languages;
+            break;
+        case $this->lookupNamespace('dc') . ':' . 'publisher':
+            $publishers = new Zend_Gdata_DublinCore_Extension_Publisher();
+            $publishers->transferFromDOM($child);
+            $this->_publishers[] = $publishers;
+            break;
+        case $this->lookupNamespace('dc') . ':' . 'subject':
+            $subjects = new Zend_Gdata_DublinCore_Extension_Subject();
+            $subjects->transferFromDOM($child);
+            $this->_subjects[] = $subjects;
+            break;
+        case $this->lookupNamespace('dc') . ':' . 'title':
+            $titles = new Zend_Gdata_DublinCore_Extension_Title();
+            $titles->transferFromDOM($child);
+            $this->_titles[] = $titles;
+            break;
+        case $this->lookupNamespace('gd') . ':' . 'comments':
+            $comments = new Zend_Gdata_Extension_Comments();
+            $comments->transferFromDOM($child);
+            $this->_comments = $comments;
+            break;
+        case $this->lookupNamespace('gbs') . ':' . 'embeddability':
+            $embeddability = new Zend_Gdata_Books_Extension_Embeddability();
+            $embeddability->transferFromDOM($child);
+            $this->_embeddability = $embeddability;
+            break;
+        case $this->lookupNamespace('gd') . ':' . 'rating':
+            $rating = new Zend_Gdata_Extension_Rating();
+            $rating->transferFromDOM($child);
+            $this->_rating = $rating;
+            break;
+        case $this->lookupNamespace('gbs') . ':' . 'review':
+            $review = new Zend_Gdata_Books_Extension_Review();
+            $review->transferFromDOM($child);
+            $this->_review = $review;
+            break;
+        case $this->lookupNamespace('gbs') . ':' . 'viewability':
+            $viewability = new Zend_Gdata_Books_Extension_Viewability();
+            $viewability->transferFromDOM($child);
+            $this->_viewability = $viewability;
+            break;
+        default:
+            parent::takeChildFromDOM($child);
+            break;
+        }
+    }
+
+    /**
+     * Returns the Comments class
+     *
+     * @return Zend_Gdata_Extension_Comments|null The comments
+     */
+    public function getComments()
+    {
+        return $this->_comments;
+    }
+
+    /**
+     * Returns the creators
+     *
+     * @return array The creators
+     */
+    public function getCreators()
+    {
+        return $this->_creators;
+    }
+
+    /**
+     * Returns the dates
+     *
+     * @return array The dates
+     */
+    public function getDates()
+    {
+        return $this->_dates;
+    }
+
+    /**
+     * Returns the descriptions
+     *
+     * @return array The descriptions
+     */
+    public function getDescriptions()
+    {
+        return $this->_descriptions;
+    }
+
+    /**
+     * Returns the embeddability
+     *
+     * @return Zend_Gdata_Books_Extension_Embeddability|null The embeddability
+     */
+    public function getEmbeddability()
+    {
+        return $this->_embeddability;
+    }
+
+    /**
+     * Returns the formats
+     *
+     * @return array The formats
+     */
+    public function getFormats()
+    {
+        return $this->_formats;
+    }
+
+    /**
+     * Returns the identifiers
+     *
+     * @return array The identifiers
+     */
+    public function getIdentifiers()
+    {
+        return $this->_identifiers;
+    }
+
+    /**
+     * Returns the languages
+     *
+     * @return array The languages
+     */
+    public function getLanguages()
+    {
+        return $this->_languages;
+    }
+
+    /**
+     * Returns the publishers
+     *
+     * @return array The publishers
+     */
+    public function getPublishers()
+    {
+        return $this->_publishers;
+    }
+
+    /**
+     * Returns the rating
+     *
+     * @return Zend_Gdata_Extension_Rating|null The rating
+     */
+    public function getRating()
+    {
+        return $this->_rating;
+    }
+
+    /**
+     * Returns the review
+     *
+     * @return Zend_Gdata_Books_Extension_Review|null The review
+     */
+    public function getReview()
+    {
+        return $this->_review;
+    }
+
+    /**
+     * Returns the subjects
+     *
+     * @return array The subjects
+     */
+    public function getSubjects()
+    {
+        return $this->_subjects;
+    }
+
+    /**
+     * Returns the titles
+     *
+     * @return array The titles
+     */
+    public function getTitles()
+    {
+        return $this->_titles;
+    }
+
+    /**
+     * Returns the viewability
+     *
+     * @return Zend_Gdata_Books_Extension_Viewability|null The viewability
+     */
+    public function getViewability()
+    {
+        return $this->_viewability;
+    }
+
+    /**
+     * Sets the Comments class
+     *
+     * @param Zend_Gdata_Extension_Comments|null $comments Comments class
+     * @return Zend_Gdata_Books_VolumeEntry Provides a fluent interface
+     */
+    public function setComments($comments)
+    {
+        $this->_comments = $comments;
+        return $this;
+    }
+
+    /**
+     * Sets the creators
+     *
+     * @param array $creators Creators|null
+     * @return Zend_Gdata_Books_VolumeEntry Provides a fluent interface
+     */
+    public function setCreators($creators)
+    {
+        $this->_creators = $creators;
+        return $this;
+    }
+
+    /**
+     * Sets the dates
+     *
+     * @param array $dates dates
+     * @return Zend_Gdata_Books_VolumeEntry Provides a fluent interface
+     */
+    public function setDates($dates)
+    {
+        $this->_dates = $dates;
+        return $this;
+    }
+
+    /**
+     * Sets the descriptions
+     *
+     * @param array $descriptions descriptions
+     * @return Zend_Gdata_Books_VolumeEntry Provides a fluent interface
+     */
+    public function setDescriptions($descriptions)
+    {
+        $this->_descriptions = $descriptions;
+        return $this;
+    }
+
+    /**
+     * Sets the embeddability
+     *
+     * @param Zend_Gdata_Books_Extension_Embeddability|null $embeddability
+     *        embeddability
+     * @return Zend_Gdata_Books_VolumeEntry Provides a fluent interface
+     */
+    public function setEmbeddability($embeddability)
+    {
+        $this->_embeddability = $embeddability;
+        return $this;
+    }
+
+    /**
+     * Sets the formats
+     *
+     * @param array $formats formats
+     * @return Zend_Gdata_Books_VolumeEntry Provides a fluent interface
+     */
+    public function setFormats($formats)
+    {
+        $this->_formats = $formats;
+        return $this;
+    }
+
+    /**
+     * Sets the identifiers
+     *
+     * @param array $identifiers identifiers
+     * @return Zend_Gdata_Books_VolumeEntry Provides a fluent interface
+     */
+    public function setIdentifiers($identifiers)
+    {
+        $this->_identifiers = $identifiers;
+        return $this;
+    }
+
+    /**
+     * Sets the languages
+     *
+     * @param array $languages languages
+     * @return Zend_Gdata_Books_VolumeEntry Provides a fluent interface
+     */
+    public function setLanguages($languages)
+    {
+        $this->_languages = $languages;
+        return $this;
+    }
+
+    /**
+     * Sets the publishers
+     *
+     * @param array $publishers publishers
+     * @return Zend_Gdata_Books_VolumeEntry Provides a fluent interface
+     */
+    public function setPublishers($publishers)
+    {
+        $this->_publishers = $publishers;
+        return $this;
+    }
+
+    /**
+     * Sets the rating
+     *
+     * @param Zend_Gdata_Extension_Rating|null $rating rating
+     * @return Zend_Gdata_Books_VolumeEntry Provides a fluent interface
+     */
+    public function setRating($rating)
+    {
+        $this->_rating = $rating;
+        return $this;
+    }
+
+    /**
+     * Sets the review
+     *
+     * @param Zend_Gdata_Books_Extension_Review|null $review review
+     * @return Zend_Gdata_Books_VolumeEntry Provides a fluent interface
+     */
+    public function setReview($review)
+    {
+        $this->_review = $review;
+        return $this;
+    }
+
+    /**
+     * Sets the subjects
+     *
+     * @param array $subjects subjects
+     * @return Zend_Gdata_Books_VolumeEntry Provides a fluent interface
+     */
+    public function setSubjects($subjects)
+    {
+        $this->_subjects = $subjects;
+        return $this;
+    }
+
+    /**
+     * Sets the titles
+     *
+     * @param array $titles titles
+     * @return Zend_Gdata_Books_VolumeEntry Provides a fluent interface
+     */
+    public function setTitles($titles)
+    {
+        $this->_titles = $titles;
+        return $this;
+    }
+
+    /**
+     * Sets the viewability
+     *
+     * @param Zend_Gdata_Books_Extension_Viewability|null $viewability
+     *        viewability
+     * @return Zend_Gdata_Books_VolumeEntry Provides a fluent interface
+     */
+    public function setViewability($viewability)
+    {
+        $this->_viewability = $viewability;
+        return $this;
+    }
+
+
+    /**
+     * Gets the volume ID based upon the atom:id value
+     *
+     * @return string The volume ID
+     * @throws Zend_Gdata_App_Exception
+     */
+    public function getVolumeId()
+    {
+        $fullId = $this->getId()->getText();
+        $position = strrpos($fullId, '/');
+        if ($position === false) {
+            require_once 'Zend/Gdata/App/Exception.php';
+            throw new Zend_Gdata_App_Exception('Slash not found in atom:id');
+        } else {
+            return substr($fullId, strrpos($fullId,'/') + 1);
+        }
+    }
+
+    /**
+     * Gets the thumbnail link
+     *
+     * @return Zend_Gdata_App_Extension_link|null The thumbnail link
+     */
+    public function getThumbnailLink()
+    {
+        return $this->getLink(self::THUMBNAIL_LINK_REL);
+    }
+
+    /**
+     * Gets the preview link
+     *
+     * @return Zend_Gdata_App_Extension_Link|null The preview link
+     */
+    public function getPreviewLink()
+    {
+        return $this->getLink(self::PREVIEW_LINK_REL);
+    }
+
+    /**
+     * Gets the info link
+     *
+     * @return Zend_Gdata_App_Extension_Link|null The info link
+     */
+    public function getInfoLink()
+    {
+        return $this->getLink(self::INFO_LINK_REL);
+    }
+
+    /**
+     * Gets the annotations link
+     *
+     * @return Zend_Gdata_App_Extension_Link|null The annotations link
+     */
+    public function getAnnotationLink()
+    {
+        return $this->getLink(self::ANNOTATION_LINK_REL);
+    }
+
+}

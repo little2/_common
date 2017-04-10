@@ -1,88 +1,274 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
-m0==
+<?php
+
+/**
+ * Zend Framework
+ *
+ * LICENSE
+ *
+ * This source file is subject to the new BSD license that is bundled
+ * with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://framework.zend.com/license/new-bsd
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@zend.com so we can send you a copy immediately.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Health
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ * @version    $Id: Health.php 18951 2009-11-12 16:26:19Z alexander $
+ */
+
+/**
+ * @see Zend_Gdata
+ */
+require_once 'Zend/Gdata.php';
+
+/**
+ * @see Zend_Gdata_Health_ProfileFeed
+ */
+require_once 'Zend/Gdata/Health/ProfileFeed.php';
+
+/**
+ * @see Zend_Gdata_Health_ProfileListFeed
+ */
+require_once 'Zend/Gdata/Health/ProfileListFeed.php';
+
+/**
+ * @see Zend_Gdata_Health_ProfileListEntry
+ */
+require_once 'Zend/Gdata/Health/ProfileListEntry.php';
+
+/**
+ * @see Zend_Gdata_Health_ProfileEntry
+ */
+require_once 'Zend/Gdata/Health/ProfileEntry.php';
+
+/**
+ * Service class for interacting with the Google Health Data API
+ *
+ * @link http://code.google.com/apis/health
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Health
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+class Zend_Gdata_Health extends Zend_Gdata
+{
+    /**
+     * URIs of the AuthSub/OAuth feeds.
+     */
+    const AUTHSUB_PROFILE_FEED_URI =
+        'https://www.google.com/health/feeds/profile/default';
+    const AUTHSUB_REGISTER_FEED_URI =
+        'https://www.google.com/health/feeds/register/default';
+
+    /**
+     * URIs of the ClientLogin feeds.
+     */
+    const CLIENTLOGIN_PROFILELIST_FEED_URI =
+        'https://www.google.com/health/feeds/profile/list';
+    const CLIENTLOGIN_PROFILE_FEED_URI =
+        'https://www.google.com/health/feeds/profile/ui';
+    const CLIENTLOGIN_REGISTER_FEED_URI =
+        'https://www.google.com/health/feeds/register/ui';
+
+    /**
+     * Authentication service names for Google Health and the H9 Sandbox.
+     */
+    const HEALTH_SERVICE_NAME = 'health';
+    const H9_SANDBOX_SERVICE_NAME = 'weaver';
+
+    /**
+     * Profile ID used for all API interactions.  This can only be set when
+     * using ClientLogin for authentication.
+     *
+     * @var string
+     */
+    private $_profileID = null;
+
+    /**
+     * True if API calls should be made to the H9 developer sandbox at /h9
+     * rather than /health
+     *
+     * @var bool
+     */
+    private $_useH9Sandbox = false;
+
+    public static $namespaces =
+        array('ccr' => 'urn:astm-org:CCR',
+              'batch' => 'http://schemas.google.com/gdata/batch',
+              'h9m' => 'http://schemas.google.com/health/metadata',
+              'gAcl' => 'http://schemas.google.com/acl/2007',
+              'gd' => 'http://schemas.google.com/g/2005');
+
+    /**
+     * Create Zend_Gdata_Health object
+     *
+     * @param Zend_Http_Client $client (optional) The HTTP client to use when
+     *     when communicating with the Google Health servers.
+     * @param string $applicationId The identity of the application in the form
+     *     of Company-AppName-Version
+     * @param bool $useH9Sandbox True if the H9 Developer's Sandbox should be
+     *     used instead of production Google Health.
+     */
+    public function __construct($client = null, $applicationId = 'MyCompany-MyApp-1.0', $useH9Sandbox = false)
+    {
+        $this->registerPackage('Zend_Gdata_Health');
+        $this->registerPackage('Zend_Gdata_Health_Extension_Ccr');
+        parent::__construct($client, $applicationId);
+        $this->_useH9Sandbox = $useH9Sandbox;
+    }
+
+    /**
+     * Gets the id of the user's profile
+     *
+     * @return string The profile id
+     */
+    public function getProfileID()
+    {
+        return $this->_profileID;
+    }
+
+    /**
+     * Sets which of the user's profiles will be used
+     *
+     * @param string $id The profile ID
+     * @return Zend_Gdata_Health Provides a fluent interface
+     */
+    public function setProfileID($id) {
+        $this->_profileID = $id;
+        return $this;
+    }
+
+     /**
+     * Retrieves the list of profiles associated with the user's ClientLogin
+     * credentials.
+     *
+     * @param string $query The query of the feed as a URL or Query object
+     * @return Zend_Gdata_Feed
+     */
+    public function getHealthProfileListFeed($query = null)
+    {
+        if ($this->_httpClient->getClientLoginToken() === null) {
+            require_once 'Zend/Gdata/App/AuthException.php';
+            throw new Zend_Gdata_App_AuthException(
+                'Profiles list feed is only available when using ClientLogin');
+        }
+
+        if($query === null)  {
+            $uri = self::CLIENTLOGIN_PROFILELIST_FEED_URI;
+        } else if ($query instanceof Zend_Gdata_Query) {
+            $uri = $query->getQueryUrl();
+        } else {
+            $uri = $query;
+        }
+
+        // use correct feed for /h9 or /health
+        if ($this->_useH9Sandbox) {
+            $uri = preg_replace('/\/health\//', '/h9/', $uri);
+        }
+
+        return parent::getFeed($uri, 'Zend_Gdata_Health_ProfileListFeed');
+    }
+
+    /**
+     * Retrieve a user's profile as a feed object.  If ClientLogin is used, the
+     * profile associated with $this->_profileID is returned, otherwise
+     * the profile associated with the AuthSub token is read.
+     *
+     * @param mixed $query The query for the feed, as a URL or Query
+     * @return Zend_Gdata_Health_ProfileFeed
+     */
+    public function getHealthProfileFeed($query = null)
+    {
+        if ($this->_httpClient->getClientLoginToken() !== null &&
+            $this->getProfileID() == null) {
+            require_once 'Zend/Gdata/App/AuthException.php';
+            throw new Zend_Gdata_App_AuthException(
+                'Profile ID must not be null. Did you call setProfileID()?');
+        }
+
+        if ($query instanceof Zend_Gdata_Query) {
+            $uri = $query->getQueryUrl();
+        } else if ($this->_httpClient->getClientLoginToken() !== null &&
+                   $query == null) {
+            $uri = self::CLIENTLOGIN_PROFILE_FEED_URI . '/' . $this->getProfileID();
+        } else if ($query === null) {
+            $uri = self::AUTHSUB_PROFILE_FEED_URI;
+        } else {
+            $uri = $query;
+        }
+
+        // use correct feed for /h9 or /health
+        if ($this->_useH9Sandbox) {
+            $uri = preg_replace('/\/health\//', '/h9/', $uri);
+        }
+
+        return parent::getFeed($uri, 'Zend_Gdata_Health_ProfileFeed');
+    }
+
+    /**
+     * Retrieve a profile entry object
+     *
+     * @param mixed $query The query for the feed, as a URL or Query
+     * @return Zend_Gdata_Health_ProfileEntry
+     */
+    public function getHealthProfileEntry($query = null)
+    {
+        if ($query === null) {
+            require_once 'Zend/Gdata/App/InvalidArgumentException.php';
+            throw new Zend_Gdata_App_InvalidArgumentException(
+                'Query must not be null');
+        } else if ($query instanceof Zend_Gdata_Query) {
+            $uri = $query->getQueryUrl();
+        } else {
+            $uri = $query;
+        }
+        return parent::getEntry($uri, 'Zend_Gdata_Health_ProfileEntry');
+    }
+
+    /**
+     * Posts a new notice using the register feed.  This function constructs
+     * the atom profile entry.
+     *
+     * @param string $subject The subject line of the notice
+     * @param string $body The message body of the notice
+     * @param string $bodyType The (optional) type of message body
+     *     (text, xhtml, html, etc.)
+     * @param string $ccrXML The (optional) CCR to add to the user's profile
+     * @return Zend_Gdata_Health_ProfileEntry
+     */
+    public function sendHealthNotice($subject, $body, $bodyType = null, $ccrXML = null)
+    {
+        if ($this->_httpClient->getClientLoginToken()) {
+            $profileID = $this->getProfileID();
+            if ($profileID !== null) {
+                $uri = self::CLIENTLOGIN_REGISTER_FEED_URI . '/' . $profileID;
+            } else {
+                require_once 'Zend/Gdata/App/AuthException.php';
+                throw new Zend_Gdata_App_AuthException(
+                    'Profile ID must not be null. Did you call setProfileID()?');
+            }
+        } else {
+            $uri = self::AUTHSUB_REGISTER_FEED_URI;
+        }
+
+        $entry = new Zend_Gdata_Health_ProfileEntry();
+        $entry->title = $this->newTitle($subject);
+        $entry->content = $this->newContent($body);
+        $entry->content->type = $bodyType ? $bodyType : 'text';
+        $entry->setCcr($ccrXML);
+
+        // use correct feed for /h9 or /health
+        if ($this->_useH9Sandbox) {
+            $uri = preg_replace('/\/health\//', '/h9/', $uri);
+        }
+
+        return $this->insertEntry($entry, $uri, 'Zend_Gdata_Health_ProfileEntry');
+    }
+}

@@ -1,49 +1,133 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
-aOe=
+<?php
+/**
+ * Zend Framework
+ *
+ * LICENSE
+ *
+ * This source file is subject to the new BSD license that is bundled
+ * with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://framework.zend.com/license/new-bsd
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@zend.com so we can send you a copy immediately.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage YouTube
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ * @version    $Id: Link.php 16971 2009-07-22 18:05:45Z mikaelkael $
+ */
+
+/**
+ * @see Zend_Gdata_App_Extension_Link
+ */
+require_once 'Zend/Gdata/App/Extension/Link.php';
+
+/**
+ * @see Zend_Gdata_YouTube_Extension_Token
+ */
+require_once 'Zend/Gdata/YouTube/Extension/Token.php';
+
+
+/**
+ * Specialized Link class for use with YouTube. Enables use of yt extension elements.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage YouTube
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+class Zend_Gdata_YouTube_Extension_Link extends Zend_Gdata_App_Extension_Link
+{
+
+    protected $_token = null;
+
+    /**
+     * Constructs a new Zend_Gdata_Calendar_Extension_Link object.
+     * @see Zend_Gdata_App_Extension_Link#__construct
+     * @param Zend_Gdata_YouTube_Extension_Token $token
+     */
+    public function __construct($href = null, $rel = null, $type = null,
+            $hrefLang = null, $title = null, $length = null, $token = null)
+    {
+        $this->registerAllNamespaces(Zend_Gdata_YouTube::$namespaces);
+        parent::__construct($href, $rel, $type, $hrefLang, $title, $length);
+        $this->_token = $token;
+    }
+
+    /**
+     * Retrieves a DOMElement which corresponds to this element and all
+     * child properties.  This is used to build an entry back into a DOM
+     * and eventually XML text for sending to the server upon updates, or
+     * for application storage/persistence.
+     *
+     * @param DOMDocument $doc The DOMDocument used to construct DOMElements
+     * @return DOMElement The DOMElement representing this element and all
+     * child properties.
+     */
+    public function getDOM($doc = null, $majorVersion = 1, $minorVersion = null)
+    {
+        $element = parent::getDOM($doc, $majorVersion, $minorVersion);
+        if ($this->_token != null) {
+            $element->appendChild($this->_token->getDOM($element->ownerDocument));
+        }
+        return $element;
+    }
+
+    /**
+     * Creates individual Entry objects of the appropriate type and
+     * stores them as members of this entry based upon DOM data.
+     *
+     * @param DOMNode $child The DOMNode to process
+     */
+    protected function takeChildFromDOM($child)
+    {
+        $absoluteNodeName = $child->namespaceURI . ':' . $child->localName;
+        switch ($absoluteNodeName) {
+        case $this->lookupNamespace('yt') . ':' . 'token':
+            $token = new Zend_Gdata_YouTube_Extension_Token();
+            $token->transferFromDOM($child);
+            $this->_token = $token;
+            break;
+        default:
+            parent::takeChildFromDOM($child);
+            break;
+        }
+    }
+
+    /**
+     * Get the value for this element's token attribute.
+     *
+     * @return Zend_Gdata_YouTube_Extension_Token The token element.
+     */
+    public function getToken()
+    {
+        return $this->_token;
+    }
+
+    /**
+     * Set the value for this element's token attribute.
+     *
+     * @param Zend_Gdata_YouTube_Extension_Token $value The desired value for this attribute.
+     * @return Zend_YouTube_Extension_Link The element being modified.
+     */
+    public function setToken($value)
+    {
+        $this->_token = $value;
+        return $this;
+    }
+
+    /**
+    * Get the value of this element's token attribute.
+    *
+    * @return string The token's text value
+    */
+    public function getTokenValue()
+    {
+      return $this->getToken()->getText();
+    }
+
+}

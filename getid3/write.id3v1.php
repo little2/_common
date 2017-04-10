@@ -1,95 +1,136 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
-3bNjAwuSg6v9
+<?php
+/////////////////////////////////////////////////////////////////
+/// getID3() by James Heinrich <info@getid3.org>               //
+//  available at http://getid3.sourceforge.net                 //
+//            or http://www.getid3.org                         //
+/////////////////////////////////////////////////////////////////
+// See readme.txt for more details                             //
+/////////////////////////////////////////////////////////////////
+//                                                             //
+// write.id3v1.php                                             //
+// module for writing ID3v1 tags                               //
+// dependencies: module.tag.id3v1.php                          //
+//                                                            ///
+/////////////////////////////////////////////////////////////////
+
+getid3_lib::IncludeDependency(GETID3_INCLUDEPATH.'module.tag.id3v1.php', __FILE__, true);
+
+class getid3_write_id3v1
+{
+	public $filename;
+	public $filesize;
+	public $tag_data;
+	public $warnings = array(); // any non-critical errors will be stored here
+	public $errors   = array(); // any critical errors will be stored here
+
+	public function getid3_write_id3v1() {
+		return true;
+	}
+
+	public function WriteID3v1() {
+		// File MUST be writeable - CHMOD(646) at least
+		if (!empty($this->filename) && is_readable($this->filename) && is_writable($this->filename) && is_file($this->filename)) {
+			$this->setRealFileSize();
+			if (($this->filesize <= 0) || !getid3_lib::intValueSupported($this->filesize)) {
+				$this->errors[] = 'Unable to WriteID3v1('.$this->filename.') because filesize ('.$this->filesize.') is larger than '.round(PHP_INT_MAX / 1073741824).'GB';
+				return false;
+			}
+			if ($fp_source = fopen($this->filename, 'r+b')) {
+				fseek($fp_source, -128, SEEK_END);
+				if (fread($fp_source, 3) == 'TAG') {
+					fseek($fp_source, -128, SEEK_END); // overwrite existing ID3v1 tag
+				} else {
+					fseek($fp_source, 0, SEEK_END);    // append new ID3v1 tag
+				}
+				$this->tag_data['track'] = (isset($this->tag_data['track']) ? $this->tag_data['track'] : (isset($this->tag_data['track_number']) ? $this->tag_data['track_number'] : (isset($this->tag_data['tracknumber']) ? $this->tag_data['tracknumber'] : '')));
+
+				$new_id3v1_tag_data = getid3_id3v1::GenerateID3v1Tag(
+														(isset($this->tag_data['title']  ) ? $this->tag_data['title']   : ''),
+														(isset($this->tag_data['artist'] ) ? $this->tag_data['artist']  : ''),
+														(isset($this->tag_data['album']  ) ? $this->tag_data['album']   : ''),
+														(isset($this->tag_data['year']   ) ? $this->tag_data['year']    : ''),
+														(isset($this->tag_data['genreid']) ? $this->tag_data['genreid'] : ''),
+														(isset($this->tag_data['comment']) ? $this->tag_data['comment'] : ''),
+														(isset($this->tag_data['track']  ) ? $this->tag_data['track']   : ''));
+				fwrite($fp_source, $new_id3v1_tag_data, 128);
+				fclose($fp_source);
+				return true;
+
+			} else {
+				$this->errors[] = 'Could not fopen('.$this->filename.', "r+b")';
+				return false;
+			}
+		}
+		$this->errors[] = 'File is not writeable: '.$this->filename;
+		return false;
+	}
+
+	public function FixID3v1Padding() {
+		// ID3v1 data is supposed to be padded with NULL characters, but some taggers incorrectly use spaces
+		// This function rewrites the ID3v1 tag with correct padding
+
+		// Initialize getID3 engine
+		$getID3 = new getID3;
+		$getID3->option_tag_id3v2  = false;
+		$getID3->option_tag_apetag = false;
+		$getID3->option_tags_html  = false;
+		$getID3->option_extra_info = false;
+		$getID3->option_tag_id3v1  = true;
+		$ThisFileInfo = $getID3->analyze($this->filename);
+		if (isset($ThisFileInfo['tags']['id3v1'])) {
+			foreach ($ThisFileInfo['tags']['id3v1'] as $key => $value) {
+				$id3v1data[$key] = implode(',', $value);
+			}
+			$this->tag_data = $id3v1data;
+			return $this->WriteID3v1();
+		}
+		return false;
+	}
+
+	public function RemoveID3v1() {
+		// File MUST be writeable - CHMOD(646) at least
+		if (!empty($this->filename) && is_readable($this->filename) && is_writable($this->filename) && is_file($this->filename)) {
+			$this->setRealFileSize();
+			if (($this->filesize <= 0) || !getid3_lib::intValueSupported($this->filesize)) {
+				$this->errors[] = 'Unable to RemoveID3v1('.$this->filename.') because filesize ('.$this->filesize.') is larger than '.round(PHP_INT_MAX / 1073741824).'GB';
+				return false;
+			}
+			if ($fp_source = fopen($this->filename, 'r+b')) {
+
+				fseek($fp_source, -128, SEEK_END);
+				if (fread($fp_source, 3) == 'TAG') {
+					ftruncate($fp_source, $this->filesize - 128);
+				} else {
+					// no ID3v1 tag to begin with - do nothing
+				}
+				fclose($fp_source);
+				return true;
+
+			} else {
+				$this->errors[] = 'Could not fopen('.$this->filename.', "r+b")';
+			}
+		} else {
+			$this->errors[] = $this->filename.' is not writeable';
+		}
+		return false;
+	}
+
+	public function setRealFileSize() {
+		if (PHP_INT_MAX > 2147483647) {
+			$this->filesize = filesize($this->filename);
+			return true;
+		}
+		// 32-bit PHP will not return correct values for filesize() if file is >=2GB
+		// but getID3->analyze() has workarounds to get actual filesize
+		$getID3 = new getID3;
+		$getID3->option_tag_id3v1  = false;
+		$getID3->option_tag_id3v2  = false;
+		$getID3->option_tag_apetag = false;
+		$getID3->option_tags_html  = false;
+		$getID3->option_extra_info = false;
+		$ThisFileInfo = $getID3->analyze($this->filename);
+		$this->filesize = $ThisFileInfo['filesize'];
+		return true;
+	}
+
+}

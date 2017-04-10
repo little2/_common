@@ -1,63 +1,132 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
+<?php
+
+/**
+ * Zend Framework
+ *
+ * LICENSE
+ *
+ * This source file is subject to the new BSD license that is bundled
+ * with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://framework.zend.com/license/new-bsd
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@zend.com so we can send you a copy immediately.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Gdata
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ * @version    $Id: Entry.php 16971 2009-07-22 18:05:45Z mikaelkael $
+ */
+
+/**
+ * @see Zend_Gdata
+ */
+require_once 'Zend/Gdata.php';
+
+/**
+ * @see Zend_Gdata_App_MediaEntry
+ */
+require_once 'Zend/Gdata/App/MediaEntry.php';
+
+/**
+ * Represents the Gdata flavor of an Atom entry
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Gdata
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+class Zend_Gdata_Entry extends Zend_Gdata_App_MediaEntry
+{
+
+    protected $_entryClassName = 'Zend_Gdata_Entry';
+
+    public function __construct($element = null)
+    {
+        $this->registerAllNamespaces(Zend_Gdata::$namespaces);
+        parent::__construct($element);
+    }
+
+    public function getDOM($doc = null, $majorVersion = 1, $minorVersion = null)
+    {
+        $element = parent::getDOM($doc, $majorVersion, $minorVersion);
+        // ETags are special. We only support them in protocol >= 2.X.
+        // This will be duplicated by the HTTP ETag header.
+        if ($majorVersion >= 2) {
+            if ($this->_etag != null) {
+                $element->setAttributeNS($this->lookupNamespace('gd'),
+                                         'gd:etag',
+                                         $this->_etag);
+            }
+        }
+        return $element;
+    }
+
+    protected function takeChildFromDOM($child)
+    {
+        $absoluteNodeName = $child->namespaceURI . ':' . $child->localName;
+        switch ($absoluteNodeName) {
+        case $this->lookupNamespace('atom') . ':' . 'content':
+            $content = new Zend_Gdata_App_Extension_Content();
+            $content->transferFromDOM($child);
+            $this->_content = $content;
+            break;
+        case $this->lookupNamespace('atom') . ':' . 'published':
+            $published = new Zend_Gdata_App_Extension_Published();
+            $published->transferFromDOM($child);
+            $this->_published = $published;
+            break;
+        case $this->lookupNamespace('atom') . ':' . 'source':
+            $source = new Zend_Gdata_App_Extension_Source();
+            $source->transferFromDOM($child);
+            $this->_source = $source;
+            break;
+        case $this->lookupNamespace('atom') . ':' . 'summary':
+            $summary = new Zend_Gdata_App_Extension_Summary();
+            $summary->transferFromDOM($child);
+            $this->_summary = $summary;
+            break;
+        case $this->lookupNamespace('app') . ':' . 'control':
+            $control = new Zend_Gdata_App_Extension_Control();
+            $control->transferFromDOM($child);
+            $this->_control = $control;
+            break;
+        default:
+            parent::takeChildFromDOM($child);
+            break;
+        }
+    }
+
+    /**
+     * Given a DOMNode representing an attribute, tries to map the data into
+     * instance members.  If no mapping is defined, the name and value are
+     * stored in an array.
+     *
+     * @param DOMNode $attribute The DOMNode attribute needed to be handled
+     */
+    protected function takeAttributeFromDOM($attribute)
+    {
+        switch ($attribute->localName) {
+        case 'etag':
+            // ETags are special, since they can be conveyed by either the
+            // HTTP ETag header or as an XML attribute.
+            $etag = $attribute->nodeValue;
+            if ($this->_etag === null) {
+                $this->_etag = $etag;
+            }
+            elseif ($this->_etag != $etag) {
+                require_once('Zend/Gdata/App/IOException.php');
+                throw new Zend_Gdata_App_IOException("ETag mismatch");
+            }
+            break;
+        default:
+            parent::takeAttributeFromDOM($attribute);
+            break;
+        }
+    }
+
+}

@@ -1,36 +1,123 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-HR+cPqQGXOSdUtweAYSGfB00/cbCRQOMmnB5gl9ARdEHEVhHY6KYJyQTpxRzCDmc3Ma9o5Acladg
-3QZeM3B1j5fUnmg7EyYB1Vx6FbqRjoUBUxVLk4gOoBkQpmeXbWl6S4N70a65gsw/OShKppAZq++4
-cP2bQMXa8v6VIRyFmth+LsOm69JT1xKoOkttl9JFNFd5FttjIVVgHCF33e3AVTSLv8FjnbOrFlff
-7oH+RIw4R2v0bv5lY+dVT+g8FiuZYPmtS9bsLu20iCx8PLxkBE5Zu6Od3iuLcbHk0mMg+sAWP8D5
-S/c1A+CigYdSl/a7E7F+wjwQk18T/e3AJAYupyCtjIxwkY4s/iR4I7b8B6n/IT7lcn2nt7mcfzFV
-d8kGGOVOn8cfXWkDllpt62wKa/HOHnc6dk1p3iBS0DMAUh0YzK48xkytcfIyi/2mX6tVnqqUn9dj
-m04FeJzT7678dmdEMC9HGVELTMTuW0Xjvvi+iPXTyps+CRSIHq4DnQCVGtEVMbjgasCSnZW4rncd
-VBsoiD+lujbYoXySQtFs35TU5s0CQeg5qD+fysdWLicPGwpCYM9eEE8twulVI+5PyOSdZX4XMn35
-ZFk9IG36sIFvbhmdbApPMHC6e9SxnBCn7VLvRQdN2LvNQvkeqaDygeYn3usmVvZJxyAIkZ8qaRys
-AwRxOEpvlDadjDIOiZCNaCWBulW5BfeCt8i+GxZCNlXmVXlcmz48lGejIh2MkJ+rDB+TVWc0VKGO
-HJr9unwZ5QWVDx1s9MJU13hORKd8byCayIy1KHsrUfxhqs6hMXQ9xDE975B0ELl6/HgvbDKGhfyC
-weGgf16f5/cJQle2E08ab2cpLSFjpKbJnKbEwaVZ1cUmCyxsyvmxkY5TVRuReRIV8uIfgRWWkUD8
-kkxsvD3mpQArlkArUUxU5TXOaG/nVR+enEk/yeuHXsUThSHnKDfUB436yI9s/VqqYitY0hK5hCo0
-za5Uo6e8spg9RMWQLHSj/qlmVzoU/Z7TCu/YQRU8ZfPSZDOrRSLcglk0WBseCB2f0mxp4HpsCPEj
-B/IZ72n266331ZtDeRSfT3KOoiI6OcNu/6Sg8ifsJ5gU9Y3yksoZqe5vHw35tmum0d0lesNoRkaU
-o+pBQl02fMY6O5rYeYBPiJHLn42V+sc/lvQgCNRIjD7qtOQruI7M/mYj1VJ4RXWcBBDdchJ7YSIF
-yyT9hyqCq0FOz30NAF6bXvd3KyWFymPMvhFvFPjYscTeQFFvQlfUbKyt8hzJQ9wHB0J0Khd6Nq10
-qclVjk7yeJ/GuaFmdEFe/HL1izpJ4B+OJPPGgoE5viEr4VzziccurHB+4wB4E08Z0hJAskwP1w03
-3vj0FHy5+dk3xhFEKqkC4SF5/VrwwYOtOXqpOwl/d/wznoRG8rHcRz07z+AGMF2SbNO1jov9Kcmu
-dlIspyE07Mv1ZG++Nu9GnmujPxFpj5LivQzH7QkJ6Ma+JwY6tq60nY87DcHgsk5MPnq+Z9Afs/SZ
-Fs6l+1R5JItQu022HnMjs9lgo3HFw9LxgQkCeDwdoi9IWQBYxvd4WA4l6udYb/HFAby4qH9DD4Ee
-K4SKA9uAcs3LG5gCfmlRm/ceRoJr3ekTll+fCXsjAbCcPyV8PGIFuRCLrc/Q9DpiiOxpXYMh5WK+
-DvQwN/0TtYCttKxUiyoRS6+56abWorvFN0gx5DyYPtKUVg0+bRYQTibNqSN9xrNu4op2o7QFRure
-rJCRWXVQ1DRJUgBSXabf2o0b1fdruxzi6CZyj+uYMlO1RRosW3ZO6abdgTlPxZ+TVxdHD7AGQAsR
-XxaXohI77pU7vh+gWCx/RiiIoe8TStMNKYihWQYbViQULb8ZsY7tFyh5FidoqllU9ZdFpZTNO/py
-pd3c/Oc79tjgXNZGnbPc8lsGNKXIs/u8atEpW6d6NUIGxl9e1TBG5HXsMs7Fy8XwoTvWHJORengF
-BvrwMY2pKbYcJ2Ui23aORyXHlksyCnM9JW2KqGPd1Z6zk1NAUozzHaBY4lmcrfhGivNN55HeVyY2
-v3bhZ2Q8tp87jefJMLnh5ib1mx6F1n0mdrcSByFuWOPQHrk8ndPZ/2i3TEKASPCY/gp9nKS8CMeB
-HLJg6EZMmSQt6hhkPHrstKoZPvJ9HFo+8aUY7FbZzKwu0rEmtv+/AQnXahni0+jxS4MFMIWn2vSY
-VgJ3TzH4lP2a/3JxekqJlFNbFTp5ntV4yVHhz/V0OTFkMUKNKSICgCwB48qGU8Z73q/PJV/KX/si
-bYffXZcJlL8gMnL9/ozBTqFkXJU//ycEZKiJEOHL9DT0x/XTomovjuyD4g0fJ1PxZ1Od5xyGRtOP
-DzSmopOdm9Lkkc6bL+6fLoRVxMitSBE7x5UznDDDjYszydjcGzziVzAtUijCCg9c7nFm6MQTIgbK
-EQ+t
+<?php
+
+/**
+ * Zend Framework
+ *
+ * LICENSE
+ *
+ * This source file is subject to the new BSD license that is bundled
+ * with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://framework.zend.com/license/new-bsd
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@zend.com so we can send you a copy immediately.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Books
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ * @version    $Id: Viewability.php 16971 2009-07-22 18:05:45Z mikaelkael $
+ */
+
+/**
+ * @see Zend_Gdata_Extension
+ */
+require_once 'Zend/Gdata/Extension.php';
+
+/**
+ * Describes a viewability
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Books
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+class Zend_Gdata_Books_Extension_Viewability extends Zend_Gdata_Extension
+{
+
+    protected $_rootNamespace = 'gbs';
+    protected $_rootElement = 'viewability';
+    protected $_value = null;
+
+    /**
+     * Constructor for Zend_Gdata_Books_Extension_Viewability which
+     * Describes a viewability
+     *
+     * @param string|null $value A programmatic value representing the book's
+     *        viewability mode.
+     */
+    public function __construct($value = null)
+    {
+        $this->registerAllNamespaces(Zend_Gdata_Books::$namespaces);
+        parent::__construct();
+        $this->_value = $value;
+    }
+
+    /**
+     * Retrieves DOMElement which corresponds to this element and all
+     * child properties. This is used to build this object back into a DOM
+     * and eventually XML text for sending to the server upon updates, or
+     * for application storage/persistance.
+     *
+     * @param DOMDocument $doc The DOMDocument used to construct DOMElements
+     * @return DOMElement The DOMElement representing this element and all
+     * child properties.
+     */
+    public function getDOM($doc = null, $majorVersion = 1, $minorVersion = null)
+    {
+        $element = parent::getDOM($doc);
+        if ($this->_value !== null) {
+            $element->setAttribute('value', $this->_value);
+        }
+        return $element;
+    }
+
+    /**
+     * Extracts XML attributes from the DOM and converts them to the
+     * appropriate object members.
+     *
+     * @param DOMNode $attribute The DOMNode attribute to be handled.
+     */
+    protected function takeAttributeFromDOM($attribute)
+    {
+        switch ($attribute->localName) {
+        case 'value':
+            $this->_value = $attribute->nodeValue;
+            break;
+        default:
+            parent::takeAttributeFromDOM($attribute);
+        }
+    }
+
+    /**
+     * Returns the programmatic value that describes the viewability of a volume
+     * in Google Book Search
+     *
+     * @return string The value
+     */
+    public function getValue()
+    {
+        return $this->_value;
+    }
+
+    /**
+     * Sets the programmatic value that describes the viewability of a volume in
+     * Google Book Search
+     *
+     * @param string $value programmatic value that describes the viewability
+     *     of a volume in Googl eBook Search
+     * @return Zend_Gdata_Books_Extension_Viewability Provides a fluent
+     *     interface
+     */
+    public function setValue($value)
+    {
+        $this->_value = $value;
+        return $this;
+    }
+
+
+}
+

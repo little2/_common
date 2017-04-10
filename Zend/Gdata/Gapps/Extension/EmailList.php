@@ -1,38 +1,144 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
+<?php
+
+/**
+ * Zend Framework
+ *
+ * LICENSE
+ *
+ * This source file is subject to the new BSD license that is bundled
+ * with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://framework.zend.com/license/new-bsd
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@zend.com so we can send you a copy immediately.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Gapps
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ * @version    $Id: EmailList.php 16971 2009-07-22 18:05:45Z mikaelkael $
+ */
+
+/**
+ * @see Zend_Gdata_Extension
+ */
+require_once 'Zend/Gdata/Extension.php';
+
+/**
+ * @see Zend_Gdata_Gapps
+ */
+require_once 'Zend/Gdata/Gapps.php';
+
+/**
+ * Represents the apps:emailList element used by the Apps data API. This
+ * class represents properties of an email list and is usually contained
+ * within an instance of Zend_Gdata_Gapps_EmailListEntry.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Gapps
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+class Zend_Gdata_Gapps_Extension_EmailList extends Zend_Gdata_Extension
+{
+
+    protected $_rootNamespace = 'apps';
+    protected $_rootElement = 'emailList';
+
+    /**
+     * The name of the email list. This name is used as the email address
+     * for this list.
+     *
+     * @var string
+     */
+    protected $_name = null;
+
+    /**
+     * Constructs a new Zend_Gdata_Gapps_Extension_EmailList object.
+     *
+     * @param string $name (optional) The name to be used for this email list.
+     */
+    public function __construct($name = null)
+    {
+        $this->registerAllNamespaces(Zend_Gdata_Gapps::$namespaces);
+        parent::__construct();
+        $this->_name = $name;
+    }
+
+    /**
+     * Retrieves a DOMElement which corresponds to this element and all
+     * child properties.  This is used to build an entry back into a DOM
+     * and eventually XML text for sending to the server upon updates, or
+     * for application storage/persistence.
+     *
+     * @param DOMDocument $doc The DOMDocument used to construct DOMElements
+     * @return DOMElement The DOMElement representing this element and all
+     * child properties.
+     */
+    public function getDOM($doc = null, $majorVersion = 1, $minorVersion = null)
+    {
+        $element = parent::getDOM($doc, $majorVersion, $minorVersion);
+        if ($this->_name !== null) {
+            $element->setAttribute('name', $this->_name);
+        }
+        return $element;
+    }
+
+    /**
+     * Given a DOMNode representing an attribute, tries to map the data into
+     * instance members.  If no mapping is defined, the name and value are
+     * stored in an array.
+     *
+     * @param DOMNode $attribute The DOMNode attribute needed to be handled
+     */
+    protected function takeAttributeFromDOM($attribute)
+    {
+        switch ($attribute->localName) {
+        case 'name':
+            $this->_name = $attribute->nodeValue;
+            break;
+        default:
+            parent::takeAttributeFromDOM($attribute);
+        }
+    }
+
+    /**
+     * Get the value for this element's name attribute.
+     *
+     * @see setName
+     * @return string The requested attribute.
+     */
+    public function getName()
+    {
+        return $this->_name;
+    }
+
+    /**
+     * Set the value for this element's name attribute. This is the unique
+     * name which will be used to identify this email list within this
+     * domain, and will be used to form this email list's email address.
+     *
+     * @param string $value The desired value for this attribute.
+     * @return Zend_Gdata_Gapps_Extension_EmailList The element being modified.
+     */
+    public function setName($value)
+    {
+        $this->_name = $value;
+        return $this;
+    }
+
+    /**
+     * Magic toString method allows using this directly via echo
+     * Works best in PHP >= 4.2.0
+     *
+     * @return string
+     */
+    public function __toString()
+    {
+        return $this->getName();
+    }
+
+}

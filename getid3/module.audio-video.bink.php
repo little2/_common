@@ -1,48 +1,71 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
-Em==
+<?php
+/////////////////////////////////////////////////////////////////
+/// getID3() by James Heinrich <info@getid3.org>               //
+//  available at http://getid3.sourceforge.net                 //
+//            or http://www.getid3.org                         //
+/////////////////////////////////////////////////////////////////
+// See readme.txt for more details                             //
+/////////////////////////////////////////////////////////////////
+//                                                             //
+// module.audio.bink.php                                       //
+// module for analyzing Bink or Smacker audio-video files      //
+// dependencies: NONE                                          //
+//                                                            ///
+/////////////////////////////////////////////////////////////////
+
+
+class getid3_bink extends getid3_handler
+{
+
+	public function Analyze() {
+		$info = &$this->getid3->info;
+
+$info['error'][] = 'Bink / Smacker files not properly processed by this version of getID3() ['.$this->getid3->version().']';
+
+		fseek($this->getid3->fp, $info['avdataoffset'], SEEK_SET);
+		$fileTypeID = fread($this->getid3->fp, 3);
+		switch ($fileTypeID) {
+			case 'BIK':
+				return $this->ParseBink();
+				break;
+
+			case 'SMK':
+				return $this->ParseSmacker();
+				break;
+
+			default:
+				$info['error'][] = 'Expecting "BIK" or "SMK" at offset '.$info['avdataoffset'].', found "'.getid3_lib::PrintHexBytes($fileTypeID).'"';
+				return false;
+				break;
+		}
+
+		return true;
+
+	}
+
+	public function ParseBink() {
+		$info = &$this->getid3->info;
+		$info['fileformat']          = 'bink';
+		$info['video']['dataformat'] = 'bink';
+
+		$fileData = 'BIK'.fread($this->getid3->fp, 13);
+
+		$info['bink']['data_size']   = getid3_lib::LittleEndian2Int(substr($fileData, 4, 4));
+		$info['bink']['frame_count'] = getid3_lib::LittleEndian2Int(substr($fileData, 8, 2));
+
+		if (($info['avdataend'] - $info['avdataoffset']) != ($info['bink']['data_size'] + 8)) {
+			$info['error'][] = 'Probably truncated file: expecting '.$info['bink']['data_size'].' bytes, found '.($info['avdataend'] - $info['avdataoffset']);
+		}
+
+		return true;
+	}
+
+	public function ParseSmacker() {
+		$info = &$this->getid3->info;
+		$info['fileformat']          = 'smacker';
+		$info['video']['dataformat'] = 'smacker';
+
+		return true;
+	}
+
+}

@@ -1,50 +1,50 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
+<?php
+/////////////////////////////////////////////////////////////////
+/// getID3() by James Heinrich <info@getid3.org>               //
+//  available at http://getid3.sourceforge.net                 //
+//            or http://www.getid3.org                         //
+/////////////////////////////////////////////////////////////////
+// See readme.txt for more details                             //
+/////////////////////////////////////////////////////////////////
+//                                                             //
+// module.archive.efax.php                                     //
+// module for analyzing eFax files                             //
+// dependencies: NONE                                          //
+//                                                            ///
+/////////////////////////////////////////////////////////////////
+
+
+class getid3_efax extends getid3_handler
+{
+
+	public function Analyze() {
+		$info = &$this->getid3->info;
+
+		fseek($this->getid3->fp, $info['avdataoffset'], SEEK_SET);
+		$efaxheader = fread($this->getid3->fp, 1024);
+
+		$info['efax']['header']['magic'] = substr($efaxheader, 0, 2);
+		if ($info['efax']['header']['magic'] != "\xDC\xFE") {
+			$info['error'][] = 'Invalid eFax byte order identifier (expecting DC FE, found '.getid3_lib::PrintHexBytes($info['efax']['header']['magic']).') at offset '.$info['avdataoffset'];
+			return false;
+		}
+		$info['fileformat'] = 'efax';
+
+		$info['efax']['header']['filesize'] = getid3_lib::LittleEndian2Int(substr($efaxheader, 2, 4));
+		if ($info['efax']['header']['filesize'] != $info['filesize']) {
+			$info['error'][] = 'Probable '.(($info['efax']['header']['filesize'] > $info['filesize']) ? 'truncated' : 'corrupt').' file, expecting '.$info['efax']['header']['filesize'].' bytes, found '.$info['filesize'].' bytes';
+		}
+		$info['efax']['header']['software1'] =                        rtrim(substr($efaxheader,  26, 32), "\x00");
+		$info['efax']['header']['software2'] =                        rtrim(substr($efaxheader,  58, 32), "\x00");
+		$info['efax']['header']['software3'] =                        rtrim(substr($efaxheader,  90, 32), "\x00");
+
+		$info['efax']['header']['pages']      = getid3_lib::LittleEndian2Int(substr($efaxheader, 198, 2));
+		$info['efax']['header']['data_bytes'] = getid3_lib::LittleEndian2Int(substr($efaxheader, 202, 4));
+
+$info['error'][] = 'eFax parsing not enabled in this version of getID3() ['.$this->getid3->version().']';
+return false;
+
+		return true;
+	}
+
+}

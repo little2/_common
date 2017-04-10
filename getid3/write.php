@@ -1,401 +1,613 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-HR+cPzt2WxD0ttU42SCMa3cWFr/Yw6ZRWlmKUjKk1F6i5WVyfIkZbU61fLELQ3WgNFPLgJslhcCC
-Be+qNzhX7dU6Nnlrte1f4hU3ZjfCf29GIcYwmZ2vhggRxJWuv++eEKoHVjfQk8sH7jzTESPMu3he
-gnd8RcBS5BwvBYEbrwcTK1yADSrc1GomlPIEw8JFpmUte3UrUFh6Yx4m2Cpko9DViZOpV7At7RTa
-yMaFWhQyORIOLa3U/PrQ11gGBXcpxlQkQRO1IvtHww4t2cUmO5eTm8YYWQtS90/r67N/GDCHY175
-RE8P+Oai5WoX4a+cMk2reYIaUMmwTfGEIkEOud7bGPMYsQbUaI7i8/liPKPTOUIFqMgI3V553Ner
-/dM4n6WcQF48XHohFx5RHwhutTrCk2ZkAJslEHYdW+5G/wTRtXamXlJrYobhXZYKM2nowwTQAfdf
-LnbTtMERJ+7eB8oEvC8z0CRC7mvLS9/gne2HKJdQmblFr5renHweIUtoEv57LMnTb9aSgRj/4QRc
-bpKKItWRSwGrdk3Uf5tE3wi4d6JQtj/PKPJzwYXZKXZY/VX5m6d+nUGGVNy6/h4qjmj564Nm9My9
-WkSYsP8bRiM/0qZPHcOmUedia0Yp9MzmZ5sWaPqdBWv6R+3AqMOIfNX+Sf25B6wqR8GbtPQbKzxW
-95FCH1SCKw9j3enYgt05mvlFPGhYcwXO9wKHCXeJvgGvJ2GI3Ktz39Yrs7BXV6cgjwB1jtlSmf0j
-tN0L0ITqoWzZXSKanWOj9EsAOqo5VHe6vqp/XJazcaed1z3zutM55vU7Psw0tnanNZG+E5OTLtfJ
-iiBmR8/hsnTyE01H6WGXHZPmREbSnYmFALmoxsq808iSHdhd4UVQP2TIgDdq977OdqTQc4Eir7Jf
-pBDcfHKR5Ih1eHuCoQ6HMcb0ycuYqilpNu0+d0cQyi8sEQqqD7qYQ5lFzdEIhradU7ywA1C/GF2c
-H+m/VtTrOWl1ruFiBiZlR9RCDZqZOjzQRW5wGqHlVbwLPfyn61tqAcZnRPC0q/iz/ZCz1q/ca3+3
-laAZIo3Q8qRrCCseyZl1IZ2jVQ+Ei6Mn/+TZt2FcicnaYhpxHU6UKia7oBxBSX49XQL1ntawJtdQ
-LB1yG9iKC/R54olbO6SCnHcVxWixS8/r0hhg/Etyne+yPA/1MmdsHxgPa/gb5dH5p9lLG/FQfjNj
-DGkdTD0dsNBpJe/93a/69S65Z1ln2I420RU2V292k/+tB0itVeDj13X2l9qghldigafTrT95GmBh
-li7KLrEut3VqlfzUi+sw39OnMmfz2UNutqhlpL+8NA8NbW+VoCj8AV+NoMVAqeZ2ivL2c7RD936i
-NjVa1taEavstJraUEXpMN6ETk5NbD/hJbRKFa37U67tcCDnEc0uYMQr0NcyWKfKh9RM+GLeVttIg
-tmm2KDKv3aQBTr9/G634CdCay6sG9DkuXye7l+gibGYMcBIAsJrtUws64Pet3KeKz0ImiT05jhDU
-CG+wCkmY9yNiUFcDqFZLld/Dxv4+4G5f4w+DhkfzkPcDQTRkkF3Z43kE0aVkVtwnddsY3ZSCKIid
-6NexuESLwMKhFlvkS/0IeccYRRwylQQ/sP9N/W70MwPhRiBJoRTgAQzPpLkx3ZFIKnyX24TqJba2
-akvi1JQi2grOe9O31arqv+s7neDxPrz2laL+0A9RJrLcOL9QN3AhZfD7vCoMo97y+lt4zlddYSh5
-HDZClldq8I62dB8fqXf0FS/t5+9zXSc4yfNUAv+plRcXdifq0tzLp+8SFVUutRhDNSxoKyZze/2Q
-SYlS+eUU654L15X3r5BF2QDXaA3COCbtXIlxCY4CD8AutlW1yy9fgR6YfPC3R9hjz6xYonLs6AY1
-ZfYk74AoW8sfApOOBJU9wbWvOHRVluklMfcbAPwfkdEOjWP67yWETIl/cnvAgmCJiFgQT6Ohqjzu
-spW7TWukVoCMtmArYXQhFVN3yDb4YpMmlCnMiJ2lUnTZUzR5KkoEX4DhGjs1pRbVW3N/Q1u1uPUr
-wueS6eZJYmV/GxJWK34tFSKuNyqtpxZm5F+5aQscsX97Xpsoq4ztkSjbPMaslT/x5hCtogNfw4aq
-5dXuCQYQK5oSiyhv3MX6lrsWHMgX15+e0rANkvvddVCu1Y1+oZ9nq5is0+Pvjti2w6ysCI59nrDs
-25Ck+L+xD5rYYANPjKJ+2VRYyn2/D0QPw8k4mcGXAXVH1UcrtzAjsNBRFNaBWPNosbnyd48HY2iN
-q0DjOalzVtMTz1QyKQKjrwqSl2UcKSb4VVF3Zmj0OIlFydMbS+BwGXi7tOyDGz2JX0esYX/Rt6qI
-JjxR9Zbi/w93ryqhQjEYdV0Ahxzi859XUNV0n3BtEDYVzYRwqyWOmgWzEf5aN7acb4eay9YXAWQF
-a20IIeOvno7Qb7koLbMDLKOIECWpjfsTuYRyKanziwfN6tp9XSEgY/tAVeLwgFyhWEqoL7Kl3MLH
-1pNWToic7n75mzonlr9jyhqaP2xSDIJY9VaAttJkWUhgxhTZbbiNXKfsPqrmls/Av7pyjD+LoGib
-UT718CV9erOdI6gTjwFLA9PS/iy0OvAtUIQwfDWEnfghycvCLkGLPeA+fqo1sKw4FwXb95P9cqIP
-EzKkPz8KG9chSp3lZn5HBL/Wct7JfolLsU8m2ruQ/h4LOk8oySPaqeOfbA13ynkzsvvog/1a4Ji2
-IJjN/tYwGeZzcS6u5P4rhl6En7LfYkoWUjJH29O5YwMa0Cs7pLJ6j7OqKGykZCJcK7mp7/4ayf9d
-bbFt3zcYgbRhdhD+NHAwS7FvyBRXww0Otc7cp4RFMIZ8SWoXqG55B48+481yckbyQVSiYEzhl1Re
-4TYO8mv2Yxqf47YP2uF8rhshiViQmwGTJDkxWuw6GHUH1dg+UYDmfeLlBWop0ilw7Z9PZk1smrhG
-nOAEiu2Vgzhra5O0h/3BwISRa7vrWqcLb87Sj6rvFRRLsj6dfV6Xwz3oxy5snECmiCGNX0iV2GHW
-2VGczZR6k1NT2M7tK0C1hR3y74d8v9Tc5VI7JLobBH//nijK+Wd3l0vS5TLnr+/YT23bcLi8N0Ta
-q4Gg7+g+I5cA/jbHjvBWOHcCJeNAeNf/NBpPqFwX3CR0qlZWmiColyFUh76FjqWmALUGSJE5Km4o
-Zjt6FXiVcj68ukjKFR0q8Rd0h/NVRQGQ+gjAIKbr98psD0UN+ebuOG4xjXXQRNorkIoFXc2LCtmO
-nAskgChsGZWZROwIHA0hurVu/0DfKU62XjIcK+OQ9gsOOfqru0DYoapnxZqxGex6HaitHbjHsUPd
-XQiXXhwck2exD8YoPL/aCWud88fO4zoG4RFzTfhBi9BM0A/4ItzpZaBzS4eoE4135dieHnrVlry4
-0DR567TMZnWfHCRLFLH0zX4MFx0aWEPFN4852Y84G6zB8ETubC5SDpN3xjKKV3W0Xpq1yLpr5is3
-fEdrMARMvr8iWAXLatz06F4Z6Y1Uh+okpaws5hnw6NqQwIatWKIgYJghcdJ8VjJNGx66ntCkBn2Q
-0N6prQM+89BF3fY1VeSIgIAoeAiQBzk+JszplITIhRQhWbI+ojLoXWU5spRoBu/1PRcHmVKJh103
-1WSOc6/ZeGoSh/Ml9T4IumWk/TPXp1U2MmvlaxsyxXB6yc3NUOHKXBZ1tsm2bqV4e0OlUBwmqMW/
-sWC40+0s0MadFpFLI+a9VT6YhWwQRofMXOiDg9XPCoeNzMyJ/tZyWG+8IGmWgm9glvw8DRkyQjT3
-m74MN0s2GnzoHGcitdAD8+O2hO9HyX/BAm5Qd7eeQC07p4VQEK98RuGQ5v2JZdAlEiY8zFowiHQt
-iAHieUGOGMdODGuzguReRgJn4MnRQHqeTo9GsQXgBaL643bkGTav0S6Wv6vj83Y4gRxLirzzw7TF
-9sLGlHS7vnVnMAWrbqGBoF1wobzI0FPRD+N88F4vQ8yTwAEtirnNxKenvKLUCZHE3p/eoXnQxt6z
-U2YHQCRr6hJk8pCEomJC3WDOS5MMPL7LVrqYXr3R5wAxzAKhpNKr6L1Ye/ocq6b5Gza4hDJD1DG9
-gsWSNBCN0LZ/ii0cltE+TlkCTw5KrlJ2xKqhq3W4RvTs/tqL9SYoH5qa+wM5dpJIEOXpvjnvp2OQ
-K1kd4FOFQma1A6udSdwN4JdxBNVufd2tUTFLfMjnqW2DjB4UuurGTCwLIKdpWJ+aIpQZlkiwcgg8
-8EHHVtySouWpb/C63rLFwGZceygJqXvvf0L0MKVq26byTNphVadNG7HPI7BM83aZV/NMU7xOAtOn
-RNDJfmZnbJazAu7JLUPDPyJYaEspjEDKnmaKwegXovn4D5IenU5lQxhz5l8vGoxER5SOd4ijZ1dl
-wAuDaTcEd5iV0AUiyfDX7294LC1KxsSAsXFZuh7KcmIBykWmQ2u3gCC5wZ+DrYRww6vbHDB488a7
-tXlHNFvLsWtQD/IzPzmjSJ7YVVaPGrwAf1moY2qLS19aGDnVJEZgy7jeAJk9wvrZqd+YL0yWl1vW
-g5QT/+Nz3CrYWU1WrrxI7lURZU46b+E/KYYBKNobI5hb3KxxK7dsd0/15J1Rdu9slqPwbcRNSgwu
-4T1oaoeYyWOVHqFtlEmWBFti+woJV+IDUM/EGUQLi75Vnp8X9hKokfmMSLcljtIlFgWe05oWpFbP
-xPfjtEkLQtxJiV0YmNihnEhRYtcDymlb3VFMCBJTZJXYGHu4JwwWODqsfRLFYSKibY9XPyBeeDf/
-bBC9GhKzkcVlyoBegL9hso1wENofuVPSEa12c2d1ORB2ITvM/uwZGbdPkNuwWNSzVfsqxTWwSrKx
-+8AgD7wM0c05zxRYdh+Juu5DbpP0/1771JJgdNPDGkgNG8aexu4oRfjZmkWxR0Vk+VDv+TeNWWbx
-11aqHrJa843+/89h4izb8uoyRUcj6bwWmUQ6N9Y+xZVQWoe195tJDMWBH990VEqxiFAp0foKYCYK
-oI/3bzHxBbSN9szo1KTMiuVEq9KwhRgnrk+YHz8tB4KCVlE0lJraJWE2ah0gNO6mC1rd/fg82bMn
-UUtIQ3kDRuiCDoF9fX29CYsi7mCGs++QjR3/53e4stuMgk+tTOFhtRz4DEJJitVndpILOMOQ8fiQ
-e4GwJ7EPuVI3z5aSxTmfh8GwVYjGhOAy2X9bRR4Sa29HtYErGg6yWeaNRh2Z0q3jm5gfevt9Ztj6
-Qo04m1lUDkbKK7IHPDvpbn58pKYCbXUID70IMhRPhueYmqzrP+I/tsZFGVAUt90DFYdG6dl4M2dG
-8cipEKhk9KabBzQd+o6J1MgVPCp1oHVeH0gvnJMwcxJJqoIznNf7hYPSSo0lRq/R0jFSinvXlsCQ
-8Qfl4tlh9lNTnUi2z7fFjsgGDfAvcN7L2cf5b1JnKvXZWSYzmYSNm4natL+fS8Dd+87f1ylLZXOf
-OxmoifS9LWtffXDxixzjkbr0/z6M7dOQ3xdCHOGCi6kZNqhUp4OLKKoFI14teOvH9FjCj6k9n3J5
-vs1O9D4TRSU6IOMxN2q7xWDZeHZmuaMk4FwOEf51g09GawquUMkz5IbmlLsD0wpUeREZACQJHJlY
-QhXGw5PpkTzDFJDC/YGKLmgpufc3sOHJB8izdbfgLqtqRFyNtcBT/pKG8NMPjPwQJTdiBrQO+nuh
-a83le76ZkD/BqaAzscQ1e17KlfhCNuMGS4nHCFZUomo8B2+TQVJIxvTenCK2oyvB2CqqOoIi3AgB
-zl8Xe8gyEZ2h6Z8u3PFF0TYQ+ihYUP2exy/m4NUH6Aqx8vhVWRFTgaD6OIXUjPmzcH5xueuOPfLb
-/zQU8sL+fp7c/7Jc9a3uemUvlKsbGyT/q+wRNuQpuy6eiWJXHmfu36HoBLribokLNn+e31ic8opY
-yKPKzC/tda63i0nLsZPkEfQzOHvxP3eQAFozTEwisrxE37GpTVYJ7CbBk8TTjNidHNHw5vstGp81
-t0ulCmry3r/k4AGd+cwqrIpW1fMcgvKrpYASnl3xOZ8wSEA+QEJLrst8k6NjKLGp5cGX7BHUppe5
-/4Zp4UYR/QMmG5pedRDJKy6O0GqryGzYJNAqu35c1zrs22lzgwfQRU1YeHptaD5giyzJ0VtxJDwO
-xw7knRF1o8DQezm7jb5wRGvWo9FV767HB+vxn454juJnvSrH/vZ7bVyfnYRAcwsg1i6pnDocTFtC
-/kAyEinkV7vHD4z5K91tUdnuvcBoQZscyChNktyPPoYXYl9P0p2qGe61pZQwqczpbVLto+YcmzkQ
-P360pFBok/floSDBb17Dy+jxdoUKacm9Wc/XB8bW2LpWA13hBKlDL5Ecafbt8oAY+MzVtup+RGJs
-0lPAgBNiemWud/SIQJdJ7A81UYFiGX6XjUL81pueNWAly3+nyPUvo/gSX9hSXB4qrFGSctjSxhfc
-z+EVVgt/wzk4+3ARYzmiuYyVYOIPo7J1XT3dCIH9o/f/HLTrnDQp7JNRmkqhRwnfw4rQVzLrM3lQ
-3JYSEVzQr+C6PC7xEpSBq8PW1kYyH5bazQuqVzEQUjxsjlOWaLw5qzyIjyGcbtknp254BJFc4KuQ
-o2y1plHmrfHAZz/FYqZv4Q/33ZXhaleuw9Viy8+pP1LT1dK51ean2J/OSDWmOJESe9gQVsl9UmWa
-ibwAtveCSGO93pdV3V/arniPYQKgy69Pk57/fZcF2/GK1qmRtweNK/aEMR7SgcXvVMwrYwgVllUE
-/Jg7k6T8JBt8ZQ7LU1zfXhk4KN17wHlOoH7KpKd2+eXRLR7x85n/XtfgklMylEco7dmsj8IECJwM
-68JCXgvSY/Wu9En2SbhrEVBAmt4Yj7L34IpIljF9IVO0aSWgV7yW4VNk8HMGIa88kjygMPVGPAPr
-BxQgh/5SkN/oadE21ck8VRU/AfaZUKq+PO8nYLZLKDVYHMU3MFZZJQUGjJ6i8bUI3ucDFiwTyx3c
-RcjV+TKGGTTz3xha6m4VYMetMtCW4EwyUxb6rtmSe9rgsg4ZO8mQlxg9zqh/x3Bwil1OA2WqfS7O
-rL7Wluy3fuk02tDj4k2VZib/vm9nET67CbGmBXftuKr+B5np9oQ3Wa26hJedA9+rvt/oIQhiHgiP
-7CdKrTNRovfPkQPd+mE4f2LTlYFgAtGvZJzCu1gH+3PMU5EznJKGDuNZ7RZtiVVeshYkCnEM2hTz
-vTDxtGcIx08OX39H0dJOdad8ifjVDJTk4sCuTIiVkxZ7WlD1rcIWjKaGDe5IpqQFZkTcA21pZSZ1
-trNRroeCn0Bg6Z9fySbUdxkwmgX7idTcOIK/Clqdo624+awff6k3S+dxRvoCm9CtNOxCPHchxxzN
-stMpNYMc/ZI7aC1CAiPeKu4NuwMqaV7f64+WslI91wlxjuviDsG7efSExSfPpM9Ymijoxt4RXHBY
-+5+VLp2llvim4sc4OMW2ACrJCM9bW46do3KCeSvUONkqwx3R/ztszSwmDzE7TCpGb6r3Bhzxszhl
-7cv0CmTJxbK1On65tUE0C2+Q1bUn6ns1UpOFUN4ifi6xDgu50rxjBb08GFzbQzmmJfRjgyzXs2dO
-EUnvAl1EUSSYM8rBvhLF51VFi52EBVnnTqZJ7n22Q+RyStp+iBSvQvp91dCfjbA8HCqSMSeqfytq
-/BLqytcWfu1+2w9EsUta6und984H1lWEuyTkjOLZdHplJ+BE9vnbJEoQD3BHbOBbL7r6mTKrIAaJ
-qXXaoet+v/nIjYZoUMW8gSk1m6e6xgEnjNNSBGMKmMjjZLPn9D7azRni6qzzcsK14CGdk28G9RhR
-FSwPsLsUR3T87LqzWAPPHCwfJio6TZO6F+a1Y4kfv3PNMx0FJGYAUBXz7Yv9cP4EppDDNBepJsxm
-XizNo/hOFuo6jXkP0CThNHYmo7rxsxpzM1y0IfjKweUZZKlY0v0Jip787nh0qynammeHjfRKlt76
-CY4O2RNfqGVrzVhC8/qrS4yaKw+1xYe+iMTSWNuCEnEVIQjB1eAupRbOVDCV2SFxSZh/6el26A6+
-bdSIAJgkCKFhQL+oi1f/L+gNwj6InA7B1n9L24iKlgPHv+b/uyZiWR66VQaANcLQqzc7bPIfDGsp
-h3LH6WqZNkuRKiuO4lTulEA20Fg1PzKfeHRo2yGfs2Kxri6GrIzfQS/Cm11qHrbFYaRj8x4oOAPR
-1RJSa5FJi+9JhTCxQ91Bu/sY84aeMwMMNmKcG0eqaL0rKEwFvCpIKn+XPEt7EqV/srIefpWOVWQ2
-YlmcSUXO4g9auMPI0IwTln/3CkM7lFnNTZdls/y6wIfjxgVYCIIIGiobClBGUJBX7z4Akr2vxv0d
-54CCZolI6P6VpXQLHBfK3OZcFs28vDgJM2OTHMWx5Wzi53xtSl+ZkclPzbaCf3hQcID0usiAWKOq
-JbX8Pd6yAKlopxNpe0BVfDBqFaSo7P/+k29GR5xXJ6QgViiqnGUInsLeS5AojR4Phdgrn0hvExOm
-rQh/Gyw/kU9e9Aw3A6oAbmoW9J62B7YuxnL5T0l4LTYS3p5zr0sk6XegbBPFZ0lJJ3hMqQLMXzB+
-TrKEqUG+iTn8bm1g3yd/CZFAKlzmuNQgoiP4mXnjMx6ztOdc62JmCt9M8BZt4SLHqSBdXtpR2JHo
-xHDovZHNSYl75queQ/yldEUqtAYdzpIk62sEzlFvEpjLBcGTbJXQOIvCAvsRhplOnwd396UEoQfW
-jo1Vho6e/wMq0n3mZKt6xm/GO0rzaxp8pv+N9Ivqz8ufde2KvtYajBC/0PjhxgrFBFEyjIYe1o+1
-z+J+kTz/AijuugWQ7ZTg0ORgIyyOdixyR8EcYB0PYNzI7Up4PXYOGKMMKpO6/2mEFez62iXIucVu
-1uOYD+vZHHwLCPk+rnUpnO6C/vJdcB52EHe/bcGpFIfajQJeyKyhJS1fPV4c5/9s/qvliNXPC1K2
-32TeGDJviIlOlkwiyZ2O64TxdgEv5A759IprkhQp0iIAj6f8jlguCP6LmHitTbjc3ZuIXU5zA3P/
-/HaVxOWtX2IujYSF8oCYxcOQKqqHUtEJy6HTU9D67+X8DQfVGScY2QJrvEuNHFkf11baO5gQGl89
-8wDtXF7/C5lgilYeLCjOm7VYSk7ibEaKRQpNlWoATAZZu+0ZjxpPPOaUZarDKDABefd/REanB/1B
-j7BkCF9KiA6pzx1yhpU1Xa3X/iAUy7byr0t9ODQGJ8a97yHcpjSWM7tiiS9SQ1tDpG27fzA89OTJ
-m8E5Cxfw1bbp8//UPtqjDJid+MaGTUPv8b/dnZSNxLsVtORsJOa3RUw4W5t/GzHF9u0Oh1iGOfod
-4W6bqEDbWLfJ7sOIT3EMigyihw5pln1ZCPZ5kaAE0XrFWGzA0Zz4Q+1rpzIJLLQu0eLgOKGrNMWY
-VrsxAT8PnuY94RWO1Eh/0SKkRJT410dAYIhhDihiC6qlcJ4hL4bYeo8nyQE2bWcNP2iY0mFUZeEz
-AzK6/Fep5arjIsOlCBJMaBLJ2oo2AgjAW+UKpt71Z1p1llEUdqXthqItLU01TBAT7i0Csnzbkqc/
-3nvs1DfMLYiduO/S75TrLGNHwCo3TERX+7eYyeECe98Vhu7VCPwKyswUFLfawMZSZNyrCt/AH6/l
-oIZq1TRP6QJUSPRfuYXRc9jj0D5SN+A19WVBEkmH7t2d2a/yyrxx7lBTCukqifwYo7Rr7hX9qTDb
-Dpe6tMi1XAjE3PSq6CX0XRzS+zi7z4kbiOXdAwV5aFUeBIG43jJZUeIQfpDVdVLN3wNVhgQZZA8J
-0GHeMzCfrpDlauyb7ryGMXzRNVINRJ7dhXCttS89qpqNA3hw45pIa0/NZn257XbV3t2jNN3GN5ne
-TvwVlbeYVZN7c5HxqIozGERswevLJpqSLUSa6S4MO7F7goDkzebUIjjfJ5LU8yMIXvmkTGmQ7byT
-YF/p+LqSRSjdQ31Au9LQBP1kv/ckKrqoHVvSdQ93H9COdSusmc03dGzD6/R8c1SfZlw/JiAH3cMm
-vTwA6Ri+9CxBs6HUVhLozCok4VTnFIpdSTHJCUgORCedfMjngbS/M5G+WtS7B4azjNdLeyZXqGkl
-MiitNOuOpB7pT1m6fwZymjI1Xd/jOvaJxV763SeX9vKfXx1hZMhQ6syQU1QyxfI3QzyPaZVf9FO0
-uwCt+YQ9am132V9lbbggQcXJMOO9v81C8Hj6Q6EeW1ykfn9hUWwdgQvrK8Z/38fTEIgkvbuv8GBp
-oRbXwnuUZRXRizf3+vyJQraH904iy019A0QMMq6N2lbvHc2010MDqDLw/Ocr5F/v3UP3r9dDSIFW
-1cHkZ52pHnXCTZ9tCiBb585eBsRdOWcWebJnpono02bLPLlCmnGMRfG8g2KOltsB9Kap2a3MpZKk
-1I3C8j1rNMXjkNWIDgbdPuqCaF1bSWpm9YSfbvZuEHpERrP4LkymaU9jR0u0jq965sHcdcp1SF/Q
-i44WcJrPbVv6bcZy9bC8pjVibJfapPG0GT4Bon/6mWrfsspJf5ZpjlwCl+9YaTRg+yFKi8Dw2l2L
-QsS0DZEaeKNhr96vsMKPMLzfhwX3iDeisHIKwbgD1K9QYA4EYObotZTwadt/y4g2k4FQYKl8kadf
-FK9XEqy8aaUhfAGozT7s3M2JHhipucflPgUkemxBlPHC+mpER6quPmZRJONMPWFssUUD/7ls65ue
-adHcLfi4mPSfnPR6/KAPy2NL7wLQSVsDWlNgijqAawN4Dl7ePThsNcyOC9P/U5t8w1Rr7z1TEkLD
-NEXs1WHqKmCCn+eNIKmHpE11Djs+7TYs6GI2Ru0ctscS8M6tvkHrNXCpdCQFNgcS8WpqYsfh6/vm
-egPGW3e8ZLW4TKW/tKxRSh7fILxNnDbyZM6oC87wSOR2fVlq3jGqqW/49rt3tUhdg5gb4OzJynol
-9zVcFmia3svvHMpqgMMXaBrPX1Cz+pc7Rt6WIz2yCFWL+Qa0Yzfu431z3zPTbrTFOZIEFVybRDTl
-wOPebzpUaab9rHXtGuITC0FYMnQuePijG5kruRryd16Fdl+fduy5vvzyrenTtfTO8G4cUa50vasY
-JlmvuPzedUh3c+OU8TwaAnR1J2yu2wJ+1ECsGVD3OfrHmNXNGIvT5akC+k0phSlO+Jf2HsYtoksf
-zQ9TPzVK05+bMac76spPZvlFReS6ExeAgAvvTkh53Mdan6lRPByLn5nfDfJ2c2kUgTzvy8VeJFKC
-+d+unkiz3BWwku9IiO018eyoBDArwhP14Xtb4Qr+3RhupsYoAvk10Ka4+Dz7qQaWGGuTXHKXiydg
-Mhq96hcDBiSOIojC+6vSTeYcFHwYv3YDP7EDmFt9lAYbOS6EhnivXZYp51vJvCCt7xCxJteoPGIE
-Orxtzdl4ANSVxS+S5PKuCIPqGxaWM6eQEwgBVs6zLZR2+7gN1qqBDHHAGMvLiDMG76JpZHomLz4I
-ZrpDlqMR94XBbB6kXfCbM7/6Mn37KGhZWtT0V3w91kvLXdU/c0bwWtfvBHfmZEh+EVS6tmSIq+Wq
-OKJ8TNytWVIPTipAjvowNUPxS06DkBZ3fFPRFOVMzfdA879j5K+Eo83ZM/vfTDgFhctJgnqVVHlF
-QkNM/shtq1Qj5OlciaEEIKovolTzVsGjm9Bt4elOXLUovq9WzBFFLjpIwgTtLfq/ZulphmARXC+r
-xLzu129yTx8d8Qmh4IWOjdvkOKU1VdP8b+QNKc6dVyNCp7WW4hSt8Lj2IBWcuBMKOx5B0uqva82E
-77xu82RXsn6+7uQ8RGQ4BrY+40M2xHCw89HJ5PXgxdBBox0Lup8J78xa45u9z6UmXKXR9/jkXvM6
-6ABiMTIZEuwBIECIXjA5T7v4PLg86gNlHgqWAHNDirQisYztozxQ8xpO2GOvUnQ97mU5nyYlWRBg
-/kqp/WosSchVZB9qqAISl0e2ba2A5tLgN3JBEy0o+e9ueCiXxP1euJD+DXu3/XNzSu5HXmwTUl1C
-Lbla2Edj3JV/pMf5bASzyFi/YdpxalomIs2008nCQovCo4+Xfz+rgfRrqBEi8FHsztrgiKWm3Ysa
-jCCKuiTGORoT+iGDIv+K22t/nLYk0T4GDkDig+X1gdu9hl3pRK7yohVPJyo8Mio3TewNfY7gC8aT
-iEaLCE+vyUWTqiP/ZYMwMdkq48BbvffRRyF4x77KZ/cKzmy4etv+rOijCz3Km2gCggho96wy766d
-pMT8wveowoHWOMRFZIerbCffLyoHbxtU/uM73le7t4lKrbLL7nw2mYzyQCdyUGQ4/i1JQlvc5HUI
-23T1qxS1ofJLDxshAht1zqNr7iU9h3Ys0lN8WHTI8kVHW0JHMacmGS+QAtQE2CBinXyGOElTm2CI
-h8NsfHOkxRaIr9CDVDYv4I6d4DEvds6KAdoyOVJu8A5fFy2OsmqugWXqQnOPJ4drwK7sUSt5s2//
-7sN95MTCBKku/+B+XH8Omm1TRULfgyg6+EbyObGPjnBpwPm1vqBrUZQCM7noRLLnNiH+LIooAmMo
-A7Rln7bdZEL+EqlnDGhFw8J5WEBuhpc2NqFD5ql+ai7b/5DiBy0a0ORyGpZ2gSDZlfHgQa4N+6B8
-fWjkrQkHzaxvfGBiC05Aa7fvUEyIvNDcZunXCW5SnjI2Ss8El4h3e6EFqd8afHfHI+v1c1tk/Yuz
-YQCIrtCaD0dzTYxz7a99G+q0gjoH5OtkExPt6/mI8FBoeAIqjxLW7J2pn2hSsCKML83e2OyUQzKB
-D3fdOOEKgv2IZRO/q4/MR/UhiFHOduoGD2d/QrX+mGbsdVgxAOAde1B7MKmRNELMcq87O363DUWv
-McGeK2XqZZhl1dicyo7n27QvSDMhGfLTgs2LZDte674rTMRA5YYKsbmAcdlorS/QddCkPEy/so14
-v/xiYE2h6a7Hd/ODHTfqDgDWH28Eau2MGmE+hXxiiTyoZ3sasa5FShC0VOpC+f00+3Ca62OK1fGq
-oLXrNNivu13l9TLPqDlYJt3Iq/TqzoKWykX/IzBzyfGTdLM39iKGp1FkmjEccDAD6/uVwRF3jgQx
-kdnP7AgVsPDYCB9iTfzvQaL2GP+xB45OMs4mx34hl7+9GXmwAXhsKcl+/PKLA2MjFczxJvl08FyP
-857GTDZiuRjya3WH2UCV1iN6SygWvYvWy9f95jddHihw7wrnBCccqPBV4ZR6KJtIFubkE6DNC8lf
-abTr6O8L0zT4IuC//QVrZEhQT31sCWcqJOcmolctpJ1hR/AF9PhPTGCRmXTM6DlMe/tP9ElKK+M1
-yktEQXjvZ74jU8I8ZcDjoNTZIE6rFV++GAZg+Cid2u+XvuWDCoNff3BEiJ7Mm28AU9+GqG+w716q
-UHSg2z9fAmtNdY3ax9D6R33inFiW5qI8mktag7uWK3H3sYkVrlD0sR2W0SYSUzsSvXHyAeoiTsZF
-1gTL82KGLCzlRFPsZHX81j9L3Sc/tthSQ4a21AqKxHU22bxwo+wo6B7s6OyM0XBMHoC/WDGPWDuH
-eexyT0s7Naq0nftejTYs4PmhOoD9ZizGH8fuVF1SEH/tM/vS9164Wd0cXeUy4RJWvBixxVL3vsm2
-pfM5wmrEpRNe7BgVviwqzQfOcXrl4Z5n+XBjtCjedH6JKRj/ZAbOV0Wwnny4BsqQYJOX8uS6Kwin
-Pj8DcyS58em6BXIyjY7i6hvg35fvxO7oEpA4u5xocTgaZ5twP+BHYiwvxYdz3uHZ4Wf5eTkLnIMs
-dvpg1rVB0jn61RiEZ+FBoLJ9TdLX5FdpVwRxkqBM5Yv7pmWLrCvwIY1B+fmTKSZtpinnv10z/zgg
-pop/bkjOqUypxg4MAp3ef/+vLnQcZza8wVKc9RcBe2cdog3PLmZFWpDNFPdXUXlKgngtQ4rzqaXv
-Xnqn93/M5OamIjjxCFw/vvdmqTHWmG/iQHb6Sm2A4AeZvQPPqALOHT/f5dzmAcKmpEKKEgn6APze
-7lRCSPqE7yqrgJ3S3GoRmkcy6DklmsNYBz9ZK4VQEbNL5Dd5TJYp7uV+vDMAH2qBFOYFN63DBeJz
-mhMFBilF9LS2Y5/D2wUcmPJ5PS65DGkCXNFmqDl7MmQ6GZbXNFTI3TWBndPureGc/WivL78ZhEgu
-KVOfVQXznCxQzWnQpE16DzAzckqYxBiW4+B6UbrH9VyWaPfNpHV74bLzW/LocA9ebNIHiQ4o6ynP
-vMLaab1cFSA5/Y8XWEsw7OgxkX2xPj4YT0Oe9rm1J2wOrjTeRUA3H8amWjSfA79wnv0S/DQeDk9e
-4g7l5OuQEFq3rEpNvKqpdrG4v0piUOUiZrMsxqXRNEvs2oY282k/ERJ+cvlB/zRJmLp6OFnh1ho+
-Lz5gePErp2lpKZQ1fTa8Iw0kl6bSqaLlMj/y7/B94xbzwoIvbNjmZpE2GTrhXgrg1mPVAfC+5q7Y
-1we3VWZDwqkus5uReZ7w+xLMTmkHXJVZifxoa2nx9QUW123RfqOJnzHJ9w+KIHk+xd1LSEcth1JD
-ITKKHjDlTaav651dor68fiSEbx9vad0RAMu4Ve+ETG6vm088vxvcHV8bgA09SToEuXBFyzHae7fq
-ALpAWmZg9H4X77+X5ZCZ5e+KGrEuefDrhrZrDmBNZ/Rbvs6f5YgMFZ+VIeB4O7lUyMeIORsrinD3
-YaEbYOuIF+dmTnDFWy0WR2PpOOqdAgxm2P+YwWYImpNBEtJLUiSCB03O2tcsqMP3ynGLRExVXJL9
-lvG46artfTT67AjJXscFZVo4y3aUDHvZTsxFY+ODgftMj7oMbXGA3r/T4kR6PlRP3axWe7bf14i3
-cb8vj9fLwL4EKG9+OVUuaYoeiACdX+6MCdIkSMinZUFve5V/rreUBZChXe52qv6aI1xPfB3ortH/
-clYmwXErCWGctYH8WeRK6244edlX02ggzsPk6EeiiOa+ywOLZfXoUNmPR48ZzfNYJpgekYlxLnWS
-8ijI8Qae4xzAlOj3WmOmaKUUECxLuxjQcvgU+V6SdGMaA1Z+NF6llc6/HKSW2zkHE41ADp3M+pdP
-DI0iQ49lMaowI9c/NufxND1PcrJNj20DQbVxoh/8cFOs9RWut+Hjf0/zdENR+LKjNIJVTC0ZUFUU
-OYTJm0vwo2HaOpjB3ADnn+Fl0jiatsZ87jgToU4R68XK6igabwmJHPke5VhofPxSRr+CQPZPIjcb
-0V5e3CCvOrWh3EB2yS+vtuY86kYIZvtZnoggGPL+vQz0SgyqrgBmrx4sd0bl55OLHWwEjIxmIME/
-k1prZeyxR35PgGUoOpzcBETSfn3JazX6vBbtMLNLSdHSfc5sjqtiW/mofkVvAa/KRQ7KxTE5GQfj
-QIPFG7OW/J687dLu2fv/y37LEGmggLdfeAUX0/sLjEeUUrlJfSlugL2Q0OB+eL4hBavtF+6PzHPH
-Ic/ozKDYPLltfCFYkKjDZBBM8T17XXdn8SQzNinrh0vL3MPUk9CGkAoP9oc4j3lvLefZaKYL3sWc
-p6d52mBeR/TgNm11lATsioQhW+3kTs88LscF/9h1phbVufio5TjJ/m3Y4Qfld24HmaLkjZaYLpZz
-aiD/9SxVBucoxomew6bA/9SquNf24/U2uKe6W3BjRl7jtTJ/rU8KJWiDJ/Z1Txz+H1yortVCo+YT
-E4othbVXh6dsgl7ms3Lnv2Ux8PbJYKA442s17aGqHhEZFw8kUInjP/d6h7XvwOeH0czFgCiVQmK9
-ouMMTsXYf2vQvtWdYNiEOqc6PUmJ2iLEuKioPgh9zXG0KyB3rwI3y8mmKkfHHIRk6HijFfFoeRG+
-t4p/6MsvLoYN/2P7ANU8svbhSWxA3EDxwp2ti/RGCeSkZHPVeMdkH8yCBOVhqIxD6/kpjYdUYhQx
-zTa/K0IYwA2tf4n4Z4/WDg6em72YQDnQra2JJqpMaIHXYtx3poideF0naKlEtBIY5W8JI9o7lvin
-3SDX4Y6E17rLc4dupcafE9uHhdPEB3kCzqHh8yMbdTkIMKbGQoBjap9BjwBFqg3fz14SZSHcur9h
-YLTGt/4bEMF2tZ66L84zoB0m8mFTTJMzefaNoLp2POcXQni0FuklRA3Fx/ePj7fyLnUBXPV7igV7
-zNZxST/lqRVwdGIioqGwkPjQsAQ4kbHEEzSkhWOJHd/RCcFLtPk5wiG3bS1GRH1tIkVh1fHdyxG5
-EENUzhcyO39VxzUK76olCj3HMz/5Qe2Fww1WZF04QQLJ3CTONyGAatMkZ3RcQF/YxqFw1ofUgPCx
-XvjpXWbanqpSOoRv1W7pLkQmGpK5Qn6kMKuiAHS6Vwm9CHUlaQK62UZ1yZSYd1MFE9nqPmWxU3dT
-xcIe2J/0XiKq9DPf3XWOjYNVFPVEAdidJB9f9LRn/f9ef46Sanz6P8hCl0uCPe5eql4XmXp8jvkL
-wllQOxrr2Qq8R84cMQWmEqFr6FnjPLuea9zrTXi1oKxcsAtUzVR9kpqbHnhheaCJI6+ot9DkozD8
-mhHJYqqL7OqfT880jTYZE2x5RPdWk/T/JdI8sKB/J57aTMqEB2tqffEuAJ5AwKxumjZaq9Q/JvLc
-uptK42VMgiwjBh4A4beCvWUP1rN+Yr9528BhykFCN2hM7v4Xn9JozgPzwJl4C0i/K6aUVcIR2oVO
-mErj1F7rOrNiwGscZ91B6Tc6CmlmqgCZXA9g8d2gT7Ht8L9H3yMQIZwroLSpHVYIMQ1SBPxJmXzM
-372nzeYYF/scm6H4k6dLNwu21ZOahXizW/XrEZ42G1XkcFZCnxCObkUEerbhbFN7kFUtnZ4jMS7C
-CPNiyANjX20jzDYrkHQ4AY03tt/Ca7cJCxP1bfSXJ0iRByPV3RTh5L4OTIQiIcet10RyhYIlXe2k
-m7lR8SLavAtT5eYhBlTfZd3O9qfPzOPSHInBLUIF7/o7YoM9Z1o4BeqWc+RYnork/sbGm9F03ORX
-cqD9H9oZX1tObY84AGRFv/+G9My09gNpGwsjJHJM1dbkfAq2IXMGelJ+C71f6Cu6WSQ4JdvlOuQE
-e/PhcU53UJCrB9kzcqci4ktZ/1KG74HvVvR5Y3vS5LuzQoVd8A8UzlPpyhIZrc9ZP3xKVowK9ZxM
-9m7hxfdXnzBvDHnCKtx90QkOnB4jSQdLoT8aCYhzdIb36rEf/EZBblNlaGaLisDuv6454cHU59v/
-1xS/zZyBug3yMN3v9KlKL/SKsRQNpRbggm4zR7lVMjuumU/oyajJCQUweWMrvEf2lWKNu4/nIqGa
-mR4YmQGRHE7fNQwVhAfG74XoBb84KOihNf938o9GWSfUe20in4Shw2qd4Qly1lAewi6sxMCzVZAl
-rFuEW33PWz91r+bqICk01QvxWPzdU2ZXpw1yN51uVyCaJunfWfwuhz38GgB8JeuA09Bo1QS93hLF
-4PJCIqxghVREDf1iZfV8iifnqFj/x5R3rVYiSl9jBb0oLYj+A8niePflJsOI5gblcG1F5Q6yYL3r
-92NZrtKR6hpo2ZrlgmcJzmJROdWwQD9P96xD6KXZHrYtSG0Ml6SkHSpntiALJvDO0gInE0Vkb0yX
-g+LNs6FfEPImlUw7rgWCPBU/z7c3vjUw1a4z0KlwFpPyAs7zQhIBYYlr3mps/dRbz3rOa2WJSF+G
-62twQC3vlreT9lzD7MGl+ejj41Kj32z/JbP9m5BL5ScLKn5DT0ewjM/tQJua8qRzcdqJUsBi/JBS
-zm/7IMks+GMhgjoSppCOa4A87zf18DHXXDSlf1TZQM4kfA5d0eIMHXchZigfMYniE7j37K9y3c7s
-+EXG9jAhT9p6em4Gt2KSxBAjMCkP+yIwyMYjrmVUB9BDLkU3kpOwx5jSE/jmVpGcgzMFzcaHCOeA
-5BSw60jE+eSF+f/7TyqcwrDoHKr950eKa5i1YS05AyWBcN8buaIcvlNuQLZ29uvVmSoaTin7RouU
-OINjPv+WIT8sYErqMtdNA2YNuNiO37zbxGbZV2ET9Ok2PlCMip7OUJuDWnONEb184K6TpkmMlg6y
-FczodUBqTfRmlSAc/CdHaoazZijGtLS5wWOXDiHLM+RfvlRLb6B7mTHIlCkkexm0SLr/bnvjdqI+
-9uFAfXbz914GlCcgGluwFkVtMFb211Sk7U4v65nigjU+x/DRtCE3UNc2KYKwKPw4X03T/fAfPV1R
-eIY3vXPhLWZuLjBHqxxwAv+l//7NM7oxnxsneEC/sIN0ScJrKaiNC3f44Wq4vk8qV4JYskxly90a
-pVfOcb7wj6HYz3WvgTtQrHwLomjRjfda3FC6Z5vxpEK0SnaU2XftYgy9lKvnGwoPFseMoH5869Qj
-N7AC1ut0PXX403r8A09kxaMdaOCPixCG2PK3rYRGQ1XEvaut9hUSa8G0Zsrq1JFyw3TP+NI3WXkX
-Wb+ccOP2M61zFM30/amDVUg20aYl+eSI8DYh4dXKExvTu4odYZ9UFQSLYQDOo1VQwIWWKkGrNkeW
-RbxbcFW7oBR7EQPMqwjNRshFG2a6TEfYageRwz6I73i386vQcyuPRh19knk/iaDfuTIiBQsSxd6U
-PW8MzUqCOHA9NmDMw4cIJC5nz0Ws2ymkYbGoSlBcIl0HB7NdI02ui5mWkGEo7sXfLkSv/nYpqT+c
-ekaGzmvp2veoMu3YCPD4DG2wB06ZfGQT3pCFyQajRmozGBbYOYLVpQBzXRSLqmwpIcAP+rA8/pAw
-VObms9YbFoUYgwf8fjhIJ30xWgzxq8cS9CnKDyrXCz9le78YsASUqkE0VcpZ+fJ3hohgfDBo8pzg
-kbCCfWbN9fhElgpthjwYISj8gDl6aYFOLRQTq909cQKaYmSvhjCJebxdBjPvgl01Y0Ae86c+uKdw
-Sc7VPHg6q0mG5zYCLTwhYzt4JP0Sc643oOOrN/n2fSShm2aqUgH4fn/gl76zNNH+j3Re8CRtUpsg
-hz+RGejo5qSNQFgTpSughJOIoWu/4++5+e/N7OLPwTMonL5rDYq9Bb/8UcDXXiRDBrm+TWIo7GNI
-bg+Ri4m8jCkjE3athfmzDGGU972yAKm0akLv5e25knFB+PjF0782/Ubk1oHAmgvw1D19o557jr15
-A1PqcVHA6O9rPuq4dPKboTI7vmSQK3yHwOK/rT9rOGbdddvYXU0kuIk0va7046Yz4sqEWL+gRaSZ
-haT7mudMFhFljvs3rC7XY1XpYhKdj5+JlFfGV+zbaijXLcrTM5uRJggVwVQJSOShGhf4h9p2syDU
-zmjgAQ38/3vNflqlWsXz0WCx5A24ImGLaiDlusvZl/xuhQiz4nQtsUUqsws5lG49TGmqCsYp96eq
-dD26GM4eBR1CDhtfI7CIsQZhqXuqcb6tSRxMDe8vVUG1j515kB2Tu+FCxFOFecHMX2WjtX2Qhj8Y
-2QB5/HkDZQf03r9xcB1WjYCRvSSADslRy7CV/QwVucHw8GTzG96B7Yy9/Yqeg8Z2LL81/pqfHhJK
-c/Pm/Gv14obOTHHulW13yztZuog4ynj8i+hRt3htsMidI8rM+gIpyDyeG/W9uIS2dJ7dT1K+AcdO
-XibKRIu5mmf4ujyOpLq3zi2th/vxQQJaMGuA1FgEDODPK1XTqFa+cvXnNzW1WKMrNHFPtNR3iDGz
-A/xJhKqxktcYlYEPae/IvF23c1kFe+aLIewaBmrsPhREe7IVml6zHvsdhboa3TkEp7GesX6579m9
-At0Yj2XYESdxrFd+8qZtkVpOEfYsHxMN6/+gI76kqPU6kxMMM+bxYl2IBong/qZcjvKKvGPq8I5+
-wKUDi8G7N+UzSN8TBlhe1u3szPoxHkf5IqZQAo50rmWoTpUmnYuQdpqsv84HgJM7Z2B9vfw6Z38W
-9h0Lc1LSKWAsdsPFSCRcIbewFnWH9RvJiSq5LYDPwhYHs2AVcevIlH3l58WSmBe5KpYq7hpYIt6r
-EltrXXkhUaNvc2momrhIms/X1l+wnOYG1oUt5CLTOBdNSHFixypWeggizKNpM8cBnSLBh7Pfgz4E
-Z/aDmBmttCwyKqZaPnPsGHlCTSyBWGORj+IbXF7axgYhiLx9Eky2NZZQ4ex9qHU4AM7Y7mn0/teC
-NPz5+PlEI7rJg6sN19f18W86DZajINOVVDSGpsOV76tMFMFJrd4r58qY4fL3u0vBv59TWv67Ol5C
-EnRdLN5tR6lzjTsw43wE0GIvPdAx3t0ZFpfpFtP8o4tN9mk0XrmfZvgzAytcNL1gFXitricHdfgn
-cIPHyt0uJQwW3GAJ8DNSfF/0lN2P/hnw4DRZAgfkTUTvDMGvMwBbKBmetmOrmTWtL6DUFq0eJnjP
-kdHU5ZvHvFcNOPETWSWPkPiUCD8Ay6mznNg3iStKDJCEywyg3zD4nNFmcW6w6dD5OmPitnXBEoEw
-mPjH1U5fsEa36mEuk+r4ok25q2ElCKjnq0p/N+K2z0HTfL9DpoSbIkkB6ElTOxlw7ZDwl0SMvZC1
-ylRT/JtSHm6LPbOGb05mMJEOQ3bBoBxLFL9eHxan8w7mrG65rk0rDf1379FrUc1LqiEGhwCdUOsl
-wx2iUtTBwVazEBTp3nK2OZO+GJrL9rVKRRscnzAE6jPIp3w9dUVCisnfNmBcekdt/dXYb/O6HItD
-5J9kjbCXjiPI0EPeWPyt7oSfdhXSgIgnGhU4c0MUHlRMCDiCl+EbczZdirk1hzYqkF09f8bBj6i/
-zGkGsFBLMeYHjAPgN4qJMva4MNSeZGSMqcmDhddpymjAlNPq68r8OfQ5/K/A44FTuFHYHbr85Aa4
-Xfc7BL0i2GLE8kO2v9zSPvpMqGXZ1gzmqWvrBHpC5LZ+8d13jK2tNxIPJdPtaDS3XO+H5LNW45Hm
-4CtHcht4h8jNMhqXQTyhQ0vgytV7NwjMtu0HwxdDR0pYjrpPheaauZ6apXHTf8oBStS82uiweHzD
-Wbk7jdUhf2m0YBhd5wu6eKLyFg7opD//zSeJoiStjHKQeSc88QKWZDatxDQJz/mkt16l992ObDHh
-6JTaYoDRyAJGv8gRizk29pPszQX6OpK5e9MBttOx/dBi0iZWBRjvHMp+T9ySe8GGn2MBwUZ6X7yC
-+L8sQa/tCKGMW/fEE++xgQV49BuHZdgWJfphBlNL06rOHBqZtoU5FjwYkiO/rUdiTiB9A6qGIRXu
-s9k6Gf9BnNqbJgprK/GDx37T9SJR2YJNs8l2lju1oaOGNtgpW0Ojyt3uHsx9c9zpA/KFojUUSvta
-rABGlkogb+42Wtzfx0dun/OhWlax0z5WZ+TVJGGoAk7yDYUJspP1v/+nzSLTVoNqxt7wwyy8wZV5
-cYvJWKQD398dTPGKo+sAShtyKSiNXwoovnGbCpsoP3SE3Z+/bEMyuezKkHuic+wMSZrC2gePkK4D
-YPnEE/Pg1PPLQ6j2GytH5rupxrbTtBNG41k4PQoQvTRpmB8qtmP5S9g1awGHYyKLqM+1B5U8J4Bp
-VTYMa4gX3axRfjex93V/NQhVEa10LX27397XLCVtCJrBq0+oIRNkKEvIMW0Ky/Dr7R/EwN+2xD+R
-0N13IEZRmVXOB6gA0M6tURuEaGJaKurUHaKrIA4/1oiIgXeKxjIaHC0zISAuoPY/ay8r+wW2HW7x
-nPoc3XVFQbt9HsNjcGchnvkkN2KrE3xxVughvb95spYZD7GWfC0iJobwTOrSEdm6HFboBHR5nykn
-Y8KzAiZIjtEXW1sQKyi3OVy3AFRFC25i2e3UdNWLtNwKpWXKXnGJ0ylHVK0Jzas+ZC3PqYEuqPgj
-PyIdpqMhycX2Eyhia1tFPmF2cqr9RFbErFv7pWv6WYEYurOBIgP2JMxxf7Kg1rz+//8Vg2T8Lyzm
-kAQrjQ0td1VLrLGMsBB177uBFzVYYU0Rj4KmWZYYgE4FiRXPY2Qgo3VPto2rPU0dPUFzLzFooYp5
-uHMNDpGJQeq69pZvvP+PoOow/fpORJNy3W239Cd1CIgRaBGvt5mwlYGkJjQJW7z/Vc4zlXbQLj+f
-RCFUavBIJxZrHjIbwjhazz0PLO81dR5iqlWxlwadE2qGCkxfkodILlEGFbVSm6lYGZqCor1FkP50
-vQlDPixjeCu4cekbrVYww70wdeHI1q3PthIeHy7ReZwBlPsfYW/20jFbbWxSuwYdH6S+lNp8HSBx
-pqllBZuMWKCdGGp80kH3w6wtWpF/uT0husnfqWg9LfiJ9VD46zzbC0PTYZ/RYJOGSLMmK0eZ0fjC
-+F54YRPxk6oGvPOWV8WO+KmSwsb23HHxzzHKwFLyZqZoNBDQrn5zPpxAITj1Gs5no8PgTUKJb+e9
-WPe+v+dE5VSin1oKLc20tKk507ghewqQPpGa/7lnFeQXqgb0yNoObYj2pugN91NUJzBS90a3EffA
-gaPg2BTpkxUvnkLDg8Aq+1UIuCyFY7ARlNX+uqwU4jln3ePwNz5oMPVEU9F/AB55A9C6MS9QOaMJ
-jsBuiA+ttQBo8YaN69mJu26SiA6tIIaLs+BOxBpQpm9RSfL/RQnAn2uclaKucEoV7r1++u7tqH27
-JuCCQbYvW+jkiwsguq0eYIgUdQgT8SjX+Cir8xgIjr7c2utNpn9XhQKCEJlekAmZt8R4RRfM1/E/
-yCRijHnRlb0cIXGbCgqNKv/HOwugbv/+LTJkGLnyIwFXzchxrfykw/uY79ZCeQXnna02qsQAi9Ig
-zRtCkLybpmKvPD3UfBSvtF9ZeCBt2Ek7pj8pRoVKnYqUsafF2Y0kJSNtwDbUlh30eENXdpTK18nb
-Gzf43oRms4BVNRMCJ7dMpXXWfKqTzueoiAMLwnfMCTuRgQyls7XHTpGhypAcJsJ2Tjw0C1Z+Mmqe
-llrjST9hshoKZa/NK2Z/WMlt7o4rMai0/v1VVryVigSV4+qdujDKJFxMAwAvD82agu5V59G6Vsva
-JO+EsPTjY6Yq29dGSvZtW8tmrs4uXFEdZN/wAaB20nP2KxU7n+TBV75NzbBAubNwHgtE/cAWAvBM
-zuFE/WNqEjwX9pv7lL+dnCOM3EHpdunUrb+BRk5jznedQTMGq9c9i6odwlNVvDhjZ90fNBMpUTf+
-sB9qlrSQe0GMlrAjiJHGYLDiRUaBV6e/hszBVb+odYLs/8p5vsXRQWBkPQ8cmzRJj4/NowKvg67F
-D0+HuBK/2xNcEjLfXF7tb6+SEfvIyHWsj3bfBoiwN8/u+4+BEo2KvaS/UDoE33YPJEzN02R/AXT0
-ieL2+GOdW4KElB5demhSGg2Vhld64dkuXylCb0REjVjwRtuPbHbifV2IBMD3Lj4VkT0UqJ6socmO
-hUFFmll1Dk5tcoFDE4ttnQhvFeNW8nn1gHwcinpyuUpR2mhGHTmqnzRNJQ+1CLc0yd+WpW/Rqhfb
-XxmRdvOYZnT0CycGOgEhW20fDyR/wqkLcUK8G4sl6iXEvmnHI+w52yEJdiSWqSuv57Pyhw2qHMJZ
-9/MBKgcpplS4cmAxnWvFPRRk8h+nWCM3lx8urxa1NuTJh8c1CvXLiev7QUdByaR9buJk8A/dIMck
-xE4fpYZtQP2F899iUPpkvlD4KAAjayPQDF+uU7RQpWpZAAOUNOnqlu8dj00AQff6QmWs0a8EQCdE
-6LQPdl9yttDkA5MGbE1TK+M+YaPR6062QL8lkuK/VK89lfQsPlbSKiz8PMpCeRI+aacdbCGthGpI
-I/gegdcWWGwY1uCrBMrIaY3bRyUQfyQ+3oZjsfxdOdjLIrKKDJUbIYjHTk4J1sVEN/FsUt3HHQ4C
-e8Xyk17QrK3iFgBN4wumMtvzCB9PQYhd5QhYTPsFIxZ39HdMNqgvbmj9Wzubnes/QJQqiMUQrsgi
-cJ0lE4pJQ1PewEG/Am6acmQZUiVgObL6FY6rcywfVS0a/3yNZWMdanIQ1dAOemv9tyqBhp0gZX1Y
-1CyH9CIay2OfQMXYJynq6uIyLKLdUJ+eu3S7sjqI2BujXLDXJTs/HCZI+CfN8Px+x6s3QVFr2dDl
-7gQM47E3IsJqZzDwm1jbv5Y+nsiaFlBkRP93dn5x42tOOMgW7s6vD3L1A/cQSmK8Rdd5S2aXB7CY
-v6stz35OTe0zYxd/v6VFzVoT1hd8BgnT5IMAsbvmOLgs0B8/L3kcdCEaP6D4y8ADd120Tsken7n0
-GyPaYbBi8rGKQkpX81MG8hv33W7e+utM93imptA9DiNenc2Au9T+r2dIqebt+J2F+mcLJQiVJ437
-0V/Gr1DOUfi5Udk2UItwsS3fBIEJDbUUo1gOL2J/JSCQ9g6Ui2k6yLgKps9IkNGR+sbNyZU1QFMb
-o3ThZOITVZi0i9mPuChvR8dGbF9P2DwXB25XL0HmMDqoXbG7T6VkJd4TpOYo2Zb8C3APE9LuVRs9
-ZOvSdsj9HDoFiby1wIaEG3VIBnskEbrKBFv2BhXKR6DcFkzeFKYjxtQJFyOtVw8gvwsXOK2CJ6oB
-Y/vYdUMWryPNvNClOfeqGUSlf2N9c8At6f92sgqXHzuNdSrFvysba3Svxz4+e6/9LQcHXrT+AvY6
-ZB2PapXZgJtZ4DPYxu0zlJfD44VrP773dm6DceYEi2ovaLEnNfzeUqGrlyPdnwtYXcxFhpGdUX55
-BH6yozjzDb/2CaNMpmb6MFGol8qvCb0wUzmdZd1ascOlxXg2l6P/KZSgTPFyaa6mIAuX2aIuNC9+
-PaWgSjKU+wgjfcLGrO3ORsaYzqSGQvnPn9f/WWXbbHEskb/o4XU8lfhb81MaDf8CS9pTNZDB9QI5
-/UTLr32O8y1X6k+uOqOOTAxt7i6f2GWHypGPPxPHgwOB5EIwa/yrCQDPlZfrO5PzjfZmzZkpkzoM
-eAtWqG6Yf+n4KblXQZMwRgcj9RH5ZmZ9I+2wJ9ylg/Rw4LBYS5B82VhvU8ez5APxStp1hFIcJRTG
-wZPv456TMDP3If2nXd1GAxuiLLx5utA8BizGvY+rCQhXc+aC/+Lyew5fc3WkQqlqKGkdhnbf2c27
-eMP2x/nYh6oVFjcrlBApR+GXifDitHT9nMbnewQnR+ZhCXN5rrCOsdcOyioSD/SVnq2+yPTHUNsK
-4uJlVYhDdW+MaY/whQTr7kAYonGIAC0r0vX+eqDgTbEx6ZtsnqRfQa+bDJiRRzdSIn4z3BcpwJf+
-vBuZeJtDmnrxPdbQPJ648QhiziChtyZaRdhxmSu/1RrLCGEbeTrtuG6ZxGcIcAnLbnV0RrjFQNA1
-8/FD1gmfwB72920EEkz/LJrXRJIc3l0Szp/RnRp5z+jp9GgfnU+k9jjE9F9Yc4y0hSBQYhchgWKH
-Fs+18xetnpfCASs10S+0kBSP814TeWWaqO2Ca0ibsxhBZ12OBQ+t1LxnKRcE7DjvvO1VsDMR+kis
-eEaW5PSoIa/ynDVlxZAQsTM0ZAIl+9yPtzQa59gvQsO97MXdxNFF8/J9nna+zHlOPLCc3iwGEpC5
-uizt1ruqntxBZVIdYWkqTDdYEVkQ9qB2oBUhkKTqY/lkeFhKygRqEqbV0wkS9/HKfr6lvb7mR0OV
-/ZX9+aXuwyouqcvvE0//EGkvXYYBKt4I/KTlKHIolfnlrbvklmHqRCjJaUq+9Mf9gxpICQL0SwDu
-JpUQuqAGyavqfU84lUR0a+C244Gj4JteVd6UW08Iqb+sV5iU6kbC8Pp5gXlgQiOl6lyLEl7LjVWz
-f/vE3C66x45J+u+9+5TZtF9mhxDf4oDqjnHgzOgAQd4Z6LWYIGBYYiT8Kc1pfmGOjPFi9lozrIKC
-Bb+WslXZ0py4NY2iiHH7kCgWVa6N2TSns3/gizJEBYf6z3tSdWyqy9iGLn9xcnlJYp7ioF452Y2O
-+w1pJg5IDdhyXtvdhmuCCNqG31WlN1Fz/wbSBOaUPjNzeOekcX1XCWXE15GcVO79UospgogduCWL
-ZElQBel5tLRJGmym5R9plIQaZmgg5mQyn2G7rdoFi88lC+HVQ6EoSc1iZJkTTAM0mtLjGS/us35e
-hgmZ2gcZM0Ee7xJpThuYGlflhW98XwKsdxILlMlqbyz4lbqF57MlncfNtLjBRQ9QSqx0dJbcbtwe
-hGz+OrTgM6/NsuVXa2ws9HLoiAn6NrF7MuH1AuHL90v1OTh4JFwi33sDzSlHkh+25UvJIpVdeFm9
-zv7v/jOE5Snqe3BNh4TMcByS804b4jE28edW8RijOA6WZIFsCwsxK4M1leYXMtTz9K8idPwQKVwu
-K3BWhYVyDIl0OFxVqJHktXVd6PHUu5fq14PnO7fGVdGflSN+hoxYrfg2aJHcglTgWWv8ApDUBr5O
-y4xdxjtEIZuieVelahcbvq7jp2jUa15odFH7QN6HOlD5SKJeHXEZ4jPitkpy3G3d5oGtadYNQyM7
-6aAxsoHzpKQsgdmw6l+mSRyX4woRcZRZLV2uB9Sj0jTKHMhm2kDQoBdf1ZPrxd3qKrg9Ou6W56CX
-xi5zAowFxBvlxiD2anmYQ6OfqE47Ts9WxE1Qic5JLGZ06OTtvbBVKB30d4f3Y9lwQmVAnChyc3xX
-LnByV/InTS/jHNSpOQXgAh4042g161VhHopURvhzrrfeBPZDVWBbc9v+4MJbmYlY/pLokeN3ADVN
-be0I3REdb4SHrGBwT8cC7OZVjq7hYZUL3MMmNx4i2P/RS1pr5isQPuPca/fW3wp18uAQ+mKeZbnp
-NrZ2m3qG8ftUtAIko/c7cnCvnvKQraGU21GSaeTTHFy/YWtTEb93oE24TIRYrOSAtJ7zXQxU/sdy
-oXWUCh+iTVvIct4XqiXl2Ok6DKconK9wk6I+OAvKKFaNHzTg1FY3xrITejM3SUKTrdzL72sy4t6Q
-KlCegyiU/paheDZK75f/hAcJH2cP6Inve4izVhu/ZnF4GR9lNADEMIrLrFJxdjM0qCwAdfpNitwY
-3PEjjy252NFaSeWWBDTs8sSE9mFFv8K1IXHrRQ2rq3YP6xN2N/TSaha3BP1QoG3/l+q55XHWbII8
-s2LIU07Hrqsj1LhXfBXr3qW6f9x9byMrvgQKtz4ZetukS+t1RsUzDfkefmdZarTs0CvQyxcXJZcD
-JQXM/txDnE5ZJK6M2XUUn/wSVKyjCf/jWmlJSQupLEWVZ2LxOTv2S9cY2qvOwVqSSSw1TiVKxee1
-g/THG3ULe5r6+dHwMrPll3Uo1YJ2EgLiZ1gWnP6I6iIwRCId4meGiPf7MqTjmz4UxTrcLmwAM/ZP
-a6T6mbNL6ifUkGr4Z6PQpQmRf8g+vE/GHTlkI1UvJ1WR5fEE/tL+psCacSVU/twmcAQQakKt+uBy
-W/HcPkp/5id2vvZhDvS42p/58jxryf8tujS3ZwGSKWR/b+UfYNp5rC23WbGXJkhmhq7hMFVW7QM8
-qOd1WIoe+iQ207v5l4oZZDatJ9oZiuFEQ/REDrHrorN/A1Lmmb1L1TxPeOjJsn0PV5BukFI4L1Bk
-MM0te/HPt1JXnYJ874lel6nb6cgDYsdjUv6wDI/JO95EuTmNWQ5ZoWwIFsIU5HVXzZKGam9hX0ut
-El/3UNh5SwLdleieyb/TfRYptRMyiZQHGLq6OHB3vqpHUrGVXQdDdpwAjfuXp50mip70Dxan1PXp
-PxqS2WVVyvD2tyViBjmfmM46vl730g3GuXcEpUXAu2i+PJ/IxIukjzB10XckUttCg+Etvsn0i81n
-IdvmwEtbjjx9ezr+eGSD4AapmSOR2qrzOZbq+Aihneb+m8PXy8KLJyLZfgC0iOJhwrnv4BuViLw+
-ryNb5FywLRa4gsOCA045C4CYza3EQlw0br2GFVjwampOxFUYMM1j+tlIpiKo0aw8BV+Ev9ptxKh5
-/brycQ9GsREzS0l1KrsFjCv2wujhAizwK/e+tmcLZp2HVB9qtCLp0NEYPuyKnnmMbiYlH6EDmgzz
-d05VoaFVFmWnnbS4QREpRPrNBv/7+70Dr2+Ruk4M5WbUHnI+ALYgYjUYEcBVRXF4zex1cELajtKx
-LqTcCqOkWN7khnqqRSnqTCFv1+njPcsw2MUhjIf+eA040ATMn0Kz9nk3uKWjNBCqkfVPm1c0/Rjz
-OpjZwv4tb+aJsYCQ1ZOZxypB+8qSvyVpsMOTlMCrx8G6/mGJ8gTDwdau52WkXcy9yGwF/L0V+ZH5
-lbZes9zx7zwm5IisPs/ZdWQuGbMdq4OJwJLKh7nZ+DEfHk4Wxj04lg+bqK9UHgPOMH+CfC7o425c
-auFKqm8JARA080s0FbwJJhQHFj5yDf8zU/oe7ji3ONdkc4ab/P4nppTCvXmCS8y8DId+2e879fel
-WGl8d4e/LoITdmj6Vs5cIwova0FB1LsjhW9DH0FOHq1BXQxl6t19wMTEVY1Pa6nMpVWsBegtcc9J
-j0zh6PjQ7gU7/8oUAaTOc6GS3DKZpWNr+3rjf6NMEbntUlY2fZvh6slYgKZAbpX0PGu+lQxiX919
-AakR+oEVyqt1vylVgAHxKVRei87jHL2dOx391otIxUa+HnYUOSK4uPyhJ6csVN06N9ZTDPJqX0+m
-oCjxxYKUTQ7e71w4a8dd22fDKbwS6S4dhaefxdZPrGtDz1GSmfulTprsjAELR8uTxsHdnW0LiV2+
-TLZedkPVbbkZTriUXUKYE6eo2nikK4F/PYbucJbf/d+7ryOE4jG4ifTO9KWHIE+ctTaAWvH+NzMF
-KlhruauKMXNgjedU+TujzmsEm2vJMm/w73qWHadXos3XRNFkYbean5+RAV9kUuOkLIKn6cd49QyB
-hG1VC0MxYyTGEMbWIX1GNCa0QYcoIt+WeKfVYRn5mPeTKpZNBW8sVOwpPJGI+bL26pSP7c5OeXCS
-c3eN7yCZUXaaagCiiRLT7S2ryCDIGFgz5hy/KaB2fmOn3jBWpd6OXP4+eKEFaOmfTgD9UF3U3Po3
-Xtpa5vBVk97SjOsQ3b/1MJrndmzKup+iR4WbYM30SNq6pnKVFvASkEOcYJrtifmwTl4B5rY/3cza
-lWx6LgdwRDEv4bc3ayZc4mwzKr7YXwEZGV0j0/pmmXV3q9lHv/jZzwPXgKaIdWVYGMWltNEGEoj+
-v6LekS4GuyT/IOKS7fBTo5LYVI2cBEhmOGaGgOHw7HtLdcaV1Tq+z9fWdoqT7zWZ76Q9UiMswvT8
-X3xo5cWugqiQKoJ1hvbrNTYO+lY5Gav9khraLKDrqo5uf1nFLSlo1+SctGLKNEWQXG3FFYvdM2Sn
-bHRm+BMx4rdgBYz74kQUBtleSHrlYucaPRbc/v5OFnYu0qo5iDuAvOxC8wVoO7mOppQpp7ybeDDA
-Xvkg25ZSP4ZkE9VZTqWEMrMbnlypYEyelbOedd4v/8XmqK3JLJ59Kw7JA7ij+B83kMS3EMGgtuhU
-t90Njic5xNSaMVAaR1vHb5TkMws6M7hPUTpwjU05YRAGLyg0eLH6if2cWaPoJxaH1EKXfxGv0zGp
-tbh9ea77mkpDGVrUxyp/TQkBdxEgCrGgQC8h3uIE+GW3+roQK5gYm8DESGoFdRADIc42z4mvlmbM
-sDs1mohvGOBrp6Rt/tUg1Gg7npPdqiYhU2Q5Nnk/UIQcfEnuhu9FnLxMWotJ345FhujG8JcJJ0Ew
-uJclQ1mpQT3V9bYrH8qCrQiHfAitKxhZ9moPXxyCbD7taapPa8p6Uf6aDSND42NNBhZmpiXLIWHb
-Eb0+deE7/gJoLT0tNcoD493iHMzM3xAd/GTnfqV804AiHLW9zBmzaKNUcV0KsiKFp3eT8JdOHls/
-RmT5AnsGsr3VD5aTrIkhzryMbHQaazNJEWVG78ouLTigBXluWk4bP/3biXnS+fRQB2Q9sWaiygqL
-tDyTZ2gkXWdOSKC2wHK4KW45l/pX83k4sUS9+yCplG3sX6KPfGoyoLkwp/7FBW81e+HntnupNKUP
-AI3PXghBIXhCuUvs9erN+Fv82u5nouia7Pm5doFpgWuBNtVpBLAF75yVquVK+6y0X/+zowcMlc0E
-eR0Y2Ga1/bP9GcyfEORlH0Vbo/qSj7sqgotOUvBdX1bU7lm6FntNst4BzsQate8ZH/oFU89qI2c4
-FwDzUcw52cbNuxHaVQqewIvJuebVbY3k1+8s/vC8Oq4ZyCz/HCeW7lbRXaTsKa2B7hJidRbJjr91
-5fDPkqmodJxYZZP/mPB+WtfU662BYqAJ2yWDGqU6V+ESgGDRw6ARtVhZyfYfhC8i2l7jW9X12F6p
-cjbiij+fOa8m5ZJvZ9pmRI9Gt9nEF+hoIPDjElffXKahvUlNAnjcnXagJusDqg+6y9EpI2qJM0GD
-leSL05Zt4i8S14eZOTjfBDogDsMR9m==
+<?php
+/////////////////////////////////////////////////////////////////
+/// getID3() by James Heinrich <info@getid3.org>               //
+//  available at http://getid3.sourceforge.net                 //
+//            or http://www.getid3.org                         //
+/////////////////////////////////////////////////////////////////
+// See readme.txt for more details                             //
+/////////////////////////////////////////////////////////////////
+///                                                            //
+// write.php                                                   //
+// module for writing tags (APEv2, ID3v1, ID3v2)               //
+// dependencies: getid3.lib.php                                //
+//               write.apetag.php (optional)                   //
+//               write.id3v1.php (optional)                    //
+//               write.id3v2.php (optional)                    //
+//               write.vorbiscomment.php (optional)            //
+//               write.metaflac.php (optional)                 //
+//               write.lyrics3.php (optional)                  //
+//                                                            ///
+/////////////////////////////////////////////////////////////////
+
+if (!defined('GETID3_INCLUDEPATH')) {
+	throw new Exception('getid3.php MUST be included before calling getid3_writetags');
+}
+if (!include_once(GETID3_INCLUDEPATH.'getid3.lib.php')) {
+	throw new Exception('write.php depends on getid3.lib.php, which is missing.');
+}
+
+
+// NOTES:
+//
+// You should pass data here with standard field names as follows:
+// * TITLE
+// * ARTIST
+// * ALBUM
+// * TRACKNUMBER
+// * COMMENT
+// * GENRE
+// * YEAR
+// * ATTACHED_PICTURE (ID3v2 only)
+//
+// http://www.personal.uni-jena.de/~pfk/mpp/sv8/apekey.html
+// The APEv2 Tag Items Keys definition says "TRACK" is correct but foobar2000 uses "TRACKNUMBER" instead
+// Pass data here as "TRACKNUMBER" for compatability with all formats
+
+
+class getid3_writetags
+{
+	// public
+	public $filename;                            // absolute filename of file to write tags to
+	public $tagformats         = array();        // array of tag formats to write ('id3v1', 'id3v2.2', 'id2v2.3', 'id3v2.4', 'ape', 'vorbiscomment', 'metaflac', 'real')
+	public $tag_data           = array(array()); // 2-dimensional array of tag data (ex: $data['ARTIST'][0] = 'Elvis')
+	public $tag_encoding       = 'ISO-8859-1';   // text encoding used for tag data ('ISO-8859-1', 'UTF-8', 'UTF-16', 'UTF-16LE', 'UTF-16BE', )
+	public $overwrite_tags     = true;          // if true will erase existing tag data and write only passed data; if false will merge passed data with existing tag data
+	public $remove_other_tags  = false;          // if true will erase remove all existing tags and only write those passed in $tagformats; if false will ignore any tags not mentioned in $tagformats
+
+	public $id3v2_tag_language = 'eng';          // ISO-639-2 3-character language code needed for some ID3v2 frames (http://www.id3.org/iso639-2.html)
+	public $id3v2_paddedlength = 4096;           // minimum length of ID3v2 tags (will be padded to this length if tag data is shorter)
+
+	public $warnings           = array();        // any non-critical errors will be stored here
+	public $errors             = array();        // any critical errors will be stored here
+
+	// private
+	private $ThisFileInfo; // analysis of file before writing
+
+	public function getid3_writetags() {
+		return true;
+	}
+
+
+	public function WriteTags() {
+
+		if (empty($this->filename)) {
+			$this->errors[] = 'filename is undefined in getid3_writetags';
+			return false;
+		} elseif (!file_exists($this->filename)) {
+			$this->errors[] = 'filename set to non-existant file "'.$this->filename.'" in getid3_writetags';
+			return false;
+		}
+
+		if (!is_array($this->tagformats)) {
+			$this->errors[] = 'tagformats must be an array in getid3_writetags';
+			return false;
+		}
+
+		$TagFormatsToRemove = array();
+		if (filesize($this->filename) == 0) {
+
+			// empty file special case - allow any tag format, don't check existing format
+			// could be useful if you want to generate tag data for a non-existant file
+			$this->ThisFileInfo = array('fileformat'=>'');
+			$AllowedTagFormats = array('id3v1', 'id3v2.2', 'id3v2.3', 'id3v2.4', 'ape', 'lyrics3');
+
+		} else {
+
+			$getID3 = new getID3;
+			$getID3->encoding = $this->tag_encoding;
+			$this->ThisFileInfo = $getID3->analyze($this->filename);
+
+			// check for what file types are allowed on this fileformat
+			switch (isset($this->ThisFileInfo['fileformat']) ? $this->ThisFileInfo['fileformat'] : '') {
+				case 'mp3':
+				case 'mp2':
+				case 'mp1':
+				case 'riff': // maybe not officially, but people do it anyway
+					$AllowedTagFormats = array('id3v1', 'id3v2.2', 'id3v2.3', 'id3v2.4', 'ape', 'lyrics3');
+					break;
+
+				case 'mpc':
+					$AllowedTagFormats = array('ape');
+					break;
+
+				case 'flac':
+					$AllowedTagFormats = array('metaflac');
+					break;
+
+				case 'real':
+					$AllowedTagFormats = array('real');
+					break;
+
+				case 'ogg':
+					switch (isset($this->ThisFileInfo['audio']['dataformat']) ? $this->ThisFileInfo['audio']['dataformat'] : '') {
+						case 'flac':
+							//$AllowedTagFormats = array('metaflac');
+							$this->errors[] = 'metaflac is not (yet) compatible with OggFLAC files';
+							return false;
+							break;
+						case 'vorbis':
+							$AllowedTagFormats = array('vorbiscomment');
+							break;
+						default:
+							$this->errors[] = 'metaflac is not (yet) compatible with Ogg files other than OggVorbis';
+							return false;
+							break;
+					}
+					break;
+
+				default:
+					$AllowedTagFormats = array();
+					break;
+			}
+			foreach ($this->tagformats as $requested_tag_format) {
+				if (!in_array($requested_tag_format, $AllowedTagFormats)) {
+					$errormessage = 'Tag format "'.$requested_tag_format.'" is not allowed on "'.(isset($this->ThisFileInfo['fileformat']) ? $this->ThisFileInfo['fileformat'] : '');
+					$errormessage .= (isset($this->ThisFileInfo['audio']['dataformat']) ? '.'.$this->ThisFileInfo['audio']['dataformat'] : '');
+					$errormessage .= '" files';
+					$this->errors[] = $errormessage;
+					return false;
+				}
+			}
+
+			// List of other tag formats, removed if requested
+			if ($this->remove_other_tags) {
+				foreach ($AllowedTagFormats as $AllowedTagFormat) {
+					switch ($AllowedTagFormat) {
+						case 'id3v2.2':
+						case 'id3v2.3':
+						case 'id3v2.4':
+							if (!in_array('id3v2', $TagFormatsToRemove) && !in_array('id3v2.2', $this->tagformats) && !in_array('id3v2.3', $this->tagformats) && !in_array('id3v2.4', $this->tagformats)) {
+								$TagFormatsToRemove[] = 'id3v2';
+							}
+							break;
+
+						default:
+							if (!in_array($AllowedTagFormat, $this->tagformats)) {
+								$TagFormatsToRemove[] = $AllowedTagFormat;
+							}
+							break;
+					}
+				}
+			}
+		}
+
+		$WritingFilesToInclude = array_merge($this->tagformats, $TagFormatsToRemove);
+
+		// Check for required include files and include them
+		foreach ($WritingFilesToInclude as $tagformat) {
+			switch ($tagformat) {
+				case 'ape':
+					$GETID3_ERRORARRAY = &$this->errors;
+					if (!getid3_lib::IncludeDependency(GETID3_INCLUDEPATH.'write.apetag.php', __FILE__, false)) {
+						return false;
+					}
+					break;
+
+				case 'id3v1':
+				case 'lyrics3':
+				case 'vorbiscomment':
+				case 'metaflac':
+				case 'real':
+					$GETID3_ERRORARRAY = &$this->errors;
+					if (!getid3_lib::IncludeDependency(GETID3_INCLUDEPATH.'write.'.$tagformat.'.php', __FILE__, false)) {
+						return false;
+					}
+					break;
+
+				case 'id3v2.2':
+				case 'id3v2.3':
+				case 'id3v2.4':
+				case 'id3v2':
+					$GETID3_ERRORARRAY = &$this->errors;
+					if (!getid3_lib::IncludeDependency(GETID3_INCLUDEPATH.'write.id3v2.php', __FILE__, false)) {
+						return false;
+					}
+					break;
+
+				default:
+					$this->errors[] = 'unknown tag format "'.$tagformat.'" in $tagformats in WriteTags()';
+					return false;
+					break;
+			}
+
+		}
+
+		// Validation of supplied data
+		if (!is_array($this->tag_data)) {
+			$this->errors[] = '$this->tag_data is not an array in WriteTags()';
+			return false;
+		}
+		// convert supplied data array keys to upper case, if they're not already
+		foreach ($this->tag_data as $tag_key => $tag_array) {
+			if (strtoupper($tag_key) !== $tag_key) {
+				$this->tag_data[strtoupper($tag_key)] = $this->tag_data[$tag_key];
+				unset($this->tag_data[$tag_key]);
+			}
+		}
+		// convert source data array keys to upper case, if they're not already
+		if (!empty($this->ThisFileInfo['tags'])) {
+			foreach ($this->ThisFileInfo['tags'] as $tag_format => $tag_data_array) {
+				foreach ($tag_data_array as $tag_key => $tag_array) {
+					if (strtoupper($tag_key) !== $tag_key) {
+						$this->ThisFileInfo['tags'][$tag_format][strtoupper($tag_key)] = $this->ThisFileInfo['tags'][$tag_format][$tag_key];
+						unset($this->ThisFileInfo['tags'][$tag_format][$tag_key]);
+					}
+				}
+			}
+		}
+
+		// Convert "TRACK" to "TRACKNUMBER" (if needed) for compatability with all formats
+		if (isset($this->tag_data['TRACK']) && !isset($this->tag_data['TRACKNUMBER'])) {
+			$this->tag_data['TRACKNUMBER'] = $this->tag_data['TRACK'];
+			unset($this->tag_data['TRACK']);
+		}
+
+		// Remove all other tag formats, if requested
+		if ($this->remove_other_tags) {
+			$this->DeleteTags($TagFormatsToRemove);
+		}
+
+		// Write data for each tag format
+		foreach ($this->tagformats as $tagformat) {
+			$success = false; // overridden if tag writing is successful
+			switch ($tagformat) {
+				case 'ape':
+					$ape_writer = new getid3_write_apetag;
+					if (($ape_writer->tag_data = $this->FormatDataForAPE()) !== false) {
+						$ape_writer->filename = $this->filename;
+						if (($success = $ape_writer->WriteAPEtag()) === false) {
+							$this->errors[] = 'WriteAPEtag() failed with message(s):<pre><ul><li>'.str_replace("\n", '</li><li>', htmlentities(trim(implode("\n", $ape_writer->errors)))).'</li></ul></pre>';
+						}
+					} else {
+						$this->errors[] = 'FormatDataForAPE() failed';
+					}
+					break;
+
+				case 'id3v1':
+					$id3v1_writer = new getid3_write_id3v1;
+					if (($id3v1_writer->tag_data = $this->FormatDataForID3v1()) !== false) {
+						$id3v1_writer->filename = $this->filename;
+						if (($success = $id3v1_writer->WriteID3v1()) === false) {
+							$this->errors[] = 'WriteID3v1() failed with message(s):<pre><ul><li>'.str_replace("\n", '</li><li>', htmlentities(trim(implode("\n", $id3v1_writer->errors)))).'</li></ul></pre>';
+						}
+					} else {
+						$this->errors[] = 'FormatDataForID3v1() failed';
+					}
+					break;
+
+				case 'id3v2.2':
+				case 'id3v2.3':
+				case 'id3v2.4':
+					$id3v2_writer = new getid3_write_id3v2;
+					$id3v2_writer->majorversion = intval(substr($tagformat, -1));
+					$id3v2_writer->paddedlength = $this->id3v2_paddedlength;
+					if (($id3v2_writer->tag_data = $this->FormatDataForID3v2($id3v2_writer->majorversion)) !== false) {
+						$id3v2_writer->filename = $this->filename;
+						if (($success = $id3v2_writer->WriteID3v2()) === false) {
+							$this->errors[] = 'WriteID3v2() failed with message(s):<pre><ul><li>'.str_replace("\n", '</li><li>', htmlentities(trim(implode("\n", $id3v2_writer->errors)))).'</li></ul></pre>';
+						}
+					} else {
+						$this->errors[] = 'FormatDataForID3v2() failed';
+					}
+					break;
+
+				case 'vorbiscomment':
+					$vorbiscomment_writer = new getid3_write_vorbiscomment;
+					if (($vorbiscomment_writer->tag_data = $this->FormatDataForVorbisComment()) !== false) {
+						$vorbiscomment_writer->filename = $this->filename;
+						if (($success = $vorbiscomment_writer->WriteVorbisComment()) === false) {
+							$this->errors[] = 'WriteVorbisComment() failed with message(s):<pre><ul><li>'.str_replace("\n", '</li><li>', htmlentities(trim(implode("\n", $vorbiscomment_writer->errors)))).'</li></ul></pre>';
+						}
+					} else {
+						$this->errors[] = 'FormatDataForVorbisComment() failed';
+					}
+					break;
+
+				case 'metaflac':
+					$metaflac_writer = new getid3_write_metaflac;
+					if (($metaflac_writer->tag_data = $this->FormatDataForMetaFLAC()) !== false) {
+						$metaflac_writer->filename = $this->filename;
+						if (($success = $metaflac_writer->WriteMetaFLAC()) === false) {
+							$this->errors[] = 'WriteMetaFLAC() failed with message(s):<pre><ul><li>'.str_replace("\n", '</li><li>', htmlentities(trim(implode("\n", $metaflac_writer->errors)))).'</li></ul></pre>';
+						}
+					} else {
+						$this->errors[] = 'FormatDataForMetaFLAC() failed';
+					}
+					break;
+
+				case 'real':
+					$real_writer = new getid3_write_real;
+					if (($real_writer->tag_data = $this->FormatDataForReal()) !== false) {
+						$real_writer->filename = $this->filename;
+						if (($success = $real_writer->WriteReal()) === false) {
+							$this->errors[] = 'WriteReal() failed with message(s):<pre><ul><li>'.str_replace("\n", '</li><li>', htmlentities(trim(implode("\n", $real_writer->errors)))).'</li></ul></pre>';
+						}
+					} else {
+						$this->errors[] = 'FormatDataForReal() failed';
+					}
+					break;
+
+				default:
+					$this->errors[] = 'Invalid tag format to write: "'.$tagformat.'"';
+					return false;
+					break;
+			}
+			if (!$success) {
+				return false;
+			}
+		}
+		return true;
+
+	}
+
+
+	public function DeleteTags($TagFormatsToDelete) {
+		foreach ($TagFormatsToDelete as $DeleteTagFormat) {
+			$success = false; // overridden if tag deletion is successful
+			switch ($DeleteTagFormat) {
+				case 'id3v1':
+					$id3v1_writer = new getid3_write_id3v1;
+					$id3v1_writer->filename = $this->filename;
+					if (($success = $id3v1_writer->RemoveID3v1()) === false) {
+						$this->errors[] = 'RemoveID3v1() failed with message(s):<PRE><UL><LI>'.trim(implode('</LI><LI>', $id3v1_writer->errors)).'</LI></UL></PRE>';
+					}
+					break;
+
+				case 'id3v2':
+					$id3v2_writer = new getid3_write_id3v2;
+					$id3v2_writer->filename = $this->filename;
+					if (($success = $id3v2_writer->RemoveID3v2()) === false) {
+						$this->errors[] = 'RemoveID3v2() failed with message(s):<PRE><UL><LI>'.trim(implode('</LI><LI>', $id3v2_writer->errors)).'</LI></UL></PRE>';
+					}
+					break;
+
+				case 'ape':
+					$ape_writer = new getid3_write_apetag;
+					$ape_writer->filename = $this->filename;
+					if (($success = $ape_writer->DeleteAPEtag()) === false) {
+						$this->errors[] = 'DeleteAPEtag() failed with message(s):<PRE><UL><LI>'.trim(implode('</LI><LI>', $ape_writer->errors)).'</LI></UL></PRE>';
+					}
+					break;
+
+				case 'vorbiscomment':
+					$vorbiscomment_writer = new getid3_write_vorbiscomment;
+					$vorbiscomment_writer->filename = $this->filename;
+					if (($success = $vorbiscomment_writer->DeleteVorbisComment()) === false) {
+						$this->errors[] = 'DeleteVorbisComment() failed with message(s):<PRE><UL><LI>'.trim(implode('</LI><LI>', $vorbiscomment_writer->errors)).'</LI></UL></PRE>';
+					}
+					break;
+
+				case 'metaflac':
+					$metaflac_writer = new getid3_write_metaflac;
+					$metaflac_writer->filename = $this->filename;
+					if (($success = $metaflac_writer->DeleteMetaFLAC()) === false) {
+						$this->errors[] = 'DeleteMetaFLAC() failed with message(s):<PRE><UL><LI>'.trim(implode('</LI><LI>', $metaflac_writer->errors)).'</LI></UL></PRE>';
+					}
+					break;
+
+				case 'lyrics3':
+					$lyrics3_writer = new getid3_write_lyrics3;
+					$lyrics3_writer->filename = $this->filename;
+					if (($success = $lyrics3_writer->DeleteLyrics3()) === false) {
+						$this->errors[] = 'DeleteLyrics3() failed with message(s):<PRE><UL><LI>'.trim(implode('</LI><LI>', $lyrics3_writer->errors)).'</LI></UL></PRE>';
+					}
+					break;
+
+				case 'real':
+					$real_writer = new getid3_write_real;
+					$real_writer->filename = $this->filename;
+					if (($success = $real_writer->RemoveReal()) === false) {
+						$this->errors[] = 'RemoveReal() failed with message(s):<PRE><UL><LI>'.trim(implode('</LI><LI>', $real_writer->errors)).'</LI></UL></PRE>';
+					}
+					break;
+
+				default:
+					$this->errors[] = 'Invalid tag format to delete: "'.$tagformat.'"';
+					return false;
+					break;
+			}
+			if (!$success) {
+				return false;
+			}
+		}
+		return true;
+	}
+
+
+	public function MergeExistingTagData($TagFormat, &$tag_data) {
+		// Merge supplied data with existing data, if requested
+		if ($this->overwrite_tags) {
+			// do nothing - ignore previous data
+		} else {
+throw new Exception('$this->overwrite_tags=false is known to be buggy in this version of getID3. Will be fixed in the near future, check www.getid3.org for a newer version.');
+			if (!isset($this->ThisFileInfo['tags'][$TagFormat])) {
+				return false;
+			}
+			$tag_data = array_merge_recursive($tag_data, $this->ThisFileInfo['tags'][$TagFormat]);
+		}
+		return true;
+	}
+
+	public function FormatDataForAPE() {
+		$ape_tag_data = array();
+		foreach ($this->tag_data as $tag_key => $valuearray) {
+			switch ($tag_key) {
+				case 'ATTACHED_PICTURE':
+					// ATTACHED_PICTURE is ID3v2 only - ignore
+					$this->warnings[] = '$data['.$tag_key.'] is assumed to be ID3v2 APIC data - NOT written to APE tag';
+					break;
+
+				default:
+					foreach ($valuearray as $key => $value) {
+						if (is_string($value) || is_numeric($value)) {
+							$ape_tag_data[$tag_key][$key] = getid3_lib::iconv_fallback($this->tag_encoding, 'UTF-8', $value);
+						} else {
+							$this->warnings[] = '$data['.$tag_key.']['.$key.'] is not a string value - all of $data['.$tag_key.'] NOT written to APE tag';
+							unset($ape_tag_data[$tag_key]);
+							break;
+						}
+					}
+					break;
+			}
+		}
+		$this->MergeExistingTagData('ape', $ape_tag_data);
+		return $ape_tag_data;
+	}
+
+
+	public function FormatDataForID3v1() {
+		$tag_data_id3v1['genreid'] = 255;
+		if (!empty($this->tag_data['GENRE'])) {
+			foreach ($this->tag_data['GENRE'] as $key => $value) {
+				if (getid3_id3v1::LookupGenreID($value) !== false) {
+					$tag_data_id3v1['genreid'] = getid3_id3v1::LookupGenreID($value);
+					break;
+				}
+			}
+		}
+		$tag_data_id3v1['title']   =        getid3_lib::iconv_fallback($this->tag_encoding, 'ISO-8859-1', implode(' ', (isset($this->tag_data['TITLE']      ) ? $this->tag_data['TITLE']       : array())));
+		$tag_data_id3v1['artist']  =        getid3_lib::iconv_fallback($this->tag_encoding, 'ISO-8859-1', implode(' ', (isset($this->tag_data['ARTIST']     ) ? $this->tag_data['ARTIST']      : array())));
+		$tag_data_id3v1['album']   =        getid3_lib::iconv_fallback($this->tag_encoding, 'ISO-8859-1', implode(' ', (isset($this->tag_data['ALBUM']      ) ? $this->tag_data['ALBUM']       : array())));
+		$tag_data_id3v1['year']    =        getid3_lib::iconv_fallback($this->tag_encoding, 'ISO-8859-1', implode(' ', (isset($this->tag_data['YEAR']       ) ? $this->tag_data['YEAR']        : array())));
+		$tag_data_id3v1['comment'] =        getid3_lib::iconv_fallback($this->tag_encoding, 'ISO-8859-1', implode(' ', (isset($this->tag_data['COMMENT']    ) ? $this->tag_data['COMMENT']     : array())));
+		$tag_data_id3v1['track']   = intval(getid3_lib::iconv_fallback($this->tag_encoding, 'ISO-8859-1', implode(' ', (isset($this->tag_data['TRACKNUMBER']) ? $this->tag_data['TRACKNUMBER'] : array()))));
+		if ($tag_data_id3v1['track'] <= 0) {
+			$tag_data_id3v1['track'] = '';
+		}
+
+		$this->MergeExistingTagData('id3v1', $tag_data_id3v1);
+		return $tag_data_id3v1;
+	}
+
+	public function FormatDataForID3v2($id3v2_majorversion) {
+		$tag_data_id3v2 = array();
+
+		$ID3v2_text_encoding_lookup[2] = array('ISO-8859-1'=>0, 'UTF-16'=>1);
+		$ID3v2_text_encoding_lookup[3] = array('ISO-8859-1'=>0, 'UTF-16'=>1);
+		$ID3v2_text_encoding_lookup[4] = array('ISO-8859-1'=>0, 'UTF-16'=>1, 'UTF-16BE'=>2, 'UTF-8'=>3);
+		foreach ($this->tag_data as $tag_key => $valuearray) {
+			$ID3v2_framename = getid3_write_id3v2::ID3v2ShortFrameNameLookup($id3v2_majorversion, $tag_key);
+			switch ($ID3v2_framename) {
+				case 'APIC':
+					foreach ($valuearray as $key => $apic_data_array) {
+						if (isset($apic_data_array['data']) &&
+							isset($apic_data_array['picturetypeid']) &&
+							isset($apic_data_array['description']) &&
+							isset($apic_data_array['mime'])) {
+								$tag_data_id3v2['APIC'][] = $apic_data_array;
+						} else {
+							$this->errors[] = 'ID3v2 APIC data is not properly structured';
+							return false;
+						}
+					}
+					break;
+
+				case '':
+					$this->errors[] = 'ID3v2: Skipping "'.$tag_key.'" because cannot match it to a known ID3v2 frame type';
+					// some other data type, don't know how to handle it, ignore it
+					break;
+
+				default:
+					// most other (text) frames can be copied over as-is
+					foreach ($valuearray as $key => $value) {
+						if (isset($ID3v2_text_encoding_lookup[$id3v2_majorversion][$this->tag_encoding])) {
+							// source encoding is valid in ID3v2 - use it with no conversion
+							$tag_data_id3v2[$ID3v2_framename][$key]['encodingid'] = $ID3v2_text_encoding_lookup[$id3v2_majorversion][$this->tag_encoding];
+							$tag_data_id3v2[$ID3v2_framename][$key]['data']       = $value;
+						} else {
+							// source encoding is NOT valid in ID3v2 - convert it to an ID3v2-valid encoding first
+							if ($id3v2_majorversion < 4) {
+								// convert data from other encoding to UTF-16 (with BOM)
+								// note: some software, notably Windows Media Player and iTunes are broken and treat files tagged with UTF-16BE (with BOM) as corrupt
+								// therefore we force data to UTF-16LE and manually prepend the BOM
+								$ID3v2_tag_data_converted = false;
+								if (!$ID3v2_tag_data_converted && ($this->tag_encoding == 'ISO-8859-1')) {
+									// great, leave data as-is for minimum compatability problems
+									$tag_data_id3v2[$ID3v2_framename][$key]['encodingid'] = 0;
+									$tag_data_id3v2[$ID3v2_framename][$key]['data']       = $value;
+									$ID3v2_tag_data_converted = true;
+								}
+								if (!$ID3v2_tag_data_converted && ($this->tag_encoding == 'UTF-8')) {
+									do {
+										// if UTF-8 string does not include any characters above chr(127) then it is identical to ISO-8859-1
+										for ($i = 0; $i < strlen($value); $i++) {
+											if (ord($value{$i}) > 127) {
+												break 2;
+											}
+										}
+										$tag_data_id3v2[$ID3v2_framename][$key]['encodingid'] = 0;
+										$tag_data_id3v2[$ID3v2_framename][$key]['data']       = $value;
+										$ID3v2_tag_data_converted = true;
+									} while (false);
+								}
+								if (!$ID3v2_tag_data_converted) {
+									$tag_data_id3v2[$ID3v2_framename][$key]['encodingid'] = 1;
+									//$tag_data_id3v2[$ID3v2_framename][$key]['data']       = getid3_lib::iconv_fallback($this->tag_encoding, 'UTF-16', $value); // output is UTF-16LE+BOM or UTF-16BE+BOM depending on system architecture
+									$tag_data_id3v2[$ID3v2_framename][$key]['data']       = "\xFF\xFE".getid3_lib::iconv_fallback($this->tag_encoding, 'UTF-16LE', $value); // force LittleEndian order version of UTF-16
+									$ID3v2_tag_data_converted = true;
+								}
+
+							} else {
+								// convert data from other encoding to UTF-8
+								$tag_data_id3v2[$ID3v2_framename][$key]['encodingid'] = 3;
+								$tag_data_id3v2[$ID3v2_framename][$key]['data']       = getid3_lib::iconv_fallback($this->tag_encoding, 'UTF-8', $value);
+							}
+						}
+
+						// These values are not needed for all frame types, but if they're not used no matter
+						$tag_data_id3v2[$ID3v2_framename][$key]['description'] = '';
+						$tag_data_id3v2[$ID3v2_framename][$key]['language']    = $this->id3v2_tag_language;
+					}
+					break;
+			}
+		}
+		$this->MergeExistingTagData('id3v2', $tag_data_id3v2);
+		return $tag_data_id3v2;
+	}
+
+	public function FormatDataForVorbisComment() {
+		$tag_data_vorbiscomment = $this->tag_data;
+
+		// check for multi-line comment values - split out to multiple comments if neccesary
+		// and convert data to UTF-8 strings
+		foreach ($tag_data_vorbiscomment as $tag_key => $valuearray) {
+			foreach ($valuearray as $key => $value) {
+				str_replace("\r", "\n", $value);
+				if (strstr($value, "\n")) {
+					unset($tag_data_vorbiscomment[$tag_key][$key]);
+					$multilineexploded = explode("\n", $value);
+					foreach ($multilineexploded as $newcomment) {
+						if (strlen(trim($newcomment)) > 0) {
+							$tag_data_vorbiscomment[$tag_key][] = getid3_lib::iconv_fallback($this->tag_encoding, 'UTF-8', $newcomment);
+						}
+					}
+				} elseif (is_string($value) || is_numeric($value)) {
+					$tag_data_vorbiscomment[$tag_key][$key] = getid3_lib::iconv_fallback($this->tag_encoding, 'UTF-8', $value);
+				} else {
+					$this->warnings[] = '$data['.$tag_key.']['.$key.'] is not a string value - all of $data['.$tag_key.'] NOT written to VorbisComment tag';
+					unset($tag_data_vorbiscomment[$tag_key]);
+					break;
+				}
+			}
+		}
+		$this->MergeExistingTagData('vorbiscomment', $tag_data_vorbiscomment);
+		return $tag_data_vorbiscomment;
+	}
+
+	public function FormatDataForMetaFLAC() {
+		// FLAC & OggFLAC use VorbisComments same as OggVorbis
+		// but require metaflac to do the writing rather than vorbiscomment
+		return $this->FormatDataForVorbisComment();
+	}
+
+	public function FormatDataForReal() {
+		$tag_data_real['title']     = getid3_lib::iconv_fallback($this->tag_encoding, 'ISO-8859-1', implode(' ', (isset($this->tag_data['TITLE']    ) ? $this->tag_data['TITLE']     : array())));
+		$tag_data_real['artist']    = getid3_lib::iconv_fallback($this->tag_encoding, 'ISO-8859-1', implode(' ', (isset($this->tag_data['ARTIST']   ) ? $this->tag_data['ARTIST']    : array())));
+		$tag_data_real['copyright'] = getid3_lib::iconv_fallback($this->tag_encoding, 'ISO-8859-1', implode(' ', (isset($this->tag_data['COPYRIGHT']) ? $this->tag_data['COPYRIGHT'] : array())));
+		$tag_data_real['comment']   = getid3_lib::iconv_fallback($this->tag_encoding, 'ISO-8859-1', implode(' ', (isset($this->tag_data['COMMENT']  ) ? $this->tag_data['COMMENT']   : array())));
+
+		$this->MergeExistingTagData('real', $tag_data_real);
+		return $tag_data_real;
+	}
+
+}

@@ -1,31 +1,37 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
+<?php
+/////////////////////////////////////////////////////////////////
+/// getID3() by James Heinrich <info@getid3.org>               //
+//  available at http://getid3.sourceforge.net                 //
+//            or http://www.getid3.org                         //
+/////////////////////////////////////////////////////////////////
+// See readme.txt for more details                             //
+/////////////////////////////////////////////////////////////////
+//                                                             //
+// module.misc.msoffice.php                                    //
+// module for analyzing MS Office (.doc, .xls, etc) files      //
+// dependencies: NONE                                          //
+//                                                            ///
+/////////////////////////////////////////////////////////////////
+
+
+class getid3_msoffice extends getid3_handler
+{
+
+	public function Analyze() {
+		$info = &$this->getid3->info;
+
+		fseek($this->getid3->fp, $info['avdataoffset'], SEEK_SET);
+		$DOCFILEheader = fread($this->getid3->fp, 8);
+		$magic = "\xD0\xCF\x11\xE0\xA1\xB1\x1A\xE1";
+		if (substr($DOCFILEheader, 0, 8) != $magic) {
+			$info['error'][] = 'Expecting "'.getid3_lib::PrintHexBytes($magic).'" at '.$info['avdataoffset'].', found '.getid3_lib::PrintHexBytes(substr($DOCFILEheader, 0, 8)).' instead.';
+			return false;
+		}
+		$info['fileformat'] = 'msoffice';
+
+$info['error'][] = 'MS Office (.doc, .xls, etc) parsing not enabled in this version of getID3() ['.$this->getid3->version().']';
+return false;
+
+	}
+
+}

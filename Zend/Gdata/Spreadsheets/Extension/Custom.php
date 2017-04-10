@@ -1,33 +1,100 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
-N/lQntjv0lmYgSJFXuK=
+<?php
+/**
+ * Zend Framework
+ *
+ * LICENSE
+ *
+ * This source file is subject to the new BSD license that is bundled
+ * with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://framework.zend.com/license/new-bsd
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@zend.com so we can send you a copy immediately.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Spreadsheets
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ * @version    $Id: Custom.php 16971 2009-07-22 18:05:45Z mikaelkael $
+ */
+
+/**
+ * @see Zend_Gdata_Entry
+ */
+require_once 'Zend/Gdata/Entry.php';
+
+/**
+ * @see Zend_Gdata_Extension
+ */
+require_once 'Zend/Gdata/Extension.php';
+
+
+/**
+ * Concrete class for working with custom gsx elements.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Spreadsheets
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+class Zend_Gdata_Spreadsheets_Extension_Custom extends Zend_Gdata_Extension
+{
+    // custom elements have custom names.
+    protected $_rootElement = null; // The name of the column
+    protected $_rootNamespace = 'gsx';
+
+    /**
+     * Constructs a new Zend_Gdata_Spreadsheets_Extension_Custom object.
+     * @param string $column (optional) The column/tag name of the element.
+     * @param string $value (optional) The text content of the element.
+     */
+    public function __construct($column = null, $value = null)
+    {
+        $this->registerAllNamespaces(Zend_Gdata_Spreadsheets::$namespaces);
+        parent::__construct();
+        $this->_text = $value;
+        $this->_rootElement = $column;
+    }
+
+    public function getDOM($doc = null, $majorVersion = 1, $minorVersion = null)
+    {
+        $element = parent::getDOM($doc, $majorVersion, $minorVersion);
+        return $element;
+    }
+
+    /**
+     * Transfers each child and attribute into member variables.
+     * This is called when XML is received over the wire and the data
+     * model needs to be built to represent this XML.
+     *
+     * @param DOMNode $node The DOMNode that represents this object's data
+     */
+    public function transferFromDOM($node)
+    {
+        parent::transferFromDOM($node);
+        $this->_rootElement = $node->localName;
+    }
+
+    /**
+     * Sets the column/tag name of the element.
+     * @param string $column The new column name.
+     */
+    public function setColumnName($column)
+    {
+        $this->_rootElement = $column;
+        return $this;
+    }
+
+    /**
+     * Gets the column name of the element
+     * @return string The column name.
+     */
+    public function getColumnName()
+    {
+        return $this->_rootElement;
+    }
+
+}

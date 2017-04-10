@@ -1,69 +1,211 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
-gVG=
+<?php
+/**
+ * Zend Framework
+ *
+ * LICENSE
+ *
+ * This source file is subject to the new BSD license that is bundled
+ * with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://framework.zend.com/license/new-bsd
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@zend.com so we can send you a copy immediately.
+ *
+ * @category   Zend
+ * @package    Zend_Http
+ * @subpackage Client_Adapter
+ * @version    $Id: Test.php 17869 2009-08-28 10:37:13Z cogo $
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+
+/**
+ * @see Zend_Uri_Http
+ */
+require_once 'Zend/Uri/Http.php';
+/**
+ * @see Zend_Http_Response
+ */
+require_once 'Zend/Http/Response.php';
+/**
+ * @see Zend_Http_Client_Adapter_Interface
+ */
+require_once 'Zend/Http/Client/Adapter/Interface.php';
+
+/**
+ * A testing-purposes adapter.
+ *
+ * Should be used to test all components that rely on Zend_Http_Client,
+ * without actually performing an HTTP request. You should instantiate this
+ * object manually, and then set it as the client's adapter. Then, you can
+ * set the expected response using the setResponse() method.
+ *
+ * @category   Zend
+ * @package    Zend_Http
+ * @subpackage Client_Adapter
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+class Zend_Http_Client_Adapter_Test implements Zend_Http_Client_Adapter_Interface
+{
+    /**
+     * Parameters array
+     *
+     * @var array
+     */
+    protected $config = array();
+
+    /**
+     * Buffer of responses to be returned by the read() method.  Can be
+     * set using setResponse() and addResponse().
+     *
+     * @var array
+     */
+    protected $responses = array("HTTP/1.1 400 Bad Request\r\n\r\n");
+
+    /**
+     * Current position in the response buffer
+     *
+     * @var integer
+     */
+    protected $responseIndex = 0;
+
+    /**
+     * Adapter constructor, currently empty. Config is set using setConfig()
+     *
+     */
+    public function __construct()
+    { }
+
+    /**
+     * Set the configuration array for the adapter
+     *
+     * @param Zend_Config | array $config
+     */
+    public function setConfig($config = array())
+    {
+        if ($config instanceof Zend_Config) {
+            $config = $config->toArray();
+
+        } elseif (! is_array($config)) {
+            require_once 'Zend/Http/Client/Adapter/Exception.php';
+            throw new Zend_Http_Client_Adapter_Exception(
+                'Array or Zend_Config object expected, got ' . gettype($config)
+            );
+        }
+
+        foreach ($config as $k => $v) {
+            $this->config[strtolower($k)] = $v;
+        }
+    }
+
+
+    /**
+     * Connect to the remote server
+     *
+     * @param string  $host
+     * @param int     $port
+     * @param boolean $secure
+     * @param int     $timeout
+     */
+    public function connect($host, $port = 80, $secure = false)
+    { }
+
+    /**
+     * Send request to the remote server
+     *
+     * @param string        $method
+     * @param Zend_Uri_Http $uri
+     * @param string        $http_ver
+     * @param array         $headers
+     * @param string        $body
+     * @return string Request as string
+     */
+    public function write($method, $uri, $http_ver = '1.1', $headers = array(), $body = '')
+    {
+        $host = $uri->getHost();
+            $host = (strtolower($uri->getScheme()) == 'https' ? 'sslv2://' . $host : $host);
+
+        // Build request headers
+        $path = $uri->getPath();
+        if ($uri->getQuery()) $path .= '?' . $uri->getQuery();
+        $request = "{$method} {$path} HTTP/{$http_ver}\r\n";
+        foreach ($headers as $k => $v) {
+            if (is_string($k)) $v = ucfirst($k) . ": $v";
+            $request .= "$v\r\n";
+        }
+
+        // Add the request body
+        $request .= "\r\n" . $body;
+
+        // Do nothing - just return the request as string
+
+        return $request;
+    }
+
+    /**
+     * Return the response set in $this->setResponse()
+     *
+     * @return string
+     */
+    public function read()
+    {
+        if ($this->responseIndex >= count($this->responses)) {
+            $this->responseIndex = 0;
+        }
+        return $this->responses[$this->responseIndex++];
+    }
+
+    /**
+     * Close the connection (dummy)
+     *
+     */
+    public function close()
+    { }
+
+    /**
+     * Set the HTTP response(s) to be returned by this adapter
+     *
+     * @param Zend_Http_Response|array|string $response
+     */
+    public function setResponse($response)
+    {
+        if ($response instanceof Zend_Http_Response) {
+            $response = $response->asString("\r\n");
+        }
+
+        $this->responses = (array)$response;
+        $this->responseIndex = 0;
+    }
+
+    /**
+     * Add another response to the response buffer.
+     *
+     * @param string Zend_Http_Response|$response
+     */
+    public function addResponse($response)
+    {
+         if ($response instanceof Zend_Http_Response) {
+            $response = $response->asString("\r\n");
+        }
+
+        $this->responses[] = $response;
+    }
+
+    /**
+     * Sets the position of the response buffer.  Selects which
+     * response will be returned on the next call to read().
+     *
+     * @param integer $index
+     */
+    public function setResponseIndex($index)
+    {
+        if ($index < 0 || $index >= count($this->responses)) {
+            require_once 'Zend/Http/Client/Adapter/Exception.php';
+            throw new Zend_Http_Client_Adapter_Exception(
+                'Index out of range of response buffer size');
+        }
+        $this->responseIndex = $index;
+    }
+}

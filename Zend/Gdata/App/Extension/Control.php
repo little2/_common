@@ -1,40 +1,98 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
+<?php
+
+/**
+ * Zend Framework
+ *
+ * LICENSE
+ *
+ * This source file is subject to the new BSD license that is bundled
+ * with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://framework.zend.com/license/new-bsd
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@zend.com so we can send you a copy immediately.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage App
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ * @version    $Id: Control.php 16971 2009-07-22 18:05:45Z mikaelkael $
+ */
+
+/**
+ * @see Zend_Gdata_App_Extension
+ */
+require_once 'Zend/Gdata/App/Extension.php';
+
+/**
+ * @see Zend_Gdata_App_Extension_Draft
+ */
+require_once 'Zend/Gdata/App/Extension/Draft.php';
+
+/**
+ * Represents the app:control element
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage App
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+class Zend_Gdata_App_Extension_Control extends Zend_Gdata_App_Extension
+{
+
+    protected $_rootNamespace = 'app';
+    protected $_rootElement = 'control';
+    protected $_draft = null;
+
+    public function __construct($draft = null)
+    {
+        parent::__construct();
+        $this->_draft = $draft;
+    }
+
+    public function getDOM($doc = null, $majorVersion = 1, $minorVersion = null)
+    {
+        $element = parent::getDOM($doc, $majorVersion, $minorVersion);
+        if ($this->_draft != null) {
+            $element->appendChild($this->_draft->getDOM($element->ownerDocument));
+        }
+        return $element;
+    }
+
+    protected function takeChildFromDOM($child)
+    {
+        $absoluteNodeName = $child->namespaceURI . ':' . $child->localName;
+        switch ($absoluteNodeName) {
+        case $this->lookupNamespace('app') . ':' . 'draft':
+            $draft = new Zend_Gdata_App_Extension_Draft();
+            $draft->transferFromDOM($child);
+            $this->_draft = $draft;
+            break;
+        default:
+            parent::takeChildFromDOM($child);
+            break;
+        }
+    }
+
+    /**
+     * @return Zend_Gdata_App_Extension_Draft
+     */
+    public function getDraft()
+    {
+        return $this->_draft;
+    }
+
+    /**
+     * @param Zend_Gdata_App_Extension_Draft $value
+     * @return Zend_Gdata_App_Entry Provides a fluent interface
+     */
+    public function setDraft($value)
+    {
+        $this->_draft = $value;
+        return $this;
+    }
+
+}

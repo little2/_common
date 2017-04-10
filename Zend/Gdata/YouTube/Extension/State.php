@@ -1,53 +1,193 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
+<?php
+
+/**
+ * Zend Framework
+ *
+ * LICENSE
+ *
+ * This source file is subject to the new BSD license that is bundled
+ * with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://framework.zend.com/license/new-bsd
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@zend.com so we can send you a copy immediately.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage YouTube
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ * @version    $Id: State.php 16971 2009-07-22 18:05:45Z mikaelkael $
+ */
+
+/**
+ * @see Zend_Gdata_Extension
+ */
+require_once 'Zend/Gdata/Extension.php';
+
+/**
+ * Represents the yt:state element used by the YouTube data API
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage YouTube
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+class Zend_Gdata_YouTube_Extension_State extends Zend_Gdata_Extension
+{
+
+    protected $_rootNamespace = 'yt';
+    protected $_rootElement = 'state';
+    protected $_name = null;
+    protected $_reasonCode = null;
+    protected $_helpUrl = null;
+
+    /**
+     * Constructs a new Zend_Gdata_YouTube_Extension_State object.
+     *
+     * @param string $explanation(optional) The explanation of this state
+     * @param string $name(optional) The name value
+     * @param string $reasonCode(optional) The reasonCode value
+     * @param string $helpUrl(optional) The helpUrl value
+     */
+    public function __construct($explanation = null, $name = null,
+                                $reasonCode = null, $helpUrl = null)
+    {
+        $this->registerAllNamespaces(Zend_Gdata_YouTube::$namespaces);
+        parent::__construct();
+        $this->_text = $explanation;
+        $this->_name = $name;
+        $this->_reasonCode = $reasonCode;
+        $this->_helpUrl = $reasonCode;
+    }
+
+    /**
+     * Retrieves a DOMElement which corresponds to this element and all
+     * child properties.  This is used to build an entry back into a DOM
+     * and eventually XML text for sending to the server upon updates, or
+     * for application storage/persistence.
+     *
+     * @param DOMDocument $doc The DOMDocument used to construct DOMElements
+     * @return DOMElement The DOMElement representing this element and all
+     * child properties.
+     */
+    public function getDOM($doc = null, $majorVersion = 1, $minorVersion = null)
+    {
+        $element = parent::getDOM($doc, $majorVersion, $minorVersion);
+        if ($this->_name !== null) {
+            $element->setAttribute('name', $this->_name);
+        }
+        if ($this->_reasonCode !== null) {
+            $element->setAttribute('reasonCode', $this->_reasonCode);
+        }
+        if ($this->_helpUrl !== null) {
+            $element->setAttribute('helpUrl', $this->_helpUrl);
+        }
+        return $element;
+    }
+
+    /**
+     * Given a DOMNode representing an attribute, tries to map the data into
+     * instance members.  If no mapping is defined, the name and valueare
+     * stored in an array.
+     * TODO: Convert attributes to proper types
+     *
+     * @param DOMNode $attribute The DOMNode attribute needed to be handled
+     */
+    protected function takeAttributeFromDOM($attribute)
+    {
+        switch ($attribute->localName) {
+        case 'name':
+            $this->_name = $attribute->nodeValue;
+            break;
+        case 'reasonCode':
+            $this->_reasonCode = $attribute->nodeValue;
+            break;
+        case 'helpUrl':
+            $this->_helpUrl = $attribute->nodeValue;
+            break;
+        default:
+            parent::takeAttributeFromDOM($attribute);
+        }
+    }
+
+    /**
+     * Get the value for this element's name attribute.
+     *
+     * @return int The value associated with this attribute.
+     */
+    public function getName()
+    {
+        return $this->_name;
+    }
+
+    /**
+     * Set the value for this element's name attribute.
+     *
+     * @param int $value The desired value for this attribute.
+     * @return Zend_Gdata_YouTube_Extension_State The element being modified.
+     */
+    public function setName($value)
+    {
+        $this->_name = $value;
+        return $this;
+    }
+
+    /**
+     * Get the value for this element's reasonCode attribute.
+     *
+     * @return int The value associated with this attribute.
+     */
+    public function getReasonCode()
+    {
+        return $this->_reasonCode;
+    }
+
+    /**
+     * Set the value for this element's reasonCode attribute.
+     *
+     * @param int $value The desired value for this attribute.
+     * @return Zend_Gdata_YouTube_Extension_State The element being modified.
+     */
+    public function setReasonCode($value)
+    {
+        $this->_reasonCode = $value;
+        return $this;
+    }
+
+    /**
+     * Get the value for this element's helpUrl attribute.
+     *
+     * @return int The value associated with this attribute.
+     */
+    public function getHelpUrl()
+    {
+        return $this->_helpUrl;
+    }
+
+    /**
+     * Set the value for this element's helpUrl attribute.
+     *
+     * @param int $value The desired value for this attribute.
+     * @return Zend_Gdata_YouTube_Extension_State The element being modified.
+     */
+    public function setHelpUrl($value)
+    {
+        $this->_helpUrl = $value;
+        return $this;
+    }
+
+    /**
+     * Magic toString method allows using this directly via echo
+     * Works best in PHP >= 4.2.0
+     *
+     * @return string
+     */
+    public function __toString()
+    {
+        return $this->_text;
+    }
+
+}

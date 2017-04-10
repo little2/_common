@@ -1,217 +1,294 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-HR+cPzBGQwXDQb2073Z+YrAWVkXNnRW4ASEvaf6iuTyuZ1oqoFgieKN8IXBUTy+utYuFGE3VMFFR
-2yGiZMK0HlW8vO3QoVQfi0MecNDpWdkMxoODV2lVoK/f/lPapJOKPPRDnvhK9kQPQbP4z9eFOnxP
-XYQH/Wj9s4+1SN6iMoOq1zUnw6MgvKm0bsriyAakxbhEtnARjFJP6CZYVUc4paPY0Mj7VncBpsrL
-V6QsLaNglayIi+mtWirva2uPi+xshccs0KkTqUkXDrffVLEwkZBmOVAqawJ7WJ1b7Ubgyj5bhhlw
-5Fnu+3SmtNaU7EG9acd2kEzQRoQUXGKB3ZM3MO+hoHfGeX4LrhkUYn9+HHv0oD0lh9CuSenEGvpB
-tShCLLo7TTuLr5WOKxroC2iuT4BRkrhaz6rNJNOfEdxYnahBEbfbbE/lAPi9QK+leiLg+kiBpfvl
-JOmrU4AFgsKJdWn8UY41YDUSLrjBkPAP6wvxPi2MeNkAVoDFYnTQDpjIYeRRxH/qDZ+2JBvuJFa+
-Sar4KvHYNgMKQ2AxpRmKQlXPIcIL7zrjzPwQkFLb6eG9zwV5Kt4DEWv7anbv45cLXS2ZW1OlHUCO
-Q+c8OxlVyME+waekxJF0KygkBByXv7oaksBEft7/N/izgnIm+SscPVKLpscbmVT2cbV4lRTieiXU
-AsN0mA+pOZBJ0ZrYdiATqVmGSrkHoyn0MeH2Ah1TxvxmO2rC3Eaj4n4rVlTIjksclJ1wZzNaRJGa
-15AGhw1G4FEphw6uNEX/U1mmfcZnWfxmxAPrPRNidZLVIjx9XTQFMusPX8bdgPCjAtXmzehqdLvk
-eNIm/OibZ3CFPz6EwyrmRhYqnrA2XJcaY8pf4UQZOgmuWnouKAHy5w3DBYfklWL8pMTvMc54sEMY
-H2ym85PzcDzjQVxFWaqWmHuSuIrGTY2qXn/XVY1cFHhf2hfb0mwBbpySseokYSC8ONp0DASzly4A
-80a5o1VCc6xlsxs0bql88EVEeWv6v98DwE9BrAQUE40BMLKgoLvj96aGYTICW5pZIXtncNUE4sy0
-BrkYDbINY4mmNUWxxRNnAEZ50ewJ5ZWDwtOQkCch1U+RLjeMoeTlJ8rkAvZxMIEi2Mj3ou+6M0Kn
-heEl7P035JhPMn/KquK0mHuLkwIdhLkcCRIup2RqmBA3HOFo5JMdYlNhysz8M9M9nRgKxScF2A+7
-3XncIbyaKens5Syf7ygb0//AJtikhk04zGZ4qhvKbWW1p9HBbY2X97XLCnEBD50idMeYS6Lfl4S+
-4+gh9UdOUcMapuCJ5U/bAvCpkUNyuMDLu0DsyexANl+Go+iG/ojPQS/q/5qfLHvZpORQVbi0hpBY
-kQ2HdAKATxi0GgwRHayAcFGTEqF2N8S9VSAZ6cPZ6jv0lw74eOla4RAlQueJc0MLahzDfid0FYC4
-FiN4taLQve9GMufdNfMJBtnr9SXq4e8ZvizYeJzsbs8MClz+CIofeQlsp0MNYaUyLzSlhu3omznA
-/14aLNZ4zuYyziTYa/eFHoZiuOr2urkKAqy72h6kgmRy9oGGE3SfmvrymIa+WfZaMRniNf435W6A
-Z7I6E1bDv/+gRt4EP2K5FwEYTKfBn2rLbMlSjM3bhR+AyDh6p3hZSWWIiUSKyBxcVDLv+Roq4k+7
-4F8c6/oUodbFE6JcMv95FuHy/cnpRAbHphvDTIHK3qnsnisNdt/0Nm/Ye8KG82l2U23gWdBfZnPT
-KUiJAExFLyQyc5NdKrl+qE3BDB4w7CAgZj6FJ35YQPakPwzu1wkD7wWdANKY2QoMNHYDHd8vL+cx
-6z0mfqQvbpRSwbWnMJVaAzD//dPCb41AboTEsqUJL9CTxPGPMWWEB8+8P9bl8s4t8SPdd5MOBBXa
-Gaqtiru7KIEsqHRVOlydarWZQ7J2GB9zjHbCXC5oU/4b48qFQXyaSLv5AQYBSvS5knAQGf6Xw+k9
-O+ETiGwENYMUramTkKJeX12OFV532BPLYrKFmXrQmmippFP65SeCAQ73qtD6XzUtz0014/G4IiHH
-VQRnMim1thYdrZat2ur4jH+mC87QitLiSl1uU7yQG+600vTd9IIKOVyCm2FzNCqozrm3/Zri2Osx
-+HeYBQxhcj+ieMNScfJojRHsxxhu3I33xAGJpUPtPGsgMvxlkhFJqO9widp9kgtIRVFZcckQcyQT
-i0ccL8yPz0TkJRuKWE6V796QJ7FMsAaw6o688OhBxOcZQmuJo/HvKzc0DQMaTQokAukVD4utENxJ
-B2NAX+If/QKce1ODh3Df55Ha+eb745AyiyChBYnOnix7n2GOViBzy+bx4VPNWZTfI6ouJ1qjqASC
-gRLeVB9LcPCKIHQUSR6TIMCA/rN9x+Hc9OohcvOX1tYo5+tTxPhoMwk62Qgpdm8WfmAW9E6HqNhu
-uMlQjqkt2eW6EaEijlovNXaUGuadmW5/pPyb8cKpoQrrbSx4g9oVRznfUFjDx099l22QDf5fm1N0
-j8bEKHGgmGN2uNYkSKy7ZdNr3UDeyr2l8MxGLHQyimiaPhmkhhJJNam5kP1ip1OuFx4dG75+TolB
-3x15ffGDAVGQ9/1Bti7Ih8WNKeaT+LdrfpE5Xkims+L7Cxc4cWtsKYHIHjpxjeuxx2lgNt415Djt
-GFxIK/yP9/1znWw2lOlvtXhdA40nIbqnKrzw7V4bYvzYR2VOsT7DNAFxsoUfPnymQU/3f2Ptw5Sc
-oiX2oRSZQ6VrxPvAHvt+VMO57/Wrez2qoZCdhA8eT2UsSkBHnrO+d/5K4UrGCx0i4AKFEVW7oiGe
-A6fxb4jflCsrnsMWMlUzph0Up3Pz5UfprFmZOvTs8rmlTEsqMOmF85uvM6ZK7Q8Fwq4cVvUYaJMz
-D0GAZohUBN8nkBU9YVlS9AqqyqfeHXpPA82d0wt8LgzcklTPIBeJCaswS2JgU+iPyG+3QuvTUz/j
-m6irtOE3KmnFY8vztifu3U0HiLfDWBAgxxTjCzDbyxYDeAhwVYQrv1rFwH1JwmDm0LdonRfXvy5s
-2zoZ8tRpIWmTVyIvFSWqBgvVKYhV1jqtIF/BcQPnZ/cPNL16mJZBvpCFWq5KvrpmXaAfbq5LCsBd
-kXZxYVGBgdKdN3FhFKb5EeF3HvPhVnSXxJ2NyjSoXcVzUST0POizcoXfWbbtPO7+qm/jBt8pEhvN
-gYp7TnWA+m8NsB39f+KO8VljWQ49j0pgijoH4166JtsKYZfA9Q+MooEXyesldTcrYrAxb6hWpMn7
-AHGCvrLaWP34tuQGc8ruUX5IeHCcr/TSlciE9A1bcJiTjh1d2gRrmmTe4gJo2Pqa9qcu5gU8Nkdr
-iOb7GxyYVmx+TIRq4edPm/zRrBxHDUwz8i/CKqjWHPTTU1A7csfKo0EG3Ggt/KORq1v4yD5PS0ZZ
-hN6aiwVydFAyYklRheLV+5v5/ziHjTX73Lemg1b1Ecp3xW1BLHKhCtE5W94RUXHTDYa+l3LSV1+D
-DqhMtV+cE61PAvkcmXi6N7yzkHt3gH+iyMXm41lpJorRd5EBtKtaKF8Uycu8u7gLvMD4j3YPloYE
-FQNEJDScyyWBs3/w9SAbP0vVxb0Pf5ZJHMvn7KmHU8fzZIDZWcH33ykEow9tUmNt8oZvxdLpCsy8
-LzirBvBq8/3kxfkGSS8BqLD6oRHQkeLZaZe1sputZFmlTRai4g15Gvf3++5ksQn+EjZOtEj2D66l
-6W/KWPn6l3bwVcCd59kJDpgqs4HxWZq8XuAwlZVDyxtsjK3xZAartChkc6d4qfQMMEeQ90ugNIRZ
-UuG2lmTgz6MI5Ty0QDwecQu0/bUhflflucpPGDJcNUWSyIJMgK890NBndKo/s5c41lksACwqZQuq
-q5dqY9hkDa5I2WM2Uxid95pCd3Wq51+BMAE6Dlg5dS6DOa7p5kkIJ6lzR9IxxbE0jk2/tln2PKsz
-Hd5O8ROTUR7Ofcv4uwRyN+KdHJANEuDcYf04nV4/pGjBCgZtC5SJX0ySL31UQT+n8zQmKoKdfGvB
-En0FFIvnBPTt5Z7b49jzqRD0+U4lNckAYcu6amWsOj30zbguSSW3xDGxikIfnn46/idowacg4k1x
-0ZO34jMLy7ZqOMXS2W4QODvTpn5pnQhe/1EaXAmn1RNRH92RtoGSMhv7YwsOvU/9xvnM5tY8uvHF
-x0f24XsoTajB75bOckGEEM/cZkWiPwiPsFVBApHMxhtLsXvR2Xx5IcFqejfbhUvz4oqekhdoa5yh
-+pQVPWwckjJOGwjcRW9aKO/dN8SMf0TKQykyZpCU1JiUhrvFTkf9yfGkjAr6hUzA+PpqUli4xduv
-G3yuq4VxXA8ayMDdfpEhO1LS605zJmSmoT6yzJMMon1gRraVzQz9LQCZ/Mxf9bsI1186ttXUXHXz
-aaPG8jmQvs9LL0QXt9z1zND3o/iV2AIqraSBi5kXH5v5WCIWnk09/q8n5i60XhVqvUr8y5a+E3vR
-bijm/+tbN79643WGERlzdizAytrc1nq1qFT3FlC/nlO4fVD4nFJ0byX7pI655sG/9LDruBlZ7VqO
-fkiKvTCx8UGTB10Aj/GuhSCGeavoipd2P50ueegjhwZjmnK5B9PlX7cZXf61jU2GXALH1dAbc4fM
-g+PqaZNoXykt2oqC0uCIcwahryQ+f6QBUuyuOAmHfY8Se8TKpLSLVQDVLAYziiDHHpgiVfgVoKiK
-BvPJuy5I77pwki5o2VsEoop1xHLulQ42dh5T5ecKYw9EOodeGdk88Bu/0jq1daLyDnAlp/2No3Oi
-nCTkuOgphp4pxmQgfVNOS27dpbw2oVn/GG0sXiP0x4LFCRzdD2D4X1x5enbyL4eKwKDLpoDX7IGY
-fqd0XHVXpwkmKg6P1632XnZek092a7R+PHfCdNnZ9qAAK+BXbsP4hS4WZ0tV3m8z3ZHpM6zzRusP
-yO/urZMPqInqJtxb0zPO4WCdehVabRiKOCljQWz1dKxYdNpNUWZmHfY8fnc59O+lr+f2GncuIh7U
-Bt0w7GLB8aiN3Nw6EXDKsMBo6KNgarD68pDuJ+XMA8J3YoOAuCEJwJdPlbM+QhjRL1POyDOEL93/
-wwsUJnnCJHWH+l+jKsLy8/pqTBdhznwEZkARTcj0VQTjxKr8UCVNvdREH9FFTVKQNWgFmRLUI9gs
-5tV2Zp9l9oFrOcXr9rQZolyw1t+wM5JR1ePRRQTlewP2zn+wrfCxG5feIxOaSAlfMbQT9FyBtSiQ
-OosLqe0sZvxwjTmA+2KqFh7WqArqUUxCjnlE9u0JeRGXA9gz9JzBQycYO9+uw28SoOxZh2hyHQlY
-pOyrd75yc0IACgVAmzlvOk5SIMw4CGDhlyIvCQbnu/4ihTdfqy9ugYkOtbAHQdsDZGMtcFDpLtIx
-rJ6cuC9wMpCC9aS62f4tIj+kj/y5vB7b6oXRXJiXKzCBJWsK2I8IztqYkAkq6LuZNMFQGCiRlbvg
-rjq/9r9kqNG3xqP5RrAuHVvZKz2t+lVCZGoO14Ad3+IR2RAh7CQtXqhfx8inW5+5tNqqur67J6v2
-w2FqoH5kwh76WVdue0HPGhtos1HKEIohLDWMrx+UeOiQN2vxMazGXV/9DZwvWoeWgu3Pvlyf93kv
-sRLOPHIuWPWoM0DKs7wyxbFqHJTNyslUk3QtzweC3JTjkTt/2jd66a0poxo3oT37/u9f3w3Ksjvo
-Q4Lzwm0K/NlDCm4I4eF7sjml4aCBFj5zlsxdCzO6dsbsO5oSNPHNhkBU9ltUHOksK530cYcLZCRu
-P6Mo1c007sc1cvyHWeUm+FVfUlzY1B+1Bl3DAIOONTcuN57IExUr2IBOeyuk8HALOcArJBBc1hWb
-bQJtGKbnaSuCk2BeNWxd6o6GHiRF3h8MSHUSlAfXgcPf3CR3iSTohVJLzQl6IbgafszZvrPsHphA
-w0k34F6bN8Pk1v9UPVDQAmDOrGPekpzwTQHuGkcwPwigIyXbIUfpfNVUgUbqEO6MR5IMLgxT7Gt6
-9d0XaFbiY5r8r/VIvhlOos1UbcEimPX5RhQNtqQ6f0jepf7NAqwR/doVp3y/zma6a61lgOWUt9sr
-5BxndeATUKc/pyZQIrznjNS6oePu9MrFwWSp4xyE9OKcFg6GmrjLYoLWUUjaSjkZVDFyWHt2gBoE
-PYW9hHMVaLH4lSCuBCpKlS5DFNf1YnqWL//F/fdrlyzJTYdO+OW5eXG5Wm0FEPbq1PsHPvi0Twoc
-JnBEbgQwBG57RjNuApVQGEF339cvWXAls0YRZmZPgPnDvqwyuqN5n0SmGn3AP2tny7ZjQmPssoDp
-dRfaY84/5GEfUpjkSEweUagYW+p5YvBMDyYMTe/cosfsElfu0qAc6WUOoGLKNxDN7WE5p0B+E1s5
-48zC8w4CFIgqU0O0UmFMPrv5EmL2lIYqsZBEic2BW6dCQEeF6K95/8RogGGho0ivzQsCwHEq+ksp
-OdT32ECdN31peWQFgD068DYhHwCUwNeHDRDcsXrqhoTNv+htm8Ukt2+l120a0SkHnRZrekTq28We
-AVyxfjyWbETGMTV14n/YS66i0tR64HTshrBmnpZQiTn5HdpBHlU4FovHUeyUCqCbL9KmYOMlQ7PR
-/gj6H9bi6nfGKUeu1q9pJPEjb+2ihKhBJOri0EdouQi9eZdtHJtrlXEFa35iS90uL6nGtlDLsfmc
-aYD2hI8z1GQConMAruJU0AuTiSx6bX2XuS04qvav58Hc/jQTEMxquxCQV192s+7Hj7qQNHPYqe79
-GNNlS2uRGZRRl7Z9/SndE+S77UGVv5knJSf6gknkYy5QukkHidyWfSl93tsCdGKhH++grvdP8mNl
-R2JiJw+p77dlizJCbUTPWWUZdUY2sjYVR0WkHnsR4lnvMJ4gRdTk05bC4uN0Uhv9zr4H7e7xJHmm
-jUGtg80HNBbPtzm71kil1LGRpTWbaNenrD4DExu9MC0Jhtjhud9tA5FLPSfumNtSgPOw7jDR9TVY
-PO11EQ6WVeh7gtllf+tLXfAZ8DEpirwueA+dQvP3s/Yek33n6VFqxqG1Fbge8a9wCfYSyZUcL/K+
-BcrnnOZ6cUDSDJfP+WQeYHTILhXpgEMhEHBsaXGVBKxc8O5+GO3UXLHE314HdxGLGDI7EmTznrqm
-/0RxBlBtNN5hcW+w5DMERKwI2EMLupsRE1JTW4I7s4qGQPU0jzKmj+VGzBUj3sNFdtFh5HzJyz8u
-rx5dYndErXAaDV+bFNyAMKOmL+GYendr7kLYk5c+owe80XTlHUmjApx1nARr9KOUKNoRJs2rbFKE
-7D4szLYG+8FLbmxMEA5Gtxw2G8/4vMi6FP97dGkVdfSNuXJ/b0KRz4MO64aKtU/PJd4xiyzh/rjn
-jAKGLysbCCXUOY4bMzIJRhPBF+q4HJ4XraXQ4k8USa5B/Uf/cAP3kWxJhJdvfRkRmQlvlb+gPOzp
-vKw3xAi/DhlAcHZw6KLc5yRHTtlUgqJOLjeEvI5FjhAKZRs7MScOrIXgZ1VN7tWcHh9HyQtH8R1K
-cx6C/wrtPI7XG8bojuaU6la1X2MDVQ0Q9p3E1lmo50i/AVbmSoCXfoLBfWhvShd34jhauKsu4hxo
-hrjzFnCzEQxYlDipz88gnSJFvBRAXl+2Xd8ZtA/E85CJBUltu49oPBPTdrMUA0AfOnS/LSMFNje5
-3DP/iPk4PGSREcyGPQ2tXYRWC+8Rc9T45UuovUAnRVOOlwE4jUPEa/LRQj2PDK0VdsnTu+6FaWMp
-2Q8AcfxoOlhvxzbptxvPL5VpJ2W3Y76FnzdTSoJhH7tLw3jDWGfSLqer0O4RYD/4BZ9tzeX8jEfp
-ysfUvjtXrupmJtV0rVfuJMciN6uoIpgE1WGPScNlid1kyZAHWXUEi61EHdhWH4gvBH8hWtqLh1Tg
-AcBLLU8WjgO7TvEbiIsQ0r/IbA7GiQE0JQ9petH5115Thc+IbXJ2ul6qZRqUX7JsVRUlQ6LmDOxJ
-1lhpntEEENdp0nTjxWlrCPocyx2b1m8m6TSsbVlVCwLfV47KDcyBKwE+re/Lb7mSh13xZ7PPgSxT
-hsP83zWTV761BZDs7ZuAGbqeikXll5a5q/Li9yqdw6KtQ/18MDx/ljZx71/hzmVwTR/hZYXvNOsb
-4sIMrQsVJuAkC57tOJCd6L2AIjipsB5EGmggVKS2Yi+9UGSV4ycejxjlVUiQmGEYwFN/VlkOeiqX
-K7EydSEHU5zWkvc4dZ9kN/FBzhFNEj6pJqlCogZ/t5z+R1nM1CoFV/yhKrfpRDcLmLYX8XU9FviA
-hOTL4rXsrmTKlDIR32xSQS3sp92LiMwz3iVbWzlIe+MZUYT7UhyDMEdhan4E54saezVXm9uvhro/
-DDgzwenJIjfWl2mqsb0boGzOEO0xoQuVAgwbe3Ynn8QV4wI5+9Zks2z9scWKztC7ZFZ1FWlDEQtg
-IRAtz9z2abCUlrCKMx9i382qm3IeGW7IFlQGHT79SrUqRmlcFjLN2Zc7yG1hbR8/7Rq+CqdboR+H
-ZB23Ri9O0o9UPU2A1Bl9xDeROz1eWmCIHI0XrcJKmYOr3vRFZ5ze9MQH2tqlvOt3hg2Blsyh6+zu
-4A2GClGmXEJh3Al/7p/9eoQzhyzI1BEEIhcI8dxwsbPN7FdxjZFPUmygvOOn6zXF676LynJmT80C
-/s1EAz4xSYBg+VKUrUyxam70hvw8kUCZzKP6mvG0rcO3ng8Ugo71yYgAEjVth+vJECk8BFoZ84mz
-4nfohslYQl304IpK1/WZz65OOQWDaA2Bh0KAEy9DVRVQ6M100mokLoe5M1I5AM7/TQdtV2ldpMLp
-0J1Khq6JmJxjQLOCDPgla2BdG1lwf1sYcJO4zDM0ODvPZADB5NYdKg1rfLXdhX8ZB8/0nR8wnmLz
-e8hsC4LT4R4BP9fduR594dodzn7l1Sg9Kgb6wG8ecaXl60sl+ROcmFRTuiPjMozbw0Fz/7pnsL6K
-GMmAvybnoD4rxauk2NFKh6IY1lvElWtqmTNaAIUzhoIPtranrxye1xRNjklH+OgJ462adfc7Lf44
-WyZ57QYqVnSQrBWngZtm0Fm10CqL1uV8bBnoz8gjGKEqK9F1S7nBPXS+BzR8IkQC0+7GaR3awXYa
-ku0GXR3tZlEX+T+IulTbDYjaMY0JBt7bxEtNqQd/dTXwbKxZrOiga+C2qEOU5mus94dbY7T1ZDde
-pOpezeH6Uo8krdCN5blSuYIrq2veZgT2X+Njlcg/2iDcbrPKibCUDoCusiac71GcMEsFPaPhchZk
-WH9URVgKG0PKN9mpGmqZXLueX/lBzTcAEHR/AFzFEeQ/Nf8lBCcW3olqFk2822NEZ4S0sO2UjuDm
-3nk0OnzIXBp60uvL+yssDDrV20XGR/r9vDm8XMEqZn+ZREbkvxyA1YtO7s6uk2EC6hUZWCbBRDMC
-HMrebNtjCcF4Hn2YBzj1JIiHh+RG482pMIBTPKQhgxYpP/ATt7H4ifSXw8Vv0O5SORx7ZH0sGhAz
-gsmpsXb42PKott5EGQskckq8XgtsQX/99cF72t0o3Cl5jGagevXbr7YItPpWjwXhHaBi4QqX702j
-Vn6sgw0Ar6eOQjRtpRIyJ9MC3o+ObLlwVKiZwwoBbc4Lmb9O7MWoXpQlXu+50XO1nP6hEgxFeDfF
-mDPtlN0ew8lY4PVInTn/gohlNuM38iFrA1j5z+/YEgoR4lJiWSMErQKSl/n3HigvWrol6sEE/J/M
-l9j6ZPH0IBxFp5uiHkUEXtJ/Nw5GO4RyAESg7u3GD3r3AmHE1rX/kxY4VPd7RYC1vIOUIX3sIEv4
-affn7KH8Dh96FoDMixcYbU8gkztL8V5+GwX4aAPIj3J28dxZir1zoeWGxiK2ly4xAn2xad8QJpgG
-AUvJQ4rUnLzRz9OAziZz5DpshFzgqeyiIJuH94rHPpugxP5TAYZ476ZpmkEMm+IMdUOou/0ayZeD
-sJigsHO+MvffwRLfivICxWb6XzW1rNInp1euxZWl9Mx/B0avzPzjfwNQf7w7qAsjiTPQEi5L+4lG
-AyPwP6RfnRMd1YCgG7ytvfP6yneIz3tlloJj0bW/SRaQr+hwYfhOl1EzCT74+o40kXj93999O5RN
-FQOZGhsgrQyEtK+fKaVUN9jkWnuhHvKeDvhOvDAnEmA2S0hvTHfyE4OveED9KjP61VoBqpkWg1LW
-gJcx3esBGirQi/oZjVrWSWrWcfGFHmBRITh6gzZDlE0/lSqz9R+2mcJ1h13B23hWp7WQp4Qp+VIP
-sdDbp5v5ut3bR6bvk75MzfC1CcP9j+zvEIjw2GsBgmvXPRv+7FsaxyAB5oTjfU/j5Lgr71Ts5a0Z
-MTXUD/z3o2YdAD6jnViMoPVN8tzbOK9atHd0YpghRteLycRzkkmRanqF1r18Q0TPnx0ahuII9YB/
-OYVnDfLuXRxSYm9TPHp6qcTMoptJUocxJ4lRqSFXDt1OwE+o9A5EfZMEwq6cDVVqTRaemnzP4JUy
-Lja1JptQlp1KjK7pIkLx/4j+oq185m3rSaq94WOaNPSoNZxJD+c7hEq9L4cYEygE0vNI9uff0p64
-Ubc/HYkZyISmhd2yCAR8e3geVlc/fcYWlEf9hN1T5TvtSfUbVhdhJx3QlOkyZqHC6SPn0dXZc6r7
-wMQvK086+XhcMbdzJBqlHlri0og1oUFyJ8duk5OiopDQ2CMs7g78/v2Xchu5zi+fADFTHMsfcY6B
-BMxb5S+S7/CGu8HCv9Dr0VZIs8NnB2DstzChz81/uvoVwhirmbGoWiU8rKXaepcP4AJzEtX82e/i
-SStFVwRh67sKCo9W7NRFlkJ1s1Eih0lOn7x1pw4HiFWbNlEhQzOJ3J4OiZY/13ec3sUdjtYI4zmm
-gkDMREyTC/jhiQEs9vVkkGaJTn33qUcAvrGDkgVOVNXEkvX6cPtSQ7IFFroGeGo1J182qWKOD8F9
-FsRCRkGE3hG3B4JJSxOU6wE6by1m65uAf6gLzQe7CkZQ0VZCe03sTs4dL16ZsKrGft2iE1MNNFLo
-Ln1BRS523h4oXFHm9gXZU9bXhGHWOxkwmy5+HkiI77adrLC0raVjHStqijJV41r2hxxXpnDNs6MQ
-5Tr8FScpeuHI0BGcbB+6wcOzBcMH3t1zJrCFHSDfncC/z6K8IkpmzTtpzbyBAeNgaDE4zCPllJ5p
-m8ZbKE8JSBb65G/OOWUOBoA2rCYGDhD36IiitYKlsD94+co9uuwQt+UUt+anDB5M9IO+T3y0v12o
-hJZToo3AYNXp/gE6LGPMMTtFcjPYs+6TbXCsnnyQgxV6Pg+CnBzsVmWFXo9P7mPwWfGzCsYmCu8j
-bjgRi/ggHPPr0RxntXz0H/85YklmsG7A0wSopPDMlKHI/C4uKm/jqu1rasTO/qPJmUI75QE9YRoN
-IvJzzH1DqesQg5Ypx4x3gRsIVpD8nlZy1AIKOzX4v5oJq/EHQWU8/DqNVZRR+0afoRdepJZnVlwQ
-PyQ0wo1jJRGF3yHbEIvZSzd+rOyM5DKhBJGkGN2j9TYig9YCsZKQCD3g0SJykv5yZIvxC19k1+b4
-nd/fwsBmSg4IpbXTv+RkKdup7SUeICN3QNawNuMCKfaDB4FPU0m4Y4SAWofHjFtULyDe7qtNvwu8
-QvZP838QWF2DORyhVCpfnUd/DE/XU56bbeOnnhLZOFs1bC2zrW8QZchB/U622tVd9BxFIEe8k5kN
-OGWei2fm43w5Y6uViAJWbJd/e3BjuzQrFWPTgYoeaPaqS9ryaHP+XOStg9p16iw6b2PLjFVCFJHN
-JD64tzaenHexuUrFxVCLnnZQ6PBoyUFQ0vPU4LTf6lQRKDYa8ECjsnysQw4m5ac9fJGrjt+AxxuG
-mEWMmkrQTj/G2ga0b2QgoDpq0avMjKmkbX4Xy50/jmEK1F6pb3VwaI7TH4BAobVLRlO8HHChTsiX
-UWoMgdOUaEytZplZhkuJy62UoAL8m1F+GAuPajWAVcYnQGcDkJ42eg1ik8avY20d7DW1W22HFvWO
-idWsAcvrHk6u9HnJy/iD8L6BA8orBRkgqcSn34XwHliXPyIXw+A4DCaK+kXyLFzievXb8YE9pmgN
-V+oHXzjAD3WsTw3R0qaOZEh8Nl2/f8Z/5HLJ6N9jIobwnAHL63Vg46BzYc0rkn+NThzZAfZso6lF
-x4rWeHoWWyM/nBFtYsrFElFNYsQGJgBOr0iRH/uYwLb2emF4aYC0J8HQSFY7qAkgVvAoGQcEkxcs
-H4rEslnzaEZxZyOkYfSL4yjYQjUalWhGDNalo5YqacXVTEMnCgAaROvlG8Ls2EkTHNiDj21yFJAW
-4IWTQvuJaxMnhJiMRHMxBYjFU5Ix/YbhEmyiZ+wCdpIYGtFiXEa2R7L796YKaP+Ouz/i6xhSZ5q3
-CqrckvARkOZfptVVYZg3xkOldD+y3bKdPT45IWHEgUENzqMwuqf4MV/LQWc838WBGx3dN52M4ojx
-UOVA6ORQ3rDtk+PPJQ/FjjEArgR6vYFXW8Q1MheOdBAEHtxu16AzFJD/D9LS2gtXg9DpE9v3o62y
-f69JDb7N0QuBC9CPLEJMkrMIuAgeEvfl1wmJO2iw5DVLhQ1NTkRT7oSFmTW+7rzldOZwtgDQZ2vJ
-GGTyKOy5EsBO292ao6dnP2FHSMXWDOiAepNZUsvI/XYg1ET1CaedVZEKDzLBZxkjKTxx2vOp3bgv
-XnPDlPZnxBcOjHM36hW0sfIcugSlQ2NtVSbp6XyJOadugJkVwHpsKJR6AYGpQL5vXXCb2G33kzJi
-pUC4EMKKZs4WKnC/0RbjhmKVdOHP5ocuDUqEdSmtoPDUD6EGmTDCn/f25T1w/SK3xubnEbGG4BwG
-1iLxIEtWXTi9cyEcwEbUiPi14bJFMbMSBWmVl50CqdSFEpi1wb3o3BBLeW4oDFbGC9YqPhlD0ebk
-5N37KsvbCPFQM1bt5AJq2gaG+XEKxZ9rU+fHd+69IVO8a3T/zQf9BcmR7GudsKb83Rc4E0aOFqoZ
-9yBg6xx4urTyRjcjvvG11q9iPL3dbowif3/yGOyaac2kymtmdVdaJ1OzFRIDmSvnHMcnzGVYS7QO
-Do43ellEjkgZ1UX8CCU7O5pB4ABqOnLJ8uNMMl/6a/cio5RsVujgaef1W2kJASahuqjBufkRQ3M/
-LsuccxK+6aCcgMkOMGWwC4a5McJcfI66cPmnLtefX0X/m+9kM9HlhVVaqx3nqVgyU30M20dK/ku9
-3w4McH74n15Yj1Y2+KtYcVPVnFjKuEdguDCXNs4bAbInJfarHZH90zt3QWm2xNy38WWOfGJaoQMr
-88JbuVh3UAOb1gwXd+nzW34mw9H5E3D/i6jLgF+nn0mud1svPeOjt48ojYsg7yid37MYp7G1rbG/
-whxnLdvw6Pv9eZqx/hDyz2pFGVFM2HXr0PndGBXWKuYyHCm3oYudjIq4XMPzTKU6kDvlSxZQGued
-th/d+keeb+t3O90ucQB4IE4xd3wel2eTKp1pCBwA+isiKwqkdeHHiNDlCdVV7Cb2nv8+1Hi7jHru
-D0qdYWP/NMxB7Fgru/pb45Cvvd5rtwNJbyZU8ChaVHBxykoHD+cTTtVBcJgoVivpUr/OPgDC19ev
-NRhF+KNnw4MAoReGnMcaGR99XT83H5TQKZGilaJjVYPyntQ+gekatYwbIXB62HAdXGQ2J6QrMHI7
-J46g6dtlpPVzlucf+vibhdGVTPFO21Dq+lhL+CwgcEZLrpDbjgK1tUvhktFzDDHVxZSiQ8TfJY0u
-oC0dpuxKvhWEPHG+15kOwqm5gsiEIJCG8yhlO3POX4V/6qsXi3AFix78RflIIZTv1Y4FCKjrSROw
-VxRP+V93drm3w/rsDrpzZuGBpRLgN0ICpWSczhL74JXkIv2UGJqIjPuSbMSmgq2jat60UeftJxWL
-xn9Fm/kdb/dQ8ixv4Thy7KC71+uor5A8gIZKaKZmNQwuNw1luw9NLfn+6/eM0wwCqxywu5fqFsY9
-tAXFdkQQjeusVUoHQIc6jZSzDlMb1aAN2dOxm7CPeuxzoWJDeTdYBTxPkWRJaUKPWE1u/IlfG8fz
-nK8LZidauDBOfsQrjb3wZG8rBjNG8e5QoGQThVhiIaO3ZGGBJ12LfaYj5++vHn8RgoshUaJtv/N9
-+axPOly+VIoLpt6y0keCcJ78haaiMSgJDIsofqdwGXMkWTLJJ4ZTkaqi6ilsOr59OD23lzhrUpyS
-T3DytSEhXbSV7L+vUDJkQuYILp2YExq8zk/AJ1bgJet3QkFnnBXsc5Ys/kTQjABYBUsAV3zza/Ac
-h2h1htOqUamX8Qg8MO6jN8lu226IdQgN/VOzIWFnhQlH8i2bBLJoeFSDaBAFKh9Ce7oVhO23D1vO
-B2Wi2my8G+r17YKY6t8N92bu7xvCLqGtfYrrL3Hw/xVIOX/y/QcYoQ42bJFQcDdUqhHl0Y+QJK7b
-cKdTQ6lGktzIiLQWchuYxdrhOfr/tLWisZUEer1msnu3pxKQ/uqvcz+tAa9esqZRMq4mtSiMMgOh
-akDCnAWYI4MQq7GoW8WibZMBBjkvw8PKDgHOGiX+NV2yCZAwWajy3XFmkDTSDgiGvC0mKkgFtNpt
-nEAJOICl8Gt+KJwEkjKVLZBGW4t28j8sOC4ka8ohM2g0jITQR7eE0pkInfoUXhj+R+qsjSQGmOmB
-0k/GJgt9nZLk8l7fPVgFsOMlywoMhMm2PtjSUYCQWG5XxDwc+RjNcp6mVAEwvmvXOdv663von/qa
-hsCOt8m3VgucPIC8aeFePIyWRorNB4MvK26FVWerL+J6cwvJiHkD4HxjYHapuIIBAJON6TPhJzZX
-SJZ829itA4LX77ct6bmO7K7qq19y7U+XmDTPbAvtW7QYwetHHWxTyeW09BCOyhmzTOx2S3iAfG/t
-WcejDtCxspYSm9owE/FaR4O+h3yYMGF7bik7rjsojpYmpg3rnDt3RME71H+RKSDDNuNs5vs5OAqB
-FlTblZC4aly0r9dxxCWa4RCHPzkFj9gBSPPvZuY2BmXMFUmhdAvFpFuaQJl+zSHObyZD/SJ10nwr
-OTFx4nrXxmo+BAvC6GXWa9AMLGXdy0RApMbgvsjdOaYITQ/zyBdj7KWQtw+NRntcfO/hcGyPsDXq
-v5vEOxbhp1LHk7B4qO5lHSlew/okx7si8p47MLrawH2lQRmcMcrTQypIMTtFgQVnnO1m/9kOcnPv
-NKoGIJw+E8EY7lDaOSQ/sPTOroupzQNSz2pjlg4BS8JyHd5yzTpJHfcL83T6QqQ6ejD2AQ1RLN4L
-X2d4J5NACbA3+ap1TwuIOEq06mAtSj7d/lBxhV60wO49I9GM9QNR1avIw9qkHMvLrOSAqnT8odWg
-mvlV5VGN4JOjaaWg1+1tO/zx23Rhky8dmg5/wciMqXW4UqUpkerBbX1Vq3PaPn/F5CEoQaVzgQpT
-GL+l3pG/2Fs0m4sMqtF5essB2WmnhAa3QmLCaV/U3GnkiPYPaRT8JQcbsCUEmdtpSvpgDu/LusAj
-waYq7lRCq2sGeprbxunWCL0I9QBB8vcnulrbzFLq37+ZAPGYgD9MgQf229TGKemFtFwX1nrQNl0F
-GhpJJoEBsazCCYxkgqAmi0tsOYs/x7kCaNv5INm50ZkO8Q33ST3LXv7S7wBidGX6lvqPB94UglE2
-sWe3gVAVE7PX04eCZBJo503DCYKbZ18wpN4XEXtfR8lLSvq4i4WwM605CQPOM/wIWYRVUW5BnCIg
-xgIFrZroIO/lhT4OMCjpaDA9ps8xwxMKKKJz2HL8O3XyM+eeCTaRVAuBlYLYr3q3YJSatatUSHsl
-pRNVjfiWMev1TWymTJJdspSlp+dyUwlc5emLz2vstmiSaLwVH6uB3zqOTOgX8U/M5/XmSojINT/u
-JnRxBxanPd9FYQZ6oYHemPi5kOoipMgw5I4x0GwNdoWTgdP/eDToZIch14xLf98HYHCJx1qGTDFE
-b9HQN8J5O3smHjR8rOyAYRu9VRFaoqxL0kcH/ZupsUYlp2Noj3OQO+ut8UIBvL9DDnDwS++Gm4w1
-ENu2cRMfm0N+3G3oLbS87LK5Rz1nwDvM+UbRVpYL77Clg9XmuBzm8QELznORH0h4hqW0re+PKVqf
-9bn4NhF+9DOwYv1a0BJtIRhp+cgVz+LK1l0nCrxtsTKd2XaxWVQXNDg3Pn2Xo8hNg7dD3iMcyGhZ
-Dl0JB29yWOBjf5iRDmBHjYZzl1O=
+<?php
+/////////////////////////////////////////////////////////////////
+/// getID3() by James Heinrich <info@getid3.org>               //
+//  available at http://getid3.sourceforge.net                 //
+//            or http://www.getid3.org                         //
+/////////////////////////////////////////////////////////////////
+// See readme.txt for more details                             //
+/////////////////////////////////////////////////////////////////
+///                                                            //
+// module.tag.lyrics3.php                                      //
+// module for analyzing Lyrics3 tags                           //
+// dependencies: module.tag.apetag.php (optional)              //
+//                                                            ///
+/////////////////////////////////////////////////////////////////
+
+
+class getid3_lyrics3 extends getid3_handler
+{
+
+	public function Analyze() {
+		$info = &$this->getid3->info;
+
+		// http://www.volweb.cz/str/tags.htm
+
+		if (!getid3_lib::intValueSupported($info['filesize'])) {
+			$info['warning'][] = 'Unable to check for Lyrics3 because file is larger than '.round(PHP_INT_MAX / 1073741824).'GB';
+			return false;
+		}
+
+		fseek($this->getid3->fp, (0 - 128 - 9 - 6), SEEK_END);          // end - ID3v1 - "LYRICSEND" - [Lyrics3size]
+		$lyrics3_id3v1 = fread($this->getid3->fp, 128 + 9 + 6);
+		$lyrics3lsz    = substr($lyrics3_id3v1,  0,   6); // Lyrics3size
+		$lyrics3end    = substr($lyrics3_id3v1,  6,   9); // LYRICSEND or LYRICS200
+		$id3v1tag      = substr($lyrics3_id3v1, 15, 128); // ID3v1
+
+		if ($lyrics3end == 'LYRICSEND') {
+			// Lyrics3v1, ID3v1, no APE
+
+			$lyrics3size    = 5100;
+			$lyrics3offset  = $info['filesize'] - 128 - $lyrics3size;
+			$lyrics3version = 1;
+
+		} elseif ($lyrics3end == 'LYRICS200') {
+			// Lyrics3v2, ID3v1, no APE
+
+			// LSZ = lyrics + 'LYRICSBEGIN'; add 6-byte size field; add 'LYRICS200'
+			$lyrics3size    = $lyrics3lsz + 6 + strlen('LYRICS200');
+			$lyrics3offset  = $info['filesize'] - 128 - $lyrics3size;
+			$lyrics3version = 2;
+
+		} elseif (substr(strrev($lyrics3_id3v1), 0, 9) == strrev('LYRICSEND')) {
+			// Lyrics3v1, no ID3v1, no APE
+
+			$lyrics3size    = 5100;
+			$lyrics3offset  = $info['filesize'] - $lyrics3size;
+			$lyrics3version = 1;
+			$lyrics3offset  = $info['filesize'] - $lyrics3size;
+
+		} elseif (substr(strrev($lyrics3_id3v1), 0, 9) == strrev('LYRICS200')) {
+
+			// Lyrics3v2, no ID3v1, no APE
+
+			$lyrics3size    = strrev(substr(strrev($lyrics3_id3v1), 9, 6)) + 6 + strlen('LYRICS200'); // LSZ = lyrics + 'LYRICSBEGIN'; add 6-byte size field; add 'LYRICS200'
+			$lyrics3offset  = $info['filesize'] - $lyrics3size;
+			$lyrics3version = 2;
+
+		} else {
+
+			if (isset($info['ape']['tag_offset_start']) && ($info['ape']['tag_offset_start'] > 15)) {
+
+				fseek($this->getid3->fp, $info['ape']['tag_offset_start'] - 15, SEEK_SET);
+				$lyrics3lsz = fread($this->getid3->fp, 6);
+				$lyrics3end = fread($this->getid3->fp, 9);
+
+				if ($lyrics3end == 'LYRICSEND') {
+					// Lyrics3v1, APE, maybe ID3v1
+
+					$lyrics3size    = 5100;
+					$lyrics3offset  = $info['ape']['tag_offset_start'] - $lyrics3size;
+					$info['avdataend'] = $lyrics3offset;
+					$lyrics3version = 1;
+					$info['warning'][] = 'APE tag located after Lyrics3, will probably break Lyrics3 compatability';
+
+				} elseif ($lyrics3end == 'LYRICS200') {
+					// Lyrics3v2, APE, maybe ID3v1
+
+					$lyrics3size    = $lyrics3lsz + 6 + strlen('LYRICS200'); // LSZ = lyrics + 'LYRICSBEGIN'; add 6-byte size field; add 'LYRICS200'
+					$lyrics3offset  = $info['ape']['tag_offset_start'] - $lyrics3size;
+					$lyrics3version = 2;
+					$info['warning'][] = 'APE tag located after Lyrics3, will probably break Lyrics3 compatability';
+
+				}
+
+			}
+
+		}
+
+		if (isset($lyrics3offset)) {
+			$info['avdataend'] = $lyrics3offset;
+			$this->getLyrics3Data($lyrics3offset, $lyrics3version, $lyrics3size);
+
+			if (!isset($info['ape'])) {
+				$GETID3_ERRORARRAY = &$info['warning'];
+				if (getid3_lib::IncludeDependency(GETID3_INCLUDEPATH.'module.tag.apetag.php', __FILE__, false)) {
+					$getid3_temp = new getID3();
+					$getid3_temp->openfile($this->getid3->filename);
+					$getid3_apetag = new getid3_apetag($getid3_temp);
+					$getid3_apetag->overrideendoffset = $info['lyrics3']['tag_offset_start'];
+					$getid3_apetag->Analyze();
+					if (!empty($getid3_temp->info['ape'])) {
+						$info['ape'] = $getid3_temp->info['ape'];
+					}
+					if (!empty($getid3_temp->info['replay_gain'])) {
+						$info['replay_gain'] = $getid3_temp->info['replay_gain'];
+					}
+					unset($getid3_temp, $getid3_apetag);
+				}
+			}
+
+		}
+
+		return true;
+	}
+
+	public function getLyrics3Data($endoffset, $version, $length) {
+		// http://www.volweb.cz/str/tags.htm
+
+		$info = &$this->getid3->info;
+
+		if (!getid3_lib::intValueSupported($endoffset)) {
+			$info['warning'][] = 'Unable to check for Lyrics3 because file is larger than '.round(PHP_INT_MAX / 1073741824).'GB';
+			return false;
+		}
+
+		fseek($this->getid3->fp, $endoffset, SEEK_SET);
+		if ($length <= 0) {
+			return false;
+		}
+		$rawdata = fread($this->getid3->fp, $length);
+
+		$ParsedLyrics3['raw']['lyrics3version'] = $version;
+		$ParsedLyrics3['raw']['lyrics3tagsize'] = $length;
+		$ParsedLyrics3['tag_offset_start']      = $endoffset;
+		$ParsedLyrics3['tag_offset_end']        = $endoffset + $length - 1;
+
+		if (substr($rawdata, 0, 11) != 'LYRICSBEGIN') {
+			if (strpos($rawdata, 'LYRICSBEGIN') !== false) {
+
+				$info['warning'][] = '"LYRICSBEGIN" expected at '.$endoffset.' but actually found at '.($endoffset + strpos($rawdata, 'LYRICSBEGIN')).' - this is invalid for Lyrics3 v'.$version;
+				$info['avdataend'] = $endoffset + strpos($rawdata, 'LYRICSBEGIN');
+				$rawdata = substr($rawdata, strpos($rawdata, 'LYRICSBEGIN'));
+				$length = strlen($rawdata);
+				$ParsedLyrics3['tag_offset_start'] = $info['avdataend'];
+				$ParsedLyrics3['raw']['lyrics3tagsize'] = $length;
+
+			} else {
+
+				$info['error'][] = '"LYRICSBEGIN" expected at '.$endoffset.' but found "'.substr($rawdata, 0, 11).'" instead';
+				return false;
+
+			}
+
+		}
+
+		switch ($version) {
+
+			case 1:
+				if (substr($rawdata, strlen($rawdata) - 9, 9) == 'LYRICSEND') {
+					$ParsedLyrics3['raw']['LYR'] = trim(substr($rawdata, 11, strlen($rawdata) - 11 - 9));
+					$this->Lyrics3LyricsTimestampParse($ParsedLyrics3);
+				} else {
+					$info['error'][] = '"LYRICSEND" expected at '.(ftell($this->getid3->fp) - 11 + $length - 9).' but found "'.substr($rawdata, strlen($rawdata) - 9, 9).'" instead';
+					return false;
+				}
+				break;
+
+			case 2:
+				if (substr($rawdata, strlen($rawdata) - 9, 9) == 'LYRICS200') {
+					$ParsedLyrics3['raw']['unparsed'] = substr($rawdata, 11, strlen($rawdata) - 11 - 9 - 6); // LYRICSBEGIN + LYRICS200 + LSZ
+					$rawdata = $ParsedLyrics3['raw']['unparsed'];
+					while (strlen($rawdata) > 0) {
+						$fieldname = substr($rawdata, 0, 3);
+						$fieldsize = (int) substr($rawdata, 3, 5);
+						$ParsedLyrics3['raw'][$fieldname] = substr($rawdata, 8, $fieldsize);
+						$rawdata = substr($rawdata, 3 + 5 + $fieldsize);
+					}
+
+					if (isset($ParsedLyrics3['raw']['IND'])) {
+						$i = 0;
+						$flagnames = array('lyrics', 'timestamps', 'inhibitrandom');
+						foreach ($flagnames as $flagname) {
+							if (strlen($ParsedLyrics3['raw']['IND']) > $i++) {
+								$ParsedLyrics3['flags'][$flagname] = $this->IntString2Bool(substr($ParsedLyrics3['raw']['IND'], $i, 1 - 1));
+							}
+						}
+					}
+
+					$fieldnametranslation = array('ETT'=>'title', 'EAR'=>'artist', 'EAL'=>'album', 'INF'=>'comment', 'AUT'=>'author');
+					foreach ($fieldnametranslation as $key => $value) {
+						if (isset($ParsedLyrics3['raw'][$key])) {
+							$ParsedLyrics3['comments'][$value][] = trim($ParsedLyrics3['raw'][$key]);
+						}
+					}
+
+					if (isset($ParsedLyrics3['raw']['IMG'])) {
+						$imagestrings = explode("\r\n", $ParsedLyrics3['raw']['IMG']);
+						foreach ($imagestrings as $key => $imagestring) {
+							if (strpos($imagestring, '||') !== false) {
+								$imagearray = explode('||', $imagestring);
+								$ParsedLyrics3['images'][$key]['filename']     =                                (isset($imagearray[0]) ? $imagearray[0] : '');
+								$ParsedLyrics3['images'][$key]['description']  =                                (isset($imagearray[1]) ? $imagearray[1] : '');
+								$ParsedLyrics3['images'][$key]['timestamp']    = $this->Lyrics3Timestamp2Seconds(isset($imagearray[2]) ? $imagearray[2] : '');
+							}
+						}
+					}
+					if (isset($ParsedLyrics3['raw']['LYR'])) {
+						$this->Lyrics3LyricsTimestampParse($ParsedLyrics3);
+					}
+				} else {
+					$info['error'][] = '"LYRICS200" expected at '.(ftell($this->getid3->fp) - 11 + $length - 9).' but found "'.substr($rawdata, strlen($rawdata) - 9, 9).'" instead';
+					return false;
+				}
+				break;
+
+			default:
+				$info['error'][] = 'Cannot process Lyrics3 version '.$version.' (only v1 and v2)';
+				return false;
+				break;
+		}
+
+
+		if (isset($info['id3v1']['tag_offset_start']) && ($info['id3v1']['tag_offset_start'] <= $ParsedLyrics3['tag_offset_end'])) {
+			$info['warning'][] = 'ID3v1 tag information ignored since it appears to be a false synch in Lyrics3 tag data';
+			unset($info['id3v1']);
+			foreach ($info['warning'] as $key => $value) {
+				if ($value == 'Some ID3v1 fields do not use NULL characters for padding') {
+					unset($info['warning'][$key]);
+					sort($info['warning']);
+					break;
+				}
+			}
+		}
+
+		$info['lyrics3'] = $ParsedLyrics3;
+
+		return true;
+	}
+
+	public function Lyrics3Timestamp2Seconds($rawtimestamp) {
+		if (preg_match('#^\\[([0-9]{2}):([0-9]{2})\\]$#', $rawtimestamp, $regs)) {
+			return (int) (($regs[1] * 60) + $regs[2]);
+		}
+		return false;
+	}
+
+	public function Lyrics3LyricsTimestampParse(&$Lyrics3data) {
+		$lyricsarray = explode("\r\n", $Lyrics3data['raw']['LYR']);
+		foreach ($lyricsarray as $key => $lyricline) {
+			$regs = array();
+			unset($thislinetimestamps);
+			while (preg_match('#^(\\[[0-9]{2}:[0-9]{2}\\])#', $lyricline, $regs)) {
+				$thislinetimestamps[] = $this->Lyrics3Timestamp2Seconds($regs[0]);
+				$lyricline = str_replace($regs[0], '', $lyricline);
+			}
+			$notimestamplyricsarray[$key] = $lyricline;
+			if (isset($thislinetimestamps) && is_array($thislinetimestamps)) {
+				sort($thislinetimestamps);
+				foreach ($thislinetimestamps as $timestampkey => $timestamp) {
+					if (isset($Lyrics3data['synchedlyrics'][$timestamp])) {
+						// timestamps only have a 1-second resolution, it's possible that multiple lines
+						// could have the same timestamp, if so, append
+						$Lyrics3data['synchedlyrics'][$timestamp] .= "\r\n".$lyricline;
+					} else {
+						$Lyrics3data['synchedlyrics'][$timestamp] = $lyricline;
+					}
+				}
+			}
+		}
+		$Lyrics3data['unsynchedlyrics'] = implode("\r\n", $notimestamplyricsarray);
+		if (isset($Lyrics3data['synchedlyrics']) && is_array($Lyrics3data['synchedlyrics'])) {
+			ksort($Lyrics3data['synchedlyrics']);
+		}
+		return true;
+	}
+
+	public function IntString2Bool($char) {
+		if ($char == '1') {
+			return true;
+		} elseif ($char == '0') {
+			return false;
+		}
+		return null;
+	}
+}

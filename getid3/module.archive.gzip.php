@@ -1,167 +1,280 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
-d5S=
+<?php
+/////////////////////////////////////////////////////////////////
+/// getID3() by James Heinrich <info@getid3.org>               //
+//  available at http://getid3.sourceforge.net                 //
+//            or http://www.getid3.org                         //
+/////////////////////////////////////////////////////////////////
+// See readme.txt for more details                             //
+/////////////////////////////////////////////////////////////////
+//                                                             //
+// module.archive.gzip.php                                     //
+// module for analyzing GZIP files                             //
+// dependencies: NONE                                          //
+//                                                            ///
+/////////////////////////////////////////////////////////////////
+//                                                             //
+// Module originally written by                                //
+//      Mike Mozolin <teddybearØmail*ru>                       //
+//                                                             //
+/////////////////////////////////////////////////////////////////
+
+
+class getid3_gzip extends getid3_handler {
+
+	// public: Optional file list - disable for speed.
+	public $option_gzip_parse_contents = false; // decode gzipped files, if possible, and parse recursively (.tar.gz for example)
+
+	public function Analyze() {
+		$info = &$this->getid3->info;
+
+		$info['fileformat'] = 'gzip';
+
+		$start_length = 10;
+		$unpack_header = 'a1id1/a1id2/a1cmethod/a1flags/a4mtime/a1xflags/a1os';
+		//+---+---+---+---+---+---+---+---+---+---+
+		//|ID1|ID2|CM |FLG|     MTIME     |XFL|OS |
+		//+---+---+---+---+---+---+---+---+---+---+
+
+		if ($info['filesize'] > $info['php_memory_limit']) {
+			$info['error'][] = 'File is too large ('.number_format($info['filesize']).' bytes) to read into memory (limit: '.number_format($info['php_memory_limit'] / 1048576).'MB)';
+			return false;
+		}
+		fseek($this->getid3->fp, 0);
+		$buffer = fread($this->getid3->fp, $info['filesize']);
+
+		$arr_members = explode("\x1F\x8B\x08", $buffer);
+		while (true) {
+			$is_wrong_members = false;
+			$num_members = intval(count($arr_members));
+			for ($i = 0; $i < $num_members; $i++) {
+				if (strlen($arr_members[$i]) == 0) {
+					continue;
+				}
+				$buf = "\x1F\x8B\x08".$arr_members[$i];
+
+				$attr = unpack($unpack_header, substr($buf, 0, $start_length));
+				if (!$this->get_os_type(ord($attr['os']))) {
+					// Merge member with previous if wrong OS type
+					$arr_members[$i - 1] .= $buf;
+					$arr_members[$i] = '';
+					$is_wrong_members = true;
+					continue;
+				}
+			}
+			if (!$is_wrong_members) {
+				break;
+			}
+		}
+
+		$info['gzip']['files'] = array();
+
+		$fpointer = 0;
+		$idx = 0;
+		for ($i = 0; $i < $num_members; $i++) {
+			if (strlen($arr_members[$i]) == 0) {
+				continue;
+			}
+			$thisInfo = &$info['gzip']['member_header'][++$idx];
+
+			$buff = "\x1F\x8B\x08".$arr_members[$i];
+
+			$attr = unpack($unpack_header, substr($buff, 0, $start_length));
+			$thisInfo['filemtime']      = getid3_lib::LittleEndian2Int($attr['mtime']);
+			$thisInfo['raw']['id1']     = ord($attr['cmethod']);
+			$thisInfo['raw']['id2']     = ord($attr['cmethod']);
+			$thisInfo['raw']['cmethod'] = ord($attr['cmethod']);
+			$thisInfo['raw']['os']      = ord($attr['os']);
+			$thisInfo['raw']['xflags']  = ord($attr['xflags']);
+			$thisInfo['raw']['flags']   = ord($attr['flags']);
+
+			$thisInfo['flags']['crc16']    = (bool) ($thisInfo['raw']['flags'] & 0x02);
+			$thisInfo['flags']['extra']    = (bool) ($thisInfo['raw']['flags'] & 0x04);
+			$thisInfo['flags']['filename'] = (bool) ($thisInfo['raw']['flags'] & 0x08);
+			$thisInfo['flags']['comment']  = (bool) ($thisInfo['raw']['flags'] & 0x10);
+
+			$thisInfo['compression'] = $this->get_xflag_type($thisInfo['raw']['xflags']);
+
+			$thisInfo['os'] = $this->get_os_type($thisInfo['raw']['os']);
+			if (!$thisInfo['os']) {
+				$info['error'][] = 'Read error on gzip file';
+				return false;
+			}
+
+			$fpointer = 10;
+			$arr_xsubfield = array();
+			// bit 2 - FLG.FEXTRA
+			//+---+---+=================================+
+			//| XLEN  |...XLEN bytes of "extra field"...|
+			//+---+---+=================================+
+			if ($thisInfo['flags']['extra']) {
+				$w_xlen = substr($buff, $fpointer, 2);
+				$xlen = getid3_lib::LittleEndian2Int($w_xlen);
+				$fpointer += 2;
+
+				$thisInfo['raw']['xfield'] = substr($buff, $fpointer, $xlen);
+				// Extra SubFields
+				//+---+---+---+---+==================================+
+				//|SI1|SI2|  LEN  |... LEN bytes of subfield data ...|
+				//+---+---+---+---+==================================+
+				$idx = 0;
+				while (true) {
+					if ($idx >= $xlen) {
+						break;
+					}
+					$si1 = ord(substr($buff, $fpointer + $idx++, 1));
+					$si2 = ord(substr($buff, $fpointer + $idx++, 1));
+					if (($si1 == 0x41) && ($si2 == 0x70)) {
+						$w_xsublen = substr($buff, $fpointer + $idx, 2);
+						$xsublen = getid3_lib::LittleEndian2Int($w_xsublen);
+						$idx += 2;
+						$arr_xsubfield[] = substr($buff, $fpointer + $idx, $xsublen);
+						$idx += $xsublen;
+					} else {
+						break;
+					}
+				}
+				$fpointer += $xlen;
+			}
+			// bit 3 - FLG.FNAME
+			//+=========================================+
+			//|...original file name, zero-terminated...|
+			//+=========================================+
+			// GZIP files may have only one file, with no filename, so assume original filename is current filename without .gz
+			$thisInfo['filename'] = preg_replace('#\\.gz$#i', '', $info['filename']);
+			if ($thisInfo['flags']['filename']) {
+				$thisInfo['filename'] = '';
+				while (true) {
+					if (ord($buff[$fpointer]) == 0) {
+						$fpointer++;
+						break;
+					}
+					$thisInfo['filename'] .= $buff[$fpointer];
+					$fpointer++;
+				}
+			}
+			// bit 4 - FLG.FCOMMENT
+			//+===================================+
+			//|...file comment, zero-terminated...|
+			//+===================================+
+			if ($thisInfo['flags']['comment']) {
+				while (true) {
+					if (ord($buff[$fpointer]) == 0) {
+						$fpointer++;
+						break;
+					}
+					$thisInfo['comment'] .= $buff[$fpointer];
+					$fpointer++;
+				}
+			}
+			// bit 1 - FLG.FHCRC
+			//+---+---+
+			//| CRC16 |
+			//+---+---+
+			if ($thisInfo['flags']['crc16']) {
+				$w_crc = substr($buff, $fpointer, 2);
+				$thisInfo['crc16'] = getid3_lib::LittleEndian2Int($w_crc);
+				$fpointer += 2;
+			}
+			// bit 0 - FLG.FTEXT
+			//if ($thisInfo['raw']['flags'] & 0x01) {
+			//	Ignored...
+			//}
+			// bits 5, 6, 7 - reserved
+
+			$thisInfo['crc32']    = getid3_lib::LittleEndian2Int(substr($buff, strlen($buff) - 8, 4));
+			$thisInfo['filesize'] = getid3_lib::LittleEndian2Int(substr($buff, strlen($buff) - 4));
+
+			$info['gzip']['files'] = getid3_lib::array_merge_clobber($info['gzip']['files'], getid3_lib::CreateDeepArray($thisInfo['filename'], '/', $thisInfo['filesize']));
+
+			if ($this->option_gzip_parse_contents) {
+				// Try to inflate GZip
+				$csize = 0;
+				$inflated = '';
+				$chkcrc32 = '';
+				if (function_exists('gzinflate')) {
+					$cdata = substr($buff, $fpointer);
+					$cdata = substr($cdata, 0, strlen($cdata) - 8);
+					$csize = strlen($cdata);
+					$inflated = gzinflate($cdata);
+
+					// Calculate CRC32 for inflated content
+					$thisInfo['crc32_valid'] = (bool) (sprintf('%u', crc32($inflated)) == $thisInfo['crc32']);
+
+					// determine format
+					$formattest = substr($inflated, 0, 32774);
+					$getid3_temp = new getID3();
+					$determined_format = $getid3_temp->GetFileFormat($formattest);
+					unset($getid3_temp);
+
+					// file format is determined
+					$determined_format['module'] = (isset($determined_format['module']) ? $determined_format['module'] : '');
+					switch ($determined_format['module']) {
+						case 'tar':
+							// view TAR-file info
+							if (file_exists(GETID3_INCLUDEPATH.$determined_format['include']) && include_once(GETID3_INCLUDEPATH.$determined_format['include'])) {
+								if (($temp_tar_filename = tempnam(GETID3_TEMP_DIR, 'getID3')) === false) {
+									// can't find anywhere to create a temp file, abort
+									$info['error'][] = 'Unable to create temp file to parse TAR inside GZIP file';
+									break;
+								}
+								if ($fp_temp_tar = fopen($temp_tar_filename, 'w+b')) {
+									fwrite($fp_temp_tar, $inflated);
+									fclose($fp_temp_tar);
+									$getid3_temp = new getID3();
+									$getid3_temp->openfile($temp_tar_filename);
+									$getid3_tar = new getid3_tar($getid3_temp);
+									$getid3_tar->Analyze();
+									$info['gzip']['member_header'][$idx]['tar'] = $getid3_temp->info['tar'];
+									unset($getid3_temp, $getid3_tar);
+									unlink($temp_tar_filename);
+								} else {
+									$info['error'][] = 'Unable to fopen() temp file to parse TAR inside GZIP file';
+									break;
+								}
+							}
+							break;
+
+						case '':
+						default:
+							// unknown or unhandled format
+							break;
+					}
+				}
+			}
+		}
+		return true;
+	}
+
+	// Converts the OS type
+	public function get_os_type($key) {
+		static $os_type = array(
+			'0'   => 'FAT filesystem (MS-DOS, OS/2, NT/Win32)',
+			'1'   => 'Amiga',
+			'2'   => 'VMS (or OpenVMS)',
+			'3'   => 'Unix',
+			'4'   => 'VM/CMS',
+			'5'   => 'Atari TOS',
+			'6'   => 'HPFS filesystem (OS/2, NT)',
+			'7'   => 'Macintosh',
+			'8'   => 'Z-System',
+			'9'   => 'CP/M',
+			'10'  => 'TOPS-20',
+			'11'  => 'NTFS filesystem (NT)',
+			'12'  => 'QDOS',
+			'13'  => 'Acorn RISCOS',
+			'255' => 'unknown'
+		);
+		return (isset($os_type[$key]) ? $os_type[$key] : '');
+	}
+
+	// Converts the eXtra FLags
+	public function get_xflag_type($key) {
+		static $xflag_type = array(
+			'0' => 'unknown',
+			'2' => 'maximum compression',
+			'4' => 'fastest algorithm'
+		);
+		return (isset($xflag_type[$key]) ? $xflag_type[$key] : '');
+	}
+}
+

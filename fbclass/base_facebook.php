@@ -1,443 +1,1458 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
-8W==
+<?php
+/**
+ * Copyright 2011 Facebook, Inc.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License"); you may
+ * not use this file except in compliance with the License. You may obtain
+ * a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+ * WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+ * License for the specific language governing permissions and limitations
+ * under the License.
+ */
+
+if (!function_exists('curl_init')) {
+  throw new Exception('Facebook needs the CURL PHP extension.');
+}
+if (!function_exists('json_decode')) {
+  throw new Exception('Facebook needs the JSON PHP extension.');
+}
+
+/**
+ * Thrown when an API call returns an exception.
+ *
+ * @author Naitik Shah <naitik@facebook.com>
+ */
+class FacebookApiException extends Exception
+{
+  /**
+   * The result from the API server that represents the exception information.
+   */
+  protected $result;
+
+  /**
+   * Make a new API Exception with the given result.
+   *
+   * @param array $result The result from the API server
+   */
+  public function __construct($result) {
+    $this->result = $result;
+
+    $code = isset($result['error_code']) ? $result['error_code'] : 0;
+
+    if (isset($result['error_description'])) {
+      // OAuth 2.0 Draft 10 style
+      $msg = $result['error_description'];
+    } else if (isset($result['error']) && is_array($result['error'])) {
+      // OAuth 2.0 Draft 00 style
+      $msg = $result['error']['message'];
+    } else if (isset($result['error_msg'])) {
+      // Rest server style
+      $msg = $result['error_msg'];
+    } else {
+      $msg = 'Unknown Error. Check getResult()';
+    }
+
+    parent::__construct($msg, $code);
+  }
+
+  /**
+   * Return the associated result object returned by the API server.
+   *
+   * @return array The result from the API server
+   */
+  public function getResult() {
+    return $this->result;
+  }
+
+  /**
+   * Returns the associated type for the error. This will default to
+   * 'Exception' when a type is not available.
+   *
+   * @return string
+   */
+  public function getType() {
+    if (isset($this->result['error'])) {
+      $error = $this->result['error'];
+      if (is_string($error)) {
+        // OAuth 2.0 Draft 10 style
+        return $error;
+      } else if (is_array($error)) {
+        // OAuth 2.0 Draft 00 style
+        if (isset($error['type'])) {
+          return $error['type'];
+        }
+      }
+    }
+
+    return 'Exception';
+  }
+
+  /**
+   * To make debugging easier.
+   *
+   * @return string The string representation of the error
+   */
+  public function __toString() {
+    $str = $this->getType() . ': ';
+    if ($this->code != 0) {
+      $str .= $this->code . ': ';
+    }
+    return $str . $this->message;
+  }
+}
+
+/**
+ * Provides access to the Facebook Platform.  This class provides
+ * a majority of the functionality needed, but the class is abstract
+ * because it is designed to be sub-classed.  The subclass must
+ * implement the four abstract methods listed at the bottom of
+ * the file.
+ *
+ * @author Naitik Shah <naitik@facebook.com>
+ */
+abstract class BaseFacebook
+{
+  /**
+   * Version.
+   */
+  const VERSION = '3.2.2';
+
+  /**
+   * Signed Request Algorithm.
+   */
+  const SIGNED_REQUEST_ALGORITHM = 'HMAC-SHA256';
+
+  /**
+   * Default options for curl.
+   */
+  public static $CURL_OPTS = array(
+    CURLOPT_CONNECTTIMEOUT => 10,
+    CURLOPT_RETURNTRANSFER => true,
+    CURLOPT_TIMEOUT        => 60,
+    CURLOPT_USERAGENT      => 'facebook-php-3.2',
+  );
+
+  /**
+   * List of query parameters that get automatically dropped when rebuilding
+   * the current URL.
+   */
+  protected static $DROP_QUERY_PARAMS = array(
+    'code',
+    'state',
+    'signed_request',
+  );
+
+  /**
+   * Maps aliases to Facebook domains.
+   */
+  public static $DOMAIN_MAP = array(
+    'api'         => 'https://api.facebook.com/',
+    'api_video'   => 'https://api-video.facebook.com/',
+    'api_read'    => 'https://api-read.facebook.com/',
+    'graph'       => 'https://graph.facebook.com/',
+    'graph_video' => 'https://graph-video.facebook.com/',
+    'www'         => 'https://www.facebook.com/',
+  );
+
+  /**
+   * The Application ID.
+   *
+   * @var string
+   */
+  protected $appId;
+
+  /**
+   * The Application App Secret.
+   *
+   * @var string
+   */
+  protected $appSecret;
+
+  /**
+   * The ID of the Facebook user, or 0 if the user is logged out.
+   *
+   * @var integer
+   */
+  protected $user;
+
+  /**
+   * The data from the signed_request token.
+   */
+  protected $signedRequest;
+
+  /**
+   * A CSRF state variable to assist in the defense against CSRF attacks.
+   */
+  protected $state;
+
+  /**
+   * The OAuth access token received in exchange for a valid authorization
+   * code.  null means the access token has yet to be determined.
+   *
+   * @var string
+   */
+  protected $accessToken = null;
+
+  /**
+   * Indicates if the CURL based @ syntax for file uploads is enabled.
+   *
+   * @var boolean
+   */
+  protected $fileUploadSupport = false;
+
+  /**
+   * Indicates if we trust HTTP_X_FORWARDED_* headers.
+   *
+   * @var boolean
+   */
+  protected $trustForwarded = false;
+
+  /**
+   * Initialize a Facebook Application.
+   *
+   * The configuration:
+   * - appId: the application ID
+   * - secret: the application secret
+   * - fileUpload: (optional) boolean indicating if file uploads are enabled
+   *
+   * @param array $config The application configuration
+   */
+  public function __construct($config) {
+    $this->setAppId($config['appId']);
+    $this->setAppSecret($config['secret']);
+    if (isset($config['fileUpload'])) {
+      $this->setFileUploadSupport($config['fileUpload']);
+    }
+    if (isset($config['trustForwarded']) && $config['trustForwarded']) {
+      $this->trustForwarded = true;
+    }
+    $state = $this->getPersistentData('state');
+    if (!empty($state)) {
+      $this->state = $state;
+    }
+  }
+
+  /**
+   * Set the Application ID.
+   *
+   * @param string $appId The Application ID
+   * @return BaseFacebook
+   */
+  public function setAppId($appId) {
+    $this->appId = $appId;
+    return $this;
+  }
+
+  /**
+   * Get the Application ID.
+   *
+   * @return string the Application ID
+   */
+  public function getAppId() {
+    return $this->appId;
+  }
+
+  /**
+   * Set the App Secret.
+   *
+   * @param string $apiSecret The App Secret
+   * @return BaseFacebook
+   * @deprecated
+   */
+  public function setApiSecret($apiSecret) {
+    $this->setAppSecret($apiSecret);
+    return $this;
+  }
+
+  /**
+   * Set the App Secret.
+   *
+   * @param string $appSecret The App Secret
+   * @return BaseFacebook
+   */
+  public function setAppSecret($appSecret) {
+    $this->appSecret = $appSecret;
+    return $this;
+  }
+
+  /**
+   * Get the App Secret.
+   *
+   * @return string the App Secret
+   * @deprecated
+   */
+  public function getApiSecret() {
+    return $this->getAppSecret();
+  }
+
+  /**
+   * Get the App Secret.
+   *
+   * @return string the App Secret
+   */
+  public function getAppSecret() {
+    return $this->appSecret;
+  }
+
+  /**
+   * Set the file upload support status.
+   *
+   * @param boolean $fileUploadSupport The file upload support status.
+   * @return BaseFacebook
+   */
+  public function setFileUploadSupport($fileUploadSupport) {
+    $this->fileUploadSupport = $fileUploadSupport;
+    return $this;
+  }
+
+  /**
+   * Get the file upload support status.
+   *
+   * @return boolean true if and only if the server supports file upload.
+   */
+  public function getFileUploadSupport() {
+    return $this->fileUploadSupport;
+  }
+
+  /**
+   * DEPRECATED! Please use getFileUploadSupport instead.
+   *
+   * Get the file upload support status.
+   *
+   * @return boolean true if and only if the server supports file upload.
+   */
+  public function useFileUploadSupport() {
+    return $this->getFileUploadSupport();
+  }
+
+  /**
+   * Sets the access token for api calls.  Use this if you get
+   * your access token by other means and just want the SDK
+   * to use it.
+   *
+   * @param string $access_token an access token.
+   * @return BaseFacebook
+   */
+  public function setAccessToken($access_token) {
+    $this->accessToken = $access_token;
+    return $this;
+  }
+
+  /**
+   * Extend an access token, while removing the short-lived token that might
+   * have been generated via client-side flow. Thanks to http://bit.ly/b0Pt0H
+   * for the workaround.
+   */
+  public function setExtendedAccessToken() {
+    try {
+      // need to circumvent json_decode by calling _oauthRequest
+      // directly, since response isn't JSON format.
+      $access_token_response = $this->_oauthRequest(
+        $this->getUrl('graph', '/oauth/access_token'),
+        $params = array(
+          'client_id' => $this->getAppId(),
+          'client_secret' => $this->getAppSecret(),
+          'grant_type' => 'fb_exchange_token',
+          'fb_exchange_token' => $this->getAccessToken(),
+        )
+      );
+    }
+    catch (FacebookApiException $e) {
+      // most likely that user very recently revoked authorization.
+      // In any event, we don't have an access token, so say so.
+      return false;
+    }
+
+    if (empty($access_token_response)) {
+      return false;
+    }
+
+    $response_params = array();
+    parse_str($access_token_response, $response_params);
+
+    if (!isset($response_params['access_token'])) {
+      return false;
+    }
+
+    $this->destroySession();
+
+    $this->setPersistentData(
+      'access_token', $response_params['access_token']
+    );
+  }
+
+  /**
+   * Determines the access token that should be used for API calls.
+   * The first time this is called, $this->accessToken is set equal
+   * to either a valid user access token, or it's set to the application
+   * access token if a valid user access token wasn't available.  Subsequent
+   * calls return whatever the first call returned.
+   *
+   * @return string The access token
+   */
+  public function getAccessToken() {
+    if ($this->accessToken !== null) {
+      // we've done this already and cached it.  Just return.
+      return $this->accessToken;
+    }
+
+    // first establish access token to be the application
+    // access token, in case we navigate to the /oauth/access_token
+    // endpoint, where SOME access token is required.
+    $this->setAccessToken($this->getApplicationAccessToken());
+    $user_access_token = $this->getUserAccessToken();
+    if ($user_access_token) {
+      $this->setAccessToken($user_access_token);
+    }
+
+    return $this->accessToken;
+  }
+
+  /**
+   * Determines and returns the user access token, first using
+   * the signed request if present, and then falling back on
+   * the authorization code if present.  The intent is to
+   * return a valid user access token, or false if one is determined
+   * to not be available.
+   *
+   * @return string A valid user access token, or false if one
+   *                could not be determined.
+   */
+  protected function getUserAccessToken() {
+    // first, consider a signed request if it's supplied.
+    // if there is a signed request, then it alone determines
+    // the access token.
+    $signed_request = $this->getSignedRequest();
+    if ($signed_request) {
+      // apps.facebook.com hands the access_token in the signed_request
+      if (array_key_exists('oauth_token', $signed_request)) {
+        $access_token = $signed_request['oauth_token'];
+        $this->setPersistentData('access_token', $access_token);
+        return $access_token;
+      }
+
+      // the JS SDK puts a code in with the redirect_uri of ''
+      if (array_key_exists('code', $signed_request)) {
+        $code = $signed_request['code'];
+        if ($code && $code == $this->getPersistentData('code')) {
+          // short-circuit if the code we have is the same as the one presented
+          return $this->getPersistentData('access_token');
+        }
+
+        $access_token = $this->getAccessTokenFromCode($code, '');
+        if ($access_token) {
+          $this->setPersistentData('code', $code);
+          $this->setPersistentData('access_token', $access_token);
+          return $access_token;
+        }
+      }
+
+      // signed request states there's no access token, so anything
+      // stored should be cleared.
+      $this->clearAllPersistentData();
+      return false; // respect the signed request's data, even
+                    // if there's an authorization code or something else
+    }
+
+    $code = $this->getCode();
+    if ($code && $code != $this->getPersistentData('code')) {
+      $access_token = $this->getAccessTokenFromCode($code);
+      if ($access_token) {
+        $this->setPersistentData('code', $code);
+        $this->setPersistentData('access_token', $access_token);
+        return $access_token;
+      }
+
+      // code was bogus, so everything based on it should be invalidated.
+      $this->clearAllPersistentData();
+      return false;
+    }
+
+    // as a fallback, just return whatever is in the persistent
+    // store, knowing nothing explicit (signed request, authorization
+    // code, etc.) was present to shadow it (or we saw a code in $_REQUEST,
+    // but it's the same as what's in the persistent store)
+    return $this->getPersistentData('access_token');
+  }
+
+  /**
+   * Retrieve the signed request, either from a request parameter or,
+   * if not present, from a cookie.
+   *
+   * @return string the signed request, if available, or null otherwise.
+   */
+  public function getSignedRequest() {
+    if (!$this->signedRequest) {
+      if (!empty($_REQUEST['signed_request'])) {
+        $this->signedRequest = $this->parseSignedRequest(
+          $_REQUEST['signed_request']);
+      } else if (!empty($_COOKIE[$this->getSignedRequestCookieName()])) {
+        $this->signedRequest = $this->parseSignedRequest(
+          $_COOKIE[$this->getSignedRequestCookieName()]);
+      }
+    }
+    return $this->signedRequest;
+  }
+
+  /**
+   * Get the UID of the connected user, or 0
+   * if the Facebook user is not connected.
+   *
+   * @return string the UID if available.
+   */
+  public function getUser() {
+    if ($this->user !== null) {
+      // we've already determined this and cached the value.
+      return $this->user;
+    }
+
+    return $this->user = $this->getUserFromAvailableData();
+  }
+
+  /**
+   * Determines the connected user by first examining any signed
+   * requests, then considering an authorization code, and then
+   * falling back to any persistent store storing the user.
+   *
+   * @return integer The id of the connected Facebook user,
+   *                 or 0 if no such user exists.
+   */
+  protected function getUserFromAvailableData() {
+    // if a signed request is supplied, then it solely determines
+    // who the user is.
+    $signed_request = $this->getSignedRequest();
+    if ($signed_request) {
+      if (array_key_exists('user_id', $signed_request)) {
+        $user = $signed_request['user_id'];
+
+        if($user != $this->getPersistentData('user_id')){
+          $this->clearAllPersistentData();
+        }
+
+        $this->setPersistentData('user_id', $signed_request['user_id']);
+        return $user;
+      }
+
+      // if the signed request didn't present a user id, then invalidate
+      // all entries in any persistent store.
+      $this->clearAllPersistentData();
+      return 0;
+    }
+
+    $user = $this->getPersistentData('user_id', $default = 0);
+    $persisted_access_token = $this->getPersistentData('access_token');
+
+    // use access_token to fetch user id if we have a user access_token, or if
+    // the cached access token has changed.
+    $access_token = $this->getAccessToken();
+    if ($access_token &&
+        $access_token != $this->getApplicationAccessToken() &&
+        !($user && $persisted_access_token == $access_token)) {
+      $user = $this->getUserFromAccessToken();
+      if ($user) {
+        $this->setPersistentData('user_id', $user);
+      } else {
+        $this->clearAllPersistentData();
+      }
+    }
+
+    return $user;
+  }
+
+  /**
+   * Get a Login URL for use with redirects. By default, full page redirect is
+   * assumed. If you are using the generated URL with a window.open() call in
+   * JavaScript, you can pass in display=popup as part of the $params.
+   *
+   * The parameters:
+   * - redirect_uri: the url to go to after a successful login
+   * - scope: comma separated list of requested extended perms
+   *
+   * @param array $params Provide custom parameters
+   * @return string The URL for the login flow
+   */
+  public function getLoginUrl($params=array()) {
+    $this->establishCSRFTokenState();
+    $currentUrl = $this->getCurrentUrl();
+
+    // if 'scope' is passed as an array, convert to comma separated list
+    $scopeParams = isset($params['scope']) ? $params['scope'] : null;
+    if ($scopeParams && is_array($scopeParams)) {
+      $params['scope'] = implode(',', $scopeParams);
+    }
+
+    return $this->getUrl(
+      'www',
+      'dialog/oauth',
+      array_merge(array(
+                    'client_id' => $this->getAppId(),
+                    'redirect_uri' => $currentUrl, // possibly overwritten
+                    'state' => $this->state),
+                  $params));
+  }
+
+  /**
+   * Get a Logout URL suitable for use with redirects.
+   *
+   * The parameters:
+   * - next: the url to go to after a successful logout
+   *
+   * @param array $params Provide custom parameters
+   * @return string The URL for the logout flow
+   */
+  public function getLogoutUrl($params=array()) {
+    return $this->getUrl(
+      'www',
+      'logout.php',
+      array_merge(array(
+        'next' => $this->getCurrentUrl(),
+        'access_token' => $this->getUserAccessToken(),
+      ), $params)
+    );
+  }
+
+  /**
+   * Get a login status URL to fetch the status from Facebook.
+   *
+   * The parameters:
+   * - ok_session: the URL to go to if a session is found
+   * - no_session: the URL to go to if the user is not connected
+   * - no_user: the URL to go to if the user is not signed into facebook
+   *
+   * @param array $params Provide custom parameters
+   * @return string The URL for the logout flow
+   */
+  public function getLoginStatusUrl($params=array()) {
+    return $this->getUrl(
+      'www',
+      'extern/login_status.php',
+      array_merge(array(
+        'api_key' => $this->getAppId(),
+        'no_session' => $this->getCurrentUrl(),
+        'no_user' => $this->getCurrentUrl(),
+        'ok_session' => $this->getCurrentUrl(),
+        'session_version' => 3,
+      ), $params)
+    );
+  }
+
+  /**
+   * Make an API call.
+   *
+   * @return mixed The decoded response
+   */
+  public function api(/* polymorphic */) {
+    $args = func_get_args();
+    if (is_array($args[0])) {
+      return $this->_restserver($args[0]);
+    } else {
+      return call_user_func_array(array($this, '_graph'), $args);
+    }
+  }
+
+  /**
+   * Constructs and returns the name of the cookie that
+   * potentially houses the signed request for the app user.
+   * The cookie is not set by the BaseFacebook class, but
+   * it may be set by the JavaScript SDK.
+   *
+   * @return string the name of the cookie that would house
+   *         the signed request value.
+   */
+  protected function getSignedRequestCookieName() {
+    return 'fbsr_'.$this->getAppId();
+  }
+
+  /**
+   * Constructs and returns the name of the coookie that potentially contain
+   * metadata. The cookie is not set by the BaseFacebook class, but it may be
+   * set by the JavaScript SDK.
+   *
+   * @return string the name of the cookie that would house metadata.
+   */
+  protected function getMetadataCookieName() {
+    return 'fbm_'.$this->getAppId();
+  }
+
+  /**
+   * Get the authorization code from the query parameters, if it exists,
+   * and otherwise return false to signal no authorization code was
+   * discoverable.
+   *
+   * @return mixed The authorization code, or false if the authorization
+   *               code could not be determined.
+   */
+  protected function getCode() {
+    if (isset($_REQUEST['code'])) {
+      if ($this->state !== null &&
+          isset($_REQUEST['state']) &&
+          $this->state === $_REQUEST['state']) {
+
+        // CSRF state has done its job, so clear it
+        $this->state = null;
+        $this->clearPersistentData('state');
+        return $_REQUEST['code'];
+      } else {
+        self::errorLog('CSRF state token does not match one provided.');
+        return false;
+      }
+    }
+
+    return false;
+  }
+
+  /**
+   * Retrieves the UID with the understanding that
+   * $this->accessToken has already been set and is
+   * seemingly legitimate.  It relies on Facebook's Graph API
+   * to retrieve user information and then extract
+   * the user ID.
+   *
+   * @return integer Returns the UID of the Facebook user, or 0
+   *                 if the Facebook user could not be determined.
+   */
+  protected function getUserFromAccessToken() {
+    try {
+      $user_info = $this->api('/me');
+      return $user_info['id'];
+    } catch (FacebookApiException $e) {
+      return 0;
+    }
+  }
+
+  /**
+   * Returns the access token that should be used for logged out
+   * users when no authorization code is available.
+   *
+   * @return string The application access token, useful for gathering
+   *                public information about users and applications.
+   */
+  protected function getApplicationAccessToken() {
+    return $this->appId.'|'.$this->appSecret;
+  }
+
+  /**
+   * Lays down a CSRF state token for this process.
+   *
+   * @return void
+   */
+  protected function establishCSRFTokenState() {
+    if ($this->state === null) {
+      $this->state = md5(uniqid(mt_rand(), true));
+      $this->setPersistentData('state', $this->state);
+    }
+  }
+
+  /**
+   * Retrieves an access token for the given authorization code
+   * (previously generated from www.facebook.com on behalf of
+   * a specific user).  The authorization code is sent to graph.facebook.com
+   * and a legitimate access token is generated provided the access token
+   * and the user for which it was generated all match, and the user is
+   * either logged in to Facebook or has granted an offline access permission.
+   *
+   * @param string $code An authorization code.
+   * @return mixed An access token exchanged for the authorization code, or
+   *               false if an access token could not be generated.
+   */
+  protected function getAccessTokenFromCode($code, $redirect_uri = null) {
+    if (empty($code)) {
+      return false;
+    }
+
+    if ($redirect_uri === null) {
+      $redirect_uri = $this->getCurrentUrl();
+    }
+
+    try {
+      // need to circumvent json_decode by calling _oauthRequest
+      // directly, since response isn't JSON format.
+      $access_token_response =
+        $this->_oauthRequest(
+          $this->getUrl('graph', '/oauth/access_token'),
+          $params = array('client_id' => $this->getAppId(),
+                          'client_secret' => $this->getAppSecret(),
+                          'redirect_uri' => $redirect_uri,
+                          'code' => $code));
+    } catch (FacebookApiException $e) {
+      // most likely that user very recently revoked authorization.
+      // In any event, we don't have an access token, so say so.
+      return false;
+    }
+
+    if (empty($access_token_response)) {
+      return false;
+    }
+
+    $response_params = array();
+    parse_str($access_token_response, $response_params);
+    if (!isset($response_params['access_token'])) {
+      return false;
+    }
+
+    return $response_params['access_token'];
+  }
+
+  /**
+   * Invoke the old restserver.php endpoint.
+   *
+   * @param array $params Method call object
+   *
+   * @return mixed The decoded response object
+   * @throws FacebookApiException
+   */
+  protected function _restserver($params) {
+    // generic application level parameters
+    $params['api_key'] = $this->getAppId();
+    $params['format'] = 'json-strings';
+
+    $result = json_decode($this->_oauthRequest(
+      $this->getApiUrl($params['method']),
+      $params
+    ), true);
+
+    // results are returned, errors are thrown
+    if (is_array($result) && isset($result['error_code'])) {
+      $this->throwAPIException($result);
+      // @codeCoverageIgnoreStart
+    }
+    // @codeCoverageIgnoreEnd
+
+    $method = strtolower($params['method']);
+    if ($method === 'auth.expiresession' ||
+        $method === 'auth.revokeauthorization') {
+      $this->destroySession();
+    }
+
+    return $result;
+  }
+
+  /**
+   * Return true if this is video post.
+   *
+   * @param string $path The path
+   * @param string $method The http method (default 'GET')
+   *
+   * @return boolean true if this is video post
+   */
+  protected function isVideoPost($path, $method = 'GET') {
+    if ($method == 'POST' && preg_match("/^(\/)(.+)(\/)(videos)$/", $path)) {
+      return true;
+    }
+    return false;
+  }
+
+  /**
+   * Invoke the Graph API.
+   *
+   * @param string $path The path (required)
+   * @param string $method The http method (default 'GET')
+   * @param array $params The query/post data
+   *
+   * @return mixed The decoded response object
+   * @throws FacebookApiException
+   */
+  protected function _graph($path, $method = 'GET', $params = array()) {
+    if (is_array($method) && empty($params)) {
+      $params = $method;
+      $method = 'GET';
+    }
+    $params['method'] = $method; // method override as we always do a POST
+
+    if ($this->isVideoPost($path, $method)) {
+      $domainKey = 'graph_video';
+    } else {
+      $domainKey = 'graph';
+    }
+
+    $result = json_decode($this->_oauthRequest(
+      $this->getUrl($domainKey, $path),
+      $params
+    ), true);
+
+    // results are returned, errors are thrown
+    if (is_array($result) && isset($result['error'])) {
+      $this->throwAPIException($result);
+      // @codeCoverageIgnoreStart
+    }
+    // @codeCoverageIgnoreEnd
+
+    return $result;
+  }
+
+  /**
+   * Make a OAuth Request.
+   *
+   * @param string $url The path (required)
+   * @param array $params The query/post data
+   *
+   * @return string The decoded response object
+   * @throws FacebookApiException
+   */
+  protected function _oauthRequest($url, $params) {
+    if (!isset($params['access_token'])) {
+      $params['access_token'] = $this->getAccessToken();
+    }
+
+    if (isset($params['access_token'])) {
+      $params['appsecret_proof'] = $this->getAppSecretProof($params['access_token']);
+    }
+
+    // json_encode all params values that are not strings
+    foreach ($params as $key => $value) {
+      if (!is_string($value)) {
+        $params[$key] = json_encode($value);
+      }
+    }
+
+    return $this->makeRequest($url, $params);
+  }
+
+  /**
+   * Generate a proof of App Secret
+   * This is required for all API calls originating from a server
+   * It is a sha256 hash of the access_token made using the app secret
+   *
+   * @param string $access_token The access_token to be hashed (required)
+   *
+   * @return string The sha256 hash of the access_token
+   */
+  protected function getAppSecretProof($access_token) {
+    return hash_hmac('sha256', $access_token, $this->getAppSecret());
+  }
+
+  /**
+   * Makes an HTTP request. This method can be overridden by subclasses if
+   * developers want to do fancier things or use something other than curl to
+   * make the request.
+   *
+   * @param string $url The URL to make the request to
+   * @param array $params The parameters to use for the POST body
+   * @param CurlHandler $ch Initialized curl handle
+   *
+   * @return string The response text
+   */
+  protected function makeRequest($url, $params, $ch=null) {
+    if (!$ch) {
+      $ch = curl_init();
+    }
+
+    $opts = self::$CURL_OPTS;
+    if ($this->getFileUploadSupport()) {
+      $opts[CURLOPT_POSTFIELDS] = $params;
+    } else {
+      $opts[CURLOPT_POSTFIELDS] = http_build_query($params, null, '&');
+    }
+    $opts[CURLOPT_URL] = $url;
+
+    // disable the 'Expect: 100-continue' behaviour. This causes CURL to wait
+    // for 2 seconds if the server does not support this header.
+    if (isset($opts[CURLOPT_HTTPHEADER])) {
+      $existing_headers = $opts[CURLOPT_HTTPHEADER];
+      $existing_headers[] = 'Expect:';
+      $opts[CURLOPT_HTTPHEADER] = $existing_headers;
+    } else {
+      $opts[CURLOPT_HTTPHEADER] = array('Expect:');
+    }
+
+    curl_setopt_array($ch, $opts);
+    $result = curl_exec($ch);
+
+    if (curl_errno($ch) == 60) { // CURLE_SSL_CACERT
+      self::errorLog('Invalid or no certificate authority found, '.
+                     'using bundled information');
+      curl_setopt($ch, CURLOPT_CAINFO,
+                  dirname(__FILE__) . '/fb_ca_chain_bundle.crt');
+      $result = curl_exec($ch);
+    }
+
+    // With dual stacked DNS responses, it's possible for a server to
+    // have IPv6 enabled but not have IPv6 connectivity.  If this is
+    // the case, curl will try IPv4 first and if that fails, then it will
+    // fall back to IPv6 and the error EHOSTUNREACH is returned by the
+    // operating system.
+    if ($result === false && empty($opts[CURLOPT_IPRESOLVE])) {
+        $matches = array();
+        $regex = '/Failed to connect to ([^:].*): Network is unreachable/';
+        if (preg_match($regex, curl_error($ch), $matches)) {
+          if (strlen(@inet_pton($matches[1])) === 16) {
+            self::errorLog('Invalid IPv6 configuration on server, '.
+                           'Please disable or get native IPv6 on your server.');
+            self::$CURL_OPTS[CURLOPT_IPRESOLVE] = CURL_IPRESOLVE_V4;
+            curl_setopt($ch, CURLOPT_IPRESOLVE, CURL_IPRESOLVE_V4);
+            $result = curl_exec($ch);
+          }
+        }
+    }
+
+    if ($result === false) {
+      $e = new FacebookApiException(array(
+        'error_code' => curl_errno($ch),
+        'error' => array(
+        'message' => curl_error($ch),
+        'type' => 'CurlException',
+        ),
+      ));
+      curl_close($ch);
+      throw $e;
+    }
+    curl_close($ch);
+    return $result;
+  }
+
+  /**
+   * Parses a signed_request and validates the signature.
+   *
+   * @param string $signed_request A signed token
+   * @return array The payload inside it or null if the sig is wrong
+   */
+  protected function parseSignedRequest($signed_request) {
+    list($encoded_sig, $payload) = explode('.', $signed_request, 2);
+
+    // decode the data
+    $sig = self::base64UrlDecode($encoded_sig);
+    $data = json_decode(self::base64UrlDecode($payload), true);
+
+    if (strtoupper($data['algorithm']) !== self::SIGNED_REQUEST_ALGORITHM) {
+      self::errorLog(
+        'Unknown algorithm. Expected ' . self::SIGNED_REQUEST_ALGORITHM);
+      return null;
+    }
+
+    // check sig
+    $expected_sig = hash_hmac('sha256', $payload,
+                              $this->getAppSecret(), $raw = true);
+    if ($sig !== $expected_sig) {
+      self::errorLog('Bad Signed JSON signature!');
+      return null;
+    }
+
+    return $data;
+  }
+
+  /**
+   * Makes a signed_request blob using the given data.
+   *
+   * @param array The data array.
+   * @return string The signed request.
+   */
+  protected function makeSignedRequest($data) {
+    if (!is_array($data)) {
+      throw new InvalidArgumentException(
+        'makeSignedRequest expects an array. Got: ' . print_r($data, true));
+    }
+    $data['algorithm'] = self::SIGNED_REQUEST_ALGORITHM;
+    $data['issued_at'] = time();
+    $json = json_encode($data);
+    $b64 = self::base64UrlEncode($json);
+    $raw_sig = hash_hmac('sha256', $b64, $this->getAppSecret(), $raw = true);
+    $sig = self::base64UrlEncode($raw_sig);
+    return $sig.'.'.$b64;
+  }
+
+  /**
+   * Build the URL for api given parameters.
+   *
+   * @param $method String the method name.
+   * @return string The URL for the given parameters
+   */
+  protected function getApiUrl($method) {
+    static $READ_ONLY_CALLS =
+      array('admin.getallocation' => 1,
+            'admin.getappproperties' => 1,
+            'admin.getbannedusers' => 1,
+            'admin.getlivestreamvialink' => 1,
+            'admin.getmetrics' => 1,
+            'admin.getrestrictioninfo' => 1,
+            'application.getpublicinfo' => 1,
+            'auth.getapppublickey' => 1,
+            'auth.getsession' => 1,
+            'auth.getsignedpublicsessiondata' => 1,
+            'comments.get' => 1,
+            'connect.getunconnectedfriendscount' => 1,
+            'dashboard.getactivity' => 1,
+            'dashboard.getcount' => 1,
+            'dashboard.getglobalnews' => 1,
+            'dashboard.getnews' => 1,
+            'dashboard.multigetcount' => 1,
+            'dashboard.multigetnews' => 1,
+            'data.getcookies' => 1,
+            'events.get' => 1,
+            'events.getmembers' => 1,
+            'fbml.getcustomtags' => 1,
+            'feed.getappfriendstories' => 1,
+            'feed.getregisteredtemplatebundlebyid' => 1,
+            'feed.getregisteredtemplatebundles' => 1,
+            'fql.multiquery' => 1,
+            'fql.query' => 1,
+            'friends.arefriends' => 1,
+            'friends.get' => 1,
+            'friends.getappusers' => 1,
+            'friends.getlists' => 1,
+            'friends.getmutualfriends' => 1,
+            'gifts.get' => 1,
+            'groups.get' => 1,
+            'groups.getmembers' => 1,
+            'intl.gettranslations' => 1,
+            'links.get' => 1,
+            'notes.get' => 1,
+            'notifications.get' => 1,
+            'pages.getinfo' => 1,
+            'pages.isadmin' => 1,
+            'pages.isappadded' => 1,
+            'pages.isfan' => 1,
+            'permissions.checkavailableapiaccess' => 1,
+            'permissions.checkgrantedapiaccess' => 1,
+            'photos.get' => 1,
+            'photos.getalbums' => 1,
+            'photos.gettags' => 1,
+            'profile.getinfo' => 1,
+            'profile.getinfooptions' => 1,
+            'stream.get' => 1,
+            'stream.getcomments' => 1,
+            'stream.getfilters' => 1,
+            'users.getinfo' => 1,
+            'users.getloggedinuser' => 1,
+            'users.getstandardinfo' => 1,
+            'users.hasapppermission' => 1,
+            'users.isappuser' => 1,
+            'users.isverified' => 1,
+            'video.getuploadlimits' => 1);
+    $name = 'api';
+    if (isset($READ_ONLY_CALLS[strtolower($method)])) {
+      $name = 'api_read';
+    } else if (strtolower($method) == 'video.upload') {
+      $name = 'api_video';
+    }
+    return self::getUrl($name, 'restserver.php');
+  }
+
+  /**
+   * Build the URL for given domain alias, path and parameters.
+   *
+   * @param $name string The name of the domain
+   * @param $path string Optional path (without a leading slash)
+   * @param $params array Optional query parameters
+   *
+   * @return string The URL for the given parameters
+   */
+  protected function getUrl($name, $path='', $params=array()) {
+    $url = self::$DOMAIN_MAP[$name];
+    if ($path) {
+      if ($path[0] === '/') {
+        $path = substr($path, 1);
+      }
+      $url .= $path;
+    }
+    if ($params) {
+      $url .= '?' . http_build_query($params, null, '&');
+    }
+
+    return $url;
+  }
+
+  protected function getHttpHost() {
+    if ($this->trustForwarded && isset($_SERVER['HTTP_X_FORWARDED_HOST'])) {
+      return $_SERVER['HTTP_X_FORWARDED_HOST'];
+    }
+    return $_SERVER['HTTP_HOST'];
+  }
+
+  protected function getHttpProtocol() {
+    if ($this->trustForwarded && isset($_SERVER['HTTP_X_FORWARDED_PROTO'])) {
+      if ($_SERVER['HTTP_X_FORWARDED_PROTO'] === 'https') {
+        return 'https';
+      }
+      return 'http';
+    }
+    /*apache + variants specific way of checking for https*/
+    if (isset($_SERVER['HTTPS']) &&
+        ($_SERVER['HTTPS'] === 'on' || $_SERVER['HTTPS'] == 1)) {
+      return 'https';
+    }
+    /*nginx way of checking for https*/
+    if (isset($_SERVER['SERVER_PORT']) &&
+        ($_SERVER['SERVER_PORT'] === '443')) {
+      return 'https';
+    }
+    return 'http';
+  }
+
+  /**
+   * Get the base domain used for the cookie.
+   */
+  protected function getBaseDomain() {
+    // The base domain is stored in the metadata cookie if not we fallback
+    // to the current hostname
+    $metadata = $this->getMetadataCookie();
+    if (array_key_exists('base_domain', $metadata) &&
+        !empty($metadata['base_domain'])) {
+      return trim($metadata['base_domain'], '.');
+    }
+    return $this->getHttpHost();
+  }
+
+  /**
+
+  /**
+   * Returns the Current URL, stripping it of known FB parameters that should
+   * not persist.
+   *
+   * @return string The current URL
+   */
+  protected function getCurrentUrl() {
+    $protocol = $this->getHttpProtocol() . '://';
+    $host = $this->getHttpHost();
+    $currentUrl = $protocol.$host.$_SERVER['REQUEST_URI'];
+    $parts = parse_url($currentUrl);
+
+    $query = '';
+    if (!empty($parts['query'])) {
+      // drop known fb params
+      $params = explode('&', $parts['query']);
+      $retained_params = array();
+      foreach ($params as $param) {
+        if ($this->shouldRetainParam($param)) {
+          $retained_params[] = $param;
+        }
+      }
+
+      if (!empty($retained_params)) {
+        $query = '?'.implode($retained_params, '&');
+      }
+    }
+
+    // use port if non default
+    $port =
+      isset($parts['port']) &&
+      (($protocol === 'http://' && $parts['port'] !== 80) ||
+       ($protocol === 'https://' && $parts['port'] !== 443))
+      ? ':' . $parts['port'] : '';
+
+    // rebuild
+    return $protocol . $parts['host'] . $port . $parts['path'] . $query;
+  }
+
+  /**
+   * Returns true if and only if the key or key/value pair should
+   * be retained as part of the query string.  This amounts to
+   * a brute-force search of the very small list of Facebook-specific
+   * params that should be stripped out.
+   *
+   * @param string $param A key or key/value pair within a URL's query (e.g.
+   *                     'foo=a', 'foo=', or 'foo'.
+   *
+   * @return boolean
+   */
+  protected function shouldRetainParam($param) {
+    foreach (self::$DROP_QUERY_PARAMS as $drop_query_param) {
+      if (strpos($param, $drop_query_param.'=') === 0) {
+        return false;
+      }
+    }
+
+    return true;
+  }
+
+  /**
+   * Analyzes the supplied result to see if it was thrown
+   * because the access token is no longer valid.  If that is
+   * the case, then we destroy the session.
+   *
+   * @param $result array A record storing the error message returned
+   *                      by a failed API call.
+   */
+  protected function throwAPIException($result) {
+    $e = new FacebookApiException($result);
+    switch ($e->getType()) {
+      // OAuth 2.0 Draft 00 style
+      case 'OAuthException':
+        // OAuth 2.0 Draft 10 style
+      case 'invalid_token':
+        // REST server errors are just Exceptions
+      case 'Exception':
+        $message = $e->getMessage();
+        if ((strpos($message, 'Error validating access token') !== false) ||
+            (strpos($message, 'Invalid OAuth access token') !== false) ||
+            (strpos($message, 'An active access token must be used') !== false)
+        ) {
+          $this->destroySession();
+        }
+        break;
+    }
+
+    throw $e;
+  }
+
+
+  /**
+   * Prints to the error log if you aren't in command line mode.
+   *
+   * @param string $msg Log message
+   */
+  protected static function errorLog($msg) {
+    // disable error log if we are running in a CLI environment
+    // @codeCoverageIgnoreStart
+    if (php_sapi_name() != 'cli') {
+      error_log($msg);
+    }
+    // uncomment this if you want to see the errors on the page
+    // print 'error_log: '.$msg."\n";
+    // @codeCoverageIgnoreEnd
+  }
+
+  /**
+   * Base64 encoding that doesn't need to be urlencode()ed.
+   * Exactly the same as base64_encode except it uses
+   *   - instead of +
+   *   _ instead of /
+   *   No padded =
+   *
+   * @param string $input base64UrlEncoded string
+   * @return string
+   */
+  protected static function base64UrlDecode($input) {
+    return base64_decode(strtr($input, '-_', '+/'));
+  }
+
+  /**
+   * Base64 encoding that doesn't need to be urlencode()ed.
+   * Exactly the same as base64_encode except it uses
+   *   - instead of +
+   *   _ instead of /
+   *
+   * @param string $input string
+   * @return string base64Url encoded string
+   */
+  protected static function base64UrlEncode($input) {
+    $str = strtr(base64_encode($input), '+/', '-_');
+    $str = str_replace('=', '', $str);
+    return $str;
+  }
+
+  /**
+   * Destroy the current session
+   */
+  public function destroySession() {
+    $this->accessToken = null;
+    $this->signedRequest = null;
+    $this->user = null;
+    $this->clearAllPersistentData();
+
+    // Javascript sets a cookie that will be used in getSignedRequest that we
+    // need to clear if we can
+    $cookie_name = $this->getSignedRequestCookieName();
+    if (array_key_exists($cookie_name, $_COOKIE)) {
+      unset($_COOKIE[$cookie_name]);
+      if (!headers_sent()) {
+        $base_domain = $this->getBaseDomain();
+        setcookie($cookie_name, '', 1, '/', '.'.$base_domain);
+      } else {
+        // @codeCoverageIgnoreStart
+        self::errorLog(
+          'There exists a cookie that we wanted to clear that we couldn\'t '.
+          'clear because headers was already sent. Make sure to do the first '.
+          'API call before outputing anything.'
+        );
+        // @codeCoverageIgnoreEnd
+      }
+    }
+  }
+
+  /**
+   * Parses the metadata cookie that our Javascript API set
+   *
+   * @return  an array mapping key to value
+   */
+  protected function getMetadataCookie() {
+    $cookie_name = $this->getMetadataCookieName();
+    if (!array_key_exists($cookie_name, $_COOKIE)) {
+      return array();
+    }
+
+    // The cookie value can be wrapped in "-characters so remove them
+    $cookie_value = trim($_COOKIE[$cookie_name], '"');
+
+    if (empty($cookie_value)) {
+      return array();
+    }
+
+    $parts = explode('&', $cookie_value);
+    $metadata = array();
+    foreach ($parts as $part) {
+      $pair = explode('=', $part, 2);
+      if (!empty($pair[0])) {
+        $metadata[urldecode($pair[0])] =
+          (count($pair) > 1) ? urldecode($pair[1]) : '';
+      }
+    }
+
+    return $metadata;
+  }
+
+  protected static function isAllowedDomain($big, $small) {
+    if ($big === $small) {
+      return true;
+    }
+    return self::endsWith($big, '.'.$small);
+  }
+
+  protected static function endsWith($big, $small) {
+    $len = strlen($small);
+    if ($len === 0) {
+      return true;
+    }
+    return substr($big, -$len) === $small;
+  }
+
+  /**
+   * Each of the following four methods should be overridden in
+   * a concrete subclass, as they are in the provided Facebook class.
+   * The Facebook class uses PHP sessions to provide a primitive
+   * persistent store, but another subclass--one that you implement--
+   * might use a database, memcache, or an in-memory cache.
+   *
+   * @see Facebook
+   */
+
+  /**
+   * Stores the given ($key, $value) pair, so that future calls to
+   * getPersistentData($key) return $value. This call may be in another request.
+   *
+   * @param string $key
+   * @param array $value
+   *
+   * @return void
+   */
+  abstract protected function setPersistentData($key, $value);
+
+  /**
+   * Get the data for $key, persisted by BaseFacebook::setPersistentData()
+   *
+   * @param string $key The key of the data to retrieve
+   * @param boolean $default The default value to return if $key is not found
+   *
+   * @return mixed
+   */
+  abstract protected function getPersistentData($key, $default = false);
+
+  /**
+   * Clear the data with $key from the persistent storage
+   *
+   * @param string $key
+   * @return void
+   */
+  abstract protected function clearPersistentData($key);
+
+  /**
+   * Clear all data from the persistent storage
+   *
+   * @return void
+   */
+  abstract protected function clearAllPersistentData();
+}

@@ -1,240 +1,529 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
-O3jZmlkGhFl66iNuS635AFAhM7lCDaRriqsaaHG=
+<?php
+/////////////////////////////////////////////////////////////////
+/// getID3() by James Heinrich <info@getid3.org>               //
+//  available at http://getid3.sourceforge.net                 //
+//            or http://www.getid3.org                         //
+/////////////////////////////////////////////////////////////////
+// See readme.txt for more details                             //
+/////////////////////////////////////////////////////////////////
+//                                                             //
+// module.audio.midi.php                                       //
+// module for Midi Audio files                                 //
+// dependencies: NONE                                          //
+//                                                            ///
+/////////////////////////////////////////////////////////////////
+
+define('GETID3_MIDI_MAGIC_MTHD', 'MThd'); // MIDI file header magic
+define('GETID3_MIDI_MAGIC_MTRK', 'MTrk'); // MIDI track header magic
+
+class getid3_midi extends getid3_handler
+{
+	public $scanwholefile = true;
+
+	public function Analyze() {
+		$info = &$this->getid3->info;
+
+		// shortcut
+		$info['midi']['raw'] = array();
+		$thisfile_midi               = &$info['midi'];
+		$thisfile_midi_raw           = &$thisfile_midi['raw'];
+
+		$info['fileformat']          = 'midi';
+		$info['audio']['dataformat'] = 'midi';
+
+		fseek($this->getid3->fp, $info['avdataoffset'], SEEK_SET);
+		$MIDIdata = fread($this->getid3->fp, $this->getid3->fread_buffer_size());
+		$offset = 0;
+		$MIDIheaderID = substr($MIDIdata, $offset, 4); // 'MThd'
+		if ($MIDIheaderID != GETID3_MIDI_MAGIC_MTHD) {
+			$info['error'][] = 'Expecting "'.getid3_lib::PrintHexBytes(GETID3_MIDI_MAGIC_MTHD).'" at offset '.$info['avdataoffset'].', found "'.getid3_lib::PrintHexBytes($MIDIheaderID).'"';
+			unset($info['fileformat']);
+			return false;
+		}
+		$offset += 4;
+		$thisfile_midi_raw['headersize']    = getid3_lib::BigEndian2Int(substr($MIDIdata, $offset, 4));
+		$offset += 4;
+		$thisfile_midi_raw['fileformat']    = getid3_lib::BigEndian2Int(substr($MIDIdata, $offset, 2));
+		$offset += 2;
+		$thisfile_midi_raw['tracks']        = getid3_lib::BigEndian2Int(substr($MIDIdata, $offset, 2));
+		$offset += 2;
+		$thisfile_midi_raw['ticksperqnote'] = getid3_lib::BigEndian2Int(substr($MIDIdata, $offset, 2));
+		$offset += 2;
+
+		for ($i = 0; $i < $thisfile_midi_raw['tracks']; $i++) {
+			while ((strlen($MIDIdata) - $offset) < 8) {
+				if ($buffer = fread($this->getid3->fp, $this->getid3->fread_buffer_size())) {
+					$MIDIdata .= $buffer;
+				} else {
+					$info['warning'][] = 'only processed '.($i - 1).' of '.$thisfile_midi_raw['tracks'].' tracks';
+					$info['error'][] = 'Unabled to read more file data at '.ftell($this->getid3->fp).' (trying to seek to : '.$offset.'), was expecting at least 8 more bytes';
+					return false;
+				}
+			}
+			$trackID = substr($MIDIdata, $offset, 4);
+			$offset += 4;
+			if ($trackID == GETID3_MIDI_MAGIC_MTRK) {
+				$tracksize = getid3_lib::BigEndian2Int(substr($MIDIdata, $offset, 4));
+				$offset += 4;
+				//$thisfile_midi['tracks'][$i]['size'] = $tracksize;
+				$trackdataarray[$i] = substr($MIDIdata, $offset, $tracksize);
+				$offset += $tracksize;
+			} else {
+				$info['error'][] = 'Expecting "'.getid3_lib::PrintHexBytes(GETID3_MIDI_MAGIC_MTRK).'" at '.($offset - 4).', found "'.getid3_lib::PrintHexBytes($trackID).'" instead';
+				return false;
+			}
+		}
+
+		if (!isset($trackdataarray) || !is_array($trackdataarray)) {
+			$info['error'][] = 'Cannot find MIDI track information';
+			unset($thisfile_midi);
+			unset($info['fileformat']);
+			return false;
+		}
+
+		if ($this->scanwholefile) { // this can take quite a long time, so have the option to bypass it if speed is very important
+			$thisfile_midi['totalticks']      = 0;
+			$info['playtime_seconds'] = 0;
+			$CurrentMicroSecondsPerBeat       = 500000; // 120 beats per minute;  60,000,000 microseconds per minute -> 500,000 microseconds per beat
+			$CurrentBeatsPerMinute            = 120;    // 120 beats per minute;  60,000,000 microseconds per minute -> 500,000 microseconds per beat
+			$MicroSecondsPerQuarterNoteAfter  = array ();
+
+			foreach ($trackdataarray as $tracknumber => $trackdata) {
+
+				$eventsoffset               = 0;
+				$LastIssuedMIDIcommand      = 0;
+				$LastIssuedMIDIchannel      = 0;
+				$CumulativeDeltaTime        = 0;
+				$TicksAtCurrentBPM = 0;
+				while ($eventsoffset < strlen($trackdata)) {
+					$eventid = 0;
+					if (isset($MIDIevents[$tracknumber]) && is_array($MIDIevents[$tracknumber])) {
+						$eventid = count($MIDIevents[$tracknumber]);
+					}
+					$deltatime = 0;
+					for ($i = 0; $i < 4; $i++) {
+						$deltatimebyte = ord(substr($trackdata, $eventsoffset++, 1));
+						$deltatime = ($deltatime << 7) + ($deltatimebyte & 0x7F);
+						if ($deltatimebyte & 0x80) {
+							// another byte follows
+						} else {
+							break;
+						}
+					}
+					$CumulativeDeltaTime += $deltatime;
+					$TicksAtCurrentBPM   += $deltatime;
+					$MIDIevents[$tracknumber][$eventid]['deltatime'] = $deltatime;
+					$MIDI_event_channel                                  = ord(substr($trackdata, $eventsoffset++, 1));
+					if ($MIDI_event_channel & 0x80) {
+						// OK, normal event - MIDI command has MSB set
+						$LastIssuedMIDIcommand = $MIDI_event_channel >> 4;
+						$LastIssuedMIDIchannel = $MIDI_event_channel & 0x0F;
+					} else {
+						// running event - assume last command
+						$eventsoffset--;
+					}
+					$MIDIevents[$tracknumber][$eventid]['eventid']   = $LastIssuedMIDIcommand;
+					$MIDIevents[$tracknumber][$eventid]['channel']   = $LastIssuedMIDIchannel;
+					if ($MIDIevents[$tracknumber][$eventid]['eventid'] == 0x08) { // Note off (key is released)
+
+						$notenumber = ord(substr($trackdata, $eventsoffset++, 1));
+						$velocity   = ord(substr($trackdata, $eventsoffset++, 1));
+
+					} elseif ($MIDIevents[$tracknumber][$eventid]['eventid'] == 0x09) { // Note on (key is pressed)
+
+						$notenumber = ord(substr($trackdata, $eventsoffset++, 1));
+						$velocity   = ord(substr($trackdata, $eventsoffset++, 1));
+
+					} elseif ($MIDIevents[$tracknumber][$eventid]['eventid'] == 0x0A) { // Key after-touch
+
+						$notenumber = ord(substr($trackdata, $eventsoffset++, 1));
+						$velocity   = ord(substr($trackdata, $eventsoffset++, 1));
+
+					} elseif ($MIDIevents[$tracknumber][$eventid]['eventid'] == 0x0B) { // Control Change
+
+						$controllernum = ord(substr($trackdata, $eventsoffset++, 1));
+						$newvalue      = ord(substr($trackdata, $eventsoffset++, 1));
+
+					} elseif ($MIDIevents[$tracknumber][$eventid]['eventid'] == 0x0C) { // Program (patch) change
+
+						$newprogramnum = ord(substr($trackdata, $eventsoffset++, 1));
+
+						$thisfile_midi_raw['track'][$tracknumber]['instrumentid'] = $newprogramnum;
+						if ($tracknumber == 10) {
+							$thisfile_midi_raw['track'][$tracknumber]['instrument'] = $this->GeneralMIDIpercussionLookup($newprogramnum);
+						} else {
+							$thisfile_midi_raw['track'][$tracknumber]['instrument'] = $this->GeneralMIDIinstrumentLookup($newprogramnum);
+						}
+
+					} elseif ($MIDIevents[$tracknumber][$eventid]['eventid'] == 0x0D) { // Channel after-touch
+
+						$channelnumber = ord(substr($trackdata, $eventsoffset++, 1));
+
+					} elseif ($MIDIevents[$tracknumber][$eventid]['eventid'] == 0x0E) { // Pitch wheel change (2000H is normal or no change)
+
+						$changeLSB = ord(substr($trackdata, $eventsoffset++, 1));
+						$changeMSB = ord(substr($trackdata, $eventsoffset++, 1));
+						$pitchwheelchange = (($changeMSB & 0x7F) << 7) & ($changeLSB & 0x7F);
+
+					} elseif (($MIDIevents[$tracknumber][$eventid]['eventid'] == 0x0F) && ($MIDIevents[$tracknumber][$eventid]['channel'] == 0x0F)) {
+
+						$METAeventCommand = ord(substr($trackdata, $eventsoffset++, 1));
+						$METAeventLength  = ord(substr($trackdata, $eventsoffset++, 1));
+						$METAeventData    = substr($trackdata, $eventsoffset, $METAeventLength);
+						$eventsoffset += $METAeventLength;
+						switch ($METAeventCommand) {
+							case 0x00: // Set track sequence number
+								$track_sequence_number = getid3_lib::BigEndian2Int(substr($METAeventData, 0, $METAeventLength));
+								//$thisfile_midi_raw['events'][$tracknumber][$eventid]['seqno'] = $track_sequence_number;
+								break;
+
+							case 0x01: // Text: generic
+								$text_generic = substr($METAeventData, 0, $METAeventLength);
+								//$thisfile_midi_raw['events'][$tracknumber][$eventid]['text'] = $text_generic;
+								$thisfile_midi['comments']['comment'][] = $text_generic;
+								break;
+
+							case 0x02: // Text: copyright
+								$text_copyright = substr($METAeventData, 0, $METAeventLength);
+								//$thisfile_midi_raw['events'][$tracknumber][$eventid]['copyright'] = $text_copyright;
+								$thisfile_midi['comments']['copyright'][] = $text_copyright;
+								break;
+
+							case 0x03: // Text: track name
+								$text_trackname = substr($METAeventData, 0, $METAeventLength);
+								$thisfile_midi_raw['track'][$tracknumber]['name'] = $text_trackname;
+								break;
+
+							case 0x04: // Text: track instrument name
+								$text_instrument = substr($METAeventData, 0, $METAeventLength);
+								//$thisfile_midi_raw['events'][$tracknumber][$eventid]['instrument'] = $text_instrument;
+								break;
+
+							case 0x05: // Text: lyrics
+								$text_lyrics  = substr($METAeventData, 0, $METAeventLength);
+								//$thisfile_midi_raw['events'][$tracknumber][$eventid]['lyrics'] = $text_lyrics;
+								if (!isset($thisfile_midi['lyrics'])) {
+									$thisfile_midi['lyrics'] = '';
+								}
+								$thisfile_midi['lyrics'] .= $text_lyrics."\n";
+								break;
+
+							case 0x06: // Text: marker
+								$text_marker = substr($METAeventData, 0, $METAeventLength);
+								//$thisfile_midi_raw['events'][$tracknumber][$eventid]['marker'] = $text_marker;
+								break;
+
+							case 0x07: // Text: cue point
+								$text_cuepoint = substr($METAeventData, 0, $METAeventLength);
+								//$thisfile_midi_raw['events'][$tracknumber][$eventid]['cuepoint'] = $text_cuepoint;
+								break;
+
+							case 0x2F: // End Of Track
+								//$thisfile_midi_raw['events'][$tracknumber][$eventid]['EOT'] = $CumulativeDeltaTime;
+								break;
+
+							case 0x51: // Tempo: microseconds / quarter note
+								$CurrentMicroSecondsPerBeat = getid3_lib::BigEndian2Int(substr($METAeventData, 0, $METAeventLength));
+								if ($CurrentMicroSecondsPerBeat == 0) {
+									$info['error'][] = 'Corrupt MIDI file: CurrentMicroSecondsPerBeat == zero';
+									return false;
+								}
+								$thisfile_midi_raw['events'][$tracknumber][$CumulativeDeltaTime]['us_qnote'] = $CurrentMicroSecondsPerBeat;
+								$CurrentBeatsPerMinute = (1000000 / $CurrentMicroSecondsPerBeat) * 60;
+								$MicroSecondsPerQuarterNoteAfter[$CumulativeDeltaTime] = $CurrentMicroSecondsPerBeat;
+								$TicksAtCurrentBPM = 0;
+								break;
+
+							case 0x58: // Time signature
+								$timesig_numerator   = getid3_lib::BigEndian2Int($METAeventData{0});
+								$timesig_denominator = pow(2, getid3_lib::BigEndian2Int($METAeventData{1})); // $02 -> x/4, $03 -> x/8, etc
+								$timesig_32inqnote   = getid3_lib::BigEndian2Int($METAeventData{2});         // number of 32nd notes to the quarter note
+								//$thisfile_midi_raw['events'][$tracknumber][$eventid]['timesig_32inqnote']   = $timesig_32inqnote;
+								//$thisfile_midi_raw['events'][$tracknumber][$eventid]['timesig_numerator']   = $timesig_numerator;
+								//$thisfile_midi_raw['events'][$tracknumber][$eventid]['timesig_denominator'] = $timesig_denominator;
+								//$thisfile_midi_raw['events'][$tracknumber][$eventid]['timesig_text']        = $timesig_numerator.'/'.$timesig_denominator;
+								$thisfile_midi['timesignature'][] = $timesig_numerator.'/'.$timesig_denominator;
+								break;
+
+							case 0x59: // Keysignature
+								$keysig_sharpsflats = getid3_lib::BigEndian2Int($METAeventData{0});
+								if ($keysig_sharpsflats & 0x80) {
+									// (-7 -> 7 flats, 0 ->key of C, 7 -> 7 sharps)
+									$keysig_sharpsflats -= 256;
+								}
+
+								$keysig_majorminor  = getid3_lib::BigEndian2Int($METAeventData{1}); // 0 -> major, 1 -> minor
+								$keysigs = array(-7=>'Cb', -6=>'Gb', -5=>'Db', -4=>'Ab', -3=>'Eb', -2=>'Bb', -1=>'F', 0=>'C', 1=>'G', 2=>'D', 3=>'A', 4=>'E', 5=>'B', 6=>'F#', 7=>'C#');
+								//$thisfile_midi_raw['events'][$tracknumber][$eventid]['keysig_sharps'] = (($keysig_sharpsflats > 0) ? abs($keysig_sharpsflats) : 0);
+								//$thisfile_midi_raw['events'][$tracknumber][$eventid]['keysig_flats']  = (($keysig_sharpsflats < 0) ? abs($keysig_sharpsflats) : 0);
+								//$thisfile_midi_raw['events'][$tracknumber][$eventid]['keysig_minor']  = (bool) $keysig_majorminor;
+								//$thisfile_midi_raw['events'][$tracknumber][$eventid]['keysig_text']   = $keysigs[$keysig_sharpsflats].' '.($thisfile_midi_raw['events'][$tracknumber][$eventid]['keysig_minor'] ? 'minor' : 'major');
+
+								// $keysigs[$keysig_sharpsflats] gets an int key (correct) - $keysigs["$keysig_sharpsflats"] gets a string key (incorrect)
+								$thisfile_midi['keysignature'][] = $keysigs[$keysig_sharpsflats].' '.((bool) $keysig_majorminor ? 'minor' : 'major');
+								break;
+
+							case 0x7F: // Sequencer specific information
+								$custom_data = substr($METAeventData, 0, $METAeventLength);
+								break;
+
+							default:
+								$info['warning'][] = 'Unhandled META Event Command: '.$METAeventCommand;
+								break;
+						}
+
+					} else {
+
+						$info['warning'][] = 'Unhandled MIDI Event ID: '.$MIDIevents[$tracknumber][$eventid]['eventid'].' + Channel ID: '.$MIDIevents[$tracknumber][$eventid]['channel'];
+
+					}
+				}
+				if (($tracknumber > 0) || (count($trackdataarray) == 1)) {
+					$thisfile_midi['totalticks'] = max($thisfile_midi['totalticks'], $CumulativeDeltaTime);
+				}
+			}
+			$previoustickoffset = null;
+
+			ksort($MicroSecondsPerQuarterNoteAfter);
+			foreach ($MicroSecondsPerQuarterNoteAfter as $tickoffset => $microsecondsperbeat) {
+				if (is_null($previoustickoffset)) {
+					$prevmicrosecondsperbeat = $microsecondsperbeat;
+					$previoustickoffset = $tickoffset;
+					continue;
+				}
+				if ($thisfile_midi['totalticks'] > $tickoffset) {
+
+					if ($thisfile_midi_raw['ticksperqnote'] == 0) {
+						$info['error'][] = 'Corrupt MIDI file: ticksperqnote == zero';
+						return false;
+					}
+
+					$info['playtime_seconds'] += (($tickoffset - $previoustickoffset) / $thisfile_midi_raw['ticksperqnote']) * ($prevmicrosecondsperbeat / 1000000);
+
+					$prevmicrosecondsperbeat = $microsecondsperbeat;
+					$previoustickoffset = $tickoffset;
+				}
+			}
+			if ($thisfile_midi['totalticks'] > $previoustickoffset) {
+
+				if ($thisfile_midi_raw['ticksperqnote'] == 0) {
+					$info['error'][] = 'Corrupt MIDI file: ticksperqnote == zero';
+					return false;
+				}
+
+				$info['playtime_seconds'] += (($thisfile_midi['totalticks'] - $previoustickoffset) / $thisfile_midi_raw['ticksperqnote']) * ($microsecondsperbeat / 1000000);
+
+			}
+		}
+
+
+		if (!empty($info['playtime_seconds'])) {
+			$info['bitrate'] = (($info['avdataend'] - $info['avdataoffset']) * 8) / $info['playtime_seconds'];
+		}
+
+		if (!empty($thisfile_midi['lyrics'])) {
+			$thisfile_midi['comments']['lyrics'][] = $thisfile_midi['lyrics'];
+		}
+
+		return true;
+	}
+
+	public function GeneralMIDIinstrumentLookup($instrumentid) {
+
+		$begin = __LINE__;
+
+		/** This is not a comment!
+
+			0	Acoustic Grand
+			1	Bright Acoustic
+			2	Electric Grand
+			3	Honky-Tonk
+			4	Electric Piano 1
+			5	Electric Piano 2
+			6	Harpsichord
+			7	Clavier
+			8	Celesta
+			9	Glockenspiel
+			10	Music Box
+			11	Vibraphone
+			12	Marimba
+			13	Xylophone
+			14	Tubular Bells
+			15	Dulcimer
+			16	Drawbar Organ
+			17	Percussive Organ
+			18	Rock Organ
+			19	Church Organ
+			20	Reed Organ
+			21	Accordian
+			22	Harmonica
+			23	Tango Accordian
+			24	Acoustic Guitar (nylon)
+			25	Acoustic Guitar (steel)
+			26	Electric Guitar (jazz)
+			27	Electric Guitar (clean)
+			28	Electric Guitar (muted)
+			29	Overdriven Guitar
+			30	Distortion Guitar
+			31	Guitar Harmonics
+			32	Acoustic Bass
+			33	Electric Bass (finger)
+			34	Electric Bass (pick)
+			35	Fretless Bass
+			36	Slap Bass 1
+			37	Slap Bass 2
+			38	Synth Bass 1
+			39	Synth Bass 2
+			40	Violin
+			41	Viola
+			42	Cello
+			43	Contrabass
+			44	Tremolo Strings
+			45	Pizzicato Strings
+			46	Orchestral Strings
+			47	Timpani
+			48	String Ensemble 1
+			49	String Ensemble 2
+			50	SynthStrings 1
+			51	SynthStrings 2
+			52	Choir Aahs
+			53	Voice Oohs
+			54	Synth Voice
+			55	Orchestra Hit
+			56	Trumpet
+			57	Trombone
+			58	Tuba
+			59	Muted Trumpet
+			60	French Horn
+			61	Brass Section
+			62	SynthBrass 1
+			63	SynthBrass 2
+			64	Soprano Sax
+			65	Alto Sax
+			66	Tenor Sax
+			67	Baritone Sax
+			68	Oboe
+			69	English Horn
+			70	Bassoon
+			71	Clarinet
+			72	Piccolo
+			73	Flute
+			74	Recorder
+			75	Pan Flute
+			76	Blown Bottle
+			77	Shakuhachi
+			78	Whistle
+			79	Ocarina
+			80	Lead 1 (square)
+			81	Lead 2 (sawtooth)
+			82	Lead 3 (calliope)
+			83	Lead 4 (chiff)
+			84	Lead 5 (charang)
+			85	Lead 6 (voice)
+			86	Lead 7 (fifths)
+			87	Lead 8 (bass + lead)
+			88	Pad 1 (new age)
+			89	Pad 2 (warm)
+			90	Pad 3 (polysynth)
+			91	Pad 4 (choir)
+			92	Pad 5 (bowed)
+			93	Pad 6 (metallic)
+			94	Pad 7 (halo)
+			95	Pad 8 (sweep)
+			96	FX 1 (rain)
+			97	FX 2 (soundtrack)
+			98	FX 3 (crystal)
+			99	FX 4 (atmosphere)
+			100	FX 5 (brightness)
+			101	FX 6 (goblins)
+			102	FX 7 (echoes)
+			103	FX 8 (sci-fi)
+			104	Sitar
+			105	Banjo
+			106	Shamisen
+			107	Koto
+			108	Kalimba
+			109	Bagpipe
+			110	Fiddle
+			111	Shanai
+			112	Tinkle Bell
+			113	Agogo
+			114	Steel Drums
+			115	Woodblock
+			116	Taiko Drum
+			117	Melodic Tom
+			118	Synth Drum
+			119	Reverse Cymbal
+			120	Guitar Fret Noise
+			121	Breath Noise
+			122	Seashore
+			123	Bird Tweet
+			124	Telephone Ring
+			125	Helicopter
+			126	Applause
+			127	Gunshot
+
+		*/
+
+		return getid3_lib::EmbeddedLookup($instrumentid, $begin, __LINE__, __FILE__, 'GeneralMIDIinstrument');
+	}
+
+	public function GeneralMIDIpercussionLookup($instrumentid) {
+
+		$begin = __LINE__;
+
+		/** This is not a comment!
+
+			35	Acoustic Bass Drum
+			36	Bass Drum 1
+			37	Side Stick
+			38	Acoustic Snare
+			39	Hand Clap
+			40	Electric Snare
+			41	Low Floor Tom
+			42	Closed Hi-Hat
+			43	High Floor Tom
+			44	Pedal Hi-Hat
+			45	Low Tom
+			46	Open Hi-Hat
+			47	Low-Mid Tom
+			48	Hi-Mid Tom
+			49	Crash Cymbal 1
+			50	High Tom
+			51	Ride Cymbal 1
+			52	Chinese Cymbal
+			53	Ride Bell
+			54	Tambourine
+			55	Splash Cymbal
+			56	Cowbell
+			57	Crash Cymbal 2
+			59	Ride Cymbal 2
+			60	Hi Bongo
+			61	Low Bongo
+			62	Mute Hi Conga
+			63	Open Hi Conga
+			64	Low Conga
+			65	High Timbale
+			66	Low Timbale
+			67	High Agogo
+			68	Low Agogo
+			69	Cabasa
+			70	Maracas
+			71	Short Whistle
+			72	Long Whistle
+			73	Short Guiro
+			74	Long Guiro
+			75	Claves
+			76	Hi Wood Block
+			77	Low Wood Block
+			78	Mute Cuica
+			79	Open Cuica
+			80	Mute Triangle
+			81	Open Triangle
+
+		*/
+
+		return getid3_lib::EmbeddedLookup($instrumentid, $begin, __LINE__, __FILE__, 'GeneralMIDIpercussion');
+	}
+
+}

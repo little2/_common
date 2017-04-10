@@ -1,381 +1,512 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
-48gmuYXoz0==
+<?php
+/////////////////////////////////////////////////////////////////
+/// getID3() by James Heinrich <info@getid3.org>               //
+//  available at http://getid3.sourceforge.net                 //
+//            or http://www.getid3.org                         //
+/////////////////////////////////////////////////////////////////
+// See readme.txt for more details                             //
+/////////////////////////////////////////////////////////////////
+//                                                             //
+// module.archive.zip.php                                      //
+// module for analyzing pkZip files                            //
+// dependencies: NONE                                          //
+//                                                            ///
+/////////////////////////////////////////////////////////////////
+
+
+class getid3_zip extends getid3_handler
+{
+
+	public function Analyze() {
+		$info = &$this->getid3->info;
+
+		$info['fileformat']      = 'zip';
+		$info['zip']['encoding'] = 'ISO-8859-1';
+		$info['zip']['files']    = array();
+
+		$info['zip']['compressed_size']   = 0;
+		$info['zip']['uncompressed_size'] = 0;
+		$info['zip']['entries_count']     = 0;
+
+		if (!getid3_lib::intValueSupported($info['filesize'])) {
+			$info['error'][] = 'File is larger than '.round(PHP_INT_MAX / 1073741824).'GB, not supported by PHP';
+			return false;
+		} else {
+			$EOCDsearchData    = '';
+			$EOCDsearchCounter = 0;
+			while ($EOCDsearchCounter++ < 512) {
+
+				fseek($this->getid3->fp, -128 * $EOCDsearchCounter, SEEK_END);
+				$EOCDsearchData = fread($this->getid3->fp, 128).$EOCDsearchData;
+
+				if (strstr($EOCDsearchData, 'PK'."\x05\x06")) {
+
+					$EOCDposition = strpos($EOCDsearchData, 'PK'."\x05\x06");
+					fseek($this->getid3->fp, (-128 * $EOCDsearchCounter) + $EOCDposition, SEEK_END);
+					$info['zip']['end_central_directory'] = $this->ZIPparseEndOfCentralDirectory();
+
+					fseek($this->getid3->fp, $info['zip']['end_central_directory']['directory_offset'], SEEK_SET);
+					$info['zip']['entries_count'] = 0;
+					while ($centraldirectoryentry = $this->ZIPparseCentralDirectory($this->getid3->fp)) {
+						$info['zip']['central_directory'][] = $centraldirectoryentry;
+						$info['zip']['entries_count']++;
+						$info['zip']['compressed_size']   += $centraldirectoryentry['compressed_size'];
+						$info['zip']['uncompressed_size'] += $centraldirectoryentry['uncompressed_size'];
+
+						//if ($centraldirectoryentry['uncompressed_size'] > 0) { zero-byte files are valid
+						if (!empty($centraldirectoryentry['filename'])) {
+							$info['zip']['files'] = getid3_lib::array_merge_clobber($info['zip']['files'], getid3_lib::CreateDeepArray($centraldirectoryentry['filename'], '/', $centraldirectoryentry['uncompressed_size']));
+						}
+					}
+
+					if ($info['zip']['entries_count'] == 0) {
+						$info['error'][] = 'No Central Directory entries found (truncated file?)';
+						return false;
+					}
+
+					if (!empty($info['zip']['end_central_directory']['comment'])) {
+						$info['zip']['comments']['comment'][] = $info['zip']['end_central_directory']['comment'];
+					}
+
+					if (isset($info['zip']['central_directory'][0]['compression_method'])) {
+						$info['zip']['compression_method'] = $info['zip']['central_directory'][0]['compression_method'];
+					}
+					if (isset($info['zip']['central_directory'][0]['flags']['compression_speed'])) {
+						$info['zip']['compression_speed']  = $info['zip']['central_directory'][0]['flags']['compression_speed'];
+					}
+					if (isset($info['zip']['compression_method']) && ($info['zip']['compression_method'] == 'store') && !isset($info['zip']['compression_speed'])) {
+						$info['zip']['compression_speed']  = 'store';
+					}
+
+					// secondary check - we (should) already have all the info we NEED from the Central Directory above, but scanning each
+					// Local File Header entry will
+					foreach ($info['zip']['central_directory'] as $central_directory_entry) {
+						fseek($this->getid3->fp, $central_directory_entry['entry_offset'], SEEK_SET);
+						if ($fileentry = $this->ZIPparseLocalFileHeader()) {
+							$info['zip']['entries'][] = $fileentry;
+						} else {
+							$info['warning'][] = 'Error parsing Local File Header at offset '.$central_directory_entry['entry_offset'];
+						}
+					}
+
+					if (!empty($info['zip']['files']['[Content_Types].xml']) &&
+					    !empty($info['zip']['files']['_rels']['.rels'])      &&
+					    !empty($info['zip']['files']['docProps']['app.xml']) &&
+					    !empty($info['zip']['files']['docProps']['core.xml'])) {
+						   // http://technet.microsoft.com/en-us/library/cc179224.aspx
+						   $info['fileformat'] = 'zip.msoffice';
+						   if (!empty($ThisFileInfo['zip']['files']['ppt'])) {
+						      $info['mime_type'] = 'application/vnd.openxmlformats-officedocument.presentationml.presentation';
+						   } elseif (!empty($ThisFileInfo['zip']['files']['xl'])) {
+						      $info['mime_type'] = 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet';
+						   } elseif (!empty($ThisFileInfo['zip']['files']['word'])) {
+						      $info['mime_type'] = 'application/vnd.openxmlformats-officedocument.wordprocessingml.document';
+						   }
+					}
+
+					return true;
+				}
+			}
+		}
+
+		if (!$this->getZIPentriesFilepointer()) {
+			unset($info['zip']);
+			$info['fileformat'] = '';
+			$info['error'][] = 'Cannot find End Of Central Directory (truncated file?)';
+			return false;
+		}
+
+		// central directory couldn't be found and/or parsed
+		// scan through actual file data entries, recover as much as possible from probable trucated file
+		if ($info['zip']['compressed_size'] > ($info['filesize'] - 46 - 22)) {
+			$info['error'][] = 'Warning: Truncated file! - Total compressed file sizes ('.$info['zip']['compressed_size'].' bytes) is greater than filesize minus Central Directory and End Of Central Directory structures ('.($info['filesize'] - 46 - 22).' bytes)';
+		}
+		$info['error'][] = 'Cannot find End Of Central Directory - returned list of files in [zip][entries] array may not be complete';
+		foreach ($info['zip']['entries'] as $key => $valuearray) {
+			$info['zip']['files'][$valuearray['filename']] = $valuearray['uncompressed_size'];
+		}
+		return true;
+	}
+
+
+	public function getZIPHeaderFilepointerTopDown() {
+		$info = &$this->getid3->info;
+
+		$info['fileformat'] = 'zip';
+
+		$info['zip']['compressed_size']   = 0;
+		$info['zip']['uncompressed_size'] = 0;
+		$info['zip']['entries_count']     = 0;
+
+		rewind($this->getid3->fp);
+		while ($fileentry = $this->ZIPparseLocalFileHeader()) {
+			$info['zip']['entries'][] = $fileentry;
+			$info['zip']['entries_count']++;
+		}
+		if ($info['zip']['entries_count'] == 0) {
+			$info['error'][] = 'No Local File Header entries found';
+			return false;
+		}
+
+		$info['zip']['entries_count']     = 0;
+		while ($centraldirectoryentry = $this->ZIPparseCentralDirectory($this->getid3->fp)) {
+			$info['zip']['central_directory'][] = $centraldirectoryentry;
+			$info['zip']['entries_count']++;
+			$info['zip']['compressed_size']   += $centraldirectoryentry['compressed_size'];
+			$info['zip']['uncompressed_size'] += $centraldirectoryentry['uncompressed_size'];
+		}
+		if ($info['zip']['entries_count'] == 0) {
+			$info['error'][] = 'No Central Directory entries found (truncated file?)';
+			return false;
+		}
+
+		if ($EOCD = $this->ZIPparseEndOfCentralDirectory()) {
+			$info['zip']['end_central_directory'] = $EOCD;
+		} else {
+			$info['error'][] = 'No End Of Central Directory entry found (truncated file?)';
+			return false;
+		}
+
+		if (!empty($info['zip']['end_central_directory']['comment'])) {
+			$info['zip']['comments']['comment'][] = $info['zip']['end_central_directory']['comment'];
+		}
+
+		return true;
+	}
+
+
+	public function getZIPentriesFilepointer() {
+		$info = &$this->getid3->info;
+
+		$info['zip']['compressed_size']   = 0;
+		$info['zip']['uncompressed_size'] = 0;
+		$info['zip']['entries_count']     = 0;
+
+		rewind($this->getid3->fp);
+		while ($fileentry = $this->ZIPparseLocalFileHeader()) {
+			$info['zip']['entries'][] = $fileentry;
+			$info['zip']['entries_count']++;
+			$info['zip']['compressed_size']   += $fileentry['compressed_size'];
+			$info['zip']['uncompressed_size'] += $fileentry['uncompressed_size'];
+		}
+		if ($info['zip']['entries_count'] == 0) {
+			$info['error'][] = 'No Local File Header entries found';
+			return false;
+		}
+
+		return true;
+	}
+
+
+	public function ZIPparseLocalFileHeader() {
+		$LocalFileHeader['offset'] = ftell($this->getid3->fp);
+
+		$ZIPlocalFileHeader = fread($this->getid3->fp, 30);
+
+		$LocalFileHeader['raw']['signature']          = getid3_lib::LittleEndian2Int(substr($ZIPlocalFileHeader,  0, 4));
+		if ($LocalFileHeader['raw']['signature'] != 0x04034B50) { // "PK\x03\x04"
+			// invalid Local File Header Signature
+			fseek($this->getid3->fp, $LocalFileHeader['offset'], SEEK_SET); // seek back to where filepointer originally was so it can be handled properly
+			return false;
+		}
+		$LocalFileHeader['raw']['extract_version']    = getid3_lib::LittleEndian2Int(substr($ZIPlocalFileHeader,  4, 2));
+		$LocalFileHeader['raw']['general_flags']      = getid3_lib::LittleEndian2Int(substr($ZIPlocalFileHeader,  6, 2));
+		$LocalFileHeader['raw']['compression_method'] = getid3_lib::LittleEndian2Int(substr($ZIPlocalFileHeader,  8, 2));
+		$LocalFileHeader['raw']['last_mod_file_time'] = getid3_lib::LittleEndian2Int(substr($ZIPlocalFileHeader, 10, 2));
+		$LocalFileHeader['raw']['last_mod_file_date'] = getid3_lib::LittleEndian2Int(substr($ZIPlocalFileHeader, 12, 2));
+		$LocalFileHeader['raw']['crc_32']             = getid3_lib::LittleEndian2Int(substr($ZIPlocalFileHeader, 14, 4));
+		$LocalFileHeader['raw']['compressed_size']    = getid3_lib::LittleEndian2Int(substr($ZIPlocalFileHeader, 18, 4));
+		$LocalFileHeader['raw']['uncompressed_size']  = getid3_lib::LittleEndian2Int(substr($ZIPlocalFileHeader, 22, 4));
+		$LocalFileHeader['raw']['filename_length']    = getid3_lib::LittleEndian2Int(substr($ZIPlocalFileHeader, 26, 2));
+		$LocalFileHeader['raw']['extra_field_length'] = getid3_lib::LittleEndian2Int(substr($ZIPlocalFileHeader, 28, 2));
+
+		$LocalFileHeader['extract_version']           = sprintf('%1.1f', $LocalFileHeader['raw']['extract_version'] / 10);
+		$LocalFileHeader['host_os']                   = $this->ZIPversionOSLookup(($LocalFileHeader['raw']['extract_version'] & 0xFF00) >> 8);
+		$LocalFileHeader['compression_method']        = $this->ZIPcompressionMethodLookup($LocalFileHeader['raw']['compression_method']);
+		$LocalFileHeader['compressed_size']           = $LocalFileHeader['raw']['compressed_size'];
+		$LocalFileHeader['uncompressed_size']         = $LocalFileHeader['raw']['uncompressed_size'];
+		$LocalFileHeader['flags']                     = $this->ZIPparseGeneralPurposeFlags($LocalFileHeader['raw']['general_flags'], $LocalFileHeader['raw']['compression_method']);
+		$LocalFileHeader['last_modified_timestamp']   = $this->DOStime2UNIXtime($LocalFileHeader['raw']['last_mod_file_date'], $LocalFileHeader['raw']['last_mod_file_time']);
+
+		$FilenameExtrafieldLength = $LocalFileHeader['raw']['filename_length'] + $LocalFileHeader['raw']['extra_field_length'];
+		if ($FilenameExtrafieldLength > 0) {
+			$ZIPlocalFileHeader .= fread($this->getid3->fp, $FilenameExtrafieldLength);
+
+			if ($LocalFileHeader['raw']['filename_length'] > 0) {
+				$LocalFileHeader['filename']                = substr($ZIPlocalFileHeader, 30, $LocalFileHeader['raw']['filename_length']);
+			}
+			if ($LocalFileHeader['raw']['extra_field_length'] > 0) {
+				$LocalFileHeader['raw']['extra_field_data'] = substr($ZIPlocalFileHeader, 30 + $LocalFileHeader['raw']['filename_length'], $LocalFileHeader['raw']['extra_field_length']);
+			}
+		}
+
+		if ($LocalFileHeader['compressed_size'] == 0) {
+			// *Could* be a zero-byte file
+			// But could also be a file written on the fly that didn't know compressed filesize beforehand.
+			// Correct compressed filesize should be in the data_descriptor located after this file data, and also in Central Directory (at end of zip file)
+			if (!empty($this->getid3->info['zip']['central_directory'])) {
+				foreach ($this->getid3->info['zip']['central_directory'] as $central_directory_entry) {
+					if ($central_directory_entry['entry_offset'] == $LocalFileHeader['offset']) {
+						if ($central_directory_entry['compressed_size'] > 0) {
+							// overwrite local zero value (but not ['raw']'compressed_size']) so that seeking for data_descriptor (and next file entry) works correctly
+							$LocalFileHeader['compressed_size'] = $central_directory_entry['compressed_size'];
+						}
+						break;
+					}
+				}
+			}
+
+		}
+		$LocalFileHeader['data_offset'] = ftell($this->getid3->fp);
+		fseek($this->getid3->fp, $LocalFileHeader['compressed_size'], SEEK_CUR); // this should (but may not) match value in $LocalFileHeader['raw']['compressed_size'] -- $LocalFileHeader['compressed_size'] could have been overwritten above with value from Central Directory
+
+		if ($LocalFileHeader['flags']['data_descriptor_used']) {
+			$DataDescriptor = fread($this->getid3->fp, 16);
+			$LocalFileHeader['data_descriptor']['signature']         = getid3_lib::LittleEndian2Int(substr($DataDescriptor,  0, 4));
+			if ($LocalFileHeader['data_descriptor']['signature'] != 0x08074B50) { // "PK\x07\x08"
+				$this->getid3->warning[] = 'invalid Local File Header Data Descriptor Signature at offset '.(ftell($this->getid3->fp) - 16).' - expecting 08 07 4B 50, found '.getid3_lib::PrintHexBytes($LocalFileHeader['data_descriptor']['signature']);
+				fseek($this->getid3->fp, $LocalFileHeader['offset'], SEEK_SET); // seek back to where filepointer originally was so it can be handled properly
+				return false;
+			}
+			$LocalFileHeader['data_descriptor']['crc_32']            = getid3_lib::LittleEndian2Int(substr($DataDescriptor,  4, 4));
+			$LocalFileHeader['data_descriptor']['compressed_size']   = getid3_lib::LittleEndian2Int(substr($DataDescriptor,  8, 4));
+			$LocalFileHeader['data_descriptor']['uncompressed_size'] = getid3_lib::LittleEndian2Int(substr($DataDescriptor, 12, 4));
+			if (!$LocalFileHeader['raw']['compressed_size'] && $LocalFileHeader['data_descriptor']['compressed_size']) {
+				foreach ($this->getid3->info['zip']['central_directory'] as $central_directory_entry) {
+					if ($central_directory_entry['entry_offset'] == $LocalFileHeader['offset']) {
+						if ($LocalFileHeader['data_descriptor']['compressed_size'] == $central_directory_entry['compressed_size']) {
+							// $LocalFileHeader['compressed_size'] already set from Central Directory
+						} else {
+							$this->getid3->info['warning'][] = 'conflicting compressed_size from data_descriptor ('.$LocalFileHeader['data_descriptor']['compressed_size'].') vs Central Directory ('.$central_directory_entry['compressed_size'].') for file at offset '.$LocalFileHeader['offset'];
+						}
+
+						if ($LocalFileHeader['data_descriptor']['uncompressed_size'] == $central_directory_entry['uncompressed_size']) {
+							$LocalFileHeader['uncompressed_size'] = $LocalFileHeader['data_descriptor']['uncompressed_size'];
+						} else {
+							$this->getid3->info['warning'][] = 'conflicting uncompressed_size from data_descriptor ('.$LocalFileHeader['data_descriptor']['uncompressed_size'].') vs Central Directory ('.$central_directory_entry['uncompressed_size'].') for file at offset '.$LocalFileHeader['offset'];
+						}
+						break;
+					}
+				}
+			}
+		}
+		return $LocalFileHeader;
+	}
+
+
+	public function ZIPparseCentralDirectory() {
+		$CentralDirectory['offset'] = ftell($this->getid3->fp);
+
+		$ZIPcentralDirectory = fread($this->getid3->fp, 46);
+
+		$CentralDirectory['raw']['signature']            = getid3_lib::LittleEndian2Int(substr($ZIPcentralDirectory,  0, 4));
+		if ($CentralDirectory['raw']['signature'] != 0x02014B50) {
+			// invalid Central Directory Signature
+			fseek($this->getid3->fp, $CentralDirectory['offset'], SEEK_SET); // seek back to where filepointer originally was so it can be handled properly
+			return false;
+		}
+		$CentralDirectory['raw']['create_version']       = getid3_lib::LittleEndian2Int(substr($ZIPcentralDirectory,  4, 2));
+		$CentralDirectory['raw']['extract_version']      = getid3_lib::LittleEndian2Int(substr($ZIPcentralDirectory,  6, 2));
+		$CentralDirectory['raw']['general_flags']        = getid3_lib::LittleEndian2Int(substr($ZIPcentralDirectory,  8, 2));
+		$CentralDirectory['raw']['compression_method']   = getid3_lib::LittleEndian2Int(substr($ZIPcentralDirectory, 10, 2));
+		$CentralDirectory['raw']['last_mod_file_time']   = getid3_lib::LittleEndian2Int(substr($ZIPcentralDirectory, 12, 2));
+		$CentralDirectory['raw']['last_mod_file_date']   = getid3_lib::LittleEndian2Int(substr($ZIPcentralDirectory, 14, 2));
+		$CentralDirectory['raw']['crc_32']               = getid3_lib::LittleEndian2Int(substr($ZIPcentralDirectory, 16, 4));
+		$CentralDirectory['raw']['compressed_size']      = getid3_lib::LittleEndian2Int(substr($ZIPcentralDirectory, 20, 4));
+		$CentralDirectory['raw']['uncompressed_size']    = getid3_lib::LittleEndian2Int(substr($ZIPcentralDirectory, 24, 4));
+		$CentralDirectory['raw']['filename_length']      = getid3_lib::LittleEndian2Int(substr($ZIPcentralDirectory, 28, 2));
+		$CentralDirectory['raw']['extra_field_length']   = getid3_lib::LittleEndian2Int(substr($ZIPcentralDirectory, 30, 2));
+		$CentralDirectory['raw']['file_comment_length']  = getid3_lib::LittleEndian2Int(substr($ZIPcentralDirectory, 32, 2));
+		$CentralDirectory['raw']['disk_number_start']    = getid3_lib::LittleEndian2Int(substr($ZIPcentralDirectory, 34, 2));
+		$CentralDirectory['raw']['internal_file_attrib'] = getid3_lib::LittleEndian2Int(substr($ZIPcentralDirectory, 36, 2));
+		$CentralDirectory['raw']['external_file_attrib'] = getid3_lib::LittleEndian2Int(substr($ZIPcentralDirectory, 38, 4));
+		$CentralDirectory['raw']['local_header_offset']  = getid3_lib::LittleEndian2Int(substr($ZIPcentralDirectory, 42, 4));
+
+		$CentralDirectory['entry_offset']              = $CentralDirectory['raw']['local_header_offset'];
+		$CentralDirectory['create_version']            = sprintf('%1.1f', $CentralDirectory['raw']['create_version'] / 10);
+		$CentralDirectory['extract_version']           = sprintf('%1.1f', $CentralDirectory['raw']['extract_version'] / 10);
+		$CentralDirectory['host_os']                   = $this->ZIPversionOSLookup(($CentralDirectory['raw']['extract_version'] & 0xFF00) >> 8);
+		$CentralDirectory['compression_method']        = $this->ZIPcompressionMethodLookup($CentralDirectory['raw']['compression_method']);
+		$CentralDirectory['compressed_size']           = $CentralDirectory['raw']['compressed_size'];
+		$CentralDirectory['uncompressed_size']         = $CentralDirectory['raw']['uncompressed_size'];
+		$CentralDirectory['flags']                     = $this->ZIPparseGeneralPurposeFlags($CentralDirectory['raw']['general_flags'], $CentralDirectory['raw']['compression_method']);
+		$CentralDirectory['last_modified_timestamp']   = $this->DOStime2UNIXtime($CentralDirectory['raw']['last_mod_file_date'], $CentralDirectory['raw']['last_mod_file_time']);
+
+		$FilenameExtrafieldCommentLength = $CentralDirectory['raw']['filename_length'] + $CentralDirectory['raw']['extra_field_length'] + $CentralDirectory['raw']['file_comment_length'];
+		if ($FilenameExtrafieldCommentLength > 0) {
+			$FilenameExtrafieldComment = fread($this->getid3->fp, $FilenameExtrafieldCommentLength);
+
+			if ($CentralDirectory['raw']['filename_length'] > 0) {
+				$CentralDirectory['filename']                  = substr($FilenameExtrafieldComment, 0, $CentralDirectory['raw']['filename_length']);
+			}
+			if ($CentralDirectory['raw']['extra_field_length'] > 0) {
+				$CentralDirectory['raw']['extra_field_data']   = substr($FilenameExtrafieldComment, $CentralDirectory['raw']['filename_length'], $CentralDirectory['raw']['extra_field_length']);
+			}
+			if ($CentralDirectory['raw']['file_comment_length'] > 0) {
+				$CentralDirectory['file_comment']              = substr($FilenameExtrafieldComment, $CentralDirectory['raw']['filename_length'] + $CentralDirectory['raw']['extra_field_length'], $CentralDirectory['raw']['file_comment_length']);
+			}
+		}
+
+		return $CentralDirectory;
+	}
+
+	public function ZIPparseEndOfCentralDirectory() {
+		$EndOfCentralDirectory['offset'] = ftell($this->getid3->fp);
+
+		$ZIPendOfCentralDirectory = fread($this->getid3->fp, 22);
+
+		$EndOfCentralDirectory['signature']                   = getid3_lib::LittleEndian2Int(substr($ZIPendOfCentralDirectory,  0, 4));
+		if ($EndOfCentralDirectory['signature'] != 0x06054B50) {
+			// invalid End Of Central Directory Signature
+			fseek($this->getid3->fp, $EndOfCentralDirectory['offset'], SEEK_SET); // seek back to where filepointer originally was so it can be handled properly
+			return false;
+		}
+		$EndOfCentralDirectory['disk_number_current']         = getid3_lib::LittleEndian2Int(substr($ZIPendOfCentralDirectory,  4, 2));
+		$EndOfCentralDirectory['disk_number_start_directory'] = getid3_lib::LittleEndian2Int(substr($ZIPendOfCentralDirectory,  6, 2));
+		$EndOfCentralDirectory['directory_entries_this_disk'] = getid3_lib::LittleEndian2Int(substr($ZIPendOfCentralDirectory,  8, 2));
+		$EndOfCentralDirectory['directory_entries_total']     = getid3_lib::LittleEndian2Int(substr($ZIPendOfCentralDirectory, 10, 2));
+		$EndOfCentralDirectory['directory_size']              = getid3_lib::LittleEndian2Int(substr($ZIPendOfCentralDirectory, 12, 4));
+		$EndOfCentralDirectory['directory_offset']            = getid3_lib::LittleEndian2Int(substr($ZIPendOfCentralDirectory, 16, 4));
+		$EndOfCentralDirectory['comment_length']              = getid3_lib::LittleEndian2Int(substr($ZIPendOfCentralDirectory, 20, 2));
+
+		if ($EndOfCentralDirectory['comment_length'] > 0) {
+			$EndOfCentralDirectory['comment']                 = fread($this->getid3->fp, $EndOfCentralDirectory['comment_length']);
+		}
+
+		return $EndOfCentralDirectory;
+	}
+
+
+	public static function ZIPparseGeneralPurposeFlags($flagbytes, $compressionmethod) {
+		// https://users.cs.jmu.edu/buchhofp/forensics/formats/pkzip-printable.html
+		$ParsedFlags['encrypted']               = (bool) ($flagbytes & 0x0001);
+		//                                                             0x0002 -- see below
+		//                                                             0x0004 -- see below
+		$ParsedFlags['data_descriptor_used']    = (bool) ($flagbytes & 0x0008);
+		$ParsedFlags['enhanced_deflation']      = (bool) ($flagbytes & 0x0010);
+		$ParsedFlags['compressed_patched_data'] = (bool) ($flagbytes & 0x0020);
+		$ParsedFlags['strong_encryption']       = (bool) ($flagbytes & 0x0040);
+		//                                                             0x0080 - unused
+		//                                                             0x0100 - unused
+		//                                                             0x0200 - unused
+		//                                                             0x0400 - unused
+		$ParsedFlags['language_encoding']       = (bool) ($flagbytes & 0x0800);
+		//                                                             0x1000 - reserved
+		$ParsedFlags['mask_header_values']      = (bool) ($flagbytes & 0x2000);
+		//                                                             0x4000 - reserved
+		//                                                             0x8000 - reserved
+
+		switch ($compressionmethod) {
+			case 6:
+				$ParsedFlags['dictionary_size']    = (($flagbytes & 0x0002) ? 8192 : 4096);
+				$ParsedFlags['shannon_fano_trees'] = (($flagbytes & 0x0004) ? 3    : 2);
+				break;
+
+			case 8:
+			case 9:
+				switch (($flagbytes & 0x0006) >> 1) {
+					case 0:
+						$ParsedFlags['compression_speed'] = 'normal';
+						break;
+					case 1:
+						$ParsedFlags['compression_speed'] = 'maximum';
+						break;
+					case 2:
+						$ParsedFlags['compression_speed'] = 'fast';
+						break;
+					case 3:
+						$ParsedFlags['compression_speed'] = 'superfast';
+						break;
+				}
+				break;
+		}
+
+		return $ParsedFlags;
+	}
+
+
+	public static function ZIPversionOSLookup($index) {
+		static $ZIPversionOSLookup = array(
+			0  => 'MS-DOS and OS/2 (FAT / VFAT / FAT32 file systems)',
+			1  => 'Amiga',
+			2  => 'OpenVMS',
+			3  => 'Unix',
+			4  => 'VM/CMS',
+			5  => 'Atari ST',
+			6  => 'OS/2 H.P.F.S.',
+			7  => 'Macintosh',
+			8  => 'Z-System',
+			9  => 'CP/M',
+			10 => 'Windows NTFS',
+			11 => 'MVS',
+			12 => 'VSE',
+			13 => 'Acorn Risc',
+			14 => 'VFAT',
+			15 => 'Alternate MVS',
+			16 => 'BeOS',
+			17 => 'Tandem',
+			18 => 'OS/400',
+			19 => 'OS/X (Darwin)',
+		);
+
+		return (isset($ZIPversionOSLookup[$index]) ? $ZIPversionOSLookup[$index] : '[unknown]');
+	}
+
+	public static function ZIPcompressionMethodLookup($index) {
+		// http://www.sno.phy.queensu.ca/~phil/exiftool/TagNames/ZIP.html
+		static $ZIPcompressionMethodLookup = array(
+			0  => 'store',
+			1  => 'shrink',
+			2  => 'reduce-1',
+			3  => 'reduce-2',
+			4  => 'reduce-3',
+			5  => 'reduce-4',
+			6  => 'implode',
+			7  => 'tokenize',
+			8  => 'deflate',
+			9  => 'deflate64',
+			10 => 'Imploded (old IBM TERSE)',
+			11 => 'RESERVED[11]',
+			12 => 'BZIP2',
+			13 => 'RESERVED[13]',
+			14 => 'LZMA (EFS)',
+			15 => 'RESERVED[15]',
+			16 => 'RESERVED[16]',
+			17 => 'RESERVED[17]',
+			18 => 'IBM TERSE (new)',
+			19 => 'IBM LZ77 z Architecture (PFS)',
+			96 => 'JPEG recompressed',
+			97 => 'WavPack compressed',
+			98 => 'PPMd version I, Rev 1',
+		);
+
+		return (isset($ZIPcompressionMethodLookup[$index]) ? $ZIPcompressionMethodLookup[$index] : '[unknown]');
+	}
+
+	public static function DOStime2UNIXtime($DOSdate, $DOStime) {
+		// wFatDate
+		// Specifies the MS-DOS date. The date is a packed 16-bit value with the following format:
+		// Bits      Contents
+		// 0-4    Day of the month (1-31)
+		// 5-8    Month (1 = January, 2 = February, and so on)
+		// 9-15   Year offset from 1980 (add 1980 to get actual year)
+
+		$UNIXday    =  ($DOSdate & 0x001F);
+		$UNIXmonth  = (($DOSdate & 0x01E0) >> 5);
+		$UNIXyear   = (($DOSdate & 0xFE00) >> 9) + 1980;
+
+		// wFatTime
+		// Specifies the MS-DOS time. The time is a packed 16-bit value with the following format:
+		// Bits   Contents
+		// 0-4    Second divided by 2
+		// 5-10   Minute (0-59)
+		// 11-15  Hour (0-23 on a 24-hour clock)
+
+		$UNIXsecond =  ($DOStime & 0x001F) * 2;
+		$UNIXminute = (($DOStime & 0x07E0) >> 5);
+		$UNIXhour   = (($DOStime & 0xF800) >> 11);
+
+		return gmmktime($UNIXhour, $UNIXminute, $UNIXsecond, $UNIXmonth, $UNIXday, $UNIXyear);
+	}
+
+}

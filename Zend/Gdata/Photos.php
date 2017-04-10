@@ -1,143 +1,576 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
-BlNNEcw4GD6tzyiGVyJB+5NGzxeYG5Gs
+<?php
+
+/**
+ * Zend Framework
+ *
+ * LICENSE
+ *
+ * This source file is subject to the new BSD license that is bundled
+ * with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://framework.zend.com/license/new-bsd
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@zend.com so we can send you a copy immediately.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Photos
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ * @version    $Id: Photos.php 16971 2009-07-22 18:05:45Z mikaelkael $
+ */
+
+/**
+ * @see Zend_Gdata
+ */
+require_once 'Zend/Gdata.php';
+
+/**
+ * @see Zend_Gdata_Photos_UserFeed
+ */
+require_once 'Zend/Gdata/Photos/UserFeed.php';
+
+/**
+ * @see Zend_Gdata_Photos_AlbumFeed
+ */
+require_once 'Zend/Gdata/Photos/AlbumFeed.php';
+
+/**
+ * @see Zend_Gdata_Photos_PhotoFeed
+ */
+require_once 'Zend/Gdata/Photos/PhotoFeed.php';
+
+/**
+ * Service class for interacting with the Google Photos Data API.
+ *
+ * Like other service classes in this module, this class provides access via
+ * an HTTP client to Google servers for working with entries and feeds.
+ *
+ * @link http://code.google.com/apis/picasaweb/gdata.html
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Photos
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+class Zend_Gdata_Photos extends Zend_Gdata
+{
+
+    const PICASA_BASE_URI = 'http://picasaweb.google.com/data';
+    const PICASA_BASE_FEED_URI = 'http://picasaweb.google.com/data/feed';
+    const AUTH_SERVICE_NAME = 'lh2';
+
+    /**
+     * Default projection when interacting with the Picasa server.
+     */
+    const DEFAULT_PROJECTION = 'api';
+
+    /**
+     * The default visibility to filter events by.
+     */
+    const DEFAULT_VISIBILITY = 'all';
+
+    /**
+     * The default user to retrieve feeds for.
+     */
+    const DEFAULT_USER = 'default';
+
+    /**
+     * Path to the user feed on the Picasa server.
+     */
+    const USER_PATH = 'user';
+
+    /**
+     * Path to album feeds on the Picasa server.
+     */
+    const ALBUM_PATH = 'albumid';
+
+    /**
+     * Path to photo feeds on the Picasa server.
+     */
+    const PHOTO_PATH = 'photoid';
+
+    /**
+     * The path to the community search feed on the Picasa server.
+     */
+    const COMMUNITY_SEARCH_PATH = 'all';
+
+    /**
+     * The path to use for finding links to feeds within entries
+     */
+    const FEED_LINK_PATH = 'http://schemas.google.com/g/2005#feed';
+
+    /**
+     * The path to use for the determining type of an entry
+     */
+    const KIND_PATH = 'http://schemas.google.com/g/2005#kind';
+
+    /**
+     * Namespaces used for Zend_Gdata_Photos
+     *
+     * @var array
+     */
+    public static $namespaces = array(
+        array('gphoto', 'http://schemas.google.com/photos/2007', 1, 0),
+        array('photo', 'http://www.pheed.com/pheed/', 1, 0),
+        array('exif', 'http://schemas.google.com/photos/exif/2007', 1, 0),
+        array('georss', 'http://www.georss.org/georss', 1, 0),
+        array('gml', 'http://www.opengis.net/gml', 1, 0),
+        array('media', 'http://search.yahoo.com/mrss/', 1, 0)
+    );
+
+    /**
+     * Create Zend_Gdata_Photos object
+     *
+     * @param Zend_Http_Client $client (optional) The HTTP client to use when
+     *          when communicating with the servers.
+     * @param string $applicationId The identity of the app in the form of Company-AppName-Version
+     */
+    public function __construct($client = null, $applicationId = 'MyCompany-MyApp-1.0')
+    {
+        $this->registerPackage('Zend_Gdata_Photos');
+        $this->registerPackage('Zend_Gdata_Photos_Extension');
+        parent::__construct($client, $applicationId);
+        $this->_httpClient->setParameterPost('service', self::AUTH_SERVICE_NAME);
+    }
+
+    /**
+     * Retrieve a UserFeed containing AlbumEntries, PhotoEntries and
+     * TagEntries associated with a given user.
+     *
+     * @param string $userName The userName of interest
+     * @param mixed $location (optional) The location for the feed, as a URL
+     *          or Query. If not provided, a default URL will be used instead.
+     * @return Zend_Gdata_Photos_UserFeed
+     * @throws Zend_Gdata_App_Exception
+     * @throws Zend_Gdata_App_HttpException
+     */
+    public function getUserFeed($userName = null, $location = null)
+    {
+        if ($location instanceof Zend_Gdata_Photos_UserQuery) {
+            $location->setType('feed');
+            if ($userName !== null) {
+                $location->setUser($userName);
+            }
+            $uri = $location->getQueryUrl();
+        } else if ($location instanceof Zend_Gdata_Query) {
+            if ($userName !== null) {
+                $location->setUser($userName);
+            }
+            $uri = $location->getQueryUrl();
+        } else if ($location !== null) {
+            $uri = $location;
+        } else if ($userName !== null) {
+            $uri = self::PICASA_BASE_FEED_URI . '/' .
+                self::DEFAULT_PROJECTION . '/' . self::USER_PATH . '/' .
+                $userName;
+        } else {
+            $uri = self::PICASA_BASE_FEED_URI . '/' .
+                self::DEFAULT_PROJECTION . '/' . self::USER_PATH . '/' .
+                self::DEFAULT_USER;
+        }
+
+        return parent::getFeed($uri, 'Zend_Gdata_Photos_UserFeed');
+    }
+
+    /**
+     * Retreive AlbumFeed object containing multiple PhotoEntry or TagEntry
+     * objects.
+     *
+     * @param mixed $location (optional) The location for the feed, as a URL or Query.
+     * @return Zend_Gdata_Photos_AlbumFeed
+     * @throws Zend_Gdata_App_Exception
+     * @throws Zend_Gdata_App_HttpException
+     */
+    public function getAlbumFeed($location = null)
+    {
+        if ($location === null) {
+            require_once 'Zend/Gdata/App/InvalidArgumentException.php';
+            throw new Zend_Gdata_App_InvalidArgumentException(
+                    'Location must not be null');
+        } else if ($location instanceof Zend_Gdata_Photos_UserQuery) {
+            $location->setType('feed');
+            $uri = $location->getQueryUrl();
+        } else if ($location instanceof Zend_Gdata_Query) {
+            $uri = $location->getQueryUrl();
+        } else {
+            $uri = $location;
+        }
+        return parent::getFeed($uri, 'Zend_Gdata_Photos_AlbumFeed');
+    }
+
+    /**
+     * Retreive PhotoFeed object containing comments and tags associated
+     * with a given photo.
+     *
+     * @param mixed $location (optional) The location for the feed, as a URL
+     *          or Query. If not specified, the community search feed will
+     *          be returned instead.
+     * @return Zend_Gdata_Photos_PhotoFeed
+     * @throws Zend_Gdata_App_Exception
+     * @throws Zend_Gdata_App_HttpException
+     */
+    public function getPhotoFeed($location = null)
+    {
+        if ($location === null) {
+            $uri = self::PICASA_BASE_FEED_URI . '/' .
+                self::DEFAULT_PROJECTION . '/' .
+                self::COMMUNITY_SEARCH_PATH;
+        } else if ($location instanceof Zend_Gdata_Photos_UserQuery) {
+            $location->setType('feed');
+            $uri = $location->getQueryUrl();
+        } else if ($location instanceof Zend_Gdata_Query) {
+            $uri = $location->getQueryUrl();
+        } else {
+            $uri = $location;
+        }
+        return parent::getFeed($uri, 'Zend_Gdata_Photos_PhotoFeed');
+    }
+
+    /**
+     * Retreive a single UserEntry object.
+     *
+     * @param mixed $location The location for the feed, as a URL or Query.
+     * @return Zend_Gdata_Photos_UserEntry
+     * @throws Zend_Gdata_App_Exception
+     * @throws Zend_Gdata_App_HttpException
+     */
+    public function getUserEntry($location)
+    {
+        if ($location === null) {
+            require_once 'Zend/Gdata/App/InvalidArgumentException.php';
+            throw new Zend_Gdata_App_InvalidArgumentException(
+                    'Location must not be null');
+        } else if ($location instanceof Zend_Gdata_Photos_UserQuery) {
+            $location->setType('entry');
+            $uri = $location->getQueryUrl();
+        } else if ($location instanceof Zend_Gdata_Query) {
+            $uri = $location->getQueryUrl();
+        } else {
+            $uri = $location;
+        }
+        return parent::getEntry($uri, 'Zend_Gdata_Photos_UserEntry');
+    }
+
+    /**
+     * Retreive a single AlbumEntry object.
+     *
+     * @param mixed $location The location for the feed, as a URL or Query.
+     * @return Zend_Gdata_Photos_AlbumEntry
+     * @throws Zend_Gdata_App_Exception
+     * @throws Zend_Gdata_App_HttpException
+     */
+    public function getAlbumEntry($location)
+    {
+        if ($location === null) {
+            require_once 'Zend/Gdata/App/InvalidArgumentException.php';
+            throw new Zend_Gdata_App_InvalidArgumentException(
+                    'Location must not be null');
+        } else if ($location instanceof Zend_Gdata_Photos_UserQuery) {
+            $location->setType('entry');
+            $uri = $location->getQueryUrl();
+        } else if ($location instanceof Zend_Gdata_Query) {
+            $uri = $location->getQueryUrl();
+        } else {
+            $uri = $location;
+        }
+        return parent::getEntry($uri, 'Zend_Gdata_Photos_AlbumEntry');
+    }
+
+    /**
+     * Retreive a single PhotoEntry object.
+     *
+     * @param mixed $location The location for the feed, as a URL or Query.
+     * @return Zend_Gdata_Photos_PhotoEntry
+     * @throws Zend_Gdata_App_Exception
+     * @throws Zend_Gdata_App_HttpException
+     */
+    public function getPhotoEntry($location)
+    {
+        if ($location === null) {
+            require_once 'Zend/Gdata/App/InvalidArgumentException.php';
+            throw new Zend_Gdata_App_InvalidArgumentException(
+                    'Location must not be null');
+        } else if ($location instanceof Zend_Gdata_Photos_UserQuery) {
+            $location->setType('entry');
+            $uri = $location->getQueryUrl();
+        } else if ($location instanceof Zend_Gdata_Query) {
+            $uri = $location->getQueryUrl();
+        } else {
+            $uri = $location;
+        }
+        return parent::getEntry($uri, 'Zend_Gdata_Photos_PhotoEntry');
+    }
+
+    /**
+     * Retreive a single TagEntry object.
+     *
+     * @param mixed $location The location for the feed, as a URL or Query.
+     * @return Zend_Gdata_Photos_TagEntry
+     * @throws Zend_Gdata_App_Exception
+     * @throws Zend_Gdata_App_HttpException
+     */
+    public function getTagEntry($location)
+    {
+        if ($location === null) {
+            require_once 'Zend/Gdata/App/InvalidArgumentException.php';
+            throw new Zend_Gdata_App_InvalidArgumentException(
+                    'Location must not be null');
+        } else if ($location instanceof Zend_Gdata_Photos_UserQuery) {
+            $location->setType('entry');
+            $uri = $location->getQueryUrl();
+        } else if ($location instanceof Zend_Gdata_Query) {
+            $uri = $location->getQueryUrl();
+        } else {
+            $uri = $location;
+        }
+        return parent::getEntry($uri, 'Zend_Gdata_Photos_TagEntry');
+    }
+
+    /**
+     * Retreive a single CommentEntry object.
+     *
+     * @param mixed $location The location for the feed, as a URL or Query.
+     * @return Zend_Gdata_Photos_CommentEntry
+     * @throws Zend_Gdata_App_Exception
+     * @throws Zend_Gdata_App_HttpException
+     */
+    public function getCommentEntry($location)
+    {
+        if ($location === null) {
+            require_once 'Zend/Gdata/App/InvalidArgumentException.php';
+            throw new Zend_Gdata_App_InvalidArgumentException(
+                    'Location must not be null');
+        } else if ($location instanceof Zend_Gdata_Photos_UserQuery) {
+            $location->setType('entry');
+            $uri = $location->getQueryUrl();
+        } else if ($location instanceof Zend_Gdata_Query) {
+            $uri = $location->getQueryUrl();
+        } else {
+            $uri = $location;
+        }
+        return parent::getEntry($uri, 'Zend_Gdata_Photos_CommentEntry');
+    }
+
+    /**
+     * Create a new album from a AlbumEntry.
+     *
+     * @param Zend_Gdata_Photos_AlbumEntry $album The album entry to
+     *          insert.
+     * @param string $url (optional) The URI that the album should be
+     *          uploaded to. If null, the default album creation URI for
+     *          this domain will be used.
+     * @return Zend_Gdata_Photos_AlbumEntry The inserted album entry as
+     *          returned by the server.
+     * @throws Zend_Gdata_App_Exception
+     * @throws Zend_Gdata_App_HttpException
+     */
+    public function insertAlbumEntry($album, $uri = null)
+    {
+        if ($uri === null) {
+            $uri = self::PICASA_BASE_FEED_URI . '/' .
+                self::DEFAULT_PROJECTION . '/' . self::USER_PATH . '/' .
+                self::DEFAULT_USER;
+        }
+        $newEntry = $this->insertEntry($album, $uri, 'Zend_Gdata_Photos_AlbumEntry');
+        return $newEntry;
+    }
+
+    /**
+     * Create a new photo from a PhotoEntry.
+     *
+     * @param Zend_Gdata_Photos_PhotoEntry $photo The photo to insert.
+     * @param string $url The URI that the photo should be uploaded
+     *          to. Alternatively, an AlbumEntry can be provided and the
+     *          photo will be added to that album.
+     * @return Zend_Gdata_Photos_PhotoEntry The inserted photo entry
+     *          as returned by the server.
+     * @throws Zend_Gdata_App_Exception
+     * @throws Zend_Gdata_App_HttpException
+     */
+    public function insertPhotoEntry($photo, $uri = null)
+    {
+        if ($uri instanceof Zend_Gdata_Photos_AlbumEntry) {
+            $uri = $uri->getLink(self::FEED_LINK_PATH)->href;
+        }
+        if ($uri === null) {
+            require_once 'Zend/Gdata/App/InvalidArgumentException.php';
+            throw new Zend_Gdata_App_InvalidArgumentException(
+                    'URI must not be null');
+        }
+        $newEntry = $this->insertEntry($photo, $uri, 'Zend_Gdata_Photos_PhotoEntry');
+        return $newEntry;
+    }
+
+    /**
+     * Create a new tag from a TagEntry.
+     *
+     * @param Zend_Gdata_Photos_TagEntry $tag The tag entry to insert.
+     * @param string $url The URI where the tag should be
+     *          uploaded to. Alternatively, a PhotoEntry can be provided and
+     *          the tag will be added to that photo.
+     * @return Zend_Gdata_Photos_TagEntry The inserted tag entry as returned
+     *          by the server.
+     * @throws Zend_Gdata_App_Exception
+     * @throws Zend_Gdata_App_HttpException
+     */
+    public function insertTagEntry($tag, $uri = null)
+    {
+        if ($uri instanceof Zend_Gdata_Photos_PhotoEntry) {
+            $uri = $uri->getLink(self::FEED_LINK_PATH)->href;
+        }
+        if ($uri === null) {
+            require_once 'Zend/Gdata/App/InvalidArgumentException.php';
+            throw new Zend_Gdata_App_InvalidArgumentException(
+                    'URI must not be null');
+        }
+        $newEntry = $this->insertEntry($tag, $uri, 'Zend_Gdata_Photos_TagEntry');
+        return $newEntry;
+    }
+
+    /**
+     * Create a new comment from a CommentEntry.
+     *
+     * @param Zend_Gdata_Photos_CommentEntry $comment The comment entry to
+     *          insert.
+     * @param string $url The URI where the comment should be uploaded to.
+     *          Alternatively, a PhotoEntry can be provided and
+     *          the comment will be added to that photo.
+     * @return Zend_Gdata_Photos_CommentEntry The inserted comment entry
+     *          as returned by the server.
+     * @throws Zend_Gdata_App_Exception
+     * @throws Zend_Gdata_App_HttpException
+     */
+    public function insertCommentEntry($comment, $uri = null)
+    {
+        if ($uri instanceof Zend_Gdata_Photos_PhotoEntry) {
+            $uri = $uri->getLink(self::FEED_LINK_PATH)->href;
+        }
+        if ($uri === null) {
+            require_once 'Zend/Gdata/App/InvalidArgumentException.php';
+            throw new Zend_Gdata_App_InvalidArgumentException(
+                    'URI must not be null');
+        }
+        $newEntry = $this->insertEntry($comment, $uri, 'Zend_Gdata_Photos_CommentEntry');
+        return $newEntry;
+    }
+
+    /**
+     * Delete an AlbumEntry.
+     *
+     * @param Zend_Gdata_Photos_AlbumEntry $album The album entry to
+     *          delete.
+     * @param boolean $catch Whether to catch an exception when
+     *            modified and re-delete or throw
+     * @return void.
+     * @throws Zend_Gdata_App_Exception
+     * @throws Zend_Gdata_App_HttpException
+     */
+    public function deleteAlbumEntry($album, $catch)
+    {
+        if ($catch) {
+            try {
+                $this->delete($album);
+            } catch (Zend_Gdata_App_HttpException $e) {
+                if ($e->getResponse()->getStatus() === 409) {
+                    $entry = new Zend_Gdata_Photos_AlbumEntry($e->getResponse()->getBody());
+                    $this->delete($entry->getLink('edit')->href);
+                } else {
+                    throw $e;
+                }
+            }
+        } else {
+            $this->delete($album);
+        }
+    }
+
+    /**
+     * Delete a PhotoEntry.
+     *
+     * @param Zend_Gdata_Photos_PhotoEntry $photo The photo entry to
+     *          delete.
+     * @param boolean $catch Whether to catch an exception when
+     *            modified and re-delete or throw
+     * @return void.
+     * @throws Zend_Gdata_App_Exception
+     * @throws Zend_Gdata_App_HttpException
+     */
+    public function deletePhotoEntry($photo, $catch)
+    {
+        if ($catch) {
+            try {
+                $this->delete($photo);
+            } catch (Zend_Gdata_App_HttpException $e) {
+                if ($e->getResponse()->getStatus() === 409) {
+                    $entry = new Zend_Gdata_Photos_PhotoEntry($e->getResponse()->getBody());
+                    $this->delete($entry->getLink('edit')->href);
+                } else {
+                    throw $e;
+                }
+            }
+        } else {
+            $this->delete($photo);
+        }
+    }
+
+    /**
+     * Delete a CommentEntry.
+     *
+     * @param Zend_Gdata_Photos_CommentEntry $comment The comment entry to
+     *          delete.
+     * @param boolean $catch Whether to catch an exception when
+     *            modified and re-delete or throw
+     * @return void.
+     * @throws Zend_Gdata_App_Exception
+     * @throws Zend_Gdata_App_HttpException
+     */
+    public function deleteCommentEntry($comment, $catch)
+    {
+        if ($catch) {
+            try {
+                $this->delete($comment);
+            } catch (Zend_Gdata_App_HttpException $e) {
+                if ($e->getResponse()->getStatus() === 409) {
+                    $entry = new Zend_Gdata_Photos_CommentEntry($e->getResponse()->getBody());
+                    $this->delete($entry->getLink('edit')->href);
+                } else {
+                    throw $e;
+                }
+            }
+        } else {
+            $this->delete($comment);
+        }
+    }
+
+    /**
+     * Delete a TagEntry.
+     *
+     * @param Zend_Gdata_Photos_TagEntry $tag The tag entry to
+     *          delete.
+     * @param boolean $catch Whether to catch an exception when
+     *            modified and re-delete or throw
+     * @return void.
+     * @throws Zend_Gdata_App_Exception
+     * @throws Zend_Gdata_App_HttpException
+     */
+    public function deleteTagEntry($tag, $catch)
+    {
+        if ($catch) {
+            try {
+                $this->delete($tag);
+            } catch (Zend_Gdata_App_HttpException $e) {
+                if ($e->getResponse()->getStatus() === 409) {
+                    $entry = new Zend_Gdata_Photos_TagEntry($e->getResponse()->getBody());
+                    $this->delete($entry->getLink('edit')->href);
+                } else {
+                    throw $e;
+                }
+            }
+        } else {
+            $this->delete($tag);
+        }
+    }
+
+}

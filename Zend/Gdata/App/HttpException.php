@@ -1,30 +1,121 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
-f0==
+<?php
+
+/**
+ * Zend Framework
+ *
+ * LICENSE
+ *
+ * This source file is subject to the new BSD license that is bundled
+ * with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://framework.zend.com/license/new-bsd
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@zend.com so we can send you a copy immediately.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage App
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ * @version    $Id: HttpException.php 16971 2009-07-22 18:05:45Z mikaelkael $
+ */
+
+/**
+ * Zend_Gdata_App_Exception
+ */
+require_once 'Zend/Gdata/App/Exception.php';
+
+/**
+ * Zend_Http_Client_Exception
+ */
+require_once 'Zend/Http/Client/Exception.php';
+
+/**
+ * Gdata exceptions
+ *
+ * Class to represent exceptions that occur during Gdata operations.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage App
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+class Zend_Gdata_App_HttpException extends Zend_Gdata_App_Exception
+{
+
+    protected $_httpClientException = null;
+    protected $_response = null;
+
+    /**
+     * Create a new Zend_Gdata_App_HttpException
+     *
+     * @param  string $message Optionally set a message
+     * @param Zend_Http_Client_Exception Optionally pass in a Zend_Http_Client_Exception
+     * @param Zend_Http_Response Optionally pass in a Zend_Http_Response
+     */
+    public function __construct($message = null, $e = null, $response = null)
+    {
+        $this->_httpClientException = $e;
+        $this->_response = $response;
+        parent::__construct($message);
+    }
+
+    /**
+     * Get the Zend_Http_Client_Exception.
+     *
+     * @return Zend_Http_Client_Exception
+     */
+    public function getHttpClientException()
+    {
+        return $this->_httpClientException;
+    }
+
+    /**
+     * Set the Zend_Http_Client_Exception.
+     *
+     * @param Zend_Http_Client_Exception $value
+     */
+    public function setHttpClientException($value)
+    {
+        $this->_httpClientException = $value;
+        return $this;
+    }
+
+    /**
+     * Set the Zend_Http_Response.
+     *
+     * @param Zend_Http_Response $response
+     */
+    public function setResponse($response)
+    {
+        $this->_response = $response;
+        return $this;
+    }
+
+    /**
+     * Get the Zend_Http_Response.
+     *
+     * @return Zend_Http_Response
+     */
+    public function getResponse()
+    {
+        return $this->_response;
+    }
+
+    /**
+     * Get the body of the Zend_Http_Response
+     *
+     * @return string
+     */
+    public function getRawResponseBody()
+    {
+        if ($this->getResponse()) {
+            $response = $this->getResponse();
+            return $response->getRawBody();
+        }
+        return null;
+    }
+
+}

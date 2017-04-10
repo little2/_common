@@ -1,385 +1,512 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
-ZnRvNrI3bgI5clzh0S2mqfBC80==
+<?php
+/////////////////////////////////////////////////////////////////
+/// getID3() by James Heinrich <info@getid3.org>               //
+//  available at http://getid3.sourceforge.net                 //
+//            or http://www.getid3.org                         //
+/////////////////////////////////////////////////////////////////
+// See readme.txt for more details                             //
+/////////////////////////////////////////////////////////////////
+//                                                             //
+// module.audio.aac.php                                        //
+// module for analyzing AAC Audio files                        //
+// dependencies: NONE                                          //
+//                                                            ///
+/////////////////////////////////////////////////////////////////
+
+
+class getid3_aac extends getid3_handler
+{
+	public function Analyze() {
+		$info = &$this->getid3->info;
+		fseek($this->getid3->fp, $info['avdataoffset'], SEEK_SET);
+		if (fread($this->getid3->fp, 4) == 'ADIF') {
+			$this->getAACADIFheaderFilepointer();
+		} else {
+			$this->getAACADTSheaderFilepointer();
+		}
+		return true;
+	}
+
+
+
+	public function getAACADIFheaderFilepointer() {
+		$info = &$this->getid3->info;
+		$info['fileformat']          = 'aac';
+		$info['audio']['dataformat'] = 'aac';
+		$info['audio']['lossless']   = false;
+
+		fseek($this->getid3->fp, $info['avdataoffset'], SEEK_SET);
+		$AACheader = fread($this->getid3->fp, 1024);
+		$offset    = 0;
+
+		if (substr($AACheader, 0, 4) == 'ADIF') {
+
+			// http://faac.sourceforge.net/wiki/index.php?page=ADIF
+
+			// http://libmpeg.org/mpeg4/doc/w2203tfs.pdf
+			// adif_header() {
+			//     adif_id                                32
+			//     copyright_id_present                    1
+			//     if( copyright_id_present )
+			//         copyright_id                       72
+			//     original_copy                           1
+			//     home                                    1
+			//     bitstream_type                          1
+			//     bitrate                                23
+			//     num_program_config_elements             4
+			//     for (i = 0; i < num_program_config_elements + 1; i++ ) {
+			//         if( bitstream_type == '0' )
+			//             adif_buffer_fullness           20
+			//         program_config_element()
+			//     }
+			// }
+
+			$AACheaderBitstream = getid3_lib::BigEndian2Bin($AACheader);
+			$bitoffset          = 0;
+
+			$info['aac']['header_type']                   = 'ADIF';
+			$bitoffset += 32;
+			$info['aac']['header']['mpeg_version']        = 4;
+
+			$info['aac']['header']['copyright']           = (bool) (substr($AACheaderBitstream, $bitoffset, 1) == '1');
+			$bitoffset += 1;
+			if ($info['aac']['header']['copyright']) {
+				$info['aac']['header']['copyright_id']    = getid3_lib::Bin2String(substr($AACheaderBitstream, $bitoffset, 72));
+				$bitoffset += 72;
+			}
+			$info['aac']['header']['original_copy']       = (bool) (substr($AACheaderBitstream, $bitoffset, 1) == '1');
+			$bitoffset += 1;
+			$info['aac']['header']['home']                = (bool) (substr($AACheaderBitstream, $bitoffset, 1) == '1');
+			$bitoffset += 1;
+			$info['aac']['header']['is_vbr']              = (bool) (substr($AACheaderBitstream, $bitoffset, 1) == '1');
+			$bitoffset += 1;
+			if ($info['aac']['header']['is_vbr']) {
+				$info['audio']['bitrate_mode']            = 'vbr';
+				$info['aac']['header']['bitrate_max']     = getid3_lib::Bin2Dec(substr($AACheaderBitstream, $bitoffset, 23));
+				$bitoffset += 23;
+			} else {
+				$info['audio']['bitrate_mode']            = 'cbr';
+				$info['aac']['header']['bitrate']         = getid3_lib::Bin2Dec(substr($AACheaderBitstream, $bitoffset, 23));
+				$bitoffset += 23;
+				$info['audio']['bitrate']                 = $info['aac']['header']['bitrate'];
+			}
+			if ($info['audio']['bitrate'] == 0) {
+				$info['error'][] = 'Corrupt AAC file: bitrate_audio == zero';
+				return false;
+			}
+			$info['aac']['header']['num_program_configs'] = 1 + getid3_lib::Bin2Dec(substr($AACheaderBitstream, $bitoffset, 4));
+			$bitoffset += 4;
+
+			for ($i = 0; $i < $info['aac']['header']['num_program_configs']; $i++) {
+				// http://www.audiocoding.com/wiki/index.php?page=program_config_element
+
+				// buffer_fullness                       20
+
+				// element_instance_tag                   4
+				// object_type                            2
+				// sampling_frequency_index               4
+				// num_front_channel_elements             4
+				// num_side_channel_elements              4
+				// num_back_channel_elements              4
+				// num_lfe_channel_elements               2
+				// num_assoc_data_elements                3
+				// num_valid_cc_elements                  4
+				// mono_mixdown_present                   1
+				// mono_mixdown_element_number            4   if mono_mixdown_present == 1
+				// stereo_mixdown_present                 1
+				// stereo_mixdown_element_number          4   if stereo_mixdown_present == 1
+				// matrix_mixdown_idx_present             1
+				// matrix_mixdown_idx                     2   if matrix_mixdown_idx_present == 1
+				// pseudo_surround_enable                 1   if matrix_mixdown_idx_present == 1
+				// for (i = 0; i < num_front_channel_elements; i++) {
+				//     front_element_is_cpe[i]            1
+				//     front_element_tag_select[i]        4
+				// }
+				// for (i = 0; i < num_side_channel_elements; i++) {
+				//     side_element_is_cpe[i]             1
+				//     side_element_tag_select[i]         4
+				// }
+				// for (i = 0; i < num_back_channel_elements; i++) {
+				//     back_element_is_cpe[i]             1
+				//     back_element_tag_select[i]         4
+				// }
+				// for (i = 0; i < num_lfe_channel_elements; i++) {
+				//     lfe_element_tag_select[i]          4
+				// }
+				// for (i = 0; i < num_assoc_data_elements; i++) {
+				//     assoc_data_element_tag_select[i]   4
+				// }
+				// for (i = 0; i < num_valid_cc_elements; i++) {
+				//     cc_element_is_ind_sw[i]            1
+				//     valid_cc_element_tag_select[i]     4
+				// }
+				// byte_alignment()                       VAR
+				// comment_field_bytes                    8
+				// for (i = 0; i < comment_field_bytes; i++) {
+				//     comment_field_data[i]              8
+				// }
+
+				if (!$info['aac']['header']['is_vbr']) {
+					$info['aac']['program_configs'][$i]['buffer_fullness']        = getid3_lib::Bin2Dec(substr($AACheaderBitstream, $bitoffset, 20));
+					$bitoffset += 20;
+				}
+				$info['aac']['program_configs'][$i]['element_instance_tag']       = getid3_lib::Bin2Dec(substr($AACheaderBitstream, $bitoffset, 4));
+				$bitoffset += 4;
+				$info['aac']['program_configs'][$i]['object_type']                = getid3_lib::Bin2Dec(substr($AACheaderBitstream, $bitoffset, 2));
+				$bitoffset += 2;
+				$info['aac']['program_configs'][$i]['sampling_frequency_index']   = getid3_lib::Bin2Dec(substr($AACheaderBitstream, $bitoffset, 4));
+				$bitoffset += 4;
+				$info['aac']['program_configs'][$i]['num_front_channel_elements'] = getid3_lib::Bin2Dec(substr($AACheaderBitstream, $bitoffset, 4));
+				$bitoffset += 4;
+				$info['aac']['program_configs'][$i]['num_side_channel_elements']  = getid3_lib::Bin2Dec(substr($AACheaderBitstream, $bitoffset, 4));
+				$bitoffset += 4;
+				$info['aac']['program_configs'][$i]['num_back_channel_elements']  = getid3_lib::Bin2Dec(substr($AACheaderBitstream, $bitoffset, 4));
+				$bitoffset += 4;
+				$info['aac']['program_configs'][$i]['num_lfe_channel_elements']   = getid3_lib::Bin2Dec(substr($AACheaderBitstream, $bitoffset, 2));
+				$bitoffset += 2;
+				$info['aac']['program_configs'][$i]['num_assoc_data_elements']    = getid3_lib::Bin2Dec(substr($AACheaderBitstream, $bitoffset, 3));
+				$bitoffset += 3;
+				$info['aac']['program_configs'][$i]['num_valid_cc_elements']      = getid3_lib::Bin2Dec(substr($AACheaderBitstream, $bitoffset, 4));
+				$bitoffset += 4;
+				$info['aac']['program_configs'][$i]['mono_mixdown_present']       = (bool) getid3_lib::Bin2Dec(substr($AACheaderBitstream, $bitoffset, 1));
+				$bitoffset += 1;
+				if ($info['aac']['program_configs'][$i]['mono_mixdown_present']) {
+					$info['aac']['program_configs'][$i]['mono_mixdown_element_number']    = getid3_lib::Bin2Dec(substr($AACheaderBitstream, $bitoffset, 4));
+					$bitoffset += 4;
+				}
+				$info['aac']['program_configs'][$i]['stereo_mixdown_present']             = (bool) getid3_lib::Bin2Dec(substr($AACheaderBitstream, $bitoffset, 1));
+				$bitoffset += 1;
+				if ($info['aac']['program_configs'][$i]['stereo_mixdown_present']) {
+					$info['aac']['program_configs'][$i]['stereo_mixdown_element_number']  = getid3_lib::Bin2Dec(substr($AACheaderBitstream, $bitoffset, 4));
+					$bitoffset += 4;
+				}
+				$info['aac']['program_configs'][$i]['matrix_mixdown_idx_present']         = (bool) getid3_lib::Bin2Dec(substr($AACheaderBitstream, $bitoffset, 1));
+				$bitoffset += 1;
+				if ($info['aac']['program_configs'][$i]['matrix_mixdown_idx_present']) {
+					$info['aac']['program_configs'][$i]['matrix_mixdown_idx']             = getid3_lib::Bin2Dec(substr($AACheaderBitstream, $bitoffset, 2));
+					$bitoffset += 2;
+					$info['aac']['program_configs'][$i]['pseudo_surround_enable']         = (bool) getid3_lib::Bin2Dec(substr($AACheaderBitstream, $bitoffset, 1));
+					$bitoffset += 1;
+				}
+				for ($j = 0; $j < $info['aac']['program_configs'][$i]['num_front_channel_elements']; $j++) {
+					$info['aac']['program_configs'][$i]['front_element_is_cpe'][$j]     = (bool) getid3_lib::Bin2Dec(substr($AACheaderBitstream, $bitoffset, 1));
+					$bitoffset += 1;
+					$info['aac']['program_configs'][$i]['front_element_tag_select'][$j] = getid3_lib::Bin2Dec(substr($AACheaderBitstream, $bitoffset, 4));
+					$bitoffset += 4;
+				}
+				for ($j = 0; $j < $info['aac']['program_configs'][$i]['num_side_channel_elements']; $j++) {
+					$info['aac']['program_configs'][$i]['side_element_is_cpe'][$j]     = (bool) getid3_lib::Bin2Dec(substr($AACheaderBitstream, $bitoffset, 1));
+					$bitoffset += 1;
+					$info['aac']['program_configs'][$i]['side_element_tag_select'][$j] = getid3_lib::Bin2Dec(substr($AACheaderBitstream, $bitoffset, 4));
+					$bitoffset += 4;
+				}
+				for ($j = 0; $j < $info['aac']['program_configs'][$i]['num_back_channel_elements']; $j++) {
+					$info['aac']['program_configs'][$i]['back_element_is_cpe'][$j]     = (bool) getid3_lib::Bin2Dec(substr($AACheaderBitstream, $bitoffset, 1));
+					$bitoffset += 1;
+					$info['aac']['program_configs'][$i]['back_element_tag_select'][$j] = getid3_lib::Bin2Dec(substr($AACheaderBitstream, $bitoffset, 4));
+					$bitoffset += 4;
+				}
+				for ($j = 0; $j < $info['aac']['program_configs'][$i]['num_lfe_channel_elements']; $j++) {
+					$info['aac']['program_configs'][$i]['lfe_element_tag_select'][$j] = getid3_lib::Bin2Dec(substr($AACheaderBitstream, $bitoffset, 4));
+					$bitoffset += 4;
+				}
+				for ($j = 0; $j < $info['aac']['program_configs'][$i]['num_assoc_data_elements']; $j++) {
+					$info['aac']['program_configs'][$i]['assoc_data_element_tag_select'][$j] = getid3_lib::Bin2Dec(substr($AACheaderBitstream, $bitoffset, 4));
+					$bitoffset += 4;
+				}
+				for ($j = 0; $j < $info['aac']['program_configs'][$i]['num_valid_cc_elements']; $j++) {
+					$info['aac']['program_configs'][$i]['cc_element_is_ind_sw'][$j]          = (bool) getid3_lib::Bin2Dec(substr($AACheaderBitstream, $bitoffset, 1));
+					$bitoffset += 1;
+					$info['aac']['program_configs'][$i]['valid_cc_element_tag_select'][$j]   = getid3_lib::Bin2Dec(substr($AACheaderBitstream, $bitoffset, 4));
+					$bitoffset += 4;
+				}
+
+				$bitoffset = ceil($bitoffset / 8) * 8;
+
+				$info['aac']['program_configs'][$i]['comment_field_bytes'] = getid3_lib::Bin2Dec(substr($AACheaderBitstream, $bitoffset, 8));
+				$bitoffset += 8;
+				$info['aac']['program_configs'][$i]['comment_field']       = getid3_lib::Bin2String(substr($AACheaderBitstream, $bitoffset, 8 * $info['aac']['program_configs'][$i]['comment_field_bytes']));
+				$bitoffset += 8 * $info['aac']['program_configs'][$i]['comment_field_bytes'];
+
+
+				$info['aac']['header']['profile']                           = self::AACprofileLookup($info['aac']['program_configs'][$i]['object_type'], $info['aac']['header']['mpeg_version']);
+				$info['aac']['program_configs'][$i]['sampling_frequency']   = self::AACsampleRateLookup($info['aac']['program_configs'][$i]['sampling_frequency_index']);
+				$info['audio']['sample_rate']                               = $info['aac']['program_configs'][$i]['sampling_frequency'];
+				$info['audio']['channels']                                  = self::AACchannelCountCalculate($info['aac']['program_configs'][$i]);
+				if ($info['aac']['program_configs'][$i]['comment_field']) {
+					$info['aac']['comments'][]                          = $info['aac']['program_configs'][$i]['comment_field'];
+				}
+			}
+			$info['playtime_seconds'] = (($info['avdataend'] - $info['avdataoffset']) * 8) / $info['audio']['bitrate'];
+
+			$info['audio']['encoder_options'] = $info['aac']['header_type'].' '.$info['aac']['header']['profile'];
+
+
+
+			return true;
+
+		} else {
+
+			unset($info['fileformat']);
+			unset($info['aac']);
+			$info['error'][] = 'AAC-ADIF synch not found at offset '.$info['avdataoffset'].' (expected "ADIF", found "'.substr($AACheader, 0, 4).'" instead)';
+			return false;
+
+		}
+
+	}
+
+
+	public function getAACADTSheaderFilepointer($MaxFramesToScan=1000000, $ReturnExtendedInfo=false) {
+		$info = &$this->getid3->info;
+
+		// based loosely on code from AACfile by Jurgen Faul  <jfaulØgmx.de>
+		// http://jfaul.de/atl  or  http://j-faul.virtualave.net/atl/atl.html
+
+
+		// http://faac.sourceforge.net/wiki/index.php?page=ADTS // dead link
+		// http://wiki.multimedia.cx/index.php?title=ADTS
+
+		// * ADTS Fixed Header: these don't change from frame to frame
+		// syncword                                       12    always: '111111111111'
+		// ID                                              1    0: MPEG-4, 1: MPEG-2
+		// MPEG layer                                      2    If you send AAC in MPEG-TS, set to 0
+		// protection_absent                               1    0: CRC present; 1: no CRC
+		// profile                                         2    0: AAC Main; 1: AAC LC (Low Complexity); 2: AAC SSR (Scalable Sample Rate); 3: AAC LTP (Long Term Prediction)
+		// sampling_frequency_index                        4    15 not allowed
+		// private_bit                                     1    usually 0
+		// channel_configuration                           3
+		// original/copy                                   1    0: original; 1: copy
+		// home                                            1    usually 0
+		// emphasis                                        2    only if ID == 0 (ie MPEG-4)  // not present in some documentation?
+
+		// * ADTS Variable Header: these can change from frame to frame
+		// copyright_identification_bit                    1
+		// copyright_identification_start                  1
+		// aac_frame_length                               13    length of the frame including header (in bytes)
+		// adts_buffer_fullness                           11    0x7FF indicates VBR
+		// no_raw_data_blocks_in_frame                     2
+
+		// * ADTS Error check
+		// crc_check                                      16    only if protection_absent == 0
+
+		$byteoffset  = $info['avdataoffset'];
+		$framenumber = 0;
+
+		// Init bit pattern array
+		static $decbin = array();
+
+		// Populate $bindec
+		for ($i = 0; $i < 256; $i++) {
+			$decbin[chr($i)] = str_pad(decbin($i), 8, '0', STR_PAD_LEFT);
+		}
+
+		// used to calculate bitrate below
+		$BitrateCache = array();
+
+
+		while (true) {
+			// breaks out when end-of-file encountered, or invalid data found,
+			// or MaxFramesToScan frames have been scanned
+
+			if (!getid3_lib::intValueSupported($byteoffset)) {
+				$info['warning'][] = 'Unable to parse AAC file beyond '.ftell($this->getid3->fp).' (PHP does not support file operations beyond '.round(PHP_INT_MAX / 1073741824).'GB)';
+				return false;
+			}
+			fseek($this->getid3->fp, $byteoffset, SEEK_SET);
+
+			// First get substring
+			$substring = fread($this->getid3->fp, 9); // header is 7 bytes (or 9 if CRC is present)
+			$substringlength = strlen($substring);
+			if ($substringlength != 9) {
+				$info['error'][] = 'Failed to read 7 bytes at offset '.(ftell($this->getid3->fp) - $substringlength).' (only read '.$substringlength.' bytes)';
+				return false;
+			}
+			// this would be easier with 64-bit math, but split it up to allow for 32-bit:
+			$header1 = getid3_lib::BigEndian2Int(substr($substring, 0, 2));
+			$header2 = getid3_lib::BigEndian2Int(substr($substring, 2, 4));
+			$header3 = getid3_lib::BigEndian2Int(substr($substring, 6, 1));
+
+			$info['aac']['header']['raw']['syncword']          = ($header1 & 0xFFF0) >> 4;
+			if ($info['aac']['header']['raw']['syncword'] != 0x0FFF) {
+				$info['error'][] = 'Synch pattern (0x0FFF) not found at offset '.(ftell($this->getid3->fp) - $substringlength).' (found 0x0'.strtoupper(dechex($info['aac']['header']['raw']['syncword'])).' instead)';
+				//if ($info['fileformat'] == 'aac') {
+				//	return true;
+				//}
+				unset($info['aac']);
+				return false;
+			}
+
+			// Gather info for first frame only - this takes time to do 1000 times!
+			if ($framenumber == 0) {
+				$info['aac']['header_type']                      = 'ADTS';
+				$info['fileformat']                              = 'aac';
+				$info['audio']['dataformat']                     = 'aac';
+
+				$info['aac']['header']['raw']['mpeg_version']      = ($header1 & 0x0008) >> 3;
+				$info['aac']['header']['raw']['mpeg_layer']        = ($header1 & 0x0006) >> 1;
+				$info['aac']['header']['raw']['protection_absent'] = ($header1 & 0x0001) >> 0;
+
+				$info['aac']['header']['raw']['profile_code']      = ($header2 & 0xC0000000) >> 30;
+				$info['aac']['header']['raw']['sample_rate_code']  = ($header2 & 0x3C000000) >> 26;
+				$info['aac']['header']['raw']['private_stream']    = ($header2 & 0x02000000) >> 25;
+				$info['aac']['header']['raw']['channels_code']     = ($header2 & 0x01C00000) >> 22;
+				$info['aac']['header']['raw']['original']          = ($header2 & 0x00200000) >> 21;
+				$info['aac']['header']['raw']['home']              = ($header2 & 0x00100000) >> 20;
+				$info['aac']['header']['raw']['copyright_stream']  = ($header2 & 0x00080000) >> 19;
+				$info['aac']['header']['raw']['copyright_start']   = ($header2 & 0x00040000) >> 18;
+				$info['aac']['header']['raw']['frame_length']      = ($header2 & 0x0003FFE0) >>  5;
+
+				$info['aac']['header']['mpeg_version']     = ($info['aac']['header']['raw']['mpeg_version']      ? 2    : 4);
+				$info['aac']['header']['crc_present']      = ($info['aac']['header']['raw']['protection_absent'] ? false: true);
+				$info['aac']['header']['profile']          = self::AACprofileLookup($info['aac']['header']['raw']['profile_code'], $info['aac']['header']['mpeg_version']);
+				$info['aac']['header']['sample_frequency'] = self::AACsampleRateLookup($info['aac']['header']['raw']['sample_rate_code']);
+				$info['aac']['header']['private']          = (bool) $info['aac']['header']['raw']['private_stream'];
+				$info['aac']['header']['original']         = (bool) $info['aac']['header']['raw']['original'];
+				$info['aac']['header']['home']             = (bool) $info['aac']['header']['raw']['home'];
+				$info['aac']['header']['channels']         = (($info['aac']['header']['raw']['channels_code'] == 7) ? 8 : $info['aac']['header']['raw']['channels_code']);
+				if ($ReturnExtendedInfo) {
+					$info['aac'][$framenumber]['copyright_id_bit']   = (bool) $info['aac']['header']['raw']['copyright_stream'];
+					$info['aac'][$framenumber]['copyright_id_start'] = (bool) $info['aac']['header']['raw']['copyright_start'];
+				}
+
+				if ($info['aac']['header']['raw']['mpeg_layer'] != 0) {
+					$info['warning'][] = 'Layer error - expected "0", found "'.$info['aac']['header']['raw']['mpeg_layer'].'" instead';
+				}
+				if ($info['aac']['header']['sample_frequency'] == 0) {
+					$info['error'][] = 'Corrupt AAC file: sample_frequency == zero';
+					return false;
+				}
+
+				$info['audio']['sample_rate'] = $info['aac']['header']['sample_frequency'];
+				$info['audio']['channels']    = $info['aac']['header']['channels'];
+			}
+
+			$FrameLength = ($header2 & 0x0003FFE0) >>  5;
+
+			if (!isset($BitrateCache[$FrameLength])) {
+				$BitrateCache[$FrameLength] = ($info['aac']['header']['sample_frequency'] / 1024) * $FrameLength * 8;
+			}
+			getid3_lib::safe_inc($info['aac']['bitrate_distribution'][$BitrateCache[$FrameLength]], 1);
+
+			$info['aac'][$framenumber]['aac_frame_length']     = $FrameLength;
+
+			$info['aac'][$framenumber]['adts_buffer_fullness'] = (($header2 & 0x0000001F) << 6) & (($header3 & 0xFC) >> 2);
+			if ($info['aac'][$framenumber]['adts_buffer_fullness'] == 0x07FF) {
+				$info['audio']['bitrate_mode'] = 'vbr';
+			} else {
+				$info['audio']['bitrate_mode'] = 'cbr';
+			}
+			$info['aac'][$framenumber]['num_raw_data_blocks']  = (($header3 & 0x03) >> 0);
+
+			if ($info['aac']['header']['crc_present']) {
+				//$info['aac'][$framenumber]['crc'] = getid3_lib::BigEndian2Int(substr($substring, 7, 2);
+			}
+
+			if (!$ReturnExtendedInfo) {
+				unset($info['aac'][$framenumber]);
+			}
+
+			/*
+			$rounded_precision = 5000;
+			$info['aac']['bitrate_distribution_rounded'] = array();
+			foreach ($info['aac']['bitrate_distribution'] as $bitrate => $count) {
+				$rounded_bitrate = round($bitrate / $rounded_precision) * $rounded_precision;
+				getid3_lib::safe_inc($info['aac']['bitrate_distribution_rounded'][$rounded_bitrate], $count);
+			}
+			ksort($info['aac']['bitrate_distribution_rounded']);
+			*/
+
+			$byteoffset += $FrameLength;
+			if ((++$framenumber < $MaxFramesToScan) && (($byteoffset + 10) < $info['avdataend'])) {
+
+				// keep scanning
+
+			} else {
+
+				$info['aac']['frames']    = $framenumber;
+				$info['playtime_seconds'] = ($info['avdataend'] / $byteoffset) * (($framenumber * 1024) / $info['aac']['header']['sample_frequency']);  // (1 / % of file scanned) * (samples / (samples/sec)) = seconds
+				if ($info['playtime_seconds'] == 0) {
+					$info['error'][] = 'Corrupt AAC file: playtime_seconds == zero';
+					return false;
+				}
+				$info['audio']['bitrate']    = (($info['avdataend'] - $info['avdataoffset']) * 8) / $info['playtime_seconds'];
+				ksort($info['aac']['bitrate_distribution']);
+
+				$info['audio']['encoder_options'] = $info['aac']['header_type'].' '.$info['aac']['header']['profile'];
+
+				return true;
+
+			}
+		}
+		// should never get here.
+	}
+
+	public static function AACsampleRateLookup($samplerateid) {
+		static $AACsampleRateLookup = array();
+		if (empty($AACsampleRateLookup)) {
+			$AACsampleRateLookup[0]  = 96000;
+			$AACsampleRateLookup[1]  = 88200;
+			$AACsampleRateLookup[2]  = 64000;
+			$AACsampleRateLookup[3]  = 48000;
+			$AACsampleRateLookup[4]  = 44100;
+			$AACsampleRateLookup[5]  = 32000;
+			$AACsampleRateLookup[6]  = 24000;
+			$AACsampleRateLookup[7]  = 22050;
+			$AACsampleRateLookup[8]  = 16000;
+			$AACsampleRateLookup[9]  = 12000;
+			$AACsampleRateLookup[10] = 11025;
+			$AACsampleRateLookup[11] = 8000;
+			$AACsampleRateLookup[12] = 0;
+			$AACsampleRateLookup[13] = 0;
+			$AACsampleRateLookup[14] = 0;
+			$AACsampleRateLookup[15] = 0;
+		}
+		return (isset($AACsampleRateLookup[$samplerateid]) ? $AACsampleRateLookup[$samplerateid] : 'invalid');
+	}
+
+	public static function AACprofileLookup($profileid, $mpegversion) {
+		static $AACprofileLookup = array();
+		if (empty($AACprofileLookup)) {
+			$AACprofileLookup[2][0]  = 'Main profile';
+			$AACprofileLookup[2][1]  = 'Low Complexity profile (LC)';
+			$AACprofileLookup[2][2]  = 'Scalable Sample Rate profile (SSR)';
+			$AACprofileLookup[2][3]  = '(reserved)';
+			$AACprofileLookup[4][0]  = 'AAC_MAIN';
+			$AACprofileLookup[4][1]  = 'AAC_LC';
+			$AACprofileLookup[4][2]  = 'AAC_SSR';
+			$AACprofileLookup[4][3]  = 'AAC_LTP';
+		}
+		return (isset($AACprofileLookup[$mpegversion][$profileid]) ? $AACprofileLookup[$mpegversion][$profileid] : 'invalid');
+	}
+
+	public static function AACchannelCountCalculate($program_configs) {
+		$channels = 0;
+		for ($i = 0; $i < $program_configs['num_front_channel_elements']; $i++) {
+			$channels++;
+			if ($program_configs['front_element_is_cpe'][$i]) {
+				// each front element is channel pair (CPE = Channel Pair Element)
+				$channels++;
+			}
+		}
+		for ($i = 0; $i < $program_configs['num_side_channel_elements']; $i++) {
+			$channels++;
+			if ($program_configs['side_element_is_cpe'][$i]) {
+				// each side element is channel pair (CPE = Channel Pair Element)
+				$channels++;
+			}
+		}
+		for ($i = 0; $i < $program_configs['num_back_channel_elements']; $i++) {
+			$channels++;
+			if ($program_configs['back_element_is_cpe'][$i]) {
+				// each back element is channel pair (CPE = Channel Pair Element)
+				$channels++;
+			}
+		}
+		for ($i = 0; $i < $program_configs['num_lfe_channel_elements']; $i++) {
+			$channels++;
+		}
+		return $channels;
+	}
+
+}

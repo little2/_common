@@ -1,130 +1,273 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
+<?php
+/**
+ * 我的資訊管理
+ *
+ * 后台-使用者個人資訊管理的功能
+ *.
+ * @author Ryan Chiu <[email]ryan@inetar.net[/email]>
+ * @version 1.0
+ * @date 2009-7-8 13:39:16
+ */
+
+
+	$func_name="system";
+	$func_sort[$func_name]=199;	//在工具列的排序,越大越後面
+	$func[$func_name]['config']['name']=$base->message("System");
+	$func[$func_name]['subfunc'][1]=$base->message("SystemBasicConfig");
+	$func[$func_name]['subfunc'][2]=$base->message("EmailSet");
+
+
+
+function system_1($aFormValues,$objResponse)
+{
+
+	return system_basic($aFormValues,$objResponse);
+}
+
+function system_2($aFormValues,$objResponse)
+{
+
+	return show_smtp($aFormValues,$objResponse);
+}
+
+function system_basic($aFormValues,$objResponse)
+{
+	global $template,$db,$base,$_SiteInfo;
+	$template->assign_vars(array(
+			'SystemBasicConfig'=>$base->message('SystemBasicConfig'),
+			'Edtion'=>$_SiteInfo['EDTION'],
+			'Version'=>$_SiteInfo['VERSION'],
+			'CurrentTime'=>date("Y/m/d H:i:s")
+	));
+
+
+
+	$template->set_filenames(array('body21' => '../templates/'.tpl_style.'/system_basic_config.htm'));
+	$content=$template->pparse2('body21',$base);
+	$objResponse->addAssign("mngcontain","innerHTML",$content);
+	$objResponse->addScriptCall('fresh_now_time_start','systemtime');
+	return $objResponse;
+}
+
+
+function show_smtp($aFormValues,$objResponse)
+{
+	//<!-- Update Date: 2012.4.12 -->
+	global $template,$db,$base,$func,$root_path;
+	@include($root_path.'/config_email.php');
+
+	if($FilterRow=returnFilterRow($aFormValues)) $template->assign_vars($FilterRow);
+	$objResponse=initFilterRow($aFormValues,$objResponse);
+
+
+	$template->set_filenames(array('body21' => '../templates/'.tpl_style.'/smtp_info.htm'));
+
+	$nav="<a href=\"javascript:CallXajaxByName('system_1','mng')\">".$func['system']['config']['name']."</a>";
+	$nav.=" > <a href=\"javascript:CallXajaxByName('show_smtp','mng')\">".$func['system']['subfunc'][2]."</a>";
+
+
+
+	$smtp_row["email_smtpServer"]=$_SiteInfo["EMAIL_SMTPSERVER"];
+	$smtp_row["email_username"]=$_SiteInfo["EMAIL_USERNAME"];
+	$smtp_row["email_password"]=$_SiteInfo["EMAIL_PASSWORD"];
+	$smtp_row["email_port"]=$_SiteInfo["EMAIL_PORT"];
+	$smtp_row["email_sender"]=$_SiteInfo["EMAIL_SENDER"];
+	$smtp_row["email_ssl"]=$_SiteInfo["EMAIL_SSL"];
+	$smtp_row["email_backup"]=$_SiteInfo["EMAIL_BACKUP"];
+	$smtp_row["selected_ssh_".$smtp_row["email_ssl"]]='selected';
+	$template->assign_vars($smtp_row);
+
+	//載入相關參數
+	$template->assign_vars(array('nav'=>$nav));
+
+
+	$content=$template->pparse2('body21',$base);
+	$objResponse->addAssign("mngcontain","innerHTML",$content);
+
+	return $objResponse;
+
+
+}
+
+//儲存設定
+function save_smtp($aFormValues,$objResponse)
+{
+	global $template,$db,$base,$root_path;
+
+    if(!isset($aFormValues['email_sender'])||$aFormValues['email_sender']=="")
+    	$aFormValues['email_sender'] = $aFormValues['email_username'];
+	$content3='<?php'.chr(10);
+	$content3.='$_SiteInfo["EMAIL_SMTPSERVER"]="'.$aFormValues['email_smtpServer'].'";'.chr(10);
+	$content3.='$_SiteInfo["EMAIL_USERNAME"]="'.$aFormValues['email_username'].'";'.chr(10);
+	$content3.='$_SiteInfo["EMAIL_BACKUP"]="'.$aFormValues['email_backup'].'";'.chr(10);
+	$content3.='$_SiteInfo["EMAIL_PASSWORD"]="'.$aFormValues['email_password'].'";'.chr(10);
+	$content3.='$_SiteInfo["EMAIL_PORT"]="'.$aFormValues['email_port'].'";'.chr(10);
+	$content3.='$_SiteInfo["EMAIL_SENDER"]="'.$aFormValues['email_sender'].'";'.chr(10);
+	$content3.='$_SiteInfo["EMAIL_SSL"]="'.$aFormValues['email_ssl'].'";'.chr(10);
+	$content3.='?>'.chr(10);
+
+	@unlink($root_path.'/config_email.php');
+	@file_put_contents($root_path.'/config_email.php',$content3);
+	unset($content3);
+	$objResponse->addAlert($base->message('Success'));
+	return $objResponse;
+
+}
+
+
+/*
+
+//寄送測試信
+function send_test($aFormValues,$objResponse)
+{
+	global $root_path,$base;
+	//使用的SMTP資料
+
+	if($aFormValues['receiver'])
+	{
+
+		if(!file_exists("../includes/class_email.php"))
+		{
+			$objResponse->addAlert("class_email不存在");
+			return $objResponse;
+		}
+		include_once("../include/class_email.php");
+		//include_once($root_path.common_library_path."class_email.php");
+		$emailer = new emailer();
+
+
+		//使用的SMTP資料
+
+		$emailer->smtpServer = $aFormValues['email_smtpServer'];
+		$emailer->username = $aFormValues['email_username'];
+		$emailer->password = $aFormValues['email_password'];
+		$emailer->usertitle = $aFormValues['email_sender'];
+		$emailer->port=$aFormValues['email_port'];
+		$emailer->ssl=$aFormValues['email_ssl'];
+		$emailer->to = $aFormValues['receiver'];
+		$emailer->message='这是来自'.productname.'的测试邮件';
+		$mail_subject = "=?UTF-8?B?".base64_encode('这是来自'.productname.'的测试邮件 At '.date("Y-m-d H:i:s"))."?=";
+		$emailer->set_subject(str_replace("\'", "''", $mail_subject));
+
+		if($emailer->ssl)
+		{
+			if(!extension_loaded('openssl'))
+			{
+				$objResponse->addAlert("You probably need to enable the PHP extension for SSL");
+				return $objResponse;
+			}
+		}
+
+
+
+		if($emailer->Send())
+		{
+			$objResponse->addAlert("已成功寄送");
+		}
+		else
+		{
+			$objResponse->addAlert("失敗");
+		}
+
+
+	}
+	else
+	{
+		$objResponse->addAlert("请輸入测試寄送之收件人郵件位址");
+
+	}
+	$objResponse->addAssign('test_bt','style.display','');
+	return $objResponse;
+}*/
+//寄送測試信
+function send_test($aFormValues,$objResponse)
+{
+	global $root_path,$base;
+	//使用的SMTP資料
+
+	if($aFormValues['receiver'])
+	{
+
+		if(!file_exists($root_path.common_library_path."class_email.php"))
+		{
+			$objResponse->addAlert("class_email不存在");
+			return $objResponse;
+		}
+		include_once($root_path.common_library_path."class_email.php");
+
+		$emailer = new emailer();
+
+
+		//使用的SMTP資料
+
+		$emailer->smtpServer = $aFormValues['email_smtpServer'];
+		$emailer->username = $aFormValues['email_username'];
+		$emailer->password = $aFormValues['email_password'];
+		$emailer->usertitle = $aFormValues['email_sender'];
+		$emailer->port=$aFormValues['email_port'];
+		$emailer->ssl=$aFormValues['email_ssl'];
+		$emailer->to = $aFormValues['receiver'];
+		//$emailer->message='这是来自'.productname.'的测试邮件';
+		//$mail_subject = "=?UTF-8?B?".base64_encode('这是来自'.productname.'的测试邮件 At '.date("Y-m-d H:i:s"))."?=";
+		$emailer->message='这是来自User Center的测试邮件';
+		$mail_subject = "=?UTF-8?B?".base64_encode('这是来自User Center的测试邮件 At '.date("Y-m-d H:i:s"))."?=";
+		$emailer->set_subject(str_replace("\'", "''", $mail_subject));
+
+		if($emailer->ssl)
+		{
+		    if(!extension_loaded('openssl'))
+	    	{
+	    		$objResponse->addAlert("You probably need to enable the PHP extension for SSL");
+	    		return $objResponse;
+	    	}
+		}
+
+
+
+		if($emailer->Send())
+		{
+			$objResponse->addAlert("已成功寄送");
+		}
+		else
+		{
+			$objResponse->addAlert("失敗");
+		}
+
+
+	}
+	else
+	{
+		$objResponse->addAlert("请輸入测試寄送之收件人郵件位址");
+
+	}
+	$objResponse->addAssign('test_bt','style.display','');
+	return $objResponse;
+}
+
+
+function update_version($aFormValues,$objResponse)
+{
+	global $base,$db;
+	@mkdir("../update");
+	if(file_exists('../update/active_tag'))
+	{
+		$update_date=file_get_contents('../update/active_tag');
+		$objResponse->addAlert('請等待系統排程進行更行('.$update_date.')');
+	}
+	else
+	{
+		include("../includes/class_maintain.php");
+		$maintain=new maintain();
+		$maintain->db=$db;
+		$maintain->sync_table();
+		
+		
+		file_put_contents("../update/active_tag",date("Y-m-d H:i:s"));
+		$objResponse->addAlert('請等待系統排程進行更行');
+	}
+	return $objResponse;
+}
+
+
+
 ?>
-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

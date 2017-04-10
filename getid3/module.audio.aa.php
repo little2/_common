@@ -1,32 +1,58 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
+<?php
+/////////////////////////////////////////////////////////////////
+/// getID3() by James Heinrich <info@getid3.org>               //
+//  available at http://getid3.sourceforge.net                 //
+//            or http://www.getid3.org                         //
+/////////////////////////////////////////////////////////////////
+// See readme.txt for more details                             //
+/////////////////////////////////////////////////////////////////
+//                                                             //
+// module.audio.aa.php                                         //
+// module for analyzing Audible Audiobook files                //
+// dependencies: NONE                                          //
+//                                                            ///
+/////////////////////////////////////////////////////////////////
+
+
+class getid3_aa extends getid3_handler
+{
+
+	public function Analyze() {
+		$info = &$this->getid3->info;
+
+		fseek($this->getid3->fp, $info['avdataoffset'], SEEK_SET);
+		$AAheader  = fread($this->getid3->fp, 8);
+
+		$magic = "\x57\x90\x75\x36";
+		if (substr($AAheader, 4, 4) != $magic) {
+			$info['error'][] = 'Expecting "'.getid3_lib::PrintHexBytes($magic).'" at offset '.$info['avdataoffset'].', found "'.getid3_lib::PrintHexBytes(substr($AAheader, 4, 4)).'"';
+			return false;
+		}
+
+		// shortcut
+		$info['aa'] = array();
+		$thisfile_au = &$info['aa'];
+
+		$info['fileformat']            = 'aa';
+		$info['audio']['dataformat']   = 'aa';
+$info['error'][] = 'Audible Audiobook (.aa) parsing not enabled in this version of getID3() ['.$this->getid3->version().']';
+return false;
+		$info['audio']['bitrate_mode'] = 'cbr'; // is it?
+		$thisfile_au['encoding']       = 'ISO-8859-1';
+
+		$thisfile_au['filesize'] = getid3_lib::BigEndian2Int(substr($AUheader,  0, 4));
+		if ($thisfile_au['filesize'] > ($info['avdataend'] - $info['avdataoffset'])) {
+			$info['warning'][] = 'Possible truncated file - expecting "'.$thisfile_au['filesize'].'" bytes of data, only found '.($info['avdataend'] - $info['avdataoffset']).' bytes"';
+		}
+
+		$info['audio']['bits_per_sample'] = 16; // is it?
+		$info['audio']['sample_rate'] = $thisfile_au['sample_rate'];
+		$info['audio']['channels']    = $thisfile_au['channels'];
+
+		//$info['playtime_seconds'] = 0;
+		//$info['audio']['bitrate'] = 0;
+
+		return true;
+	}
+
+}

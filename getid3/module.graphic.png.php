@@ -1,388 +1,517 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
-ytQBt91TSsE8zsQBMwmICNnf
+<?php
+/////////////////////////////////////////////////////////////////
+/// getID3() by James Heinrich <info@getid3.org>               //
+//  available at http://getid3.sourceforge.net                 //
+//            or http://www.getid3.org                         //
+/////////////////////////////////////////////////////////////////
+// See readme.txt for more details                             //
+/////////////////////////////////////////////////////////////////
+//                                                             //
+// module.graphic.png.php                                      //
+// module for analyzing PNG Image files                        //
+// dependencies: NONE                                          //
+//                                                            ///
+/////////////////////////////////////////////////////////////////
+
+
+class getid3_png extends getid3_handler
+{
+
+	public function Analyze() {
+		$info = &$this->getid3->info;
+
+		// shortcut
+		$info['png'] = array();
+		$thisfile_png = &$info['png'];
+
+		$info['fileformat']          = 'png';
+		$info['video']['dataformat'] = 'png';
+		$info['video']['lossless']   = false;
+
+		fseek($this->getid3->fp, $info['avdataoffset'], SEEK_SET);
+		$PNGfiledata = fread($this->getid3->fp, $this->getid3->fread_buffer_size());
+		$offset = 0;
+
+		$PNGidentifier = substr($PNGfiledata, $offset, 8); // $89 $50 $4E $47 $0D $0A $1A $0A
+		$offset += 8;
+
+		if ($PNGidentifier != "\x89\x50\x4E\x47\x0D\x0A\x1A\x0A") {
+			$info['error'][] = 'First 8 bytes of file ('.getid3_lib::PrintHexBytes($PNGidentifier).') did not match expected PNG identifier';
+			unset($info['fileformat']);
+			return false;
+		}
+
+		while (((ftell($this->getid3->fp) - (strlen($PNGfiledata) - $offset)) < $info['filesize'])) {
+			$chunk['data_length'] = getid3_lib::BigEndian2Int(substr($PNGfiledata, $offset, 4));
+			$offset += 4;
+			while (((strlen($PNGfiledata) - $offset) < ($chunk['data_length'] + 4)) && (ftell($this->getid3->fp) < $info['filesize'])) {
+				$PNGfiledata .= fread($this->getid3->fp, $this->getid3->fread_buffer_size());
+			}
+			$chunk['type_text']   =               substr($PNGfiledata, $offset, 4);
+			$offset += 4;
+			$chunk['type_raw']    = getid3_lib::BigEndian2Int($chunk['type_text']);
+			$chunk['data']        =               substr($PNGfiledata, $offset, $chunk['data_length']);
+			$offset += $chunk['data_length'];
+			$chunk['crc']         = getid3_lib::BigEndian2Int(substr($PNGfiledata, $offset, 4));
+			$offset += 4;
+
+			$chunk['flags']['ancilliary']   = (bool) ($chunk['type_raw'] & 0x20000000);
+			$chunk['flags']['private']      = (bool) ($chunk['type_raw'] & 0x00200000);
+			$chunk['flags']['reserved']     = (bool) ($chunk['type_raw'] & 0x00002000);
+			$chunk['flags']['safe_to_copy'] = (bool) ($chunk['type_raw'] & 0x00000020);
+
+			// shortcut
+			$thisfile_png[$chunk['type_text']] = array();
+			$thisfile_png_chunk_type_text = &$thisfile_png[$chunk['type_text']];
+
+			switch ($chunk['type_text']) {
+
+				case 'IHDR': // Image Header
+					$thisfile_png_chunk_type_text['header'] = $chunk;
+					$thisfile_png_chunk_type_text['width']                     = getid3_lib::BigEndian2Int(substr($chunk['data'],  0, 4));
+					$thisfile_png_chunk_type_text['height']                    = getid3_lib::BigEndian2Int(substr($chunk['data'],  4, 4));
+					$thisfile_png_chunk_type_text['raw']['bit_depth']          = getid3_lib::BigEndian2Int(substr($chunk['data'],  8, 1));
+					$thisfile_png_chunk_type_text['raw']['color_type']         = getid3_lib::BigEndian2Int(substr($chunk['data'],  9, 1));
+					$thisfile_png_chunk_type_text['raw']['compression_method'] = getid3_lib::BigEndian2Int(substr($chunk['data'], 10, 1));
+					$thisfile_png_chunk_type_text['raw']['filter_method']      = getid3_lib::BigEndian2Int(substr($chunk['data'], 11, 1));
+					$thisfile_png_chunk_type_text['raw']['interlace_method']   = getid3_lib::BigEndian2Int(substr($chunk['data'], 12, 1));
+
+					$thisfile_png_chunk_type_text['compression_method_text']   = $this->PNGcompressionMethodLookup($thisfile_png_chunk_type_text['raw']['compression_method']);
+					$thisfile_png_chunk_type_text['color_type']['palette']     = (bool) ($thisfile_png_chunk_type_text['raw']['color_type'] & 0x01);
+					$thisfile_png_chunk_type_text['color_type']['true_color']  = (bool) ($thisfile_png_chunk_type_text['raw']['color_type'] & 0x02);
+					$thisfile_png_chunk_type_text['color_type']['alpha']       = (bool) ($thisfile_png_chunk_type_text['raw']['color_type'] & 0x04);
+
+					$info['video']['resolution_x']    = $thisfile_png_chunk_type_text['width'];
+					$info['video']['resolution_y']    = $thisfile_png_chunk_type_text['height'];
+
+					$info['video']['bits_per_sample'] = $this->IHDRcalculateBitsPerSample($thisfile_png_chunk_type_text['raw']['color_type'], $thisfile_png_chunk_type_text['raw']['bit_depth']);
+					break;
+
+
+				case 'PLTE': // Palette
+					$thisfile_png_chunk_type_text['header'] = $chunk;
+					$paletteoffset = 0;
+					for ($i = 0; $i <= 255; $i++) {
+						//$thisfile_png_chunk_type_text['red'][$i]   = getid3_lib::BigEndian2Int(substr($chunk['data'], $paletteoffset++, 1));
+						//$thisfile_png_chunk_type_text['green'][$i] = getid3_lib::BigEndian2Int(substr($chunk['data'], $paletteoffset++, 1));
+						//$thisfile_png_chunk_type_text['blue'][$i]  = getid3_lib::BigEndian2Int(substr($chunk['data'], $paletteoffset++, 1));
+						$red   = getid3_lib::BigEndian2Int(substr($chunk['data'], $paletteoffset++, 1));
+						$green = getid3_lib::BigEndian2Int(substr($chunk['data'], $paletteoffset++, 1));
+						$blue  = getid3_lib::BigEndian2Int(substr($chunk['data'], $paletteoffset++, 1));
+						$thisfile_png_chunk_type_text[$i] = (($red << 16) | ($green << 8) | ($blue));
+					}
+					break;
+
+
+				case 'tRNS': // Transparency
+					$thisfile_png_chunk_type_text['header'] = $chunk;
+					switch ($thisfile_png['IHDR']['raw']['color_type']) {
+						case 0:
+							$thisfile_png_chunk_type_text['transparent_color_gray']  = getid3_lib::BigEndian2Int(substr($chunk['data'], 0, 2));
+							break;
+
+						case 2:
+							$thisfile_png_chunk_type_text['transparent_color_red']   = getid3_lib::BigEndian2Int(substr($chunk['data'], 0, 2));
+							$thisfile_png_chunk_type_text['transparent_color_green'] = getid3_lib::BigEndian2Int(substr($chunk['data'], 2, 2));
+							$thisfile_png_chunk_type_text['transparent_color_blue']  = getid3_lib::BigEndian2Int(substr($chunk['data'], 4, 2));
+							break;
+
+						case 3:
+							for ($i = 0; $i < strlen($chunk['data']); $i++) {
+								$thisfile_png_chunk_type_text['palette_opacity'][$i] = getid3_lib::BigEndian2Int(substr($chunk['data'], $i, 1));
+							}
+							break;
+
+						case 4:
+						case 6:
+							$info['error'][] = 'Invalid color_type in tRNS chunk: '.$thisfile_png['IHDR']['raw']['color_type'];
+
+						default:
+							$info['warning'][] = 'Unhandled color_type in tRNS chunk: '.$thisfile_png['IHDR']['raw']['color_type'];
+							break;
+					}
+					break;
+
+
+				case 'gAMA': // Image Gamma
+					$thisfile_png_chunk_type_text['header'] = $chunk;
+					$thisfile_png_chunk_type_text['gamma']  = getid3_lib::BigEndian2Int($chunk['data']) / 100000;
+					break;
+
+
+				case 'cHRM': // Primary Chromaticities
+					$thisfile_png_chunk_type_text['header']  = $chunk;
+					$thisfile_png_chunk_type_text['white_x'] = getid3_lib::BigEndian2Int(substr($chunk['data'],  0, 4)) / 100000;
+					$thisfile_png_chunk_type_text['white_y'] = getid3_lib::BigEndian2Int(substr($chunk['data'],  4, 4)) / 100000;
+					$thisfile_png_chunk_type_text['red_y']   = getid3_lib::BigEndian2Int(substr($chunk['data'],  8, 4)) / 100000;
+					$thisfile_png_chunk_type_text['red_y']   = getid3_lib::BigEndian2Int(substr($chunk['data'], 12, 4)) / 100000;
+					$thisfile_png_chunk_type_text['green_y'] = getid3_lib::BigEndian2Int(substr($chunk['data'], 16, 4)) / 100000;
+					$thisfile_png_chunk_type_text['green_y'] = getid3_lib::BigEndian2Int(substr($chunk['data'], 20, 4)) / 100000;
+					$thisfile_png_chunk_type_text['blue_y']  = getid3_lib::BigEndian2Int(substr($chunk['data'], 24, 4)) / 100000;
+					$thisfile_png_chunk_type_text['blue_y']  = getid3_lib::BigEndian2Int(substr($chunk['data'], 28, 4)) / 100000;
+					break;
+
+
+				case 'sRGB': // Standard RGB Color Space
+					$thisfile_png_chunk_type_text['header']                 = $chunk;
+					$thisfile_png_chunk_type_text['reindering_intent']      = getid3_lib::BigEndian2Int($chunk['data']);
+					$thisfile_png_chunk_type_text['reindering_intent_text'] = $this->PNGsRGBintentLookup($thisfile_png_chunk_type_text['reindering_intent']);
+					break;
+
+
+				case 'iCCP': // Embedded ICC Profile
+					$thisfile_png_chunk_type_text['header']                  = $chunk;
+					list($profilename, $compressiondata)                                 = explode("\x00", $chunk['data'], 2);
+					$thisfile_png_chunk_type_text['profile_name']            = $profilename;
+					$thisfile_png_chunk_type_text['compression_method']      = getid3_lib::BigEndian2Int(substr($compressiondata, 0, 1));
+					$thisfile_png_chunk_type_text['compression_profile']     = substr($compressiondata, 1);
+
+					$thisfile_png_chunk_type_text['compression_method_text'] = $this->PNGcompressionMethodLookup($thisfile_png_chunk_type_text['compression_method']);
+					break;
+
+
+				case 'tEXt': // Textual Data
+					$thisfile_png_chunk_type_text['header']  = $chunk;
+					list($keyword, $text)                                = explode("\x00", $chunk['data'], 2);
+					$thisfile_png_chunk_type_text['keyword'] = $keyword;
+					$thisfile_png_chunk_type_text['text']    = $text;
+
+					$thisfile_png['comments'][$thisfile_png_chunk_type_text['keyword']][] = $thisfile_png_chunk_type_text['text'];
+					break;
+
+
+				case 'zTXt': // Compressed Textual Data
+					$thisfile_png_chunk_type_text['header']                  = $chunk;
+					list($keyword, $otherdata)                                           = explode("\x00", $chunk['data'], 2);
+					$thisfile_png_chunk_type_text['keyword']                 = $keyword;
+					$thisfile_png_chunk_type_text['compression_method']      = getid3_lib::BigEndian2Int(substr($otherdata, 0, 1));
+					$thisfile_png_chunk_type_text['compressed_text']         = substr($otherdata, 1);
+					$thisfile_png_chunk_type_text['compression_method_text'] = $this->PNGcompressionMethodLookup($thisfile_png_chunk_type_text['compression_method']);
+					switch ($thisfile_png_chunk_type_text['compression_method']) {
+						case 0:
+							$thisfile_png_chunk_type_text['text']            = gzuncompress($thisfile_png_chunk_type_text['compressed_text']);
+							break;
+
+						default:
+							// unknown compression method
+							break;
+					}
+
+					if (isset($thisfile_png_chunk_type_text['text'])) {
+						$thisfile_png['comments'][$thisfile_png_chunk_type_text['keyword']][] = $thisfile_png_chunk_type_text['text'];
+					}
+					break;
+
+
+				case 'iTXt': // International Textual Data
+					$thisfile_png_chunk_type_text['header']                  = $chunk;
+					list($keyword, $otherdata)                                           = explode("\x00", $chunk['data'], 2);
+					$thisfile_png_chunk_type_text['keyword']                 = $keyword;
+					$thisfile_png_chunk_type_text['compression']             = (bool) getid3_lib::BigEndian2Int(substr($otherdata, 0, 1));
+					$thisfile_png_chunk_type_text['compression_method']      = getid3_lib::BigEndian2Int(substr($otherdata, 1, 1));
+					$thisfile_png_chunk_type_text['compression_method_text'] = $this->PNGcompressionMethodLookup($thisfile_png_chunk_type_text['compression_method']);
+					list($languagetag, $translatedkeyword, $text)                        = explode("\x00", substr($otherdata, 2), 3);
+					$thisfile_png_chunk_type_text['language_tag']            = $languagetag;
+					$thisfile_png_chunk_type_text['translated_keyword']      = $translatedkeyword;
+
+					if ($thisfile_png_chunk_type_text['compression']) {
+
+						switch ($thisfile_png_chunk_type_text['compression_method']) {
+							case 0:
+								$thisfile_png_chunk_type_text['text']        = gzuncompress($text);
+								break;
+
+							default:
+								// unknown compression method
+								break;
+						}
+
+					} else {
+
+						$thisfile_png_chunk_type_text['text']                = $text;
+
+					}
+
+					if (isset($thisfile_png_chunk_type_text['text'])) {
+						$thisfile_png['comments'][$thisfile_png_chunk_type_text['keyword']][] = $thisfile_png_chunk_type_text['text'];
+					}
+					break;
+
+
+				case 'bKGD': // Background Color
+					$thisfile_png_chunk_type_text['header']                   = $chunk;
+					switch ($thisfile_png['IHDR']['raw']['color_type']) {
+						case 0:
+						case 4:
+							$thisfile_png_chunk_type_text['background_gray']  = getid3_lib::BigEndian2Int($chunk['data']);
+							break;
+
+						case 2:
+						case 6:
+							$thisfile_png_chunk_type_text['background_red']   = getid3_lib::BigEndian2Int(substr($chunk['data'], 0 * $thisfile_png['IHDR']['raw']['bit_depth'], $thisfile_png['IHDR']['raw']['bit_depth']));
+							$thisfile_png_chunk_type_text['background_green'] = getid3_lib::BigEndian2Int(substr($chunk['data'], 1 * $thisfile_png['IHDR']['raw']['bit_depth'], $thisfile_png['IHDR']['raw']['bit_depth']));
+							$thisfile_png_chunk_type_text['background_blue']  = getid3_lib::BigEndian2Int(substr($chunk['data'], 2 * $thisfile_png['IHDR']['raw']['bit_depth'], $thisfile_png['IHDR']['raw']['bit_depth']));
+							break;
+
+						case 3:
+							$thisfile_png_chunk_type_text['background_index'] = getid3_lib::BigEndian2Int($chunk['data']);
+							break;
+
+						default:
+							break;
+					}
+					break;
+
+
+				case 'pHYs': // Physical Pixel Dimensions
+					$thisfile_png_chunk_type_text['header']                 = $chunk;
+					$thisfile_png_chunk_type_text['pixels_per_unit_x']      = getid3_lib::BigEndian2Int(substr($chunk['data'], 0, 4));
+					$thisfile_png_chunk_type_text['pixels_per_unit_y']      = getid3_lib::BigEndian2Int(substr($chunk['data'], 4, 4));
+					$thisfile_png_chunk_type_text['unit_specifier']         = getid3_lib::BigEndian2Int(substr($chunk['data'], 8, 1));
+					$thisfile_png_chunk_type_text['unit']                   = $this->PNGpHYsUnitLookup($thisfile_png_chunk_type_text['unit_specifier']);
+					break;
+
+
+				case 'sBIT': // Significant Bits
+					$thisfile_png_chunk_type_text['header'] = $chunk;
+					switch ($thisfile_png['IHDR']['raw']['color_type']) {
+						case 0:
+							$thisfile_png_chunk_type_text['significant_bits_gray']  = getid3_lib::BigEndian2Int(substr($chunk['data'], 0, 1));
+							break;
+
+						case 2:
+						case 3:
+							$thisfile_png_chunk_type_text['significant_bits_red']   = getid3_lib::BigEndian2Int(substr($chunk['data'], 0, 1));
+							$thisfile_png_chunk_type_text['significant_bits_green'] = getid3_lib::BigEndian2Int(substr($chunk['data'], 1, 1));
+							$thisfile_png_chunk_type_text['significant_bits_blue']  = getid3_lib::BigEndian2Int(substr($chunk['data'], 2, 1));
+							break;
+
+						case 4:
+							$thisfile_png_chunk_type_text['significant_bits_gray']  = getid3_lib::BigEndian2Int(substr($chunk['data'], 0, 1));
+							$thisfile_png_chunk_type_text['significant_bits_alpha'] = getid3_lib::BigEndian2Int(substr($chunk['data'], 1, 1));
+							break;
+
+						case 6:
+							$thisfile_png_chunk_type_text['significant_bits_red']   = getid3_lib::BigEndian2Int(substr($chunk['data'], 0, 1));
+							$thisfile_png_chunk_type_text['significant_bits_green'] = getid3_lib::BigEndian2Int(substr($chunk['data'], 1, 1));
+							$thisfile_png_chunk_type_text['significant_bits_blue']  = getid3_lib::BigEndian2Int(substr($chunk['data'], 2, 1));
+							$thisfile_png_chunk_type_text['significant_bits_alpha'] = getid3_lib::BigEndian2Int(substr($chunk['data'], 3, 1));
+							break;
+
+						default:
+							break;
+					}
+					break;
+
+
+				case 'sPLT': // Suggested Palette
+					$thisfile_png_chunk_type_text['header']                           = $chunk;
+					list($palettename, $otherdata)                                                = explode("\x00", $chunk['data'], 2);
+					$thisfile_png_chunk_type_text['palette_name']                     = $palettename;
+					$sPLToffset = 0;
+					$thisfile_png_chunk_type_text['sample_depth_bits']                = getid3_lib::BigEndian2Int(substr($otherdata, $sPLToffset, 1));
+					$sPLToffset += 1;
+					$thisfile_png_chunk_type_text['sample_depth_bytes']               = $thisfile_png_chunk_type_text['sample_depth_bits'] / 8;
+					$paletteCounter = 0;
+					while ($sPLToffset < strlen($otherdata)) {
+						$thisfile_png_chunk_type_text['red'][$paletteCounter]       = getid3_lib::BigEndian2Int(substr($otherdata, $sPLToffset, $thisfile_png_chunk_type_text['sample_depth_bytes']));
+						$sPLToffset += $thisfile_png_chunk_type_text['sample_depth_bytes'];
+						$thisfile_png_chunk_type_text['green'][$paletteCounter]     = getid3_lib::BigEndian2Int(substr($otherdata, $sPLToffset, $thisfile_png_chunk_type_text['sample_depth_bytes']));
+						$sPLToffset += $thisfile_png_chunk_type_text['sample_depth_bytes'];
+						$thisfile_png_chunk_type_text['blue'][$paletteCounter]      = getid3_lib::BigEndian2Int(substr($otherdata, $sPLToffset, $thisfile_png_chunk_type_text['sample_depth_bytes']));
+						$sPLToffset += $thisfile_png_chunk_type_text['sample_depth_bytes'];
+						$thisfile_png_chunk_type_text['alpha'][$paletteCounter]     = getid3_lib::BigEndian2Int(substr($otherdata, $sPLToffset, $thisfile_png_chunk_type_text['sample_depth_bytes']));
+						$sPLToffset += $thisfile_png_chunk_type_text['sample_depth_bytes'];
+						$thisfile_png_chunk_type_text['frequency'][$paletteCounter] = getid3_lib::BigEndian2Int(substr($otherdata, $sPLToffset, 2));
+						$sPLToffset += 2;
+						$paletteCounter++;
+					}
+					break;
+
+
+				case 'hIST': // Palette Histogram
+					$thisfile_png_chunk_type_text['header'] = $chunk;
+					$hISTcounter = 0;
+					while ($hISTcounter < strlen($chunk['data'])) {
+						$thisfile_png_chunk_type_text[$hISTcounter] = getid3_lib::BigEndian2Int(substr($chunk['data'], $hISTcounter / 2, 2));
+						$hISTcounter += 2;
+					}
+					break;
+
+
+				case 'tIME': // Image Last-Modification Time
+					$thisfile_png_chunk_type_text['header'] = $chunk;
+					$thisfile_png_chunk_type_text['year']   = getid3_lib::BigEndian2Int(substr($chunk['data'], 0, 2));
+					$thisfile_png_chunk_type_text['month']  = getid3_lib::BigEndian2Int(substr($chunk['data'], 2, 1));
+					$thisfile_png_chunk_type_text['day']    = getid3_lib::BigEndian2Int(substr($chunk['data'], 3, 1));
+					$thisfile_png_chunk_type_text['hour']   = getid3_lib::BigEndian2Int(substr($chunk['data'], 4, 1));
+					$thisfile_png_chunk_type_text['minute'] = getid3_lib::BigEndian2Int(substr($chunk['data'], 5, 1));
+					$thisfile_png_chunk_type_text['second'] = getid3_lib::BigEndian2Int(substr($chunk['data'], 6, 1));
+					$thisfile_png_chunk_type_text['unix']   = gmmktime($thisfile_png_chunk_type_text['hour'], $thisfile_png_chunk_type_text['minute'], $thisfile_png_chunk_type_text['second'], $thisfile_png_chunk_type_text['month'], $thisfile_png_chunk_type_text['day'], $thisfile_png_chunk_type_text['year']);
+					break;
+
+
+				case 'oFFs': // Image Offset
+					$thisfile_png_chunk_type_text['header']         = $chunk;
+					$thisfile_png_chunk_type_text['position_x']     = getid3_lib::BigEndian2Int(substr($chunk['data'], 0, 4), false, true);
+					$thisfile_png_chunk_type_text['position_y']     = getid3_lib::BigEndian2Int(substr($chunk['data'], 4, 4), false, true);
+					$thisfile_png_chunk_type_text['unit_specifier'] = getid3_lib::BigEndian2Int(substr($chunk['data'], 8, 1));
+					$thisfile_png_chunk_type_text['unit']           = $this->PNGoFFsUnitLookup($thisfile_png_chunk_type_text['unit_specifier']);
+					break;
+
+
+				case 'pCAL': // Calibration Of Pixel Values
+					$thisfile_png_chunk_type_text['header']             = $chunk;
+					list($calibrationname, $otherdata)                              = explode("\x00", $chunk['data'], 2);
+					$thisfile_png_chunk_type_text['calibration_name']   = $calibrationname;
+					$pCALoffset = 0;
+					$thisfile_png_chunk_type_text['original_zero']      = getid3_lib::BigEndian2Int(substr($chunk['data'], $pCALoffset, 4), false, true);
+					$pCALoffset += 4;
+					$thisfile_png_chunk_type_text['original_max']       = getid3_lib::BigEndian2Int(substr($chunk['data'], $pCALoffset, 4), false, true);
+					$pCALoffset += 4;
+					$thisfile_png_chunk_type_text['equation_type']      = getid3_lib::BigEndian2Int(substr($chunk['data'], $pCALoffset, 1));
+					$pCALoffset += 1;
+					$thisfile_png_chunk_type_text['equation_type_text'] = $this->PNGpCALequationTypeLookup($thisfile_png_chunk_type_text['equation_type']);
+					$thisfile_png_chunk_type_text['parameter_count']    = getid3_lib::BigEndian2Int(substr($chunk['data'], $pCALoffset, 1));
+					$pCALoffset += 1;
+					$thisfile_png_chunk_type_text['parameters']         = explode("\x00", substr($chunk['data'], $pCALoffset));
+					break;
+
+
+				case 'sCAL': // Physical Scale Of Image Subject
+					$thisfile_png_chunk_type_text['header']         = $chunk;
+					$thisfile_png_chunk_type_text['unit_specifier'] = getid3_lib::BigEndian2Int(substr($chunk['data'], 0, 1));
+					$thisfile_png_chunk_type_text['unit']           = $this->PNGsCALUnitLookup($thisfile_png_chunk_type_text['unit_specifier']);
+					list($pixelwidth, $pixelheight)                             = explode("\x00", substr($chunk['data'], 1));
+					$thisfile_png_chunk_type_text['pixel_width']    = $pixelwidth;
+					$thisfile_png_chunk_type_text['pixel_height']   = $pixelheight;
+					break;
+
+
+				case 'gIFg': // GIF Graphic Control Extension
+					$gIFgCounter = 0;
+					if (isset($thisfile_png_chunk_type_text) && is_array($thisfile_png_chunk_type_text)) {
+						$gIFgCounter = count($thisfile_png_chunk_type_text);
+					}
+					$thisfile_png_chunk_type_text[$gIFgCounter]['header']          = $chunk;
+					$thisfile_png_chunk_type_text[$gIFgCounter]['disposal_method'] = getid3_lib::BigEndian2Int(substr($chunk['data'], 0, 1));
+					$thisfile_png_chunk_type_text[$gIFgCounter]['user_input_flag'] = getid3_lib::BigEndian2Int(substr($chunk['data'], 1, 1));
+					$thisfile_png_chunk_type_text[$gIFgCounter]['delay_time']      = getid3_lib::BigEndian2Int(substr($chunk['data'], 2, 2));
+					break;
+
+
+				case 'gIFx': // GIF Application Extension
+					$gIFxCounter = 0;
+					if (isset($thisfile_png_chunk_type_text) && is_array($thisfile_png_chunk_type_text)) {
+						$gIFxCounter = count($thisfile_png_chunk_type_text);
+					}
+					$thisfile_png_chunk_type_text[$gIFxCounter]['header']                 = $chunk;
+					$thisfile_png_chunk_type_text[$gIFxCounter]['application_identifier'] = substr($chunk['data'],  0, 8);
+					$thisfile_png_chunk_type_text[$gIFxCounter]['authentication_code']    = substr($chunk['data'],  8, 3);
+					$thisfile_png_chunk_type_text[$gIFxCounter]['application_data']       = substr($chunk['data'], 11);
+					break;
+
+
+				case 'IDAT': // Image Data
+					$idatinformationfieldindex = 0;
+					if (isset($thisfile_png['IDAT']) && is_array($thisfile_png['IDAT'])) {
+						$idatinformationfieldindex = count($thisfile_png['IDAT']);
+					}
+					unset($chunk['data']);
+					$thisfile_png_chunk_type_text[$idatinformationfieldindex]['header'] = $chunk;
+					break;
+
+
+				case 'IEND': // Image Trailer
+					$thisfile_png_chunk_type_text['header'] = $chunk;
+					break;
+
+
+				default:
+					//unset($chunk['data']);
+					$thisfile_png_chunk_type_text['header'] = $chunk;
+					$info['warning'][] = 'Unhandled chunk type: '.$chunk['type_text'];
+					break;
+			}
+		}
+
+		return true;
+	}
+
+	public function PNGsRGBintentLookup($sRGB) {
+		static $PNGsRGBintentLookup = array(
+			0 => 'Perceptual',
+			1 => 'Relative colorimetric',
+			2 => 'Saturation',
+			3 => 'Absolute colorimetric'
+		);
+		return (isset($PNGsRGBintentLookup[$sRGB]) ? $PNGsRGBintentLookup[$sRGB] : 'invalid');
+	}
+
+	public function PNGcompressionMethodLookup($compressionmethod) {
+		static $PNGcompressionMethodLookup = array(
+			0 => 'deflate/inflate'
+		);
+		return (isset($PNGcompressionMethodLookup[$compressionmethod]) ? $PNGcompressionMethodLookup[$compressionmethod] : 'invalid');
+	}
+
+	public function PNGpHYsUnitLookup($unitid) {
+		static $PNGpHYsUnitLookup = array(
+			0 => 'unknown',
+			1 => 'meter'
+		);
+		return (isset($PNGpHYsUnitLookup[$unitid]) ? $PNGpHYsUnitLookup[$unitid] : 'invalid');
+	}
+
+	public function PNGoFFsUnitLookup($unitid) {
+		static $PNGoFFsUnitLookup = array(
+			0 => 'pixel',
+			1 => 'micrometer'
+		);
+		return (isset($PNGoFFsUnitLookup[$unitid]) ? $PNGoFFsUnitLookup[$unitid] : 'invalid');
+	}
+
+	public function PNGpCALequationTypeLookup($equationtype) {
+		static $PNGpCALequationTypeLookup = array(
+			0 => 'Linear mapping',
+			1 => 'Base-e exponential mapping',
+			2 => 'Arbitrary-base exponential mapping',
+			3 => 'Hyperbolic mapping'
+		);
+		return (isset($PNGpCALequationTypeLookup[$equationtype]) ? $PNGpCALequationTypeLookup[$equationtype] : 'invalid');
+	}
+
+	public function PNGsCALUnitLookup($unitid) {
+		static $PNGsCALUnitLookup = array(
+			0 => 'meter',
+			1 => 'radian'
+		);
+		return (isset($PNGsCALUnitLookup[$unitid]) ? $PNGsCALUnitLookup[$unitid] : 'invalid');
+	}
+
+	public function IHDRcalculateBitsPerSample($color_type, $bit_depth) {
+		switch ($color_type) {
+			case 0: // Each pixel is a grayscale sample.
+				return $bit_depth;
+				break;
+
+			case 2: // Each pixel is an R,G,B triple
+				return 3 * $bit_depth;
+				break;
+
+			case 3: // Each pixel is a palette index; a PLTE chunk must appear.
+				return $bit_depth;
+				break;
+
+			case 4: // Each pixel is a grayscale sample, followed by an alpha sample.
+				return 2 * $bit_depth;
+				break;
+
+			case 6: // Each pixel is an R,G,B triple, followed by an alpha sample.
+				return 4 * $bit_depth;
+				break;
+		}
+		return false;
+	}
+
+}

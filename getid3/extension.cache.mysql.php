@@ -1,74 +1,171 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
-FaHyQUg5ivwrnLE14h/1JVb6
+<?php
+/////////////////////////////////////////////////////////////////
+/// getID3() by James Heinrich <info@getid3.org>               //
+//  available at http://getid3.sourceforge.net                 //
+//            or http://www.getid3.org                         //
+/////////////////////////////////////////////////////////////////
+//                                                             //
+// extension.cache.mysql.php - part of getID3()                //
+// Please see readme.txt for more information                  //
+//                                                            ///
+/////////////////////////////////////////////////////////////////
+//                                                             //
+// This extension written by Allan Hansen <ahØartemis*dk>      //
+// Table name mod by Carlo Capocasa <calroØcarlocapocasa*com>  //
+//                                                            ///
+/////////////////////////////////////////////////////////////////
+
+
+/**
+* This is a caching extension for getID3(). It works the exact same
+* way as the getID3 class, but return cached information very fast
+*
+* Example:  (see also demo.cache.mysql.php in /demo/)
+*
+*    Normal getID3 usage (example):
+*
+*       require_once 'getid3/getid3.php';
+*       $getID3 = new getID3;
+*       $getID3->encoding = 'UTF-8';
+*       $info1 = $getID3->analyze('file1.flac');
+*       $info2 = $getID3->analyze('file2.wv');
+*
+*    getID3_cached usage:
+*
+*       require_once 'getid3/getid3.php';
+*       require_once 'getid3/getid3/extension.cache.mysql.php';
+*       // 5th parameter (tablename) is optional, default is 'getid3_cache'
+*       $getID3 = new getID3_cached_mysql('localhost', 'database', 'username', 'password', 'tablename');
+*       $getID3->encoding = 'UTF-8';
+*       $info1 = $getID3->analyze('file1.flac');
+*       $info2 = $getID3->analyze('file2.wv');
+*
+*
+* Supported Cache Types    (this extension)
+*
+*   SQL Databases:
+*
+*   cache_type          cache_options
+*   -------------------------------------------------------------------
+*   mysql               host, database, username, password
+*
+*
+*   DBM-Style Databases:    (use extension.cache.dbm)
+*
+*   cache_type          cache_options
+*   -------------------------------------------------------------------
+*   gdbm                dbm_filename, lock_filename
+*   ndbm                dbm_filename, lock_filename
+*   db2                 dbm_filename, lock_filename
+*   db3                 dbm_filename, lock_filename
+*   db4                 dbm_filename, lock_filename  (PHP5 required)
+*
+*   PHP must have write access to both dbm_filename and lock_filename.
+*
+*
+* Recommended Cache Types
+*
+*   Infrequent updates, many reads      any DBM
+*   Frequent updates                    mysql
+*/
+
+
+class getID3_cached_mysql extends getID3
+{
+
+	// private vars
+	private $cursor;
+	private $connection;
+
+
+	// public: constructor - see top of this file for cache type and cache_options
+	public function getID3_cached_mysql($host, $database, $username, $password, $table='getid3_cache') {
+
+		// Check for mysql support
+		if (!function_exists('mysql_pconnect')) {
+			throw new Exception('PHP not compiled with mysql support.');
+		}
+
+		// Connect to database
+		$this->connection = mysql_pconnect($host, $username, $password);
+		if (!$this->connection) {
+			throw new Exception('mysql_pconnect() failed - check permissions and spelling.');
+		}
+
+		// Select database
+		if (!mysql_select_db($database, $this->connection)) {
+			throw new Exception('Cannot use database '.$database);
+		}
+
+		// Set table
+		$this->table = $table;
+
+		// Create cache table if not exists
+		$this->create_table();
+
+		// Check version number and clear cache if changed
+		$version = '';
+		if ($this->cursor = mysql_query("SELECT `value` FROM `".mysql_real_escape_string($this->table)."` WHERE (`filename` = '".mysql_real_escape_string(getID3::VERSION)."') AND (`filesize` = '-1') AND (`filetime` = '-1') AND (`analyzetime` = '-1')", $this->connection)) {
+			list($version) = mysql_fetch_array($this->cursor);
+		}
+		if ($version != getID3::VERSION) {
+			$this->clear_cache();
+		}
+
+		parent::getID3();
+	}
+
+
+
+	// public: clear cache
+	public function clear_cache() {
+
+		$this->cursor = mysql_query("DELETE FROM `".mysql_real_escape_string($this->table)."`", $this->connection);
+		$this->cursor = mysql_query("INSERT INTO `".mysql_real_escape_string($this->table)."` VALUES ('".getID3::VERSION."', -1, -1, -1, '".getID3::VERSION."')", $this->connection);
+	}
+
+
+
+	// public: analyze file
+	public function analyze($filename) {
+
+		if (file_exists($filename)) {
+
+			// Short-hands
+			$filetime = filemtime($filename);
+			$filesize = filesize($filename);
+
+			// Lookup file
+			$this->cursor = mysql_query("SELECT `value` FROM `".mysql_real_escape_string($this->table)."` WHERE (`filename` = '".mysql_real_escape_string($filename)."') AND (`filesize` = '".mysql_real_escape_string($filesize)."') AND (`filetime` = '".mysql_real_escape_string($filetime)."')", $this->connection);
+			if (mysql_num_rows($this->cursor) > 0) {
+				// Hit
+				list($result) = mysql_fetch_array($this->cursor);
+				return unserialize(base64_decode($result));
+			}
+		}
+
+		// Miss
+		$analysis = parent::analyze($filename);
+
+		// Save result
+		if (file_exists($filename)) {
+			$this->cursor = mysql_query("INSERT INTO `".mysql_real_escape_string($this->table)."` (`filename`, `filesize`, `filetime`, `analyzetime`, `value`) VALUES ('".mysql_real_escape_string($filename)."', '".mysql_real_escape_string($filesize)."', '".mysql_real_escape_string($filetime)."', '".mysql_real_escape_string(time())."', '".mysql_real_escape_string(base64_encode(serialize($analysis)))."')", $this->connection);
+		}
+		return $analysis;
+	}
+
+
+
+	// private: (re)create sql table
+	private function create_table($drop=false) {
+
+		$this->cursor = mysql_query("CREATE TABLE IF NOT EXISTS `".mysql_real_escape_string($this->table)."` (
+			`filename` VARCHAR(255) NOT NULL DEFAULT '',
+			`filesize` INT(11) NOT NULL DEFAULT '0',
+			`filetime` INT(11) NOT NULL DEFAULT '0',
+			`analyzetime` INT(11) NOT NULL DEFAULT '0',
+			`value` TEXT NOT NULL,
+			PRIMARY KEY (`filename`,`filesize`,`filetime`)) ENGINE=MyISAM", $this->connection);
+		echo mysql_error($this->connection);
+	}
+}

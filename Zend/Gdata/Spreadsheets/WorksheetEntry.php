@@ -1,62 +1,187 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-HR+cPpU+DkLhBulAPdEZnXKY4FtWI6P3467YZFCkvO1xffS0rkOhzbChsvP0aiBu1PUL0GqzbRBa
-n7CnlC0MREFi8hIp+ivcVShf+wXzL07Gt92fKDj/+SZR0Hti/BhrwPhYHNqjVEMAUn3zBDV4pEKw
-uyKCub/5dEHdFp/M3yPUP/v+K/P6DUJJ1fnuBpBKsHrheujDofgjkYqkSAsdHuC/r0Cvaq2MqE0o
-HVbSlWOPxMq5auVBuLO4zUg8FiuZYPmtS9bsLu20iCweQja9YLrJ6V62/OKLWa2ZBl+WLfn2Jc6I
-YzQapgsRjBn540oBDupNIu3iJ9sO3lZgAnQssqoIGhqgDtbx7PH/5eFeQ6iQ72rPgdCDXKbWeCcd
-mSVAEd9TFMxwSyg+WIKsLEy2g1JnwoOoq5kCwpQP+Xg11D+FWYmQoEJPz+nHaz36cjAnO4HrHNOR
-WihkT9ISpEpZG3gBzZ/4uNgrbM/xfog1oS9D2FoZmLW8+Cg61ztGggtSxiHd7VajR37OGU2QqZba
-V2S2emnY1WGE2cM4dIthr5s79ZxYhxLG/a5w0gt/wOx7fNVcj75n7rn7uCu2MCCRv+VPJ4rTu30N
-pUXti9mmH1nssj/O+cNs/QG65rrk/nyLGpxmuLsL/Tf9fUfiTLlqrrKQbJrdJlWRGw9CqMjYeV8P
-86PnY3rbuBXGg2g0nhNbsR3YzRqh0uO8+n2nq6V7SFNnf5gDX+662Q2RfDR49+QJGhOIykmh6zx3
-jCA1uHhoGzNqmqnCqvTyuzgZM78qe0pkEhNTZGxUMSRuahpISrhkoRNGSsir9PJoqRRd/LgBjZAs
-3BF40yJXpb3//uRZ3Tkribne9VfchLq/BqrMvGw+TMUZoHLL1JxI485rA56csIYbyf+VvWdy5lya
-tT/LwbM7sJxjZfk766AR1HXDxGSOTHZLxtoVFlacrreRWT6EbSPQtmFAYphlFiqd3sXN9xUYVO7x
-iJ+Rnq3KCNW5tntTPz1VanksFf3bZk15y6Tv1qjtHNXGV5h6eokfO0wmP0mRwcEh38PSrCHymXdP
-8X/6613SYiSr/qkU4Trwka31sTzh5wOPY8Lu1c0+FRMZ0PZlIuhZvheIm/IrBA0Mb1EuzGyA9tCQ
-VS5qX6u++giEjChUI3lIuPbdQHd/beIcjIIv0RyxwNx7qicu+ijkT+WJcJhMT1HsKAhtnMnUJ5VR
-uQgPtdYxXhMMwWSr8p9jHT/mKA0VqYRiXebLMaWXXEVEIsv19kwi8w3rGoYqjligfDHjbIeQlaVf
-heLx7XIBio4DUq7K4dks5Bz7Vn5bc87CEmS1Ij+NiXiWM5SlxhHQ9vbHqg69rXI3fc3B6ORjaVge
-SfNPP5JaEjFbi5XwRQbKUEFD2NKcvkrPkEZgVLUzkqvk4Pn14PPOvnxLQuh762DMH5gKE4VBsK+F
-D7Hh0ahyg/gOcNAdf8TwOtFvUBJ1Y6EB5UzBTFBoXR40LN4pJboWa85ALLnPmhBFsm8Gvt5rPMzs
-5d0k57Mq2jOG/Q+N5RsFql5wtLNT9TsRNESHsewBYz5GUKqSryuvc6n/eEWPIo8gkcQpPhZqd1I7
-tdKKciH3X8C1/YqTbEhoyhR19V0Gs4BFKMV8XzDInOM6XPF9QeQtdEC6pgpbMqzuXnQhQ9gRkYyg
-lBKgeXRUHznyeO7qEDxXmAUEgMLXd/QohMttTKvzRpHfbPIsbNpWMRnJjn1waoTY+tasEjxTNwpn
-0HpErZq2jKPd6aHUSJeacAkW2TJdlAdKpMKIty3sRg2pqJ/WrZlkijfrSRBDttJheWojLaqFMdoq
-RC1L45aNvaQ/O1B6qszbYnYR9ovB0Uzj6B/m0HizKn2En3Vldj6MUdE1jNWxGgSg79BaOFlhXIK0
-d1rJNH8ILanGBDLwz3h56FZazrYyXPDzCyjKbg25I2nYOtrelIN7E0uEq94hb7dCsIpNNjD8AArd
-Yb3Dsg4M2XtvbBvjaD1BGrXSjXeZQ/hWj4ipX80m0IU/HAArbVXyD3q6huLv79BfdLzEskx/vsv6
-UPLWDoMr7nEtHS2h8k/JbZvz7FjOa85lI5K/FL+zTVCpSDiAJ/PgGbC6lcAQBEYDlic4k+RWWz9v
-RprsGKepY/hI5ilB/GXXBeYuZ5OtTkpj2HIprPzRfQu5bLv5jnonG/uC174X3RyButxm//2h8D7I
-3+aDJbEimSWEuq5syYUqdJ6YwmtcYsESvSO6sxhzZ+AHUbWSVpXJEipIERiVYwSCdAMybK4FrZJO
-3n59ACKzoAYuqQqWJaCkN/N+XLxEZhZv4Sr6LxUatsKPwTROXsOLxjTcZbTD7T87zwYW49JJuxre
-RB8k3i1MrrmolpuvhRf0TTYf1buF07UBClTPxNRsANEt+dY1BUfy/AjwU8rm266lDImJ++ymkhat
-nHIFELI5OOi7PHDvuanAuCZDeMr7ITZSmr5E1XjVXErJmZbuvSOMtFwQYKQN0Q5CLYTnFhuzPaaw
-XWfTEGfOXCur48NIYvI7sCAybY2etoLwGFwSbHpLm04l7KrhNtihO6bH7DPqFqZ5d4Qnzqp+PnCm
-PzE24Pr8MMP7UwOZPJlqFfnX3HE3UacpUEyVPB/TS2dg1g89q/1HqI62hikAHL6g8sY/IKGXkQOG
-4YF5kC8fxojU8NolC5jDk2xTUd+onmRx//trGBKfSwilDZGtwc6t6gwuqqDlYezCFGlaZqmt/zaN
-ltgeP6ZyEPjBC9Qb8pY86X7zAxnSnylTbYQqfqqxdHHlX0PF3uBHGsH1HvHNI1qml61N5/LOZRjX
-gu2L4wiVl+M5u8WgqAnONOPMTM2MIzH4m5ps1Fte9snO9kZiBKzIONeKkVMqHRn0cl6mT1ADLEQB
-WQIts96fZElYaEwAFKZRTqbee20uEH6gcr7llL/uyBxJ9kYJgyz3hHaWV6vFQ3HFhw3W/r0ovhXx
-stkpIny/in6i73f7nrfBtxX4v7KKjPE2Ykfzlgdg9Ya2j9uH9CPMODwUErILIGqgw9LJ0zxANMXW
-dpb2oIF8lK/85izuE4Q0McPyY5hBnGGzn47/YGzzpnpANG4iLBQpy8UwEUlJuorYRgFigZZo99eP
-6ugjGI+4XIU/T391h4W+0Y0xo+ieeXmeyjFfR1JtLxvT7WfFK32i4VtPFltESaT0H8yOwPU33QuW
-yGfAHInGRstOuZJ+naTFkgZzMgNRE+7RdrBe94M2AJiKxz32blrbzYskD+5nlQtSVUiqn2nCs7Vc
-1d/qO0mrtc+VUEcHJAkUvtFQvvTb1S6SztT/QtIA6VMSuCp1yeM5ClT6Twsh1H22NlPFwGB/Akbm
-KmXST2TwtqoAuPRTFRtydpRfBm82yemvVx8vWsoi2/JgTitW1FPOE6/C+2uBw5uc7cP2GnYeHO3r
-YmBFTZgnm+6DmjDUw8KNOCuxRKS7kvvUJQigyZzeN+WapyLOA9KAM/rNEfRA/P1q6CWjN0/kaQvc
-h6tb4nlSv8uXYgBGzO3n+tjnm69+EKurpsZC7UYVr65071d+bdoe/zoQ8+HvTspQ+1kCsIzUXNwF
-FzQwxbO1Z2Liln0kM8NCOXUHNXgunO3H7/JXRYWIhwLzqeh8x1t218AeRMRn6msnGgWx6q3lB+lF
-dVUTAZiCEyfkk3x719UQbzYB7984mog5FpSd1dEv9bsdbfPju1RS4gWqyKMbngIUT9ag5ru+If0I
-FHPVM+sWieV5aYd5Oa1fkMuFYAeQRP+tXo4PkOZ1d8vc/yfHazmKbrilckwxByY2S5RT1Zfb83zJ
-KcIJQWdw0niKkZ40YyLSmRC2JEeveFJ7G6K5KTdobd01lto7Kk+btiyRdc4nhPMzRib9qExr9CBZ
-r3/7baneljLGyCh17aDkWThOalpDdlWBZ3d5810UfzokqpugPUyrlFA/wAL2Oyw17dOZCNe3X5JZ
-yJd8j2m7X+bVu+VR/mTGHl2KucKVy+onb1J7buoiGSv70erDzOCtxyIjTl63qVyTcD2RyIVjtBX8
-Qk2Sfdj7SzVd9IAWLexFsPPvmPaF8ck1773mQaJiMn8lI9oFCAgFqQckMIna6+VmbM7NKNb5PRBq
-0RfzddGJeBVliAgRuISK26JHtIoTkYwGbvIvBzZoo4W3sVA9sPx1dV6DhkQtPfSR1iKBpEfb2v+b
-W/OD/9rjFyhVqgc2G0TYIbKBieoJ2D8vZJCWRKte7ryfAa8vdbW7lEAH8pQ1ze375W6s6BAwr2ct
-0l4ENB00zfStYHKFPsx5antlWfp9UKHBgLvFV/vPc1R6iYbM+BbmBV802NzFK72FsfKvYQmh2Qf4
-tAJy33r5wqj+caZBWqQGTQX0lj1ENdAtILm6YrnDGExvg5bL65XU2/5jiSY9kv3dDPWE2aN0T5Yl
-U82XqezRZxcpz3iOgUW1hrQcXHvbTm==
+<?php
+
+/**
+ * Zend Framework
+ *
+ * LICENSE
+ *
+ * This source file is subject to the new BSD license that is bundled
+ * with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://framework.zend.com/license/new-bsd
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@zend.com so we can send you a copy immediately.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Spreadsheets
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ * @version    $Id: WorksheetEntry.php 16971 2009-07-22 18:05:45Z mikaelkael $
+ */
+
+/**
+ * @see Zend_Gdata_Entry
+ */
+require_once 'Zend/Gdata/Entry.php';
+
+/**
+ * @see Zend_Gdata_Spreadsheets_Extension_RowCount
+ */
+require_once 'Zend/Gdata/Spreadsheets/Extension/RowCount.php';
+
+/**
+ * @see Zend_Gdata_Spreadsheets_Extension_ColCount
+ */
+require_once 'Zend/Gdata/Spreadsheets/Extension/ColCount.php';
+
+/**
+ * Concrete class for working with Worksheet entries.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Spreadsheets
+ * @copyright    Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+class Zend_Gdata_Spreadsheets_WorksheetEntry extends Zend_Gdata_Entry
+{
+
+    protected $_entryClassName = 'Zend_Gdata_Spreadsheets_WorksheetEntry';
+
+    protected $_rowCount = null;
+    protected $_colCount = null;
+
+    /**
+     * Constructs a new Zend_Gdata_Spreadsheets_WorksheetEntry object.
+     *
+     * @param DOMElement $element (optional) The DOMElement on which to base this object.
+     */
+    public function __construct($element = null)
+    {
+        $this->registerAllNamespaces(Zend_Gdata_Spreadsheets::$namespaces);
+        parent::__construct($element);
+    }
+
+    /**
+     * Retrieves a DOMElement which corresponds to this element and all
+     * child properties.  This is used to build an entry back into a DOM
+     * and eventually XML text for sending to the server upon updates, or
+     * for application storage/persistence.
+     *
+     * @param DOMDocument $doc The DOMDocument used to construct DOMElements
+     * @return DOMElement The DOMElement representing this element and all
+     * child properties.
+     */
+    public function getDOM($doc = null, $majorVersion = 1, $minorVersion = null)
+    {
+        $element = parent::getDOM($doc, $majorVersion, $minorVersion);
+        if ($this->_rowCount != null) {
+            $element->appendChild($this->_rowCount->getDOM($element->ownerDocument));
+        }
+        if ($this->_colCount != null) {
+            $element->appendChild($this->_colCount->getDOM($element->ownerDocument));
+        }
+        return $element;
+    }
+
+    /**
+     * Creates individual Entry objects of the appropriate type and
+     * stores them in the $_entry array based upon DOM data.
+     *
+     * @param DOMNode $child The DOMNode to process
+     */
+    protected function takeChildFromDOM($child)
+    {
+        $absoluteNodeName = $child->namespaceURI . ':' . $child->localName;
+        switch ($absoluteNodeName) {
+            case $this->lookupNamespace('gs') . ':' . 'rowCount';
+                $rowCount = new Zend_Gdata_Spreadsheets_Extension_RowCount();
+                $rowCount->transferFromDOM($child);
+                $this->_rowCount = $rowCount;
+                break;
+            case $this->lookupNamespace('gs') . ':' . 'colCount';
+                $colCount = new Zend_Gdata_Spreadsheets_Extension_ColCount();
+                $colCount->transferFromDOM($child);
+                $this->_colCount = $colCount;
+                break;
+            default:
+                parent::takeChildFromDOM($child);
+                break;
+        }
+    }
+
+
+    /**
+     * Gets the row count for this entry.
+     *
+     * @return string The row count for the entry.
+     */
+    public function getRowCount()
+    {
+        return $this->_rowCount;
+    }
+
+    /**
+     * Gets the column count for this entry.
+     *
+     * @return string The column count for the entry.
+     */
+    public function getColumnCount()
+    {
+        return $this->_colCount;
+    }
+
+    /**
+     * Sets the row count for this entry.
+     *
+     * @param string $rowCount The new row count for the entry.
+     */
+    public function setRowCount($rowCount)
+    {
+        $this->_rowCount = $rowCount;
+        return $this;
+    }
+
+    /**
+     * Sets the column count for this entry.
+     *
+     * @param string $colCount The new column count for the entry.
+     */
+    public function setColumnCount($colCount)
+    {
+        $this->_colCount = $colCount;
+        return $this;
+    }
+
+    /**
+     * Returns the content of all rows as an associative array
+     *
+     * @return array An array of rows.  Each element of the array is an associative array of data
+     */
+    public function getContentsAsRows()
+    {
+        $service = new Zend_Gdata_Spreadsheets($this->getHttpClient());
+        return $service->getSpreadsheetListFeedContents($this);
+    }
+
+    /**
+     * Returns the content of all cells as an associative array, indexed
+     * off the cell location  (ie 'A1', 'D4', etc).  Each element of
+     * the array is an associative array with a 'value' and a 'function'.
+     * Only non-empty cells are returned by default.  'range' is the
+     * value of the 'range' query parameter specified at:
+     * http://code.google.com/apis/spreadsheets/reference.html#cells_Parameters
+     *
+     * @param string $range The range of cells to retrieve
+     * @param boolean $empty Whether to retrieve empty cells
+     * @return array An associative array of cells
+     */
+    public function getContentsAsCells($range = null, $empty = false)
+    {
+        $service = new Zend_Gdata_Spreadsheets($this->getHttpClient());
+        return $service->getSpreadsheetCellFeedContents($this, $range, $empty);
+    }
+
+}

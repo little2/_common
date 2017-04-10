@@ -1,217 +1,344 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
+<?php
+/////////////////////////////////////////////////////////////////
+/// getID3() by James Heinrich <info@getid3.org>               //
+//  available at http://getid3.sourceforge.net                 //
+//            or http://www.getid3.org                         //
+/////////////////////////////////////////////////////////////////
+// See readme.txt for more details                             //
+/////////////////////////////////////////////////////////////////
+//                                                             //
+// module.graphic.jpg.php                                      //
+// module for analyzing JPEG Image files                       //
+// dependencies: PHP compiled with --enable-exif (optional)    //
+//               module.tag.xmp.php (optional)                 //
+//                                                            ///
+/////////////////////////////////////////////////////////////////
+
+
+class getid3_jpg extends getid3_handler
+{
+
+
+	public function Analyze() {
+		$info = &$this->getid3->info;
+
+		$info['fileformat']                  = 'jpg';
+		$info['video']['dataformat']         = 'jpg';
+		$info['video']['lossless']           = false;
+		$info['video']['bits_per_sample']    = 24;
+		$info['video']['pixel_aspect_ratio'] = (float) 1;
+
+		fseek($this->getid3->fp, $info['avdataoffset'], SEEK_SET);
+
+		$imageinfo = array();
+		//list($width, $height, $type) = getid3_lib::GetDataImageSize(fread($this->getid3->fp, $info['filesize']), $imageinfo);
+		list($width, $height, $type) = getimagesize($info['filenamepath'], $imageinfo); // http://www.getid3.org/phpBB3/viewtopic.php?t=1474
+
+
+		if (isset($imageinfo['APP13'])) {
+			// http://php.net/iptcparse
+			// http://www.sno.phy.queensu.ca/~phil/exiftool/TagNames/IPTC.html
+			$iptc_parsed = iptcparse($imageinfo['APP13']);
+			if (is_array($iptc_parsed)) {
+				foreach ($iptc_parsed as $iptc_key_raw => $iptc_values) {
+					list($iptc_record, $iptc_tagkey) = explode('#', $iptc_key_raw);
+					$iptc_tagkey = intval(ltrim($iptc_tagkey, '0'));
+					foreach ($iptc_values as $key => $value) {
+						$IPTCrecordName = $this->IPTCrecordName($iptc_record);
+						$IPTCrecordTagName = $this->IPTCrecordTagName($iptc_record, $iptc_tagkey);
+						if (isset($info['iptc'][$IPTCrecordName][$IPTCrecordTagName])) {
+							$info['iptc'][$IPTCrecordName][$IPTCrecordTagName][] = $value;
+						} else {
+							$info['iptc'][$IPTCrecordName][$IPTCrecordTagName] = array($value);
+						}
+					}
+				}
+			}
+		}
+
+		$returnOK = false;
+		switch ($type) {
+			case IMG_JPG:
+				$info['video']['resolution_x'] = $width;
+				$info['video']['resolution_y'] = $height;
+
+				if (isset($imageinfo['APP1'])) {
+					if (function_exists('exif_read_data')) {
+						if (substr($imageinfo['APP1'], 0, 4) == 'Exif') {
+//$info['warning'][] = 'known issue: https://bugs.php.net/bug.php?id=62523';
+//return false;
+							$info['jpg']['exif'] = exif_read_data($info['filenamepath'], null, true, false);
+						} else {
+							$info['warning'][] = 'exif_read_data() cannot parse non-EXIF data in APP1 (expected "Exif", found "'.substr($imageinfo['APP1'], 0, 4).'")';
+						}
+					} else {
+						$info['warning'][] = 'EXIF parsing only available when '.(GETID3_OS_ISWINDOWS ? 'php_exif.dll enabled' : 'compiled with --enable-exif');
+					}
+				}
+				$returnOK = true;
+				break;
+
+			default:
+				break;
+		}
+
+
+		$cast_as_appropriate_keys = array('EXIF', 'IFD0', 'THUMBNAIL');
+		foreach ($cast_as_appropriate_keys as $exif_key) {
+			if (isset($info['jpg']['exif'][$exif_key])) {
+				foreach ($info['jpg']['exif'][$exif_key] as $key => $value) {
+					$info['jpg']['exif'][$exif_key][$key] = $this->CastAsAppropriate($value);
+				}
+			}
+		}
+
+
+		if (isset($info['jpg']['exif']['GPS'])) {
+
+			if (isset($info['jpg']['exif']['GPS']['GPSVersion'])) {
+				for ($i = 0; $i < 4; $i++) {
+					$version_subparts[$i] = ord(substr($info['jpg']['exif']['GPS']['GPSVersion'], $i, 1));
+				}
+				$info['jpg']['exif']['GPS']['computed']['version'] = 'v'.implode('.', $version_subparts);
+			}
+
+			if (isset($info['jpg']['exif']['GPS']['GPSDateStamp'])) {
+				$explodedGPSDateStamp = explode(':', $info['jpg']['exif']['GPS']['GPSDateStamp']);
+				$computed_time[5] = (isset($explodedGPSDateStamp[0]) ? $explodedGPSDateStamp[0] : '');
+				$computed_time[3] = (isset($explodedGPSDateStamp[1]) ? $explodedGPSDateStamp[1] : '');
+				$computed_time[4] = (isset($explodedGPSDateStamp[2]) ? $explodedGPSDateStamp[2] : '');
+
+				if (function_exists('date_default_timezone_set')) {
+					date_default_timezone_set('UTC');
+				} else {
+					ini_set('date.timezone', 'UTC');
+				}
+
+				$computed_time = array(0=>0, 1=>0, 2=>0, 3=>0, 4=>0, 5=>0);
+				if (isset($info['jpg']['exif']['GPS']['GPSTimeStamp']) && is_array($info['jpg']['exif']['GPS']['GPSTimeStamp'])) {
+					foreach ($info['jpg']['exif']['GPS']['GPSTimeStamp'] as $key => $value) {
+						$computed_time[$key] = getid3_lib::DecimalizeFraction($value);
+					}
+				}
+				$info['jpg']['exif']['GPS']['computed']['timestamp'] = mktime($computed_time[0], $computed_time[1], $computed_time[2], $computed_time[3], $computed_time[4], $computed_time[5]);
+			}
+
+			if (isset($info['jpg']['exif']['GPS']['GPSLatitude']) && is_array($info['jpg']['exif']['GPS']['GPSLatitude'])) {
+				$direction_multiplier = ((isset($info['jpg']['exif']['GPS']['GPSLatitudeRef']) && ($info['jpg']['exif']['GPS']['GPSLatitudeRef'] == 'S')) ? -1 : 1);
+				foreach ($info['jpg']['exif']['GPS']['GPSLatitude'] as $key => $value) {
+					$computed_latitude[$key] = getid3_lib::DecimalizeFraction($value);
+				}
+				$info['jpg']['exif']['GPS']['computed']['latitude'] = $direction_multiplier * ($computed_latitude[0] + ($computed_latitude[1] / 60) + ($computed_latitude[2] / 3600));
+			}
+
+			if (isset($info['jpg']['exif']['GPS']['GPSLongitude']) && is_array($info['jpg']['exif']['GPS']['GPSLongitude'])) {
+				$direction_multiplier = ((isset($info['jpg']['exif']['GPS']['GPSLongitudeRef']) && ($info['jpg']['exif']['GPS']['GPSLongitudeRef'] == 'W')) ? -1 : 1);
+				foreach ($info['jpg']['exif']['GPS']['GPSLongitude'] as $key => $value) {
+					$computed_longitude[$key] = getid3_lib::DecimalizeFraction($value);
+				}
+				$info['jpg']['exif']['GPS']['computed']['longitude'] = $direction_multiplier * ($computed_longitude[0] + ($computed_longitude[1] / 60) + ($computed_longitude[2] / 3600));
+			}
+			if (isset($info['jpg']['exif']['GPS']['GPSAltitudeRef'])) {
+				$info['jpg']['exif']['GPS']['GPSAltitudeRef'] = ord($info['jpg']['exif']['GPS']['GPSAltitudeRef']); // 0 = above sea level; 1 = below sea level
+			}
+			if (isset($info['jpg']['exif']['GPS']['GPSAltitude'])) {
+				$direction_multiplier = (!empty($info['jpg']['exif']['GPS']['GPSAltitudeRef']) ? -1 : 1);           // 0 = above sea level; 1 = below sea level
+				$info['jpg']['exif']['GPS']['computed']['altitude'] = $direction_multiplier * getid3_lib::DecimalizeFraction($info['jpg']['exif']['GPS']['GPSAltitude']);
+			}
+
+		}
+
+
+		if (getid3_lib::IncludeDependency(GETID3_INCLUDEPATH.'module.tag.xmp.php', __FILE__, false)) {
+			if (isset($info['filenamepath'])) {
+				$image_xmp = new Image_XMP($info['filenamepath']);
+				$xmp_raw = $image_xmp->getAllTags();
+				foreach ($xmp_raw as $key => $value) {
+					if (strpos($key, ':')) {
+						list($subsection, $tagname) = explode(':', $key);
+						$info['xmp'][$subsection][$tagname] = $this->CastAsAppropriate($value);
+					} else {
+						$info['warning'][] = 'XMP: expecting "<subsection>:<tagname>", found "'.$key.'"';
+					}
+				}
+			}
+		}
+
+		if (!$returnOK) {
+			unset($info['fileformat']);
+			return false;
+		}
+		return true;
+	}
+
+
+	public function CastAsAppropriate($value) {
+		if (is_array($value)) {
+			return $value;
+		} elseif (preg_match('#^[0-9]+/[0-9]+$#', $value)) {
+			return getid3_lib::DecimalizeFraction($value);
+		} elseif (preg_match('#^[0-9]+$#', $value)) {
+			return getid3_lib::CastAsInt($value);
+		} elseif (preg_match('#^[0-9\.]+$#', $value)) {
+			return (float) $value;
+		}
+		return $value;
+	}
+
+
+	public function IPTCrecordName($iptc_record) {
+		// http://www.sno.phy.queensu.ca/~phil/exiftool/TagNames/IPTC.html
+		static $IPTCrecordName = array();
+		if (empty($IPTCrecordName)) {
+			$IPTCrecordName = array(
+				1 => 'IPTCEnvelope',
+				2 => 'IPTCApplication',
+				3 => 'IPTCNewsPhoto',
+				7 => 'IPTCPreObjectData',
+				8 => 'IPTCObjectData',
+				9 => 'IPTCPostObjectData',
+			);
+		}
+		return (isset($IPTCrecordName[$iptc_record]) ? $IPTCrecordName[$iptc_record] : '');
+	}
+
+
+	public function IPTCrecordTagName($iptc_record, $iptc_tagkey) {
+		// http://www.sno.phy.queensu.ca/~phil/exiftool/TagNames/IPTC.html
+		static $IPTCrecordTagName = array();
+		if (empty($IPTCrecordTagName)) {
+			$IPTCrecordTagName = array(
+				1 => array( // IPTC EnvelopeRecord Tags
+					0   => 'EnvelopeRecordVersion',
+					5   => 'Destination',
+					20  => 'FileFormat',
+					22  => 'FileVersion',
+					30  => 'ServiceIdentifier',
+					40  => 'EnvelopeNumber',
+					50  => 'ProductID',
+					60  => 'EnvelopePriority',
+					70  => 'DateSent',
+					80  => 'TimeSent',
+					90  => 'CodedCharacterSet',
+					100 => 'UniqueObjectName',
+					120 => 'ARMIdentifier',
+					122 => 'ARMVersion',
+				),
+				2 => array( // IPTC ApplicationRecord Tags
+					0   => 'ApplicationRecordVersion',
+					3   => 'ObjectTypeReference',
+					4   => 'ObjectAttributeReference',
+					5   => 'ObjectName',
+					7   => 'EditStatus',
+					8   => 'EditorialUpdate',
+					10  => 'Urgency',
+					12  => 'SubjectReference',
+					15  => 'Category',
+					20  => 'SupplementalCategories',
+					22  => 'FixtureIdentifier',
+					25  => 'Keywords',
+					26  => 'ContentLocationCode',
+					27  => 'ContentLocationName',
+					30  => 'ReleaseDate',
+					35  => 'ReleaseTime',
+					37  => 'ExpirationDate',
+					38  => 'ExpirationTime',
+					40  => 'SpecialInstructions',
+					42  => 'ActionAdvised',
+					45  => 'ReferenceService',
+					47  => 'ReferenceDate',
+					50  => 'ReferenceNumber',
+					55  => 'DateCreated',
+					60  => 'TimeCreated',
+					62  => 'DigitalCreationDate',
+					63  => 'DigitalCreationTime',
+					65  => 'OriginatingProgram',
+					70  => 'ProgramVersion',
+					75  => 'ObjectCycle',
+					80  => 'By-line',
+					85  => 'By-lineTitle',
+					90  => 'City',
+					92  => 'Sub-location',
+					95  => 'Province-State',
+					100 => 'Country-PrimaryLocationCode',
+					101 => 'Country-PrimaryLocationName',
+					103 => 'OriginalTransmissionReference',
+					105 => 'Headline',
+					110 => 'Credit',
+					115 => 'Source',
+					116 => 'CopyrightNotice',
+					118 => 'Contact',
+					120 => 'Caption-Abstract',
+					121 => 'LocalCaption',
+					122 => 'Writer-Editor',
+					125 => 'RasterizedCaption',
+					130 => 'ImageType',
+					131 => 'ImageOrientation',
+					135 => 'LanguageIdentifier',
+					150 => 'AudioType',
+					151 => 'AudioSamplingRate',
+					152 => 'AudioSamplingResolution',
+					153 => 'AudioDuration',
+					154 => 'AudioOutcue',
+					184 => 'JobID',
+					185 => 'MasterDocumentID',
+					186 => 'ShortDocumentID',
+					187 => 'UniqueDocumentID',
+					188 => 'OwnerID',
+					200 => 'ObjectPreviewFileFormat',
+					201 => 'ObjectPreviewFileVersion',
+					202 => 'ObjectPreviewData',
+					221 => 'Prefs',
+					225 => 'ClassifyState',
+					228 => 'SimilarityIndex',
+					230 => 'DocumentNotes',
+					231 => 'DocumentHistory',
+					232 => 'ExifCameraInfo',
+				),
+				3 => array( // IPTC NewsPhoto Tags
+					0   => 'NewsPhotoVersion',
+					10  => 'IPTCPictureNumber',
+					20  => 'IPTCImageWidth',
+					30  => 'IPTCImageHeight',
+					40  => 'IPTCPixelWidth',
+					50  => 'IPTCPixelHeight',
+					55  => 'SupplementalType',
+					60  => 'ColorRepresentation',
+					64  => 'InterchangeColorSpace',
+					65  => 'ColorSequence',
+					66  => 'ICC_Profile',
+					70  => 'ColorCalibrationMatrix',
+					80  => 'LookupTable',
+					84  => 'NumIndexEntries',
+					85  => 'ColorPalette',
+					86  => 'IPTCBitsPerSample',
+					90  => 'SampleStructure',
+					100 => 'ScanningDirection',
+					102 => 'IPTCImageRotation',
+					110 => 'DataCompressionMethod',
+					120 => 'QuantizationMethod',
+					125 => 'EndPoints',
+					130 => 'ExcursionTolerance',
+					135 => 'BitsPerComponent',
+					140 => 'MaximumDensityRange',
+					145 => 'GammaCompensatedValue',
+				),
+				7 => array( // IPTC PreObjectData Tags
+					10  => 'SizeMode',
+					20  => 'MaxSubfileSize',
+					90  => 'ObjectSizeAnnounced',
+					95  => 'MaximumObjectSize',
+				),
+				8 => array( // IPTC ObjectData Tags
+					10  => 'SubFile',
+				),
+				9 => array( // IPTC PostObjectData Tags
+					10  => 'ConfirmedObjectSize',
+				),
+			);
+
+		}
+		return (isset($IPTCrecordTagName[$iptc_record][$iptc_tagkey]) ? $IPTCrecordTagName[$iptc_record][$iptc_tagkey] : $iptc_tagkey);
+	}
+
+}

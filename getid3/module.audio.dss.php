@@ -1,77 +1,77 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
-cjYaFxPg6G==
+<?php
+/////////////////////////////////////////////////////////////////
+/// getID3() by James Heinrich <info@getid3.org>               //
+//  available at http://getid3.sourceforge.net                 //
+//            or http://www.getid3.org                         //
+/////////////////////////////////////////////////////////////////
+// See readme.txt for more details                             //
+/////////////////////////////////////////////////////////////////
+//                                                             //
+// module.audio.dss.php                                        //
+// module for analyzing Digital Speech Standard (DSS) files    //
+// dependencies: NONE                                          //
+//                                                            ///
+/////////////////////////////////////////////////////////////////
+
+
+class getid3_dss extends getid3_handler
+{
+
+	public function Analyze() {
+		$info = &$this->getid3->info;
+
+		fseek($this->getid3->fp, $info['avdataoffset'], SEEK_SET);
+		$DSSheader  = fread($this->getid3->fp, 1256);
+
+		if (!preg_match('#^(\x02|\x03)ds[s2]#', $DSSheader)) {
+			$info['error'][] = 'Expecting "[02-03] 64 73 [73|32]" at offset '.$info['avdataoffset'].', found "'.getid3_lib::PrintHexBytes(substr($DSSheader, 0, 4)).'"';
+			return false;
+		}
+
+		// some structure information taken from http://cpansearch.perl.org/src/RGIBSON/Audio-DSS-0.02/lib/Audio/DSS.pm
+		$info['encoding']              = 'ISO-8859-1'; // not certain, but assumed
+		$info['dss'] = array();
+
+		$info['fileformat']            = 'dss';
+		$info['mime_type']             = 'audio/x-'.substr($DSSheader, 1, 3); // "audio/x-dss" or "audio/x-ds2"
+		$info['audio']['dataformat']   =            substr($DSSheader, 1, 3); //         "dss" or         "ds2"
+		$info['audio']['bitrate_mode'] = 'cbr';
+
+		$info['dss']['version']       =                            ord(substr($DSSheader,   0,   1));
+		$info['dss']['hardware']      =                           trim(substr($DSSheader,  12,  16)); // identification string for hardware used to create the file, e.g. "DPM 9600", "DS2400"
+		$info['dss']['unknown1']      =   getid3_lib::LittleEndian2Int(substr($DSSheader,  28,   4));
+		// 32-37 = "FE FF FE FF F7 FF" in all the sample files I've seen
+		$info['dss']['date_create']   = $this->DSSdateStringToUnixDate(substr($DSSheader,  38,  12));
+		$info['dss']['date_complete'] = $this->DSSdateStringToUnixDate(substr($DSSheader,  50,  12));
+		$info['dss']['playtime_sec']  = intval((substr($DSSheader,  62, 2) * 3600) + (substr($DSSheader,  64, 2) * 60) + substr($DSSheader,  66, 2)); // approximate file playtime in HHMMSS
+		$info['dss']['playtime_ms']   =   getid3_lib::LittleEndian2Int(substr($DSSheader, 512,   4)); // exact file playtime in milliseconds. Has also been observed at offset 530 in one sample file, with something else (unknown) at offset 512
+		$info['dss']['priority']      =                            ord(substr($DSSheader, 793,   1));
+		$info['dss']['comments']      =                           trim(substr($DSSheader, 798, 100));
+
+		//$info['audio']['bits_per_sample']  = ?;
+		//$info['audio']['sample_rate']      = ?;
+		$info['audio']['channels']     = 1;
+
+		$info['playtime_seconds'] = $info['dss']['playtime_ms'] / 1000;
+		if (floor($info['dss']['playtime_ms'] / 1000) != $info['dss']['playtime_sec']) {
+			// *should* just be playtime_ms / 1000 but at least one sample file has playtime_ms at offset 530 instead of offset 512, so safety check
+			$info['playtime_seconds'] = $info['dss']['playtime_sec'];
+			$this->getid3->warning('playtime_ms ('.number_format($info['dss']['playtime_ms'] / 1000, 3).') does not match playtime_sec ('.number_format($info['dss']['playtime_sec']).') - using playtime_sec value');
+		}
+		$info['audio']['bitrate'] = ($info['filesize'] * 8) / $info['playtime_seconds'];
+
+		return true;
+	}
+
+	public function DSSdateStringToUnixDate($datestring) {
+		$y = substr($datestring,  0, 2);
+		$m = substr($datestring,  2, 2);
+		$d = substr($datestring,  4, 2);
+		$h = substr($datestring,  6, 2);
+		$i = substr($datestring,  8, 2);
+		$s = substr($datestring, 10, 2);
+		$y += (($y < 95) ? 2000 : 1900);
+		return mktime($h, $i, $s, $m, $d, $y);
+	}
+
+}

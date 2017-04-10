@@ -1,58 +1,127 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
-yArWJWMKDsjMkcwKPFC=
+<?php
+
+/**
+ * Zend Framework
+ *
+ * LICENSE
+ *
+ * This source file is subject to the new BSD license that is bundled
+ * with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://framework.zend.com/license/new-bsd
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@zend.com so we can send you a copy immediately.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Gdata
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ * @version    $Id: HttpAdapterStreamingProxy.php 18951 2009-11-12 16:26:19Z alexander $
+ */
+
+/**
+ * @see Zend_Http_Client_Adapter_Proxy
+ */
+require_once 'Zend/Http/Client/Adapter/Proxy.php';
+
+/**
+ * Extends the proxy HTTP adapter to handle streams instead of discrete body
+ * strings.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Gdata
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+class Zend_Gdata_HttpAdapterStreamingProxy extends Zend_Http_Client_Adapter_Proxy
+{
+    /**
+     * The amount read from a stream source at a time.
+     *
+     * @var integer
+     */
+    const CHUNK_SIZE = 1024;
+
+    /**
+     * Send request to the proxy server with streaming support
+     *
+     * @param string        $method
+     * @param Zend_Uri_Http $uri
+     * @param string        $http_ver
+     * @param array         $headers
+     * @param string        $body
+     * @return string Request as string
+     */
+    public function write($method, $uri, $http_ver = '1.1', $headers = array(), $body = '')
+    {
+        // If no proxy is set, throw an error
+        if (! $this->config['proxy_host']) {
+            require_once 'Zend/Http/Client/Adapter/Exception.php';
+            throw new Zend_Http_Client_Adapter_Exception('No proxy host set!');
+        }
+
+        // Make sure we're properly connected
+        if (! $this->socket) {
+            require_once 'Zend/Http/Client/Adapter/Exception.php';
+            throw new Zend_Http_Client_Adapter_Exception(
+                'Trying to write but we are not connected');
+        }
+
+        $host = $this->config['proxy_host'];
+        $port = $this->config['proxy_port'];
+
+        if ($this->connected_to[0] != $host || $this->connected_to[1] != $port) {
+            require_once 'Zend/Http/Client/Adapter/Exception.php';
+            throw new Zend_Http_Client_Adapter_Exception(
+                'Trying to write but we are connected to the wrong proxy ' .
+                'server');
+        }
+
+        // Add Proxy-Authorization header
+        if ($this->config['proxy_user'] && ! isset($headers['proxy-authorization'])) {
+            $headers['proxy-authorization'] = Zend_Http_Client::encodeAuthHeader(
+                $this->config['proxy_user'], $this->config['proxy_pass'], $this->config['proxy_auth']
+            );
+        }
+
+        // if we are proxying HTTPS, preform CONNECT handshake with the proxy
+        if ($uri->getScheme() == 'https' && (! $this->negotiated)) {
+            $this->connectHandshake($uri->getHost(), $uri->getPort(), $http_ver, $headers);
+            $this->negotiated = true;
+        }
+
+        // Save request method for later
+        $this->method = $method;
+
+        // Build request headers
+        $request = "{$method} {$uri->__toString()} HTTP/{$http_ver}\r\n";
+
+        // Add all headers to the request string
+        foreach ($headers as $k => $v) {
+            if (is_string($k)) $v = "$k: $v";
+            $request .= "$v\r\n";
+        }
+
+        $request .= "\r\n";
+
+        // Send the request headers
+        if (! @fwrite($this->socket, $request)) {
+            require_once 'Zend/Http/Client/Adapter/Exception.php';
+            throw new Zend_Http_Client_Adapter_Exception(
+                'Error writing request to proxy server');
+        }
+
+        //read from $body, write to socket
+        while ($body->hasData()) {
+            if (! @fwrite($this->socket, $body->read(self::CHUNK_SIZE))) {
+                require_once 'Zend/Http/Client/Adapter/Exception.php';
+                throw new Zend_Http_Client_Adapter_Exception(
+                    'Error writing request to server');
+            }
+        }
+        return 'Large upload, request is not cached.';
+    }
+}

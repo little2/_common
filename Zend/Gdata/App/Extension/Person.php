@@ -1,61 +1,163 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
-7oFwsxfXGoB3PLBwNBMsq8pVAfjeGhV26XJ+7KHm2pBI6oU6u8b1rj2Vr43D3xu7Df86USxQ5iag
-ynvqkPWW2KEUpamJ3ZG4KCzktIJ/D65f0akQtQOGXLN/1bdKH3Bxn/KFHZeF+HCAu9+N1Co9xLHQ
-ZaNbXETQ9l7xb+50wnG5Iah9e3hAB/ZZ0mYNrqcEKQq6Be5szQrcNVrjEWrd66V6X8MMGCyvYaJS
-Ku2pCJ3fZPl4mWGaus7NtJG55vkBIBd75BBRFnbOsgqqauLYxfBPmx7/4ovGiXaS36lq7SL9n5uW
-04BZg1ixd9MFZL1YpcBZRr6ih+Gx7dNLauCbEZ19mmVdiA5wyCwAm/vYOFId+oiGKTg3rAIIRTk3
-VoabX2Zr33S2rSHF9PKCaE08wb5v814hns94waiENOLkP8G/8ZYkTYvoiZv5K4L6qXYh//gtMGrL
-+KIO6eME6bXCPLyS1S4zpu1jMEJuTJW69x3YGxXx7OAxhNelDbfLYUf4Lg5hr+Euyp77Mp2ciDK+
-xjuKHOX3Lp77D0x/8X/YT5OLLCmk09OWU9CMxpZ1FxLACGXIrG3GAgUXMLVgKblfHV75+28zJLUI
-yhrHQOAbQ1t4vvpal/+fJ8pBPHHqDV3KcX5IJSgheXGQeqeQMdwqpdElZVyFHdOqAnt1nQ73hPwP
-Jmg0GJV4VVGN2FEOWFdWYXSzujR71D2mcabsrW3cm/8gLKiuz/twaie0K5/heptweF7eywq=
+<?php
+
+/**
+ * Zend Framework
+ *
+ * LICENSE
+ *
+ * This source file is subject to the new BSD license that is bundled
+ * with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://framework.zend.com/license/new-bsd
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@zend.com so we can send you a copy immediately.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage App
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ * @version    $Id: Person.php 16971 2009-07-22 18:05:45Z mikaelkael $
+ */
+
+/**
+ * @see Zend_Gdata_App_Extension
+ */
+require_once 'Zend/Gdata/App/Extension.php';
+
+/**
+ * @see Zend_Gdata_App_Extension_Name
+ */
+require_once 'Zend/Gdata/App/Extension/Name.php';
+
+/**
+ * @see Zend_Gdata_App_Extension_Email
+ */
+require_once 'Zend/Gdata/App/Extension/Email.php';
+
+/**
+ * @see Zend_Gdata_App_Extension_Uri
+ */
+require_once 'Zend/Gdata/App/Extension/Uri.php';
+
+/**
+ * Base class for people (currently used by atom:author, atom:contributor)
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage App
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+abstract class Zend_Gdata_App_Extension_Person extends Zend_Gdata_App_Extension
+{
+
+    protected $_rootElement = null;
+    protected $_name = null;
+    protected $_email = null;
+    protected $_uri = null;
+
+    public function __construct($name = null, $email = null, $uri = null)
+    {
+        parent::__construct();
+        $this->_name = $name;
+        $this->_email = $email;
+        $this->_uri = $uri;
+    }
+
+    public function getDOM($doc = null, $majorVersion = 1, $minorVersion = null)
+    {
+        $element = parent::getDOM($doc, $majorVersion, $minorVersion);
+        if ($this->_name != null) {
+            $element->appendChild($this->_name->getDOM($element->ownerDocument));
+        }
+        if ($this->_email != null) {
+            $element->appendChild($this->_email->getDOM($element->ownerDocument));
+        }
+        if ($this->_uri != null) {
+            $element->appendChild($this->_uri->getDOM($element->ownerDocument));
+        }
+        return $element;
+    }
+
+    protected function takeChildFromDOM($child)
+    {
+        $absoluteNodeName = $child->namespaceURI . ':' . $child->localName;
+        switch ($absoluteNodeName) {
+        case $this->lookupNamespace('atom') . ':' . 'name':
+            $name = new Zend_Gdata_App_Extension_Name();
+            $name->transferFromDOM($child);
+            $this->_name = $name;
+            break;
+        case $this->lookupNamespace('atom') . ':' . 'email':
+            $email = new Zend_Gdata_App_Extension_Email();
+            $email->transferFromDOM($child);
+            $this->_email = $email;
+            break;
+        case $this->lookupNamespace('atom') . ':' . 'uri':
+            $uri = new Zend_Gdata_App_Extension_Uri();
+            $uri->transferFromDOM($child);
+            $this->_uri = $uri;
+            break;
+        default:
+            parent::takeChildFromDOM($child);
+            break;
+        }
+    }
+
+    /**
+     * @return Zend_Gdata_App_Extension_Name
+     */
+    public function getName()
+    {
+        return $this->_name;
+    }
+
+    /**
+     * @param Zend_Gdata_App_Extension_Name $value
+     * @return Zend_Gdata_App_Entry Provides a fluent interface
+     */
+    public function setName($value)
+    {
+        $this->_name = $value;
+        return $this;
+    }
+
+    /**
+     * @return Zend_Gdata_App_Extension_Email
+     */
+    public function getEmail()
+    {
+        return $this->_email;
+    }
+
+    /**
+     * @param Zend_Gdata_App_Extension_Email $value
+     * @return Zend_Gdata_App_Extension_Person Provides a fluent interface
+     */
+    public function setEmail($value)
+    {
+        $this->_email = $value;
+        return $this;
+    }
+
+    /**
+     * @return Zend_Gdata_App_Extension_Uri
+     */
+    public function getUri()
+    {
+        return $this->_uri;
+    }
+
+    /**
+     * @param Zend_Gdata_App_Extension_Uri $value
+     * @return Zend_Gdata_App_Extension_Person Provides a fluent interface
+     */
+    public function setUri($value)
+    {
+        $this->_uri = $value;
+        return $this;
+    }
+
+}

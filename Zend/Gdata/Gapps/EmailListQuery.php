@@ -1,43 +1,187 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-HR+cPnhbt27SJYKMZLH90XV9Ky1xi1aTT/qlBOYi+ku3u65Z3JPek1meikH+Rrm7G4R/qG58bWcY
-8bLnouXSZluRmtlU0ooMaqSJMLTYnw/v1zResSHJjo+MHDf2P94cp+2BINQJklbVTexjUHSccPOL
-wOHb8xOLwXA6CfnF27Nhw2cqv9sFAjqxa9Ly5FzUrvPnJoU5f9YTeeOWGraT0ifcctLX/qh4FLx3
-d1531rcHpl5G2uDaqwK/weW+pYE9d3TmcNPNW82mpazUXUtYdrSsW8UcGXMgauGV5DUpU+6aGkdx
-IxXToGVC4/Mo8H8sdqe6Eez6cdbP0CXjlfFOiMTiUYawi0IePKwioiu9RQ7sSq8auxlfF/OjlZkY
-FVTsGfK2A0xpoGLUc0r9ZTY6OfjYMwvDseYuwxMoxePPPMecxyAcNOvjJik0UGMZXAqfCwEN2pUp
-E+mvsBOfOUUAjS9k6w7YZVj+o387ZbbvVsQ2dIbaRL1EEavNYfX+qVVshHMu6Rm5iFysogDYdnM+
-suLZIDv38TaBbtkZye4BqYzMB9RDo1EZ+o/zTQRqO6MrxWzTmAEu6BfQ9qpaG0/pibigxrcUpIkB
-2qpEU1X1L86e6OH9sNF8ur0/1B0+agL/B7HKm5K9Depw6Zdae+BRdS/FcoGgXtKFSQd3hpJ0NVDq
-SShT3Ul/zDc2m5HYY8Kduvcu2X43oJIJT4+AYPTfTADNrYX68I1356LmQw/ShEFluDkIMlkCsrsd
-7WY7ttebz3AItqmhLbzwJ6Yrf4xSt1KUrr0VIZd07cBnwfCQAIXhwS4m6WNzxOmY0f5tXdPs3pCr
-KzLTKQnMcoPEi6YHI5coVDKqAVvqVF2VhCbqDukqIu08RDMhsE4io/QY5emMfneYHvJCHpPUA06H
-DUS6dF4UQUcAHjxmWeAdoMuPAmNVE8PLsRNE8AzPjbIgj/2M/oNM/aZbR5z7w17+Tys75p07GSr6
-iFi+EpB/bTjb03grTWNPkLCiEUFeILUZYrvPL6e4Rn2JEHyXhgzHG4P78eulNwcr0Upa82UTfKJQ
-2IIZaYYXCZfflp3spoYC0X6JaaBeEnxq67XvkyBubIbteTFRidJOpC1tbyY2CQ13Vc1mvENhAKHK
-6oEZrhbhomkeC5hp1c9buuZltyQJNGDAvwJcEDcSFr2+yvcX9VFFtHCwlA5ek/MhBpC5swcUC/gY
-5copCoXv10h5dN49lisqhDF6H9aZ2ICenXza731Hy4erGschFV+hnoeGWjN1gQYEZoFg0cDA/I63
-FPgNEyHA7FivptTmTY9QBDHESRrbCIz7sz1S10AeWRPAQlzzOEQlC0qiGDfda6HtXWjEEYMcYJT4
-xIHS92qHEQziSXwF9LlvfwxQHw6edsNa7fQ0ztsqUVkaQNVN62jQ+GX5R7juAciQriTpe8AIWi+y
-eZDKZ8sQuCyMTRzd4jIt1lXfkodSjGrQJFFeeQBR4hHPNDszzurr5DlRBhSSIbsk6fbB6W05634E
-yPUQ2Ab+srzOb/CPbP4Xkzll8BqBkLBv/wWMP8EUITpo9419q3JKR+6HBa9c8F7CdIV0MabKn6ff
-l4EQlV88T7+JWeZYEj9jLSie88pQ8vZG1ka3es58oFvjnWe23q6MpNKrsxoda+wOWB2EYOkFm9nM
-dNrTFrLy/nSmBHZXz+Q/qa12sqbfv4jSexmYnnl+u5GXfedFxgQZjiKaNf1PHsdsmDzsLZOYqrx3
-WlZmLPKIA5WePFblN8rKMTWV847O7CvGPpUqK5qJwuVllsS/9ashnSh2q6XJQwoDJlqJnRp1iXff
-GA6gQPxeL6eYrHwi2jujuylfyIr9oRP8QG76tbaNTq+CWxrzwQygDAskSNhtxJ9GqPbJUl01Ks5i
-bV+sf8C57UjJ407qA8fPAwynrw912Lkn+vtkWZ1zl0V9NnB5yOsd26U4t1y6wceSQl3pxa9p9VpR
-ByM+iQO3eSmea6jwlzx2PUe8eeX6BY79OQ0ZBAbIza2xuY9wnG0wwNKcraEfg0r8wPWovlrkOdYx
-a5xZpJAEZvrT1DbfbZ7593W83+uHAHWl1qatMJ6FZ82sqJkeOfhPctEG+WY2hCTasHffHzj26g5u
-RPykCM4Kdc29zeDlBIxI4npTZ3Q2uYenpzq9RSfVgLXRBClOd9Y3ToJOaro2LXY4ZMCU+FQC3RAY
-3uGl+VryWQTCU0y1Qp5EHgW9X2BBorlkfwbpnjCQg79ZIPoowUyZhb2iN6Cp6i5A8ynPPTjIN7gG
-lAAiQ5L7i77gzzR4EMH5tBEtgg4slfOmugBejh6wjeKaH/wUrElRaAXhQ2fWwjR1OVEw9gdThAYu
-H/1SP82ZVGXbIgT7+0n5DBenpPaeyJ6Kw8VMqpHoeSyn9x3Fipz3U4l4kipGBtwgrERw10Y66VhN
-9QQB5T8LX0/zkenP3smhzFJ9wvOKBno+Du9GiUu4hjAB575D6jnqCCz+ho+MnaY+R2C731LIV8H3
-7RIPTndcQXmtLRDmuB4B77PF7DVNU86/Ouss68OaoYOIdAPniyu9RuPNkPnUMDL+OrtQi7wNjhhD
-Kv+vxzpJ9ufBL5UtKKrRIddkDU5fFhzeLZjXyX1BWNSibY3NhrN2s4FFkQ17H/SNkzvGEs9KkDLv
-3GGWRjLVYpdlLqIxE7mJ8NuWuqZiR4Kjk6a4+V7SMsPPyXHZnhDLlqz5lvq97Kf3z8w4l5Yt6BQP
-/8uQu15qR3M4rtKTP3zMG6AKFjkSHIUfCBSao7ovKj7ghYNf8KozQv88+LK2K7vC4jsjDj84TpI/
-hN2WbOS2Ua6Eo70daKhJG+kvnKUMmv7iz5T6h2UZO9/4jyUHZiVKUO4I9IeAN+vvaJ9aUutQ+RN3
-rgr3ZJ9VXNmJ37iE8b3l4smuGY7g5UjxDk0RfucDxcQAzFfWCZSsqd3LWEDzVpC2ZVfAD0E94kRi
-THCmFV4MlvJUdo0=
+<?php
+
+/**
+ * Zend Framework
+ *
+ * LICENSE
+ *
+ * This source file is subject to the new BSD license that is bundled
+ * with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://framework.zend.com/license/new-bsd
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@zend.com so we can send you a copy immediately.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Gapps
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ * @version    $Id: EmailListQuery.php 18951 2009-11-12 16:26:19Z alexander $
+ */
+
+/**
+ * @see Zend_Gdata_Gapps_Query
+ */
+require_once('Zend/Gdata/Gapps/Query.php');
+
+/**
+ * Assists in constructing queries for Google Apps email list entries.
+ * Instances of this class can be provided in many places where a URL is
+ * required.
+ *
+ * For information on submitting queries to a server, see the Google Apps
+ * service class, Zend_Gdata_Gapps.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Gapps
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+class Zend_Gdata_Gapps_EmailListQuery extends Zend_Gdata_Gapps_Query
+{
+
+    /**
+     * A string which, if not null, indicates which email list should
+     * be retrieved by this query.
+     *
+     * @var string
+     */
+    protected $_emailListName = null;
+
+    /**
+     * Create a new instance.
+     *
+     * @param string $domain (optional) The Google Apps-hosted domain to use
+     *          when constructing query URIs.
+     * @param string $emailListName (optional) Value for the emailListName
+     *          property.
+     * @param string $recipient (optional) Value for the recipient
+     *          property.
+     * @param string $startEmailListName (optional) Value for the
+     *          startEmailListName property.
+     */
+    public function __construct($domain = null, $emailListName = null,
+            $recipient = null, $startEmailListName = null)
+    {
+        parent::__construct($domain);
+        $this->setEmailListName($emailListName);
+        $this->setRecipient($recipient);
+        $this->setStartEmailListName($startEmailListName);
+    }
+
+    /**
+     * Set the email list name to query for. When set, only lists with a name
+     * matching this value will be returned in search results. Set to
+     * null to disable filtering by list name.
+     *
+     * @param string $value The email list name to filter search results by,
+     *          or null to disable.
+     */
+     public function setEmailListName($value)
+     {
+         $this->_emailListName = $value;
+     }
+
+    /**
+     * Get the email list name to query for. If no name is set, null will be
+     * returned.
+     *
+     * @see setEmailListName
+     * @return string The email list name to filter search results by, or null
+     *              if disabled.
+     */
+    public function getEmailListName()
+    {
+        return $this->_emailListName;
+    }
+
+    /**
+     * Set the recipient to query for. When set, only subscribers with an
+     * email address matching this value will be returned in search results.
+     * Set to null to disable filtering by username.
+     *
+     * @param string $value The recipient email address to filter search
+     *              results by, or null to  disable.
+     */
+    public function setRecipient($value)
+    {
+        if ($value !== null) {
+            $this->_params['recipient'] = $value;
+        }
+        else {
+            unset($this->_params['recipient']);
+        }
+    }
+
+    /**
+     * Get the recipient email address to query for. If no recipient is set,
+     * null will be returned.
+     *
+     * @see setRecipient
+     * @return string The recipient email address to filter search results by,
+     *              or null if disabled.
+     */
+    public function getRecipient()
+    {
+        if (array_key_exists('recipient', $this->_params)) {
+            return $this->_params['recipient'];
+        } else {
+            return null;
+        }
+    }
+
+    /**
+     * Set the first email list which should be displayed when retrieving
+     * a list of email lists.
+     *
+     * @param string $value The first email list to be returned, or null to
+     *              disable.
+     */
+    public function setStartEmailListName($value)
+    {
+        if ($value !== null) {
+            $this->_params['startEmailListName'] = $value;
+        } else {
+            unset($this->_params['startEmailListName']);
+        }
+    }
+
+    /**
+     * Get the first email list which should be displayed when retrieving
+     * a list of email lists.
+     *
+     * @return string The first email list to be returned, or null to
+     *              disable.
+     */
+    public function getStartEmailListName()
+    {
+        if (array_key_exists('startEmailListName', $this->_params)) {
+            return $this->_params['startEmailListName'];
+        } else {
+            return null;
+        }
+    }
+
+    /**
+     * Returns the URL generated for this query, based on it's current
+     * parameters.
+     *
+     * @return string A URL generated based on the state of this query.
+     * @throws Zend_Gdata_App_InvalidArgumentException
+     */
+    public function getQueryUrl()
+    {
+
+        $uri = $this->getBaseUrl();
+        $uri .= Zend_Gdata_Gapps::APPS_EMAIL_LIST_PATH;
+        if ($this->_emailListName !== null) {
+            $uri .= '/' . $this->_emailListName;
+        }
+        $uri .= $this->getQueryString();
+        return $uri;
+    }
+
+}

@@ -1,138 +1,176 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-HR+cPo9u27J2+F1xZwQTLnSkrkks7k6PXlhUrTOn1/buRgNOgt5L7Qc5ub87H+NTNxM7LCOkYg8N
-uu/Npoj0z1LMPGI1XwQT2kr8A3frN8bwM87u+zV6qHg++e1NxCxK5JCXM4qX4QO6QTWhI2wwvcPH
-5qEwI+TPfXt3Zkfw/P5ZJFP+Qy+TKCBhSZM3dKfSzqwUKBujcyazBBH257ZPU6nd2NxT5M3WsgJn
-GGEjfKGcUMlNuqzXYkYUZP0k6RFkzgvfjW5BdT7heJUIPc9HoTW6jQmHO4rKmCkVB+dU3+gOV7J5
-qB5med6hSeLPvCKpwvLlXwM2llFuAunRj9EN29QFXqRzWk1QzoFGJSQfpCXlXNCReXYDAKHbFvgG
-Aa5iagpuThPxQavRlXfplyxqxyKEd/U5tOrmlFeUTSkBE79GdYYR0fVr2waeoyBl+CDdHx6Ls9DI
-eyO6HyNpboQ1yFFYXKu7FlW7DWAuZgXjdOZrgkDU9Hpx7krU/tdcScef/LPKHxWu0K1Pblhozx4u
-FavWNYs7fsr1n6FMwe9wHDIdV9Em2Ja57O7QyTg67E9Yrz2qWpJsi/R7/Mz/py+XZzbd6g/zH8+v
-8nKZucJaoV6ENNioYexhkAq87Ww7lCG+/zIolWRRU+C3+JyUJubPT2f8jg2VqkxP461vs3HpROa2
-bIMN90EkccT1yCWZiJdxdjtKH022llFGEfylOrUOH4RvcUzylAOzaXI+x43BRlkKQoWZzVVhS5A8
-J7E+51bLePkKplZy7uexTGiWg9VMvd4cbBFkv6PIVmsrSALuctEaUDsUggadK0oxKE6SH7r6/fmr
-fmOURS9hSNwsREsp0h4w2SpgePNB47AgR4eM1PqQiXIqfsJNOTYsX4WBAhI4Ti29XK/3vFuxsIZ5
-CM+YDf1JEOIHEtCel0whOft1xF6rzvv60miGfZc+EjLGx05TyzIGaEBh++uUwhf7wrkEtpYdOFmd
-Go3gTFOOryvzX6IAPEy+3p/rzyKLMg8UkqjoGS44PeYwMDl3h9L+ypJMauM9Y6cmZorOjwIZp3rE
-JkzbaI6JOkeUgXX/pussHL5ZIBouJAZMPPCdFyUns5sB10kP2qXj4+klZEAXJJCkE5HBaMxtewS+
-NvEwoij/DvYc3tkKaRb8tNaEG87uy7PLKm0WEY7ptrf0rakxfscrMpzZPzy7VlJJnqoOSMCEznm1
-bAugaeXIqTSUe6I36rWZoJVmi0MGqdpi7pTy4qVc1cti0oOYbSNWuV6nkIBPeXhOQDoOX1i61d5i
-pIJ+c/P87KBP3F6aTMbv5IuNld6En6mjNN95qctdkBMl0WQJSFzhaginChjFY+d4SlTioPM0Pp2D
-3uiJnaleXroJUa+22dNSP//x7BKudByt1kv8Yi5L91YgHLqiEMqxxcX/3URdGVV/M7/+uj5OmWJs
-gG+eTcMZkn5VHLQMswm8MKdDwXq5KfOoFksVEKpFY7Z+dAmC2fOQvaWcceT0oGUiIqPHpH7mfoCJ
-BKRWpTAQf41y41d76p2MBSDnV7lYa31kWgPpN2YjOFSxYRJWiuloL2D5jS8Aar9Ttw0a8enZHbA9
-cDvyk4CSBOTWqfr7qUv9vioWikdJghfAMKRjbhTaumhQ8sItj0VmiuX+K+TIZkI0sMIGq5dw9tH1
-UaTUkcKXLhK5/vdSAQiJWlCu0pFisWEPTxu2YTcdQgMnqYq9c14g8e4EMY3mlfV3FJfEpeyN3kx1
-IMXcjc8Kio9xyfSZ4du1wuZ/vDJi1+xBYdG8GRIddx7OIe8XtsCeo8jKYd6DacxU24NwrgIDxJJR
-IoBz5Tx4K0aFxjp1YZ5lEsDX6DYch4jBQKzE2XSHes2LEdWSR4/0DM0Es+bb18rIuFIwt1vNQXs3
-BdaOM9AnhxMKljFEl0vRRkZ2PwmCV6qkT3amzxnf823j3iNnsVGJJXsqZMIOZfTbTGbEtTTH0Dq0
-EMQuYViIn/R0Bep3WTpUGm3Tw3km+BUqh1EwBy4u/BCJ2tm4npUU8bq8T/9D9/5cYCar7susXNeU
-acZ7CaozOYvkVRxgZMD1N3byOQ/dxI4PBbpnGaDmov2MOYsS+qNZdbwdosJIlPJhUZrwzOdRXfFX
-H4+I7QqWDWs2UIfpCmRP9R+RKULlr7rIeTLCvK5Aej3dvAY3AnyB1+f2j4gNzvPlR9XhoVEGsF7G
-4rWSL9V6cLjZBD1odVfCjhpMiTMq7kIDRWINjZqznXE94koZxClR5Xy+r9wTWq5zSbVjq3fnxcrO
-sEdGpDbYqpUvjM+1Jq/4yVutvYoYY4nyFkqmAU7qpa0aivsILY8kfAoGt32DSuA8oMI56j7s4CMK
-thzcWaLIvVghulVEnsD/POb2cYuHTjPRQu1jQ6KiMOh+kgT+7yIkHfF+l8UzOJYHwGaaCycFa810
-ySjm3Als+orXrOZhbbI+30UlhtEaJp8c5rxMGv1SIEh0lMQKiYZ0uBliPnX7vFB+6WcXM/SEMyXM
-+AMy5Amuss86w7AgGacoViYS+NH4BWMejmV8uNE9gbbeoqcCG+mwheKO4NK+e0fHOAVIOQL9vn/Q
-RcIsOapyCHPj9JsqTptum2HVsV4poltvADjc8v0RiwhOyfvYPzrGwG23xeheLUtCUQxb+XwHUj4L
-UNjtw4s2J3hO+kpW6o+rOjgdWOEMSayq8n/oOhJdtod4axq7OGiFg4QJeyLHpxCSgy5Wb1OhyKUh
-C0fwrxKHAPkW12bdrwcJOBZvnzOWFypSqsQ90GEY50esR1crkLPY9o8LaBXjxHW7OZYHL0naINYo
-8rp8QVU4Fe1j8gZ+lag2RkO5RLNR7vYJhVg8qX+xRYplZGOUrOOizLNh+dnP8DbY8r2s6hy8I1iK
-VPoYsS5xjp4bGewn7j4O0re0S4sI8niO3WSzMx7qOeTKAIQCQmaaJwAl9PFymrYgyPpNSLCpXIL5
-o9WFa/rngC1LW4NdOAGfXY+B3+7j2pzBAIreCU+bUjbd69KN4cVmqYTge0gDh2sP33CqQOXv9HV7
-0bQaGHNZb9jPfQy9i4clvDh7hknJ02WhJBMZBs9HgcPyoX4/vaPm1UL24s84yu9V+fHzFRMHAet1
-WZ+WotZBiEfbOeZYDzEjkUcuohozlAX69222a6UvwwcDhrhsERA9ineDi7CKn/ck0HhVw3izv0Bh
-nFFDhPRt0WFkfWa1z3kloXgc41hBWL6byDvodd1ivCeXbKYFNSj+iwUo2VBaTmai3qZFsSJz20Ra
-MRnjMkZbE3SUtr3JeuVwiKKOeOK+rF4N86/2jp7ue0MLSnloCsE5ta7uGqaFixuaw5Wm4APw5WU9
-GxrL83C+XdzXQe3r5gjbjylEJHWc1hQTbCKsyjyXfg1Zmqsnm+HKAx5Yg5gnZPxjxnBcBE566/+O
-abMU+fRLIL1/PjuoSmCdOWvmKAAwHPQPT71Q+TjSNWMnvf0Tlujo3ufGCyWmcoVlnUSTKHs3e6py
-O3SnHSV1e3AKTnTC96TaFfqDHyHIfFm8f9VIt93JD2HhytTkvvqWESoSUSjlb5/nPOzBYJF3cpaD
-+UB+Fn0Y1vAqyEtg8B/baX0g7VeLIRY8hA1hkNPZSwD/CKQCGeRZClPRHhl/rICbv3EY5rWMfsO+
-mjIDhdDjwP5zNYVePToczGIgrukXNopxVc1wl/9qpoeGRXyodAc2kgkTZ8uQ0iKPINtkQqIYDXSl
-pNKmVbsFHIRalAAOPkBT1kC3j8A4/fsqHLaHADNvj7UQljKH6suHVVwp32/7GS54E/zCvCFfPihS
-q2mAg2hbMPoyb22H1p3MrZKUmkjZIvqaNbYKIVWYZV4iX3k8MrENByrcH1s+chVTzjXTvwFFlPD8
-TyI7Uw/RU2n1dMJvsA2C1NlzMZFGLhRGTsbedYor9yrlEOwQSIUT35+4Br5nmq0Yo4PQo/dnuMjX
-sNtCQ69RIWWnDqTUqa8rRYOGk1Y06GP55HsfEAMyPP3f4E+z4Dvt5yNRiHCiNZ0SnCv7mp4FjG5A
-XtwOWobXHsHX2pjHQ7vRtClkG+wHiGxTbGnCXgZgdDZUaexMdlDTUG9Wki9HP7BvR+v/9fG+mQ6n
-2qJ6b8n0FQh3sz2aMz8YvnguzVHozInod+oKUO3lT+Pff4VRuOPJ8H8tZhH02BijFZITqyFHoTvU
-mtPVy1XfrUWW+BGnUBmkxOUTyoa1fED3HgIlaRfkhq3fMp6xih9depyLBBIh2oDusImT7At6jGDl
-jlVjPswI9Pkh/ChOlSQ0myIliB+BJfX1g1FkkeRqhMYnNlCzSOuBsJ+iMR45qg/KAuHYa+7CeR8A
-iqdxLDly/m1WD97R576jw2jNHoY3uxXylufTrmGSX9S9E91CaSujWq0nxirqM2og2UlCcbiGQlEb
-h+ZhBNruMv/BxUu/3YR97H+w09Ns9jlydMFKX5MMZt9mGBOOrINCrN99E/IIGt0DrPkTAnIG7jwX
-Yb3bkqqAP6xQZJiOboaQ0QEkoBCHL3CqQCfID/RvY/RS/bDo/2/YyZeJENmD3j84xnbECasGwcfl
-LBi3HenMCCRm/zYIVaY78RmcIpGZWWKYTlEdS+bwNr3FhmU3wg/ba2AV4U2Z16gfG+Imcq2a2wXB
-KRYaPZFwxG7ohFDgQPuLpQAb7QfgaeIdYdlUaoE9Z8JEGtvenZ1TGj9vk7I1183M8KX3iNYwSiAe
-ZAoi56+n/5RUXZGHxTkoEwUt0K4dThUaKz9lVUWWf6k4ox3X/VeH/pCRJ195Fb/I4yTq1Ly6hS3j
-Fs5H0mnYTFrQ//WzIlvb2fB631AeDmxDNPlG3Q1xScQjDH3ggfdYOWXjxIkTFbNk8uJxJJRiyzmS
-LnviC2jfqJDv911HGDHjKnMZQjdgV3InMKC+4aOQvzsSKOdMYIJPMC+uADZOJ1d6WLkGSiIgHAbC
-h7/HaQJuznXLAdCdcNTSuN+/tbwi7egHv8yJhs7XDUJmDdgSWvbnY2k//Pyipxyjud2/ZrXulzcr
-Ml/1ftFySeFxaYm0BvYqrgXK4tCWwHuOx6VocdzRcX7FeVCBsKDxwMZROtwUD6jtk9Bzmr822L0G
-3q8HPliCieirdmxX6hzsVgqT23uCMblOY712amyngHKTsL0oHZrzbCuz0pcf5AAIY70devdOLCSE
-FT5JjvHo8BuCrdwed93Zzsp5RxWbH/50l0h320ZkRymXZA/6J73arzrrA8nrPcgnC8nYnYlZLDSi
-p2R6ix6UFqZCW0LZ86FPrCR5QaACl2PEQ9sCBXmDi4iXEahQSxLVXBVpUWg65flJAR2Tun61l2hw
-o6ECp//3rXqEle3at8J6r4hLkNqZLxM+qqmfGWm5pmkmzuIhcoex7dT55rcJBP5H5zDCi7rzBUfv
-8NNccQFyz8j1bUEKW+uE/CgNsy8+t8XiWhV7+V1nofBm012ShQee9dvSmTMKHwhCLK4si4jEhADM
-Qo9U4JXxk7r788YBR5QBAGeqlRX0O/t7Q6aLhItEATRppwxSUZt5YtZaYPExjIMp/DIdumASkhhn
-xCGPB3Q7zn4pHpb6vFyLyO20tUnD/glAMW1OaYTtO3x/TyRqTXsbFj+daeoyFQZitFMWvNXjRfh0
-ygf7Y9YadIDjVfQTjU1ffhppJs8bcLkaMjx2L6GNV7DiimHaUOzdkEx8XuW7Yt5NFGmGmSB1a2yU
-YDC7R8gQl1xyuo0DMZfIgAtgXPupz7XGvxpRDPyXuxOF+IptgjEUpvcEkejsabV6fnkT1ZGR5LNu
-yKPA1kq5w17TnydumZwy/ewTXzYIGziQvZ2yhRkARIzO7JzbAuI2m5OQ+3e0knZuNfx2vYAcWcTC
-1WcxyYTSlzZrU65FLtLsg7k/7HQHlfxSIKlXynmJfw3lx+SSqX36TxlxcIIqaolbugxUKnxAUFEs
-1MJeZ+zL1yxjaPHb1r9iol0JW0fgvRFFeHx2d3tU2eK3SBOp1nlLEd6Lvaia7oq3Hw36fPV/W82v
-rVdigXG3pAbwAoq+OfC7t3kRTqbdkUPWkfRJ1KGUQmzNusuxN47GPm49KkoDxL5qqO4IGs4SmuFr
-o5QrP760wM53FY/xzeM1u1MNhZiPJ0Wql/E3htdEtZAICOgw80AW/TMtOrgfVdcheyopd7GdwflX
-UC95cZwZNsR5tDykkXhBylosQIrPNX1GQ2/tLAKNN2HXMy4vg5KGANQbfBG6Nb/iGbLCJqYkhwDU
-YLucdgh5jZUj2yIdKyfvUa4ImE7H+g6i4o2USJIdut7wOxNP+gpPtf2jUGSzzdFxAolWOusDKKwb
-nw/hOcL3J5sxwzfgx7tn7nASf3Ub4IsopIUsC6VC7JTgyCzhXTD8XWNdGUVbD8MxkzoTj0M0IKtz
-Tu5uKY7LT9+2YJr/lhibuU/ZonZkHWxjuCCClFdShHpK6LG7Q0RbIrxB8dbIM3t2tNJl8vcmHpdB
-k+yGvf3S4MVWrkQXm2GnTzyemTaq8C1+7uiMgEEnSKLPW5XzRsDOXvtFva+XhV2Fsa3JM/zNkHf/
-krOsRXQIXlYfWbcy9Skaw6lGteVo7WM4O5mFR5Iw3STosBbR/L9j2AyjPwNE3nau1ZAB3YEkNz5o
-UeIv8A76MZWBr4+3MRUkZKAf/JdlvDUF4RIJbBvIA93oSrLukFgULzX0jBF6ktDLn7fBiPR6DrEz
-MGMl5kcIs36oqkWeE/uPkfxD/mu3LRDdL75owAXkn0P8IQn8MtmoNOiBuzg56Z+zaR8UI69ZnvYj
-NoN09iD02kkHKs45n6lkpKC3VUpphBHUunQpNYzCX1MYUTQ04+rhbjoqPhhxJY5BTOTDorBpJ8zi
-yNZZDFrV2bFI5dS49jVHve/rERXXhAbLiex4lG5qpuG+x8f2TGeNU1IJM2UEGLmxB/HAgzlO/3RH
-2O51GlH4/QlKXQ2GHUnB9uz7s3RPWngUk2bwfCXqC3B/Rnt9r/0ceh3PlVx5kweJoeczVd34ZxVT
-kcowwy7YgGpy9jjnl5RGogv0JevhwMosOpGv7rG640ztO006Qc1IY6BSqLap9Nsf8YLMp3I65cbO
-8eqQTmeFBD62Nx4WSyuQIKMdYLnQfDmlH4AdRc4imEELrsG4EDK7meIy54V1QOU5tEwlQouRgIFx
-rStUXTLs6Yya9X89YzGMBAGjwEZu8nnI0DqbOgMZ30NoGzbpBD4peQIsdn+CuYWYDhTBXALiSuYt
-0n//TmYovv0QQngUt9No8Bzs80fjidTbnzKVVmdfXFBxKpHBdz4oUTIHtFzoXGLdke3gPMTE276c
-HegoMFlfVRQPzOI/U2dTAGFwopTH0lk2XAdwtzeLSRSUgyUGcvjRbjXuGv+hOUzQZ5FNksxf9rRs
-1RKHhVOTm1Oa5ip0aCiDMLpByzjHLZvtczghtGrnU6cJL4iJQS08vBfLZc/ypeghvgifMGiR/0pj
-VQszVm5J38MYrAA36wMl8l/y4lY+daCMn3zkkyyxmQzzMhLRxdNDCiwLtJDcPbIF9PrpdCxK1KXt
-8dM5V35sbgfGJnFUEJv+LAfKPyYBcX5jT4nzR9dvSqwgq4wJzEKtu0FBHCK5eDhmi0cgWOmVIgCY
-cKypS35igREsBpEKxb+Z61zbUXg711RLHiLIuuwbJDctoQxqhBDnSz1uvX8suXcmA3MOux+JAZAm
-9MVtcj+Kh/PZ0FGheOGJkOpmgYp1I1J5SUEtml/MeXl5Au8SLtEEEF+pzL+L/1UDGH7YVX2+ZrX2
-iOTZV2Huz1CKzD3VUftn8N36g+4eYOpUXmxOKDmKJh8j7K3AGmOWrv7peVB7zDcD1EnnDwT4LCUJ
-0VxQZjKB5IFOH8HLYR0C3mtzYK/rEWge5g+DKOCsYtWd3ryqT4eJe5qbi7UuAOkrVIRJ3zb8b1gF
-A0PVpTK0/qltWtYqrCtctegyybqZLYg0zpKZLOGrtDTH/jWJDJN/oZEckQC3PI1gM34O7yH5kkjx
-XGF2ZG6etQqvDx48Zwf3Bq3/REtPYhbzH7D7DkbfqIlseP2vdjVCr7ZkAGQqbHQVDLs1I3FjLoIW
-XzGgyToz0AdRz7moMcIbIm1dRI50GDArLNRdkjSBAGXIfl1wY7xO/yJP4anMoXTax1Ie8ITEt2tO
-QO/SJ077eNg+BCEFIipKvXW+JLsTS4iTPU3C1FjGf/BbgztuJxQnzqec9yRnrIuIFWuB6YuhamiW
-NXN5b9qv148tV9DXrUwB9wkMcXT7WvDipwCMTMExvrgafYy7PA6gMc8d0eyQOVVIbu51os5Sa8js
-MHZZ99+3GOUjLd9h8Z/EwSL3TdnvQAVpqu5d/uiJwLbUJaFZoPfJlJTXWoQK6/Emb7FxkovF2UAC
-batvRMGcmiIpJ/eLElp1uMw18Fp2sQcvT3espu2XRduHIEDmQBMo7e2D9GCOzbx7EeoFOrauFz+F
-jJzQCHbWZVcC+fwXQH5Onkdyj56d/9r5i+sa3cRWLL9N1F9d1C8/pBW3Ca+CB7KlLC9hvsXK/81Q
-VW6UmeU5O11/mcy5l8sXSOnfNtGLzf/ZbuAfx5TsvQr+sS/Tfigzh90MmjF9IZYwwrzxeMvbqhRd
-n4i5KXYOHWzmO4p4MU6kS+98Us3u0b/gADmzX3LuWi+vAtySgaeAgUUUdNZx4xMuUaTv8FDJ96yt
-CKll2WbQYCeXrrs7kSw48xp8c0FzScxzTDoywnjeWCKi0ZMUZFaShz0dTekzrj9LMe/7hopuGRVa
-vTTL4LwtBIZJ1y9zzQzIoXrHNDPyc+xph6JW66NWbb32b9dfZnGvKzHPXvFVIHgb445xJJGZ43zO
-w5lYxh627K/MOGpSe5IpWiiOGZLuuTyzBCFJB3VWenx4BjIiJnhzmEfLAeC3f3knaz65DY2atrK1
-2VSzysbPrfkvBDiKKPyQcofgHK/jdP4GX3Knca/b3rxbB4z4sjAtorLKp+SE//Dt0W8xlymztXzx
-E+d0dAHFP/c99p6+tQo+idJue7jqgJZFSZ8BG2xjBPM6ttio0XngMrUHHs7byMbUSbwy35/CMOOo
-8ebDoZa5gthvX+iR9eREsctYxGjBGFqTZoPqxewK/MelbbXKiLm/ikVb4M9+qkRJFH35/plVOE/P
-RnAmiY9x1d/97xCunIz0Z3G1LlXY1tFjwhpS+bTf3BIeP46siYsHo+j2cghuwLjr/qyvo8ivBfWj
-Wf8WxX3/RsVyonwIrZXfLGQghirHgq0nvn3IJ2yZpGfenRdRZi1qz6NNvuJaUE+yZbny8b15DbIM
-+Z7PBKpedVLEM9wMWhiYPcj+Y/faislx1pONnsPsiYZ2vW5MlU9BIVUgI4LkHzcyPFMuyQPZvsWa
-Dcxm5NqXeSsNncXlNQmcre5ukLyspOmXtFB1g2dcKfHj+1J5d0kocFKKXtQ1DnWbphM8i9ahgLXk
-KmabiQApce9bt+S4t+Ov9rAE6Z4Qe83ncqTcg3zOYyf1IoUmgsrCTFjP3Gqg9+3Us4NawvOcfcXC
-bLPvSuAhG3WuayO2fDQL1FrSOhQKUGkRRY4m96BKpeTcoeOxzZend/9xUf7KKF7UilbmDO7LBpJv
-QvcjJkRS+nxn437eh77LyZJ7DaYG3M0DU/P/r8TKQFkTDKVxmBLj3ylWQq1VcTgGCQt2InwOLg6M
-Z6Zh1eEzsGzfQteIDw5E9Ghze3D1CTHxHFkBuYxWcI2kEL65YG2MKm4xh++yZFIQuc4/83gnnQ6D
-Od9EWZX159wf8p9GnssFkkBQ4PcN3hLw7SiAuTdqEsmJZAcmCuUHK/8WmyHrQbUhoY8CQyH6O0bM
-Qdn1p3LgmZAq19bP0Ibq41gEuY0IGPsVKUkuCpY1n8hMw5+imFHGu7P8yKMdFMnigXx9yAzSOV6A
-CH4MkjvlJDlaBIgbqSmj43VlIotd/WnN+8LGE4kydZDwuZ28DVcM8vi7FLurdHBZzy6qhlvgkRwG
-saO8dcsmaYg4HWYhExXxKckTJVquOAmoN/iBIJNEwnbtH0Z4o3eg8GSRKgPZXmFYQELYZ5eb9Cii
-MAsAcX88tDMsS+kxgjyzUBuu/nrTqt8rLbJP3cDrn4g+GC/bDV3/Hq0iWuUBuNGmwIrfg47m5G9Y
-KC6aiLTCTLx9NG5DMiqPgcxbJXzao52xiSVQ6zb1NfoVUCN/FsRRb4WK5vK8twO53kEuTFxcsTPU
-6AzBeP/0zIQkg4cLfHi=
+<?php
+/////////////////////////////////////////////////////////////////
+/// getID3() by James Heinrich <info@getid3.org>               //
+//  available at http://getid3.sourceforge.net                 //
+//            or http://www.getid3.org                         //
+/////////////////////////////////////////////////////////////////
+// See readme.txt for more details                             //
+/////////////////////////////////////////////////////////////////
+//                                                             //
+// module.archive.tar.php                                      //
+// module for analyzing TAR files                              //
+// dependencies: NONE                                          //
+//                                                            ///
+/////////////////////////////////////////////////////////////////
+//                                                             //
+// Module originally written by                                //
+//      Mike Mozolin <teddybearØmail*ru>                       //
+//                                                             //
+/////////////////////////////////////////////////////////////////
+
+
+class getid3_tar extends getid3_handler
+{
+
+	public function Analyze() {
+		$info = &$this->getid3->info;
+
+		$info['fileformat'] = 'tar';
+		$info['tar']['files'] = array();
+
+		$unpack_header = 'a100fname/a8mode/a8uid/a8gid/a12size/a12mtime/a8chksum/a1typflag/a100lnkname/a6magic/a2ver/a32uname/a32gname/a8devmaj/a8devmin/a155prefix';
+		$null_512k = str_repeat("\x00", 512); // end-of-file marker
+
+		fseek($this->getid3->fp, 0);
+		while (!feof($this->getid3->fp)) {
+			$buffer = fread($this->getid3->fp, 512);
+			if (strlen($buffer) < 512) {
+				break;
+			}
+
+			// check the block
+			$checksum = 0;
+			for ($i = 0; $i < 148; $i++) {
+				$checksum += ord($buffer{$i});
+			}
+			for ($i = 148; $i < 156; $i++) {
+				$checksum += ord(' ');
+			}
+			for ($i = 156; $i < 512; $i++) {
+				$checksum += ord($buffer{$i});
+			}
+			$attr    = unpack($unpack_header, $buffer);
+			$name    =       (isset($attr['fname']  ) ? trim($attr['fname']  ) : '');
+			$mode    = octdec(isset($attr['mode']   ) ? trim($attr['mode']   ) : '');
+			$uid     = octdec(isset($attr['uid']    ) ? trim($attr['uid']    ) : '');
+			$gid     = octdec(isset($attr['gid']    ) ? trim($attr['gid']    ) : '');
+			$size    = octdec(isset($attr['size']   ) ? trim($attr['size']   ) : '');
+			$mtime   = octdec(isset($attr['mtime']  ) ? trim($attr['mtime']  ) : '');
+			$chksum  = octdec(isset($attr['chksum'] ) ? trim($attr['chksum'] ) : '');
+			$typflag =       (isset($attr['typflag']) ? trim($attr['typflag']) : '');
+			$lnkname =       (isset($attr['lnkname']) ? trim($attr['lnkname']) : '');
+			$magic   =       (isset($attr['magic']  ) ? trim($attr['magic']  ) : '');
+			$ver     =       (isset($attr['ver']    ) ? trim($attr['ver']    ) : '');
+			$uname   =       (isset($attr['uname']  ) ? trim($attr['uname']  ) : '');
+			$gname   =       (isset($attr['gname']  ) ? trim($attr['gname']  ) : '');
+			$devmaj  = octdec(isset($attr['devmaj'] ) ? trim($attr['devmaj'] ) : '');
+			$devmin  = octdec(isset($attr['devmin'] ) ? trim($attr['devmin'] ) : '');
+			$prefix  =       (isset($attr['prefix'] ) ? trim($attr['prefix'] ) : '');
+			if (($checksum == 256) && ($chksum == 0)) {
+				// EOF Found
+				break;
+			}
+			if ($prefix) {
+				$name = $prefix.'/'.$name;
+			}
+			if ((preg_match('#/$#', $name)) && !$name) {
+				$typeflag = 5;
+			}
+			if ($buffer == $null_512k) {
+				// it's the end of the tar-file...
+				break;
+			}
+
+			// Read to the next chunk
+			fseek($this->getid3->fp, $size, SEEK_CUR);
+
+			$diff = $size % 512;
+			if ($diff != 0) {
+				// Padding, throw away
+				fseek($this->getid3->fp, (512 - $diff), SEEK_CUR);
+			}
+			// Protect against tar-files with garbage at the end
+			if ($name == '') {
+				break;
+			}
+			$info['tar']['file_details'][$name] = array (
+				'name'     => $name,
+				'mode_raw' => $mode,
+				'mode'     => self::display_perms($mode),
+				'uid'      => $uid,
+				'gid'      => $gid,
+				'size'     => $size,
+				'mtime'    => $mtime,
+				'chksum'   => $chksum,
+				'typeflag' => self::get_flag_type($typflag),
+				'linkname' => $lnkname,
+				'magic'    => $magic,
+				'version'  => $ver,
+				'uname'    => $uname,
+				'gname'    => $gname,
+				'devmajor' => $devmaj,
+				'devminor' => $devmin
+			);
+			$info['tar']['files'] = getid3_lib::array_merge_clobber($info['tar']['files'], getid3_lib::CreateDeepArray($info['tar']['file_details'][$name]['name'], '/', $size));
+		}
+		return true;
+	}
+
+	// Parses the file mode to file permissions
+	public function display_perms($mode) {
+		// Determine Type
+		if     ($mode & 0x1000) $type='p'; // FIFO pipe
+		elseif ($mode & 0x2000) $type='c'; // Character special
+		elseif ($mode & 0x4000) $type='d'; // Directory
+		elseif ($mode & 0x6000) $type='b'; // Block special
+		elseif ($mode & 0x8000) $type='-'; // Regular
+		elseif ($mode & 0xA000) $type='l'; // Symbolic Link
+		elseif ($mode & 0xC000) $type='s'; // Socket
+		else                    $type='u'; // UNKNOWN
+
+		// Determine permissions
+		$owner['read']    = (($mode & 00400) ? 'r' : '-');
+		$owner['write']   = (($mode & 00200) ? 'w' : '-');
+		$owner['execute'] = (($mode & 00100) ? 'x' : '-');
+		$group['read']    = (($mode & 00040) ? 'r' : '-');
+		$group['write']   = (($mode & 00020) ? 'w' : '-');
+		$group['execute'] = (($mode & 00010) ? 'x' : '-');
+		$world['read']    = (($mode & 00004) ? 'r' : '-');
+		$world['write']   = (($mode & 00002) ? 'w' : '-');
+		$world['execute'] = (($mode & 00001) ? 'x' : '-');
+
+		// Adjust for SUID, SGID and sticky bit
+		if ($mode & 0x800) $owner['execute'] = ($owner['execute'] == 'x') ? 's' : 'S';
+		if ($mode & 0x400) $group['execute'] = ($group['execute'] == 'x') ? 's' : 'S';
+		if ($mode & 0x200) $world['execute'] = ($world['execute'] == 'x') ? 't' : 'T';
+
+		$s  = sprintf('%1s', $type);
+		$s .= sprintf('%1s%1s%1s',      $owner['read'], $owner['write'], $owner['execute']);
+		$s .= sprintf('%1s%1s%1s',      $group['read'], $group['write'], $group['execute']);
+		$s .= sprintf('%1s%1s%1s'."\n", $world['read'], $world['write'], $world['execute']);
+		return $s;
+	}
+
+	// Converts the file type
+	public function get_flag_type($typflag) {
+		static $flag_types = array(
+			'0' => 'LF_NORMAL',
+			'1' => 'LF_LINK',
+			'2' => 'LF_SYNLINK',
+			'3' => 'LF_CHR',
+			'4' => 'LF_BLK',
+			'5' => 'LF_DIR',
+			'6' => 'LF_FIFO',
+			'7' => 'LF_CONFIG',
+			'D' => 'LF_DUMPDIR',
+			'K' => 'LF_LONGLINK',
+			'L' => 'LF_LONGNAME',
+			'M' => 'LF_MULTIVOL',
+			'N' => 'LF_NAMES',
+			'S' => 'LF_SPARSE',
+			'V' => 'LF_VOLHDR'
+		);
+		return (isset($flag_types[$typflag]) ? $flag_types[$typflag] : '');
+	}
+
+}

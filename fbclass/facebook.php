@@ -1,78 +1,160 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
+<?php
+/**
+ * Copyright 2011 Facebook, Inc.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License"); you may
+ * not use this file except in compliance with the License. You may obtain
+ * a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+ * WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+ * License for the specific language governing permissions and limitations
+ * under the License.
+ */
+
+require_once "base_facebook.php";
+
+/**
+ * Extends the BaseFacebook class with the intent of using
+ * PHP sessions to store user ids and access tokens.
+ */
+class Facebook extends BaseFacebook
+{
+  const FBSS_COOKIE_NAME = 'fbss';
+
+  // We can set this to a high number because the main session
+  // expiration will trump this.
+  const FBSS_COOKIE_EXPIRE = 31556926; // 1 year
+
+  // Stores the shared session ID if one is set.
+  protected $sharedSessionID;
+
+  /**
+   * Identical to the parent constructor, except that
+   * we start a PHP session to store the user ID and
+   * access token if during the course of execution
+   * we discover them.
+   *
+   * @param Array $config the application configuration. Additionally
+   * accepts "sharedSession" as a boolean to turn on a secondary
+   * cookie for environments with a shared session (that is, your app
+   * shares the domain with other apps).
+   * @see BaseFacebook::__construct in facebook.php
+   */
+  public function __construct($config) {
+    if (!session_id()) {
+      session_start();
+    }
+    parent::__construct($config);
+    if (!empty($config['sharedSession'])) {
+      $this->initSharedSession();
+    }
+  }
+
+  protected static $kSupportedKeys =
+    array('state', 'code', 'access_token', 'user_id');
+
+  protected function initSharedSession() {
+    $cookie_name = $this->getSharedSessionCookieName();
+    if (isset($_COOKIE[$cookie_name])) {
+      $data = $this->parseSignedRequest($_COOKIE[$cookie_name]);
+      if ($data && !empty($data['domain']) &&
+          self::isAllowedDomain($this->getHttpHost(), $data['domain'])) {
+        // good case
+        $this->sharedSessionID = $data['id'];
+        return;
+      }
+      // ignoring potentially unreachable data
+    }
+    // evil/corrupt/missing case
+    $base_domain = $this->getBaseDomain();
+    $this->sharedSessionID = md5(uniqid(mt_rand(), true));
+    $cookie_value = $this->makeSignedRequest(
+      array(
+        'domain' => $base_domain,
+        'id' => $this->sharedSessionID,
+      )
+    );
+    $_COOKIE[$cookie_name] = $cookie_value;
+    if (!headers_sent()) {
+      $expire = time() + self::FBSS_COOKIE_EXPIRE;
+      setcookie($cookie_name, $cookie_value, $expire, '/', '.'.$base_domain);
+    } else {
+      // @codeCoverageIgnoreStart
+      self::errorLog(
+        'Shared session ID cookie could not be set! You must ensure you '.
+        'create the Facebook instance before headers have been sent. This '.
+        'will cause authentication issues after the first request.'
+      );
+      // @codeCoverageIgnoreEnd
+    }
+  }
+
+  /**
+   * Provides the implementations of the inherited abstract
+   * methods.  The implementation uses PHP sessions to maintain
+   * a store for authorization codes, user ids, CSRF states, and
+   * access tokens.
+   */
+  protected function setPersistentData($key, $value) {
+    if (!in_array($key, self::$kSupportedKeys)) {
+      self::errorLog('Unsupported key passed to setPersistentData.');
+      return;
+    }
+
+    $session_var_name = $this->constructSessionVariableName($key);
+    $_SESSION[$session_var_name] = $value;
+  }
+
+  protected function getPersistentData($key, $default = false) {
+    if (!in_array($key, self::$kSupportedKeys)) {
+      self::errorLog('Unsupported key passed to getPersistentData.');
+      return $default;
+    }
+
+    $session_var_name = $this->constructSessionVariableName($key);
+    return isset($_SESSION[$session_var_name]) ?
+      $_SESSION[$session_var_name] : $default;
+  }
+
+  protected function clearPersistentData($key) {
+    if (!in_array($key, self::$kSupportedKeys)) {
+      self::errorLog('Unsupported key passed to clearPersistentData.');
+      return;
+    }
+
+    $session_var_name = $this->constructSessionVariableName($key);
+    unset($_SESSION[$session_var_name]);
+  }
+
+  protected function clearAllPersistentData() {
+    foreach (self::$kSupportedKeys as $key) {
+      $this->clearPersistentData($key);
+    }
+    if ($this->sharedSessionID) {
+      $this->deleteSharedSessionCookie();
+    }
+  }
+
+  protected function deleteSharedSessionCookie() {
+    $cookie_name = $this->getSharedSessionCookieName();
+    unset($_COOKIE[$cookie_name]);
+    $base_domain = $this->getBaseDomain();
+    setcookie($cookie_name, '', 1, '/', '.'.$base_domain);
+  }
+
+  protected function getSharedSessionCookieName() {
+    return self::FBSS_COOKIE_NAME . '_' . $this->getAppId();
+  }
+
+  protected function constructSessionVariableName($key) {
+    $parts = array('fb', $this->getAppId(), $key);
+    if ($this->sharedSessionID) {
+      array_unshift($parts, $this->sharedSessionID);
+    }
+    return implode('_', $parts);
+  }
+}

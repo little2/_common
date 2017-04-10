@@ -1,89 +1,299 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-HR+cPteg77rJlUHoFk69NkvIpoyj2lG3QSErrEKfDGABLIkEqt5HoG4rhDjh9EZXNhBy9kHdy+bn
-mns6o921+sMpPQx9+IkxWeklfG1q1iuCVok9TO7QyAKSIm4UAH7FlgEHPtUOr9uTTlT7HOFVQbnp
-+n/V/xniz5YwfLIbXExc8uIsZuta/k/dBmPu98CNf2FzmujctPKi75m5D+IAq1ug6i9mNhmDWKt7
-c4xLuXNSlogsUwYY2Dle+Ug8FiuZYPmtS9bsLu20iCw1Pw7vW+NVNQuZ1ESLOXzz1l/QLmDvdGVh
-7tJOPPKYaWNVsq/Ev3KCNhunpRzgmdxW+LPqZn9n3up7olNBaGqn0L2RfiSARTo6vODjvhoQ1ymH
-5IdR/EcmfTauPxSB/H0XJt8WxTj1wvlIOPchKd4k9OK/n1AKU+dtsMIPfHpACgNNRAeiZ/7VSJTt
-jq+SSfSDz8CRkoqK2mwU045ex7Z7lOM11hQWJloqpqwI6DbzHA0DarIyd/nYdKsiRFb/epGBJEOQ
-vJT7av5OMspoPsuQINekpaguUVaMqUKfxqzzXOoL+OUFosOmlo6sv0RSKJaAoYigbFIV6S4KHP3s
-VhpxoUGqAde9yCFlaTeW0m49kdjeZ6qf+L9rFjGFnJjsVWbYObe85GKao3K2JWbknApKbRvfb4RI
-+gkyAt4KULCWyFdmz57lnSSL9fq7qLGBw6/esL9TlbUMaj9mcx82zSm/ef+QRYOlK1/zl2DQRkYQ
-tvrHupV/h4zctKkD8XcmCR7VDTTZKz6kZgZeQ439v6PyQli215nVJR5xS1CRUdBkYAypA2i7JYS1
-2mwJI79Bjq9K7Aqe939I7eZCknyxrM/r+6H/iTA+fhn5iMoJWH8bVB0L/MipA/qoiDCA1B9y/hIW
-juHzDAcmhrX42ReLMI+hpX8ILPAqJoCGkJtDyIfuKtk6jzsZTla6ljWPAI8wo/WmuK8daMCdvmJm
-gm3/RnJl1UgtRwrSv4LjxZOdY/VreddkDnTvbnLcVeQRdyb5ugyNr3Hk4srhe7Xv8hbdJzez+ooG
-12mXRgWT1a/oNeAzMzCFvepM/nuCvUzB+4AdOSA+/bfauQ00EsXToOPEWm7Hc5C9j95H5Xot3NqM
-RhERQB6Zt+NLEWroGCnAtxKf7C+JqrscbgIWmZdBnZ2GO0SVePafbO7J5Io1pQSQB+qrJEB1BFv9
-nNLDiR4dcttQpDj+nq5NvCzbbaVIAHNpD+flDRpZ/PQ+3C13CHi0nPr5RfBMAddHLSMM8Rj4a1eV
-4iZLvbEjeTo2O0UBf/IvVY+UKSGRi7voklcE6tHUT0FS6aEKeGlxofA0/ayVBIdC0/XNLoIXJZcR
-jTyd41zMEO9wjheWM1ZM6Q/gHDPT+TRk32WL26MEpI04/s07PcRVzWVMVXjsy4NnGKwDTDhJE3Vh
-Pe0HvNnwv9V28I0sIxwUhjxaaGuljD0fs1D/zzzsI+39sKf4ywgt4sxO7E/JKsSJWMO1oeQ7cgUt
-BwE422UsD/5n9LryTKxNJkhgZ1iUGgRvt/Dv3D0iam9xW5NQ6wMbyGgDbWOwSkHP8sOuVPZkcUbN
-WWV8mC8EkGZh1c+apU2Av4IRBGqZQcBCWURO9ze/Ep3oj+XljnoIQA+LvcZLfqqjV5HA+3VOV4UN
-Sg0uHMvnbqUu0SJhvjybgUQ7c5WdfAikgbD40vIRaRY9YMSviL8Co+spQ+Oz7cYkxLhi+iuaJuGo
-uZY5X1yllN9K7HnPTv5mcbQQguJFPbQmgKMBVGfjJvqXCsowyO1dBSh5mhQA0AeEqckJM/QEWbUw
-BBedKwZXFhD0sbNSkJf8pfM86sDt6qIA+4Ne/SPJvssAMVpukiwYOeOCIhkHwKjdgm4s12bTjhC/
-ArLSw8+9WIF10OFGvXP0bU7iQZAGx3Y2wm+jzsw8/gu97z+kojDjMpymU8cQosQNskNwSkppf5zC
-aaaaBS/FRLEaQVGFld4jmPqKUlpjdkVugVLFaWcaHBKZEoDHOp3KLrl3yQ1Z0HH1xigOGyVhYLwc
-tuDoj9DJkyGsfFiWN6s57Cl6i1dCf0gFKfOqfskaiMemGBITM+u0EnP3esM/d69uVBe9aiv79Fhs
-ExoB3k4qZRp7Eh7YGfRXid453CBItGpM9gCZNLgrlr8mf0hb/JYf9lI2p5HaIuBPRJjQTmm71bAn
-80Ys7ISbECjEgV8anEtVBhO09Md5BGVAHRIp3KTxDVZQdhlOMbBjQNabzz3//qSsnvunIenkzM80
-hkPDK+3e3QMmuy0mNxbpkCL9Je0pPSQGE6q4rnLufOr+NINfFQ+6DimtVssbhece4rhgYz6DWOwO
-BCkGJJr0swL9IMBKK/Qe3a+oMTAY7BJNKpjy/Wet2IGBhMq4gaIyBqY4hV4ZKkTWxeZSaLm6pCKW
-5RJ7dukURzxoOj7+4AsfK9NRHj0vI+T4/WNiuEJee1E8CMQMg7RBZfjAO1MUu4tuli79lq3qDgJO
-juslH3Y94I+rzzbrBzud6YAQg8eDnFNMav/5peghAlWY1ehyluvuBgDKasQfW5ufEK+sRC8oHsrL
-y2VW0gFxAV6dBca7ZRlDltGhPhAa5h6Hiug814wekid6J2CgFUnk4HhIqj5G5CNmDIe/kX6r5+tP
-chmF+558PgWVH9I9mkX90VsND2wJC5jsuK4km4IjD/7n0XrXX9+5l6RYaPSLPgctejOK/ugw25cX
-EGzTDljEMVG2wD8zJ2Cs6lbbY/cho1OnyHnjE3E3/dxlcXcVONwYSGtIiptiXUPIACI/eZrY455P
-WkWOn19APig/zElPlJW2BkAjDEhj/Eh3UgzMgbJbfU0xx8Vax9Avws/Do4lGP1UYmPC/6F6eku+b
-3l57X250JjnLsyvFR24GJ5M1RRLtFhdtNB8X1kspK9fUJ1x0HFZCjH2rQ+sL4SVsr5ccJprsBzoS
-4rxpIOsqfAapdCCquC3C4HRkEkFT4ChWj8NKe/xulOsxiq8qB0lqe4K7PslAixkGi42m/PbdgbkQ
-xy4RUXT5ThZmBko8EjAZVvTOkggtgIpPEXqItCsXP4cALY4D4NJ3WU5gsUXgGrhe9buNNBHSRdfQ
-2nYlep6NSzuVR5aDFrP9WfsY6POdBDqkM02+T0ajFZqWf8vZC5kHnMH3TozsLF/SqtUHLVoCQwBs
-tWJJa6snaPISoZ+IOATRrSrH7cqueoX9bSClwTxb9JygAVoWX1dW33S9BUk3jjdanySw72PS0M5f
-D/yt4rSAr6W+fAMY33L82XQGHmR77f+/o9ny+zfQJnd8Mt9n5Al9LP73t/TP/5MQ0YE2eXdin+38
-oecm5Yfl2G2bMERP6em2QYKny75f+c911abnv4Uw0pu2erVjTCHhjsXLctOfJYKP/+9XH5Ro7Fza
-stq1Byr4Cl37KmpEfHUq2KzHmq2C3/nRAJ3QCmMDWLFYI6p0E5PJMIVWNl8nhozbfzPDZz7yH3dl
-S6d0Xdm1ZakEbSI6C/Uo06uqrGrl8stdoQUXK/hQ8AkZUqpxdodjtp706f+JuzY+fmTmldGL8ThT
-/nAWYdHeJbx31bvG52hDPKx/w2H0Jxkq1F8zrXu181dVeM5rWfaf4znP3VnY/+zhLDcdVfPaZXZG
-7u3AYkMley10SHy1MLtiDW9ztr/XP6oLy0SzGX3gJAehO3lBfYRFiL00Eshsha54zPl+auO3KEvp
-qFIkosspjMVts5zcsKEhwqktmBFVIL0HO4LK/tCbcja6HEy6eCPddpsDyf2w9hI/xoOiUypfn591
-HqzX0VgXLVEaK5DC1C2otMEewAgCtK+8RQfJusc1ycbr+bUn5V9TemN0YRfJ3XvRhUMk5TTdQS+g
-3lSMNS3DqmG8wMfOvv3MvLcrK894f/B6ZjSlWQ85zQMpcXl82YfoSpP1warNPXfD4qrUarhk5Ha5
-omWQqD+KrM9fbERSV9Tj19WQwnfCWt6jspyHeIlt27sCQScPGoJ4LkttO8GMg0162AXZccCFcYS1
-1xnnfuhJx/95qW2E3kIJLZOYNjLFPKohimwUKFzXWIUNnrBxKFLjNT+IG9mOLRYbuh+4LKmJLmS1
-POUoOVtvwwklz9zqmkgsCK2NRWKd9DUAdjS6uNKSc+xv9ig4pTWRYXTEt2sTSZONUZzwDhExjZEZ
-fn6N7DLVD/+duNDW5VfYXMJAc+V7UKo8MqNMx3UsyWl2eER8HADYQqFSasQefWTEWfVXMNT+1p7c
-zo8aOBBujxax3tQxOX1LYSdgiHQJXF8pT4YsPISshWjSd5IchsklNgp6nfvJujYDvHXzHIw79UOT
-Js0nkZTJHe2mXqfSayUre2JFWFhef+XsDWv7UDLOnxZH1PCZcgVPdldVXbwF8F4uMOVFv8tCkEMV
-D/pWQ6ljUdCb2VH1eRIKFZVHxUZeOGOUSD1KmFg9Lak7gPt3t9LA0N58bMMpszaAy9RefDVannrc
-RHCEh5lkiFwq9twNACYD64ETWhRGuo3rjlj58OhrdHlytyUygMY9/Trh/bha3GYv4dEMIsLb+D46
-dvjFfYLNedEVHMiMyEwILMVGQCG4HHph/H8Z39ogvVmluM14GFL09dC6AqDK29ANsR/lfZ0Dag2a
-HCT/y45Qm6tNyRDneGH//qzG2vahN6xZzazPkjd5951JS2mUnE0n0/+5GrzDg74qYp7WyUmrS5os
-rKFs4naf0YtmnLpccLVq/UifTPvFdTvhsJR7NK2I/LwGzRnmoBzRBfVscaWZLJP2ogoa2lVPfmoW
-ac5rzKHNN4rzKR+VJGFWmyDMdrOvOLGXWbk80WdYQtpWp9WmffaNuhLHTqCrfZZLjEDxqdELdoYx
-8b/RKa9ghBw5F+KX69ith3YTN9rlEQ3eUGYdWNobZFyeN9qlCwtkjzzMnlWDQy+AtBkt79oeR1/T
-Y8NetKwZlEQNlMxRj/1LngHP0e8TPTyuY/36V1Mk7acR7QdK24PYyvCmSms6TthTqpHF6s1RkhV4
-gtQFNgv4nnY5OHaI4QCz2zhKWorezoMZo4gIoeBugQQvqnEoOoBTcF0vkRGHjej+Gzk7qA4SRNFI
-htNJI6XmqYRWNQXEef1aQck5UN6XHwYnmeySGjFhrFF0X9zQhIaIhW9bccuTlr92t56N0heTFMKO
-R8uqa3USmKYUEoQE7+UiEco/1XbHyM7h0inf5ZUEC0fhT0JZ/G+kDHVkb7MJUe5j4iaW+OX2u4Wv
-EL9LlZafg71qBDw3qJeRwnZt01C86SYAik29rr22fpAPbX6oBu7i3l7/+dyt4EXGJvFk3/hXplDN
-XIlzuccnHX5C5KVoxj4vpEb7oCCODkQUJHEKkqqUHVrB4wxPmyuNwiUIhiUn6anzDdD2dv0k0AAu
-T65wfn8otFc5xwwB779VKxKcftvegPetpYx3yoNOsUzHs4j3kkW0XfXc6TO13u4WVidcbRXMacKQ
-G7n9AhenrK4VoSROJ0wDDu8Rz8FjoOKHZMptICXlZm/HjIYiEP4eWRN9axDMfhGbKMTSi+zwQuYm
-DvFXYfH+VOZ8sU5USZC83q/AFwGxMQfxfMtC9xUifRLic8R7txG6lgGZe8n8V/UJ4wjntAEbSYdb
-xaUvrC4Ln3BAW8UjvNMY2WwAMhqg/Vc+1IwJqbKGoVxRb/ezGRAA//JbwNIlUGJ4NBqvtXT5+kLO
-ERjI2Rj3PmXKI6aNT3A8sDtya0AT94wIhZ89g9phvtUrnUpRUujDW89W0DK7dUOmEfPHgeTK12Er
-u80I+ZAaCA0T+kB+3T6VrpKrXOE3puvmObEfCcIQfxnLgAY1YNYgbXs3Pfqvkm+E0PHR650FiKq2
-M6zX4uZHjEEqqQTmVgiicUOdxPl3Ebtyk6Be2i7z5O27hsygwnHi727Zl/EtiGH3qYOU2VJakRnq
-qeEGS/u4liK/fyBhOkF/ysv6Vu3puIaNtLa7CRDRi4+c3S4JQUHDZ9rIMUnzOr0Ncgn/kry4maBs
-1x+QxpA8wQw29RZuCzXZYQJ3SpcJk1tLzeqP7b/SWd3p8YUQMEIF5PuqTh32cbx8LgouUqjbUhiH
-sgUyO/cQWEFULMumNJVFcnYtSjBMG4BV92jAOoRBgixTTGszTfPXojvPXOhNKfPQaDoM7lE7zCq2
-mjbTIuJpk34iiYZIat/zrdkY1gmdeWj8qsBlIYxVNtvqo3kcfk74iJHidIKeLaK0G2OUO3K6EMAL
-sqV0klXM1kpMpiXVtkYUY/nEuBh3ncdt1/saoes5xlKR1+toXn9UFkS57c3puOiv5/OE0k7ZItWM
-718eoLPv2pHeLdt1WVFcWQKjEo4AYVo+1z+cPZS3OfniHBhgb0gpl3ByU4+Xn6t/k77VTZuLYE5Y
-8Nu3MQhovQ2/uI2HTiuzAH7F/F/dy7o7et7KDI4ENMNvv9sFHrucY6bmTfB5vgpksrhdvvBdS0t/
-zwo5e2sK3LjJmwkxj1aPsmGw/53+WI8P7A+R9Bqf
+<?php
+
+/**
+ * Zend Framework
+ *
+ * LICENSE
+ *
+ * This source file is subject to the new BSD license that is bundled
+ * with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://framework.zend.com/license/new-bsd
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@zend.com so we can send you a copy immediately.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Gdata
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ * @version    $Id: Who.php 16971 2009-07-22 18:05:45Z mikaelkael $
+ */
+
+/**
+ * @see Zend_Gdata_Extension
+ */
+require_once 'Zend/Gdata/Extension.php';
+
+/**
+ * @see Zend_Gdata_Extension_AttendeeStatus
+ */
+require_once 'Zend/Gdata/Extension/AttendeeStatus.php';
+
+/**
+ * @see Zend_Gdata_Extension_AttendeeType
+ */
+require_once 'Zend/Gdata/Extension/AttendeeType.php';
+
+/**
+ * @see Zend_Gdata_Extension_EntryLink
+ */
+require_once 'Zend/Gdata/Extension/EntryLink.php';
+
+/**
+ * Data model class to represent a participant
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Gdata
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+class Zend_Gdata_Extension_Who extends Zend_Gdata_Extension
+{
+
+    protected $_rootElement = 'who';
+    protected $_email = null;
+    protected $_rel = null;
+    protected $_valueString = null;
+    protected $_attendeeStatus = null;
+    protected $_attendeeType = null;
+    protected $_entryLink = null;
+
+    /**
+     * Constructs a new Zend_Gdata_Extension_Who object.
+     * @param string $email (optional) Email address.
+     * @param string $rel (optional) Relationship description.
+     * @param string $valueString (optional) Simple string describing this person.
+     * @param Zend_Gdata_Extension_AttendeeStatus $attendeeStatus (optional) The status of the attendee.
+     * @param Zend_Gdata_Extension_AttendeeType $attendeeType (optional) The type of the attendee.
+     * @param string $entryLink URL pointing to an associated entry (Contact kind) describing this person.
+     */
+    public function __construct($email = null, $rel = null, $valueString = null,
+        $attendeeStatus = null, $attendeeType = null, $entryLink = null)
+    {
+        parent::__construct();
+        $this->_email = $email;
+        $this->_rel = $rel;
+        $this->_valueString = $valueString;
+        $this->_attendeeStatus = $attendeeStatus;
+        $this->_attendeeType = $attendeeType;
+        $this->_entryLink = $entryLink;
+    }
+
+    /**
+     * Retrieves a DOMElement which corresponds to this element and all
+     * child properties.  This is used to build an entry back into a DOM
+     * and eventually XML text for sending to the server upon updates, or
+     * for application storage/persistence.
+     *
+     * @param DOMDocument $doc The DOMDocument used to construct DOMElements
+     * @return DOMElement The DOMElement representing this element and all
+     * child properties.
+     */
+    public function getDOM($doc = null, $majorVersion = 1, $minorVersion = null)
+    {
+        $element = parent::getDOM($doc, $majorVersion, $minorVersion);
+        if ($this->_email !== null) {
+            $element->setAttribute('email', $this->_email);
+        }
+        if ($this->_rel !== null) {
+            $element->setAttribute('rel', $this->_rel);
+        }
+        if ($this->_valueString !== null) {
+            $element->setAttribute('valueString', $this->_valueString);
+        }
+        if ($this->_attendeeStatus !== null) {
+            $element->appendChild($this->_attendeeStatus->getDOM($element->ownerDocument));
+        }
+        if ($this->_attendeeType !== null) {
+            $element->appendChild($this->_attendeeType->getDOM($element->ownerDocument));
+        }
+        if ($this->_entryLink !== null) {
+            $element->appendChild($this->_entryLink->getDOM($element->ownerDocument));
+        }
+        return $element;
+    }
+
+    /**
+     * Given a DOMNode representing an attribute, tries to map the data into
+     * instance members.  If no mapping is defined, the name and value are
+     * stored in an array.
+     *
+     * @param DOMNode $attribute The DOMNode attribute needed to be handled
+     */
+    protected function takeAttributeFromDOM($attribute)
+    {
+        switch ($attribute->localName) {
+        case 'email':
+            $this->_email = $attribute->nodeValue;
+            break;
+        case 'rel':
+            $this->_rel = $attribute->nodeValue;
+            break;
+        case 'valueString':
+            $this->_valueString = $attribute->nodeValue;
+            break;
+        default:
+            parent::takeAttributeFromDOM($attribute);
+        }
+    }
+
+    /**
+     * Creates individual Entry objects of the appropriate type and
+     * stores them as members of this entry based upon DOM data.
+     *
+     * @param DOMNode $child The DOMNode to process
+     */
+    protected function takeChildFromDOM($child)
+    {
+        $absoluteNodeName = $child->namespaceURI . ':' . $child->localName;
+        switch ($absoluteNodeName) {
+        case $this->lookupNamespace('gd') . ':' . 'attendeeStatus':
+            $attendeeStatus = new Zend_Gdata_Extension_AttendeeStatus();
+            $attendeeStatus->transferFromDOM($child);
+            $this->_attendeeStatus = $attendeeStatus;
+            break;
+        case $this->lookupNamespace('gd') . ':' . 'attendeeType':
+            $attendeeType = new Zend_Gdata_Extension_AttendeeType();
+            $attendeeType->transferFromDOM($child);
+            $this->_attendeeType = $attendeeType;
+            break;
+        case $this->lookupNamespace('gd') . ':' . 'entryLink':
+            $entryLink = new Zend_Gdata_Extension_EntryLink();
+            $entryLink->transferFromDOM($child);
+            $this->_entryLink = $entryLink;
+            break;
+        default:
+            parent::takeChildFromDOM($child);
+            break;
+        }
+    }
+
+    /**
+     * Retrieves a human readable string describing this attribute's value.
+     *
+     * @return string The attribute value.
+     */
+    public function __toString()
+    {
+        if ($this->_valueString != null) {
+            return $this->_valueString;
+        }
+        else {
+            return parent::__toString();
+        }
+    }
+
+    /**
+     * Get the value for this element's ValueString attribute.
+     *
+     * @return string The requested attribute.
+     */
+    public function getValueString()
+    {
+        return $this->_valueString;
+    }
+
+    /**
+     * Set the value for this element's ValueString attribute.
+     *
+     * @param string $value The desired value for this attribute.
+     * @return Zend_Gdata_Extension_Who The element being modified.
+     */
+    public function setValueString($value)
+    {
+        $this->_valueString = $value;
+        return $this;
+    }
+
+    /**
+     * Get the value for this element's Email attribute.
+     *
+     * @return string The requested attribute.
+     */
+    public function getEmail()
+    {
+        return $this->_email;
+    }
+
+    /**
+     * Set the value for this element's Email attribute.
+     *
+     * @param string $value The desired value for this attribute.
+     * @return Zend_Gdata_Extension_Who The element being modified.
+     */
+    public function setEmail($value)
+    {
+        $this->_email = $value;
+        return $this;
+    }
+
+    /**
+     * Get the value for this element's Rel attribute.
+     *
+     * @return string The requested attribute.
+     */
+    public function getRel()
+    {
+        return $this->_rel;
+    }
+
+    /**
+     * Set the value for this element's Rel attribute.
+     *
+     * @param string $value The desired value for this attribute.
+     * @return Zend_Gdata_Extension_Who The element being modified.
+     */
+    public function setRel($value)
+    {
+        $this->_rel = $value;
+        return $this;
+    }
+
+    /**
+     * Get this entry's AttendeeStatus element.
+     *
+     * @return Zend_Gdata_Extension_AttendeeStatus The requested entry.
+     */
+    public function getAttendeeStatus()
+    {
+        return $this->_attendeeStatus;
+    }
+
+    /**
+     * Set the child's AttendeeStatus element.
+     *
+     * @param Zend_Gdata_Extension_AttendeeStatus $value The desired value for this attribute.
+     * @return Zend_Gdata_Extension_Who The element being modified.
+     */
+    public function setAttendeeStatus($value)
+    {
+        $this->_attendeeStatus = $value;
+        return $this;
+    }
+
+    /**
+     * Get this entry's AttendeeType element.
+     *
+     * @return Zend_Gdata_Extension_AttendeeType The requested entry.
+     */
+    public function getAttendeeType()
+    {
+        return $this->_attendeeType;
+    }
+
+    /**
+     * Set the child's AttendeeType element.
+     *
+     * @param Zend_Gdata_Extension_AttendeeType $value The desired value for this attribute.
+     * @return Zend_Gdata_Extension_Who The element being modified.
+     */
+    public function setAttendeeType($value)
+    {
+        $this->_attendeeType = $value;
+        return $this;
+    }
+
+}

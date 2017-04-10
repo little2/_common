@@ -1,136 +1,204 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
+<?php
+/////////////////////////////////////////////////////////////////
+/// getID3() by James Heinrich <info@getid3.org>               //
+//  available at http://getid3.sourceforge.net                 //
+//            or http://www.getid3.org                         //
+/////////////////////////////////////////////////////////////////
+// See readme.txt for more details                             //
+/////////////////////////////////////////////////////////////////
+//                                                             //
+// module.audio.voc.php                                        //
+// module for analyzing Creative VOC Audio files               //
+// dependencies: NONE                                          //
+//                                                            ///
+/////////////////////////////////////////////////////////////////
+
+
+class getid3_voc extends getid3_handler
+{
+
+	public function Analyze() {
+		$info = &$this->getid3->info;
+
+		$OriginalAVdataOffset = $info['avdataoffset'];
+		fseek($this->getid3->fp, $info['avdataoffset'], SEEK_SET);
+		$VOCheader  = fread($this->getid3->fp, 26);
+
+		$magic = 'Creative Voice File';
+		if (substr($VOCheader, 0, 19) != $magic) {
+			$info['error'][] = 'Expecting "'.getid3_lib::PrintHexBytes($magic).'" at offset '.$info['avdataoffset'].', found "'.getid3_lib::PrintHexBytes(substr($VOCheader, 0, 19)).'"';
+			return false;
+		}
+
+		// shortcuts
+		$thisfile_audio = &$info['audio'];
+		$info['voc'] = array();
+		$thisfile_voc        = &$info['voc'];
+
+		$info['fileformat']        = 'voc';
+		$thisfile_audio['dataformat']      = 'voc';
+		$thisfile_audio['bitrate_mode']    = 'cbr';
+		$thisfile_audio['lossless']        = true;
+		$thisfile_audio['channels']        = 1; // might be overriden below
+		$thisfile_audio['bits_per_sample'] = 8; // might be overriden below
+
+		// byte #     Description
+		// ------     ------------------------------------------
+		// 00-12      'Creative Voice File'
+		// 13         1A (eof to abort printing of file)
+		// 14-15      Offset of first datablock in .voc file (std 1A 00 in Intel Notation)
+		// 16-17      Version number (minor,major) (VOC-HDR puts 0A 01)
+		// 18-19      2's Comp of Ver. # + 1234h (VOC-HDR puts 29 11)
+
+		$thisfile_voc['header']['datablock_offset'] = getid3_lib::LittleEndian2Int(substr($VOCheader, 20, 2));
+		$thisfile_voc['header']['minor_version']    = getid3_lib::LittleEndian2Int(substr($VOCheader, 22, 1));
+		$thisfile_voc['header']['major_version']    = getid3_lib::LittleEndian2Int(substr($VOCheader, 23, 1));
+
+		do {
+
+			$BlockOffset    = ftell($this->getid3->fp);
+			$BlockData      = fread($this->getid3->fp, 4);
+			$BlockType      = ord($BlockData{0});
+			$BlockSize      = getid3_lib::LittleEndian2Int(substr($BlockData, 1, 3));
+			$ThisBlock      = array();
+
+			getid3_lib::safe_inc($thisfile_voc['blocktypes'][$BlockType], 1);
+			switch ($BlockType) {
+				case 0:  // Terminator
+					// do nothing, we'll break out of the loop down below
+					break;
+
+				case 1:  // Sound data
+					$BlockData .= fread($this->getid3->fp, 2);
+					if ($info['avdataoffset'] <= $OriginalAVdataOffset) {
+						$info['avdataoffset'] = ftell($this->getid3->fp);
+					}
+					fseek($this->getid3->fp, $BlockSize - 2, SEEK_CUR);
+
+					$ThisBlock['sample_rate_id']   = getid3_lib::LittleEndian2Int(substr($BlockData, 4, 1));
+					$ThisBlock['compression_type'] = getid3_lib::LittleEndian2Int(substr($BlockData, 5, 1));
+
+					$ThisBlock['compression_name'] = $this->VOCcompressionTypeLookup($ThisBlock['compression_type']);
+					if ($ThisBlock['compression_type'] <= 3) {
+						$thisfile_voc['compressed_bits_per_sample'] = getid3_lib::CastAsInt(str_replace('-bit', '', $ThisBlock['compression_name']));
+					}
+
+					// Less accurate sample_rate calculation than the Extended block (#8) data (but better than nothing if Extended Block is not available)
+					if (empty($thisfile_audio['sample_rate'])) {
+						// SR byte = 256 - (1000000 / sample_rate)
+						$thisfile_audio['sample_rate'] = getid3_lib::trunc((1000000 / (256 - $ThisBlock['sample_rate_id'])) / $thisfile_audio['channels']);
+					}
+					break;
+
+				case 2:  // Sound continue
+				case 3:  // Silence
+				case 4:  // Marker
+				case 6:  // Repeat
+				case 7:  // End repeat
+					// nothing useful, just skip
+					fseek($this->getid3->fp, $BlockSize, SEEK_CUR);
+					break;
+
+				case 8:  // Extended
+					$BlockData .= fread($this->getid3->fp, 4);
+
+					//00-01  Time Constant:
+					//   Mono: 65536 - (256000000 / sample_rate)
+					// Stereo: 65536 - (256000000 / (sample_rate * 2))
+					$ThisBlock['time_constant'] =        getid3_lib::LittleEndian2Int(substr($BlockData, 4, 2));
+					$ThisBlock['pack_method']   =        getid3_lib::LittleEndian2Int(substr($BlockData, 6, 1));
+					$ThisBlock['stereo']        = (bool) getid3_lib::LittleEndian2Int(substr($BlockData, 7, 1));
+
+					$thisfile_audio['channels']    = ($ThisBlock['stereo'] ? 2 : 1);
+					$thisfile_audio['sample_rate'] = getid3_lib::trunc((256000000 / (65536 - $ThisBlock['time_constant'])) / $thisfile_audio['channels']);
+					break;
+
+				case 9:  // data block that supersedes blocks 1 and 8. Used for stereo, 16 bit
+					$BlockData .= fread($this->getid3->fp, 12);
+					if ($info['avdataoffset'] <= $OriginalAVdataOffset) {
+						$info['avdataoffset'] = ftell($this->getid3->fp);
+					}
+					fseek($this->getid3->fp, $BlockSize - 12, SEEK_CUR);
+
+					$ThisBlock['sample_rate']      = getid3_lib::LittleEndian2Int(substr($BlockData,  4, 4));
+					$ThisBlock['bits_per_sample']  = getid3_lib::LittleEndian2Int(substr($BlockData,  8, 1));
+					$ThisBlock['channels']         = getid3_lib::LittleEndian2Int(substr($BlockData,  9, 1));
+					$ThisBlock['wFormat']          = getid3_lib::LittleEndian2Int(substr($BlockData, 10, 2));
+
+					$ThisBlock['compression_name'] = $this->VOCwFormatLookup($ThisBlock['wFormat']);
+					if ($this->VOCwFormatActualBitsPerSampleLookup($ThisBlock['wFormat'])) {
+						$thisfile_voc['compressed_bits_per_sample'] = $this->VOCwFormatActualBitsPerSampleLookup($ThisBlock['wFormat']);
+					}
+
+					$thisfile_audio['sample_rate']     = $ThisBlock['sample_rate'];
+					$thisfile_audio['bits_per_sample'] = $ThisBlock['bits_per_sample'];
+					$thisfile_audio['channels']        = $ThisBlock['channels'];
+					break;
+
+				default:
+					$info['warning'][] = 'Unhandled block type "'.$BlockType.'" at offset '.$BlockOffset;
+					fseek($this->getid3->fp, $BlockSize, SEEK_CUR);
+					break;
+			}
+
+			if (!empty($ThisBlock)) {
+				$ThisBlock['block_offset']  = $BlockOffset;
+				$ThisBlock['block_size']    = $BlockSize;
+				$ThisBlock['block_type_id'] = $BlockType;
+				$thisfile_voc['blocks'][] = $ThisBlock;
+			}
+
+		} while (!feof($this->getid3->fp) && ($BlockType != 0));
+
+		// Terminator block doesn't have size field, so seek back 3 spaces
+		fseek($this->getid3->fp, -3, SEEK_CUR);
+
+		ksort($thisfile_voc['blocktypes']);
+
+		if (!empty($thisfile_voc['compressed_bits_per_sample'])) {
+			$info['playtime_seconds'] = (($info['avdataend'] - $info['avdataoffset']) * 8) / ($thisfile_voc['compressed_bits_per_sample'] * $thisfile_audio['channels'] * $thisfile_audio['sample_rate']);
+			$thisfile_audio['bitrate'] = (($info['avdataend'] - $info['avdataoffset']) * 8) / $info['playtime_seconds'];
+		}
+
+		return true;
+	}
+
+	public function VOCcompressionTypeLookup($index) {
+		static $VOCcompressionTypeLookup = array(
+			0 => '8-bit',
+			1 => '4-bit',
+			2 => '2.6-bit',
+			3 => '2-bit'
+		);
+		return (isset($VOCcompressionTypeLookup[$index]) ? $VOCcompressionTypeLookup[$index] : 'Multi DAC ('.($index - 3).') channels');
+	}
+
+	public function VOCwFormatLookup($index) {
+		static $VOCwFormatLookup = array(
+			0x0000 => '8-bit unsigned PCM',
+			0x0001 => 'Creative 8-bit to 4-bit ADPCM',
+			0x0002 => 'Creative 8-bit to 3-bit ADPCM',
+			0x0003 => 'Creative 8-bit to 2-bit ADPCM',
+			0x0004 => '16-bit signed PCM',
+			0x0006 => 'CCITT a-Law',
+			0x0007 => 'CCITT u-Law',
+			0x2000 => 'Creative 16-bit to 4-bit ADPCM'
+		);
+		return (isset($VOCwFormatLookup[$index]) ? $VOCwFormatLookup[$index] : false);
+	}
+
+	public function VOCwFormatActualBitsPerSampleLookup($index) {
+		static $VOCwFormatLookup = array(
+			0x0000 =>  8,
+			0x0001 =>  4,
+			0x0002 =>  3,
+			0x0003 =>  2,
+			0x0004 => 16,
+			0x0006 =>  8,
+			0x0007 =>  8,
+			0x2000 =>  4
+		);
+		return (isset($VOCwFormatLookup[$index]) ? $VOCwFormatLookup[$index] : false);
+	}
+
+}

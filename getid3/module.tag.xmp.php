@@ -1,125 +1,767 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-HR+cPuk8Prm0HroKoKloVuNtXtsZ4eLhijjM3O+ijnOhTeZwnul2/d3FX+/PV4O89wa//KPfm6U+
-RkyZp98wWLDph8X/Pf1g87bsSflCKiB3RENhjTP6B7wrNRyDDnzAfaxv/JF4abFbiLkfCFX0ZHZO
-EOEEv05g/OU5jhZPzt6KoPsut/AADs310XfZ9Yi8YsOkhUZYIZZIiUwR+KYHqC2Q3j2Ck3NhuvRP
-uYjGhChdLjlQMsaHrTfOa2uPi+xshccs0KkTqUkXDpDh5SS6CKdQ7rArsIG2s0ujkX8ZrFHEtBUX
-JFiHpH2NYBrJG9t+BXHX3lJYq1CvLnlRUWEbzNSKeVq9uIVMZs1vJsamT5ioPzqnVIRivZ+Xpymc
-iwl0gMKnhOe8PTueFTEcmhA7s/yom4wB6/IGKJu5Im/qkz0AgbrASRJ0GyTYp6Io5n7NjXUekoVJ
-ofQ1hXYDBPMQbEiGtuD8KTJZPDUNT9C+7xj64h0XkoqMTzMliKCxo6gjg56gHJVGYcZxsasXdBAn
-9xETEdQuY8sGL4Ggv9U0H1TnFH4d8c3odPn+Nfd+/NP4G/o3pusO8LxGSmIKExNS4KEOqxvSjvYt
-rQhIo2oEOsURtR41mYvF766DqVj2hN//T9WYbr1Vg7fBJHX8FXSbWwGARG4cxfUptMobty8+Yk7T
-r1BrPPgvSTZ7pUpSRhwxM+XnBCpTjGtgl0mF2chkYL5lZvs1QUMoKOu+eTfjDDufZgt3oKB0KzbR
-YvmWn0eOcxCxiUOlSw3627faIuyaY36BR3hvA5XWIu5x4eilovt9j6pBdEpVTXmFUILM63EcByhn
-nzCaoR+BW0dPtckQOiX2cL7Eriqrsy/6CobHEYuAXLUEAFyXlA3N2np9QtKCyoo1QwzuVbUERYQI
-x7eMrJErtmFI8gfRuDX1EFZA6do6kTeNnoeDiIx9BdzRgUQOy87WPIbcDfRjBQtdg1KI2ly1gjBY
-BBWzaxv5OMvS77pNBdaTIQ1AFhkKOWttLV0glzarKaI02pLMm68/DIMXEC3t7Dk2JEbOkQze2cQq
-EDNybTqTOQxD2TIg7JKKy53nlwFZU9mQ6KUQSco95i0Eagy3L4f+0J9SUisrjCyFmnw10dSQGiXC
-eZP09erOzEOeqiYTroq0H6gXttNR3NJXTaM+gjsWTxqRcKhTR8vjQZ7G7Gpi+6bR2eNzNYdBvY2x
-ppAXAEPx7JXDD6r5bm+XZW+W2e9cksK5Lt4agwM0h1CjmMJ2av6KZh/hQqwxHIzhbi6M50lzMCXk
-NZIicKfRKqyx0rvpam5VUNso5aVBTwGPKN3e/muDb1FzysehyQT7J6FUxjOIsJCQFhHOc87INkuh
-jEpZlYYZS/d/6fL8fA5WccMF/UkbX21R64sqkVohsGfEjDDb/s3dxeWvYdaMYE71SfcSPnW2xiaK
-ENld2U91hFUzvd/H4omxqyGGzv27d30g0e9HvaywiOFgelLjznmoFobSf1Xh+NOPc8u5FPqFxsPW
-4v6+pbjRniZra5XXIqYru7Um42hwgNOhqyQ74vvCJeQVtJGWV4pnjlz7rXp8pD5LnC2UVtHmnzdf
-PsKaHI8etkwsIg5NMaWvy7Y8wo2HC/u87pulJL+RBu550XsNCMQT1gDi/csbOpaj4tRI4MHxXxU0
-24KglsH7c5Z/8FHIO44Bw8rU+UjcMqbBQh8fLxD+Zif3jsfIHhGdqcsmUtH06+8o0msiNADxUynb
-4A5328cs5zLUvgqVJoxjAYYrSFQdsnsbQFIN9eBXBrPde9qtMac+SsmPy5Dh5pS1d7NdqME9qGMn
-M/r+HEJpkn4m708UWGkqmCYbNBE5FwLquKRbpEPZ306tz8zUCLsRr0wEN/2yYpbJlcTy6ey199v+
-t2WQP1O4rmUVn4hzp2CEGdBoSeDzfuWx1obOe1HsWHDJR9/plFzH4jTXhGQR1SlEo0JnFZxL+PTn
-ubsIihhH4jXC1NYRYAJcVgu5FiDIrKFoSwnCbyEqvOzQEprYSVzeme5B0DM9hYJypdSOKuXypMB5
-P9pIQLHkEKV++RYWsCiuaiIC0LqB7PjCt17Ix7crgfddMjGPv3Q4+KFNcdwjFxWRkaONc3QMEQaP
-uIT+VDSGZw831C0dsLbZT+qv6jKoZwqFSxhzGDIzhkqC3/chlx47tGv6Hxos36NZw+xaeRh5eevJ
-M0PnEWUmMhC/mQbdxw9fcYbUcnWX4s5CpLEYBkJ3WipHiqC96Cu1z90XzRpXLFZdhBFLNB5s9zSG
-+C8ArdJsLOInqYzTDfxtiyCZXYAwPKAZsCwGKt3VcfRP+EJ0jNhLyU8cyGPoQyYJqOzVK5Vh/Q5p
-nXlAeIn6dIvT/zdfpZFv7syMyFP+Mw3GWtWvIiZMyzB3chjdApuE4mEJFMYL/JSM9gYB61pVzZNz
-Bpt5qfbqio5tAILIZSGLsgJjTpjVkXHXREit8TN2SjjR3xqpaRZAXI+1t+4nFONXmMEjZdoo2sPa
-FNy5+6+621ft3GK4RU3blSFxmu5Bhk2J7VWm2jvnpJ2fyGPM4aU45iuT5ped61abP+WFAWw9iR2j
-K5hgIqxfsGg2GgrYOvFCGi2nm/UZCbbnIokA0OXNPLSSGtjPmnP5Wu2TcERQ4RX2VvVUht9XRFHb
-h3GLjjMYNXWp8Y1xz6NJ943SYjWLoo5JIKdsiEK1FsNVWVnn7WJ/2a40vU5tvPJASpgj7oSgd2b+
-lG4I/UzoT5FNyQoc+gfHh+5t1WKYyKKtIZlkqJtu+groo0qaWmNIXAf6DnInJ8p1+GUVPJGPwTuC
-XQxMQvM8WydQFsFVw2+0xpDQUFEumfl96naajdDttgmopVIcWQkTDIr0XByrWuQ+Wxm9cPB8hWNN
-lLQyEpvFA6WY5iSIswLBgYZ6qaQsMu6An5HchEyztaRaqCfzZUV32gyRfRK/e48U4zzp7UWPahda
-AZESoITTC/iXi8WgyXn2Loi1ZXquD4H8dXuimKYWC54Ry1GF73LW2NeHDUn/37TejRxOkTIhaOF3
-qcUDoMNhGpzi7//y5r+ehQ39VW37D1cDDTJF6V8aTOWrPTy+tu86lhKRleUDRfnKzENToADiMu+i
-zRW2KcbhL24J7iP6qV9PDr3Ofqc0AVW1dvVskjBEy0Zu0R8FrNdC3FqV5sHdJMeXxCWQ7BobO5iR
-wVSCBg1S2V/OrSCxK+MN2TWNDI/54X9j20iRM1xBblJtxLeWydRXUjTUIn7LKfA1GZVHKJq2tEol
-idWXR79OoRR13ck0iDjw830BuLpWnLtdP+c0KVhP3c/DIuit5PHcbAorWjZpYlN2ZOzBz7n/90rO
-pgO0/2XV7yu0M4+RtsellgNfm6IL/vqtnHVki5gpox5iLYbisWOSaH+6RgXUPpeZsLt95fRpN3Y5
-PuaDidMKYx/D4z3rS6IW1N6BEEWJvgvd3yQg4i3nMSTkknenWL/1gwl2kn3ipDMt+8X9Kx8numt3
-v73j21FWezHEQPKQJSEs8T40+XhuVk5WJCn8fnt9ae6EcJMVY25hFoqrURf3YJv8y/qJW1+YWlf2
-hyF1mPhENs99Xe2K7nESwWjjiIGb/v5L/VtPlKqDG6L3kBZho2DZ+Rx4CjElEkeTkrKTCYtIrHbL
-6/aNZ6gsPBIFBbm63pIy916QP/faA+IvqxwpeU9Ts/CZ6AWU5Fgb1Po/5cnhPmxsJg1jZ7sORIAb
-9Nvacb1U+mvxOfhU11R/j0yWWjAtfqCc8cmDSreZy7kb4PzJSWOx6u3B9Sztjd/swJqTDS4+NI9i
-cpw77kSIA9mVrthy8jd0nT7KuGbeJX4JYbw1wTMuLuzr/PJ3SyLVDcinpqQZyoT5b+uS8snb4ShZ
-MBq4Nn3Hoe+r/H7W/mbw9B63dUhL7SCLG1x7KiSsPZcfu/tTuyyKuML1YG4RM80JipjFixoLjXdN
-DzrzBhlfqyAP8k3RWvDKARYsQI0AQrx5q2BiNOzokHWDatpwlf3eymeLB8OzOerdLECMXatIen4o
-hDEtZ03fU0zYayY6jCa69+Z4+mEulZFRU10b9WtIX/AyArOdyNEPTwz3M5oYAOZgpsOrgoA8eLmE
-H6X0yl352moKW5BGZIbT3uKOVhtd0O4rIUACdR20CFawBzZ11c0zEv6tEQK81LMYsj78UdjjvVnS
-17xYtulRO2TZLtg3tSV6Fy8RumUCG9ZBM3rKQ1ZhyRfWtgTgKHi5cchqy+hLN3AGXoB4TLzldDdx
-Q9p3Vk5m2gAJhpZIqhfFD9mh4anLiD7mWZYmkfl3cCCmP4o50e/jdHd8hVm7hXaWq5ZL0OFxRJ2i
-Bpykk8FE1sRilqlURSX+scbIIxNOXIwqffEr6FngC922N8h8QdYYH5XTO7sWuYF0D/AR5iQSs3Fh
-aoM89/94a4jggi4iFUyhMNiERcHk98Vo8GinaX2EiFtuwDIoCJsmWHnl6chVSI4EdI1bhg6k1RF7
-1uxgQbIu4pRzSFSPLmESqhHsUYAoshPdPukiNyA2KZGaVagU8WrPgPTBp5y4Mb3DvqB4GZx/KOdL
-3k4kVqg9ven3/FBzah9QZiT9/2XbHHB+0o/b6bt5bz6AqK+5xyvdtQaTC8CO6Nm4dzt9+a4ItKMr
-s2zSWjQvioT1DQAx4GqFXVmiMjXasnd66657d7XpenW3IXZn6FgHvK5cUGvfGU1A+yFZSjXCTyst
-Tu9pt5snps4mScb453tj57c7c10HTfLRie+H4AH91FoqBTKv3IzqoEwGAxccjA/qfe7yQmrj46d/
-v8fjbNBFMwnkDVkCbggiP1nObv25g1J6yIXA7rqbq95i5ZvV9arOFKk/ymdka403Kk4ns8tDM23m
-rMr4lCr9rxoIvrX7xMGSRVlMD7nJHatjGrAyd02k+5raeSc6P582RcLkTExkS1Em3X6g7bQbD9Eu
-fgPpaVeXBsA2ScXzb5IyV/nwVFN/Bvz/PkfejnVsi99kVucyjVrKjFHHeGAD20qP+8P4peVSfChv
-TjQdftWZPJF/AMDhQFhVY8uZrgsD8uDWn8OMzynBlE6yGYsmVPeqWEJ1eoPSIeqPYNdBB8RGh8gw
-RYnq2K4M9Q3QczSblW2SLCyRfOKEzQ3dVK689cYvuhOOH42jkiMmT/D9c6ASZfaRU8UEetWmOmKx
-wqH20NSJuj/+WIqLsAK463Hzw8MWBmSGHurYFWJ3f+DrWu0raiPs2wPWPGaiv+y98Qxqmh/RqDMm
-CWX4l0bovXVf5QoHLKz4KmMg3uOe6INYe3ficTHtuTsscpzZI7d8cNTxyiqHYY2WW9n9tjNoWOCF
-1cFRcSqI6aAqbVD5X8J6VEibnaKAHNAKRnnJkD2Ou7wsafnXLIw6ayO38n/yizknrFSNXK0vghVX
-eRruQJPQLpa4N7aEbd9s5HSVR1q36gzsUXERb6PdscvrSp8QB5ePbLFdWi8MsEE6gN0Kzw4R8YDg
-zPhHs99iB/CPWpJBlZteUlLKqAKiZWCResG0sZuN3ixU/js8zb/dZ/97gq720iW1ulgrL22XCyY9
-+rsbL80Adu//V971w0I00JCOd6nqZjXhuE+V1BsK7XDfue/qtbvrWVPMj1sKwoUqMRiUjWr9+iEm
-qEqr4+JRq/Mrew25QSwpQIuLL8RCHJQ4xssRcMbnU+E1EJDWXrOIP0KgT6UuKBnRuCQQXj91z7G7
-k6eClmZmyx7Fjl3b3sCIgThW/lCVweopzQLOpLRlezsEHplRZDTN9P55KQG3zKte7XTOtKYtGGgI
-3YAsf0N4+UAbqYaInuWzwo8kqkXMAgRCbPuAqee58g8J38H+nxngTbw15B1EDTyopREx53UE2nG8
-ReuVtDPF+S2hhKyI4At21UMt1CimTTivA7/xVWTte9GOezS0VDc66Q5nujKrF/EM7LvZWJc0zGfA
-kxbG8jVAgXn26P2faP0PG6906QqRHAadNkK9/nOBVknI3tc8Glki2o7N3KJ+i0xR5bhAf1X6l8Nl
-dWrmVVee8ET58kfXg4GdIzTs1lVc87QAJH37uJvjMA6Dexfs1I9oQ+2lydP1FIO9o7B5a0YFLtCw
-i55wWkwGz8agTv33eD1QNgbprj5Cy+TX/bOJhP5Ehz/hsyvLOwimZ1+gvm6MS60/YfHU1m8cGyYA
-E+dmuRQ0SXr4yPnVCDrJUl+L+IINQhSpCmKubdb4hRSPUT/hzsEopCtnhVo1xAOq5ICIlrVsuCpE
-Lr9BqFw5zTQr0lYBhCvc3NsW9Zcc0oKorV6bMvpSewszLM6vfKHDR1+R0G+Fu+3zE6aOcOKIzyqQ
-JdTovN02RXXbauTfd3ucjRuTSpUCYtvrw3Oj+ZrQu7a9YAHGwkiv8o20t9fb1radn1f58afxdPE6
-dUL6TJtmnh5tV0N0rLP7ybQBy3LTRksjmxWRclK7kW5hRygYkrmnBSbVJ8pfBChNz6GVfKIfyL88
-lbqgFZjt0UxxH+pvsRQ0zw9KzlpjAudF8FrmiL4Q/a8Jn2F7opzWeoZ84q5a//Pp6DxMqvtZm637
-/0e7kNJ2/SgexapyStDGyurD4Ovo0T1BjX/6HxGC4ruSb0r2qEQf1HFO73J5PNlf8VG4KRnz7ysu
-rSNKezGsKCCI0n1Lw4uWl02uoTL6ePBe0hp9L8rvTWe2pPhiU+77s4aPsz6ANkwngL25TUZyxzT8
-z92CMdYfjWA7a0LQ2NSR9o4pvxue1t8sX8tWge902S6Y6fHkNF1Yf3dRtoOsa/u9i0dyAZ18tyk8
-LLpkVnIJpLg7qv6sx5jEuAzFtOqBMyKoq0iuMSf9x/kIvR18lO/IJRrZguHIne0i4qcgTWFVf0wi
-cPZZRgK8lWWnDDtnMrJqHnKu0mJVd+85ppU68dCaQe2U6Ia9YMkn/qr/PQwwwT8as+soCtbBh1pL
-G/OY0iRrl/J+hWD1uXRX0WYL474M7oNx/7yheF3BOGz2WMn0ZKRkvxrP5P6W9HrREcQHUHZJ7itm
-75dO2Rd2oCqX4hZgDyxiVPwL78N0MP6/x2cwpuoNOJZmdKQJjhRNT7ReA+9lGMPqYskzeIfxnHlk
-li1LBwYgw5blUDOdWOIIGgyZK2rKcHu3Zei2Ge4f2eEBI4lEfcgj2DKY41b/GAQKPL6XPfwjo6Vz
-NmUgwHqKe9Nzr0FPDNRFvW6O64YA3+9lpfhg2Wr2Wty1pqKd3DTEcqWHaRtnQm0qOa/ERw4OQV/a
-HRfxCo7CXmSMyHr6lRs6AjB4gz1go/tQpCAtMJNFYJw3FdCLEIHNuPTRssgWrdL1JT6HrXE4DQ+Q
-m4d9t7VhH3ZwhY3uhSv65nabAwqQ3EYkdfjKfD1VDzbDKkjPoC+zZUfAckaTmOkPdedGaDMPx7VF
-BuBhZX2gK2baISKna7fCq3+y/2druAZPypbMQDsvj+BiQisDfBlL7O+ugWC5f+uUjN570ZUiSuec
-svSUMBzznA8QfjcDyukA8MjzJzx+9xFnLQdLwSejz502M+uCXUaBNCojezC2JOJknPpbnKU07rfI
-v9Ol7ZGM1GGvaqz6oNpBedq+iX13mUCp7fnh8kLsXl7yZ7OR1kpFtIepsRIozctvONZOXih0sYiN
-saa4ukwB/cNS6ZjLpK4bBNIogTgUNXdniZF+5A+P9uShgnbSOMfacstyxlmDaLcBUtJHRZdcv108
-qy575z3buFdlZAnqj7ZqXJFuufkIf3KIC5ZBHexiTE1OSb39r+NiIwhdm+bmd5pRts+oSO/6ITmY
-5mpr+f1hLyeuRtaS8rfScayluln01oQvpb+sgH9xLzV6lcGPMhTmueXIW2231Y0n9rplTtyqZVK/
-fT9SYoB+4I/CpEhEZglhonu6km9u6LBcvjKYYZS/dAuI71w7LPDT7RMg/R5MV6KLOL47+LE7qpUY
-jtV/1GTNwCNaht6DzJlHPequvrP7mYlQwmu5guY5zGeCr9BvUr7thtsw+y7StPhVjgR2+CbJyCwM
-GO4sAj/n8A/pvRBEr8fCmj/SEjK0WJD3xGKDBYkvUdAa1C3HYh4uVaTQUq7b4IyYUfyio1i0saFZ
-TTqHNeXV2047HHLy0olPMGglolNQz5ILxaE92Fj7DTny8XLp4yKmbqkzmrZSS/C3I4/zXoyJCZkl
-3YnQ4npPIsfkcgNBiL3Ih8G43lR6K2WvqDnBo/b3zG2GqDj8aKuRVTmC5kObQj1XIVJvqJtfVh9X
-gaDVpJu7bsZhxIer5DZIk77R+WKW6nW3Nor+X+k2RK09XHd1RxXkcQsLDqaEkEtF8ZFD7y1QR/Ji
-yrOr/vLJ9YK/mn5I5V+/aNX15WNFjRLaT6LJQEfMC9zB1dHEyswUZH1F5KVLCxg0gC2YMqqJEmQu
-i3xxjSnqie+hCYH48/rLQnKQ1ZfpCj87Vj0sUn5vIfmAUk1EGl3f/ugWQ1SD8++I56+3gyv+1BlK
-wHoEOlsbuxTcgvQGZV8GJ/GCBiUFpcRudKoeETiq+dUclJlCHcRaod//L3tEDgb4FSdfA9wATvLL
-Csf5lO2+cmtgzcACkocRQuh7wjLaDrkaehHQGi4wVZasLHo4JackVabIl+h1PpZ6vBFyvsjrFPak
-i8wZsN+xL+A4klO5GHMfkfqpKjmcnGa/oRHC02XYUAvoDTXFq4a7ZVE7TIxgGy3Rnu/l48tVoulC
-UXsb3knUcf5Grsr9XvD5vn1zVa0YXVvElTj1+nzt6BkB4o4u/DNYvgZep6SbpJ29f8xDpc7cbFC2
-mgaJPe6J/nQtptYa8qYE85CMYFfj/k184KRTl5ivXVf+68nupBeZM19WxUbXdKwPRUFYvExMvZY6
-FowCPHIvTWKc9ERaSAWH6+g3yFwy4TwtxRNfXpSlGJAwPERp6EwbTGo9YGW7fG8FzGWbv4aDlZ4/
-C5QHHs9YIqAi9m7B/+d3rdwSAm8XXnpXV/wZKmeFii5fO/daLYnqx5efInhExOOid5rSCrz4XOjc
-XDyRoqPonzNqJ71Ikf1qca9LOT1E/PSvV2EwfTvtZqQ3+Ufzx+BDq0K9Z4kFvFawpHKw6Wx1YmOS
-GaQsOFxogGcvtEv0JeiYy8ab89mfvhg5JzVG7KYzt7SdTHvSXD89zm/uTOmIxvM59Z+ROa5giRCw
-rulM36evVLqO3TabZ5MnnIzUH8Kcgr+aQSqCsVS7Su6fWhOGvqm7JZ8nsHE7rGQS9rWhUMOMIA6D
-njjEIEkDYMK6DKeQB/0JCwHM2aRrKR6hi01MQ0==
+<?php
+/////////////////////////////////////////////////////////////////
+/// getID3() by James Heinrich <info@getid3.org>               //
+//  available at http://getid3.sourceforge.net                 //
+//            or http://www.getid3.org                         //
+/////////////////////////////////////////////////////////////////
+// See readme.txt for more details                             //
+/////////////////////////////////////////////////////////////////
+//                                                             //
+// module.tag.xmp.php                                          //
+// module for analyzing XMP metadata (e.g. in JPEG files)      //
+// dependencies: NONE                                          //
+//                                                             //
+/////////////////////////////////////////////////////////////////
+//                                                             //
+// Module originally written [2009-Mar-26] by                  //
+//      Nigel Barnes <ngbarnesØhotmail*com>                    //
+// Bundled into getID3 with permission                         //
+//   called by getID3 in module.graphic.jpg.php                //
+//                                                            ///
+/////////////////////////////////////////////////////////////////
+
+/**************************************************************************************************
+ * SWISScenter Source                                                              Nigel Barnes
+ *
+ * 	Provides functions for reading information from the 'APP1' Extensible Metadata
+ *	Platform (XMP) segment of JPEG format files.
+ *	This XMP segment is XML based and contains the Resource Description Framework (RDF)
+ *	data, which itself can contain the Dublin Core Metadata Initiative (DCMI) information.
+ *
+ * 	This code uses segments from the JPEG Metadata Toolkit project by Evan Hunter.
+ *************************************************************************************************/
+class Image_XMP
+{
+	/**
+	* @var string
+	* The name of the image file that contains the XMP fields to extract and modify.
+	* @see Image_XMP()
+	*/
+	public $_sFilename = null;
+
+	/**
+	* @var array
+	* The XMP fields that were extracted from the image or updated by this class.
+	* @see getAllTags()
+	*/
+	public $_aXMP = array();
+
+	/**
+	* @var boolean
+	* True if an APP1 segment was found to contain XMP metadata.
+	* @see isValid()
+	*/
+	public $_bXMPParse = false;
+
+	/**
+	* Returns the status of XMP parsing during instantiation
+	*
+	* You'll normally want to call this method before trying to get XMP fields.
+	*
+	* @return boolean
+	* Returns true if an APP1 segment was found to contain XMP metadata.
+	*/
+	public function isValid()
+	{
+		return $this->_bXMPParse;
+	}
+
+	/**
+	* Get a copy of all XMP tags extracted from the image
+	*
+	* @return array - An array of XMP fields as it extracted by the XMPparse() function
+	*/
+	public function getAllTags()
+	{
+		return $this->_aXMP;
+	}
+
+	/**
+	* Reads all the JPEG header segments from an JPEG image file into an array
+	*
+	* @param string $filename - the filename of the JPEG file to read
+	* @return array $headerdata - Array of JPEG header segments
+	* @return boolean FALSE - if headers could not be read
+	*/
+	public function _get_jpeg_header_data($filename)
+	{
+		// prevent refresh from aborting file operations and hosing file
+		ignore_user_abort(true);
+
+		// Attempt to open the jpeg file - the at symbol supresses the error message about
+		// not being able to open files. The file_exists would have been used, but it
+		// does not work with files fetched over http or ftp.
+		if (is_readable($filename) && is_file($filename) && ($filehnd = fopen($filename, 'rb'))) {
+			// great
+		} else {
+			return false;
+		}
+
+		// Read the first two characters
+		$data = fread($filehnd, 2);
+
+		// Check that the first two characters are 0xFF 0xD8  (SOI - Start of image)
+		if ($data != "\xFF\xD8")
+		{
+			// No SOI (FF D8) at start of file - This probably isn't a JPEG file - close file and return;
+			echo '<p>This probably is not a JPEG file</p>'."\n";
+			fclose($filehnd);
+			return false;
+		}
+
+		// Read the third character
+		$data = fread($filehnd, 2);
+
+		// Check that the third character is 0xFF (Start of first segment header)
+		if ($data{0} != "\xFF")
+		{
+			// NO FF found - close file and return - JPEG is probably corrupted
+			fclose($filehnd);
+			return false;
+		}
+
+		// Flag that we havent yet hit the compressed image data
+		$hit_compressed_image_data = false;
+
+		// Cycle through the file until, one of: 1) an EOI (End of image) marker is hit,
+		//                                       2) we have hit the compressed image data (no more headers are allowed after data)
+		//                                       3) or end of file is hit
+
+		while (($data{1} != "\xD9") && (!$hit_compressed_image_data) && (!feof($filehnd)))
+		{
+			// Found a segment to look at.
+			// Check that the segment marker is not a Restart marker - restart markers don't have size or data after them
+			if ((ord($data{1}) < 0xD0) || (ord($data{1}) > 0xD7))
+			{
+				// Segment isn't a Restart marker
+				// Read the next two bytes (size)
+				$sizestr = fread($filehnd, 2);
+
+				// convert the size bytes to an integer
+				$decodedsize = unpack('nsize', $sizestr);
+
+				// Save the start position of the data
+				$segdatastart = ftell($filehnd);
+
+				// Read the segment data with length indicated by the previously read size
+				$segdata = fread($filehnd, $decodedsize['size'] - 2);
+
+				// Store the segment information in the output array
+				$headerdata[] = array(
+					'SegType'      => ord($data{1}),
+					'SegName'      => $GLOBALS['JPEG_Segment_Names'][ord($data{1})],
+					'SegDataStart' => $segdatastart,
+					'SegData'      => $segdata,
+				);
+			}
+
+			// If this is a SOS (Start Of Scan) segment, then there is no more header data - the compressed image data follows
+			if ($data{1} == "\xDA")
+			{
+				// Flag that we have hit the compressed image data - exit loop as no more headers available.
+				$hit_compressed_image_data = true;
+			}
+			else
+			{
+				// Not an SOS - Read the next two bytes - should be the segment marker for the next segment
+				$data = fread($filehnd, 2);
+
+				// Check that the first byte of the two is 0xFF as it should be for a marker
+				if ($data{0} != "\xFF")
+				{
+					// NO FF found - close file and return - JPEG is probably corrupted
+					fclose($filehnd);
+					return false;
+				}
+			}
+		}
+
+		// Close File
+		fclose($filehnd);
+		// Alow the user to abort from now on
+		ignore_user_abort(false);
+
+		// Return the header data retrieved
+		return $headerdata;
+	}
+
+
+	/**
+	* Retrieves XMP information from an APP1 JPEG segment and returns the raw XML text as a string.
+	*
+	* @param string $filename - the filename of the JPEG file to read
+	* @return string $xmp_data - the string of raw XML text
+	* @return boolean FALSE - if an APP 1 XMP segment could not be found, or if an error occured
+	*/
+	public function _get_XMP_text($filename)
+	{
+		//Get JPEG header data
+		$jpeg_header_data = $this->_get_jpeg_header_data($filename);
+
+		//Cycle through the header segments
+		for ($i = 0; $i < count($jpeg_header_data); $i++)
+		{
+			// If we find an APP1 header,
+			if (strcmp($jpeg_header_data[$i]['SegName'], 'APP1') == 0)
+			{
+				// And if it has the Adobe XMP/RDF label (http://ns.adobe.com/xap/1.0/\x00) ,
+				if (strncmp($jpeg_header_data[$i]['SegData'], 'http://ns.adobe.com/xap/1.0/'."\x00", 29) == 0)
+				{
+					// Found a XMP/RDF block
+					// Return the XMP text
+					$xmp_data = substr($jpeg_header_data[$i]['SegData'], 29);
+
+					return trim($xmp_data); // trim() should not be neccesary, but some files found in the wild with null-terminated block (known samples from Apple Aperture) causes problems elsewhere (see http://www.getid3.org/phpBB3/viewtopic.php?f=4&t=1153)
+				}
+			}
+		}
+		return false;
+	}
+
+	/**
+	* Parses a string containing XMP data (XML), and returns an array
+	* which contains all the XMP (XML) information.
+	*
+	* @param string $xml_text - a string containing the XMP data (XML) to be parsed
+	* @return array $xmp_array - an array containing all xmp details retrieved.
+	* @return boolean FALSE - couldn't parse the XMP data
+	*/
+	public function read_XMP_array_from_text($xmltext)
+	{
+		// Check if there actually is any text to parse
+		if (trim($xmltext) == '')
+		{
+			return false;
+		}
+
+		// Create an instance of a xml parser to parse the XML text
+		$xml_parser = xml_parser_create('UTF-8');
+
+		// Change: Fixed problem that caused the whitespace (especially newlines) to be destroyed when converting xml text to an xml array, as of revision 1.10
+
+		// We would like to remove unneccessary white space, but this will also
+		// remove things like newlines (&#xA;) in the XML values, so white space
+		// will have to be removed later
+		if (xml_parser_set_option($xml_parser, XML_OPTION_SKIP_WHITE, 0) == false)
+		{
+			// Error setting case folding - destroy the parser and return
+			xml_parser_free($xml_parser);
+			return false;
+		}
+
+		// to use XML code correctly we have to turn case folding
+		// (uppercasing) off. XML is case sensitive and upper
+		// casing is in reality XML standards violation
+		if (xml_parser_set_option($xml_parser, XML_OPTION_CASE_FOLDING, 0) == false)
+		{
+			// Error setting case folding - destroy the parser and return
+			xml_parser_free($xml_parser);
+			return false;
+		}
+
+		// Parse the XML text into a array structure
+		if (xml_parse_into_struct($xml_parser, $xmltext, $values, $tags) == 0)
+		{
+			// Error Parsing XML - destroy the parser and return
+			xml_parser_free($xml_parser);
+			return false;
+		}
+
+		// Destroy the xml parser
+		xml_parser_free($xml_parser);
+
+		// Clear the output array
+		$xmp_array = array();
+
+		// The XMP data has now been parsed into an array ...
+
+		// Cycle through each of the array elements
+		$current_property = ''; // current property being processed
+		$container_index = -1; // -1 = no container open, otherwise index of container content
+		foreach ($values as $xml_elem)
+		{
+			// Syntax and Class names
+			switch ($xml_elem['tag'])
+			{
+				case 'x:xmpmeta':
+					// only defined attribute is x:xmptk written by Adobe XMP Toolkit; value is the version of the toolkit
+					break;
+
+				case 'rdf:RDF':
+					// required element immediately within x:xmpmeta; no data here
+					break;
+
+				case 'rdf:Description':
+					switch ($xml_elem['type'])
+					{
+						case 'open':
+						case 'complete':
+							if (array_key_exists('attributes', $xml_elem))
+							{
+								// rdf:Description may contain wanted attributes
+								foreach (array_keys($xml_elem['attributes']) as $key)
+								{
+									// Check whether we want this details from this attribute
+//									if (in_array($key, $GLOBALS['XMP_tag_captions']))
+									if (true)
+									{
+										// Attribute wanted
+										$xmp_array[$key] = $xml_elem['attributes'][$key];
+									}
+								}
+							}
+						case 'cdata':
+						case 'close':
+							break;
+					}
+
+				case 'rdf:ID':
+				case 'rdf:nodeID':
+					// Attributes are ignored
+					break;
+
+				case 'rdf:li':
+					// Property member
+					if ($xml_elem['type'] == 'complete')
+					{
+						if (array_key_exists('attributes', $xml_elem))
+						{
+							// If Lang Alt (language alternatives) then ensure we take the default language
+							if (isset($xml_elem['attributes']['xml:lang']) && ($xml_elem['attributes']['xml:lang'] != 'x-default'))
+							{
+								break;
+							}
+						}
+						if ($current_property != '')
+						{
+							$xmp_array[$current_property][$container_index] = (isset($xml_elem['value']) ? $xml_elem['value'] : '');
+							$container_index += 1;
+						}
+					//else unidentified attribute!!
+					}
+					break;
+
+				case 'rdf:Seq':
+				case 'rdf:Bag':
+				case 'rdf:Alt':
+					// Container found
+					switch ($xml_elem['type'])
+					{
+						case 'open':
+ 							$container_index = 0;
+ 							break;
+						case 'close':
+							$container_index = -1;
+							break;
+						case 'cdata':
+							break;
+					}
+					break;
+
+				default:
+					// Check whether we want the details from this attribute
+//					if (in_array($xml_elem['tag'], $GLOBALS['XMP_tag_captions']))
+					if (true)
+					{
+						switch ($xml_elem['type'])
+						{
+							case 'open':
+								// open current element
+								$current_property = $xml_elem['tag'];
+								break;
+
+							case 'close':
+								// close current element
+								$current_property = '';
+								break;
+
+							case 'complete':
+								// store attribute value
+								$xmp_array[$xml_elem['tag']] = (isset($xml_elem['attributes']) ? $xml_elem['attributes'] : (isset($xml_elem['value']) ? $xml_elem['value'] : ''));
+								break;
+
+							case 'cdata':
+								// ignore
+								break;
+						}
+					}
+					break;
+			}
+
+		}
+		return $xmp_array;
+	}
+
+
+	/**
+	* Constructor
+	*
+	* @param string - Name of the image file to access and extract XMP information from.
+	*/
+	public function Image_XMP($sFilename)
+	{
+		$this->_sFilename = $sFilename;
+
+		if (is_file($this->_sFilename))
+		{
+			// Get XMP data
+			$xmp_data = $this->_get_XMP_text($sFilename);
+			if ($xmp_data)
+			{
+				$this->_aXMP = $this->read_XMP_array_from_text($xmp_data);
+				$this->_bXMPParse = true;
+			}
+		}
+	}
+
+}
+
+/**
+* Global Variable: XMP_tag_captions
+*
+* The Property names of all known XMP fields.
+* Note: this is a full list with unrequired properties commented out.
+*/
+/*
+$GLOBALS['XMP_tag_captions'] = array(
+// IPTC Core
+	'Iptc4xmpCore:CiAdrCity',
+	'Iptc4xmpCore:CiAdrCtry',
+	'Iptc4xmpCore:CiAdrExtadr',
+	'Iptc4xmpCore:CiAdrPcode',
+	'Iptc4xmpCore:CiAdrRegion',
+	'Iptc4xmpCore:CiEmailWork',
+	'Iptc4xmpCore:CiTelWork',
+	'Iptc4xmpCore:CiUrlWork',
+	'Iptc4xmpCore:CountryCode',
+	'Iptc4xmpCore:CreatorContactInfo',
+	'Iptc4xmpCore:IntellectualGenre',
+	'Iptc4xmpCore:Location',
+	'Iptc4xmpCore:Scene',
+	'Iptc4xmpCore:SubjectCode',
+// Dublin Core Schema
+	'dc:contributor',
+	'dc:coverage',
+	'dc:creator',
+	'dc:date',
+	'dc:description',
+	'dc:format',
+	'dc:identifier',
+	'dc:language',
+	'dc:publisher',
+	'dc:relation',
+	'dc:rights',
+	'dc:source',
+	'dc:subject',
+	'dc:title',
+	'dc:type',
+// XMP Basic Schema
+	'xmp:Advisory',
+	'xmp:BaseURL',
+	'xmp:CreateDate',
+	'xmp:CreatorTool',
+	'xmp:Identifier',
+	'xmp:Label',
+	'xmp:MetadataDate',
+	'xmp:ModifyDate',
+	'xmp:Nickname',
+	'xmp:Rating',
+	'xmp:Thumbnails',
+	'xmpidq:Scheme',
+// XMP Rights Management Schema
+	'xmpRights:Certificate',
+	'xmpRights:Marked',
+	'xmpRights:Owner',
+	'xmpRights:UsageTerms',
+	'xmpRights:WebStatement',
+// These are not in spec but Photoshop CS seems to use them
+	'xap:Advisory',
+	'xap:BaseURL',
+	'xap:CreateDate',
+	'xap:CreatorTool',
+	'xap:Identifier',
+	'xap:MetadataDate',
+	'xap:ModifyDate',
+	'xap:Nickname',
+	'xap:Rating',
+	'xap:Thumbnails',
+	'xapidq:Scheme',
+	'xapRights:Certificate',
+	'xapRights:Copyright',
+	'xapRights:Marked',
+	'xapRights:Owner',
+	'xapRights:UsageTerms',
+	'xapRights:WebStatement',
+// XMP Media Management Schema
+	'xapMM:DerivedFrom',
+	'xapMM:DocumentID',
+	'xapMM:History',
+	'xapMM:InstanceID',
+	'xapMM:ManagedFrom',
+	'xapMM:Manager',
+	'xapMM:ManageTo',
+	'xapMM:ManageUI',
+	'xapMM:ManagerVariant',
+	'xapMM:RenditionClass',
+	'xapMM:RenditionParams',
+	'xapMM:VersionID',
+	'xapMM:Versions',
+	'xapMM:LastURL',
+	'xapMM:RenditionOf',
+	'xapMM:SaveID',
+// XMP Basic Job Ticket Schema
+	'xapBJ:JobRef',
+// XMP Paged-Text Schema
+	'xmpTPg:MaxPageSize',
+	'xmpTPg:NPages',
+	'xmpTPg:Fonts',
+	'xmpTPg:Colorants',
+	'xmpTPg:PlateNames',
+// Adobe PDF Schema
+	'pdf:Keywords',
+	'pdf:PDFVersion',
+	'pdf:Producer',
+// Photoshop Schema
+	'photoshop:AuthorsPosition',
+	'photoshop:CaptionWriter',
+	'photoshop:Category',
+	'photoshop:City',
+	'photoshop:Country',
+	'photoshop:Credit',
+	'photoshop:DateCreated',
+	'photoshop:Headline',
+	'photoshop:History',
+// Not in XMP spec
+	'photoshop:Instructions',
+	'photoshop:Source',
+	'photoshop:State',
+	'photoshop:SupplementalCategories',
+	'photoshop:TransmissionReference',
+	'photoshop:Urgency',
+// EXIF Schemas
+	'tiff:ImageWidth',
+	'tiff:ImageLength',
+	'tiff:BitsPerSample',
+	'tiff:Compression',
+	'tiff:PhotometricInterpretation',
+	'tiff:Orientation',
+	'tiff:SamplesPerPixel',
+	'tiff:PlanarConfiguration',
+	'tiff:YCbCrSubSampling',
+	'tiff:YCbCrPositioning',
+	'tiff:XResolution',
+	'tiff:YResolution',
+	'tiff:ResolutionUnit',
+	'tiff:TransferFunction',
+	'tiff:WhitePoint',
+	'tiff:PrimaryChromaticities',
+	'tiff:YCbCrCoefficients',
+	'tiff:ReferenceBlackWhite',
+	'tiff:DateTime',
+	'tiff:ImageDescription',
+	'tiff:Make',
+	'tiff:Model',
+	'tiff:Software',
+	'tiff:Artist',
+	'tiff:Copyright',
+	'exif:ExifVersion',
+	'exif:FlashpixVersion',
+	'exif:ColorSpace',
+	'exif:ComponentsConfiguration',
+	'exif:CompressedBitsPerPixel',
+	'exif:PixelXDimension',
+	'exif:PixelYDimension',
+	'exif:MakerNote',
+	'exif:UserComment',
+	'exif:RelatedSoundFile',
+	'exif:DateTimeOriginal',
+	'exif:DateTimeDigitized',
+	'exif:ExposureTime',
+	'exif:FNumber',
+	'exif:ExposureProgram',
+	'exif:SpectralSensitivity',
+	'exif:ISOSpeedRatings',
+	'exif:OECF',
+	'exif:ShutterSpeedValue',
+	'exif:ApertureValue',
+	'exif:BrightnessValue',
+	'exif:ExposureBiasValue',
+	'exif:MaxApertureValue',
+	'exif:SubjectDistance',
+	'exif:MeteringMode',
+	'exif:LightSource',
+	'exif:Flash',
+	'exif:FocalLength',
+	'exif:SubjectArea',
+	'exif:FlashEnergy',
+	'exif:SpatialFrequencyResponse',
+	'exif:FocalPlaneXResolution',
+	'exif:FocalPlaneYResolution',
+	'exif:FocalPlaneResolutionUnit',
+	'exif:SubjectLocation',
+	'exif:SensingMethod',
+	'exif:FileSource',
+	'exif:SceneType',
+	'exif:CFAPattern',
+	'exif:CustomRendered',
+	'exif:ExposureMode',
+	'exif:WhiteBalance',
+	'exif:DigitalZoomRatio',
+	'exif:FocalLengthIn35mmFilm',
+	'exif:SceneCaptureType',
+	'exif:GainControl',
+	'exif:Contrast',
+	'exif:Saturation',
+	'exif:Sharpness',
+	'exif:DeviceSettingDescription',
+	'exif:SubjectDistanceRange',
+	'exif:ImageUniqueID',
+	'exif:GPSVersionID',
+	'exif:GPSLatitude',
+	'exif:GPSLongitude',
+	'exif:GPSAltitudeRef',
+	'exif:GPSAltitude',
+	'exif:GPSTimeStamp',
+	'exif:GPSSatellites',
+	'exif:GPSStatus',
+	'exif:GPSMeasureMode',
+	'exif:GPSDOP',
+	'exif:GPSSpeedRef',
+	'exif:GPSSpeed',
+	'exif:GPSTrackRef',
+	'exif:GPSTrack',
+	'exif:GPSImgDirectionRef',
+	'exif:GPSImgDirection',
+	'exif:GPSMapDatum',
+	'exif:GPSDestLatitude',
+	'exif:GPSDestLongitude',
+	'exif:GPSDestBearingRef',
+	'exif:GPSDestBearing',
+	'exif:GPSDestDistanceRef',
+	'exif:GPSDestDistance',
+	'exif:GPSProcessingMethod',
+	'exif:GPSAreaInformation',
+	'exif:GPSDifferential',
+	'stDim:w',
+	'stDim:h',
+	'stDim:unit',
+	'xapGImg:height',
+	'xapGImg:width',
+	'xapGImg:format',
+	'xapGImg:image',
+	'stEvt:action',
+	'stEvt:instanceID',
+	'stEvt:parameters',
+	'stEvt:softwareAgent',
+	'stEvt:when',
+	'stRef:instanceID',
+	'stRef:documentID',
+	'stRef:versionID',
+	'stRef:renditionClass',
+	'stRef:renditionParams',
+	'stRef:manager',
+	'stRef:managerVariant',
+	'stRef:manageTo',
+	'stRef:manageUI',
+	'stVer:comments',
+	'stVer:event',
+	'stVer:modifyDate',
+	'stVer:modifier',
+	'stVer:version',
+	'stJob:name',
+	'stJob:id',
+	'stJob:url',
+// Exif Flash
+	'exif:Fired',
+	'exif:Return',
+	'exif:Mode',
+	'exif:Function',
+	'exif:RedEyeMode',
+// Exif OECF/SFR
+	'exif:Columns',
+	'exif:Rows',
+	'exif:Names',
+	'exif:Values',
+// Exif CFAPattern
+	'exif:Columns',
+	'exif:Rows',
+	'exif:Values',
+// Exif DeviceSettings
+	'exif:Columns',
+	'exif:Rows',
+	'exif:Settings',
+);
+*/
+
+/**
+* Global Variable: JPEG_Segment_Names
+*
+* The names of the JPEG segment markers, indexed by their marker number
+*/
+$GLOBALS['JPEG_Segment_Names'] = array(
+	0x01 => 'TEM',
+	0x02 => 'RES',
+	0xC0 => 'SOF0',
+	0xC1 => 'SOF1',
+	0xC2 => 'SOF2',
+	0xC3 => 'SOF4',
+	0xC4 => 'DHT',
+	0xC5 => 'SOF5',
+	0xC6 => 'SOF6',
+	0xC7 => 'SOF7',
+	0xC8 => 'JPG',
+	0xC9 => 'SOF9',
+	0xCA => 'SOF10',
+	0xCB => 'SOF11',
+	0xCC => 'DAC',
+	0xCD => 'SOF13',
+	0xCE => 'SOF14',
+	0xCF => 'SOF15',
+	0xD0 => 'RST0',
+	0xD1 => 'RST1',
+	0xD2 => 'RST2',
+	0xD3 => 'RST3',
+	0xD4 => 'RST4',
+	0xD5 => 'RST5',
+	0xD6 => 'RST6',
+	0xD7 => 'RST7',
+	0xD8 => 'SOI',
+	0xD9 => 'EOI',
+	0xDA => 'SOS',
+	0xDB => 'DQT',
+	0xDC => 'DNL',
+	0xDD => 'DRI',
+	0xDE => 'DHP',
+	0xDF => 'EXP',
+	0xE0 => 'APP0',
+	0xE1 => 'APP1',
+	0xE2 => 'APP2',
+	0xE3 => 'APP3',
+	0xE4 => 'APP4',
+	0xE5 => 'APP5',
+	0xE6 => 'APP6',
+	0xE7 => 'APP7',
+	0xE8 => 'APP8',
+	0xE9 => 'APP9',
+	0xEA => 'APP10',
+	0xEB => 'APP11',
+	0xEC => 'APP12',
+	0xED => 'APP13',
+	0xEE => 'APP14',
+	0xEF => 'APP15',
+	0xF0 => 'JPG0',
+	0xF1 => 'JPG1',
+	0xF2 => 'JPG2',
+	0xF3 => 'JPG3',
+	0xF4 => 'JPG4',
+	0xF5 => 'JPG5',
+	0xF6 => 'JPG6',
+	0xF7 => 'JPG7',
+	0xF8 => 'JPG8',
+	0xF9 => 'JPG9',
+	0xFA => 'JPG10',
+	0xFB => 'JPG11',
+	0xFC => 'JPG12',
+	0xFD => 'JPG13',
+	0xFE => 'COM',
+);

@@ -1,42 +1,115 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-HR+cPzfiv+5siTlM6zromgz7OLWmfZICV2YUIzaLBTYIBbDCuxKRrypqg4VOBsQN4oALpnjBAO51
-mqKSz1ivzF05rIn18bAl2Aa2HMZJYvc2Ud9oQJ73quZNtybXjtEs2+Zyc7eUDOGftrlCzeJUoYzk
-Ee9fzMPQXq0qAsochGqrRYuqtBevpcGqOP3wrhUxZ09I9lH1vzhF7Wu0okigxDawf5SoJqgRfGwV
-z01hxRqrIJQUBh9JCWjDzGxgY3xE8ucSDt2PTbU0WB3Eoc4z/n+jlVwryWGqrGBHkHZ/k6743Rou
-U5msTvhnfED6XMdcmqo/mhaU3MNlqGG1a+YS+QKwSYieeAs0Am9D8Sm+LCXzT5OglzJiJeroVMpz
-i/bTejZNkIg+LNbwMZu4xrvyqIGTPL9gAZejYL23cErQSt1plQfRE2Ru6adJPXOJt/KnakL4ulXa
-04+AOTlt6Tit1WQK74vn45SxlULT5rFa3vRbM6UJS8bZ8JWfvUuWiu8qP0wnfEgt0uXLkX2OQuqN
-H3svCJLVlOE+C94G40lJAcXbvT5dh7mET6RkmcuoetvyKacqRM1zSMO7Zyvl7xmutJMyG/WPhDYJ
-SQcno5zDlEoHFrUUrqq16kzQ9KnySFzaytOTeeCWMV7wRrIKq6frx17+FcPsCnjFha3Xy+3t4Jkp
-V2oVzVqsmw1kxLcSy9Kb2bJh3x5he/O3K/NqtPsEV7Zo9qeEyaAYFTLfEPqAjcEYahnd08vK8hZH
-sYDs+slluC75UZ0XV+9BbrI2P17NbOuQvKHaTCMUw3WaMo42sPnGfMNYfWV5An9WrYpb1dCbDCZQ
-PfB4+xTo17T/GVzFTCiSZ3FsEtq1KsW2Srq5jPIEYBr8RQfzGF17Qo/Wq1WXDSlQaP2dQphrpkuZ
-WRd3QBPymFNjEjDD2CrZptxNwtjE+cFb4SbUd/BZr9wmJSbZFWOvmt4jwMuW5dSuEdbAGIbCjIDj
-aYxS06xEZ77W3vUpTHU6bEDiSXXBn5dwPmfJJtvV/QP9clpap1r2J2jYUNwERsBBYqBnurjwi/0e
-18XaYaCplRyMBftnuOXfICA4X3rY7ROrpqOn9O6K8hwko5hQT282bWc7YueuK/IOMM0Lijh+2b8M
-TMMi9ZthffjacFv60zFB70vik2VqluZg5l8jR3KIJQnuWzCYc+9MYWnlbTWQGPSYKhdAhPNlJIXF
-03ypqla9unkEdF3CirjrmhkpY9u3ySnytF7OZCbU2raDm8TkIB/kl8Y41mpegLH/fSpgVRd37XBq
-tz7ELJ46h7NrXlrqh/GhVxMyhVrmv3/ybmaP4wJVfbyTivhw/vO/oVkl/+67t9+l8i2sWOa1REN3
-OdJwScEw4oN11SSMJnwe9bxUvZMXMy2q6siI/jj8Q+i7Acg1J+noL0Jwb30vensAMqv9+V/wK5NF
-r8nXo7oUDhAUUenf7OuYoNaTz0kcoSx1A9K3HTyL5onW3egTLj25x4hyHuthljAjrcsDK/uj5leA
-rFzLXDq7jTV9u45pWO49QGTdnkosfSW+XBRM5SgFov43u0yHcCJijAQ4Bnq5q4IusdOF0rDQcRxN
-6nxwDAC/dEl6+Wp5IIlB/cGLZL/aQ7NWxy1nKCg1YG/cSsou9tPWxtgiKC9DUDZM1856bnZ2qfA2
-4R9hNnF8vq1vpHQFVhd5jea47h3xAOK4fx66Wem9dboxyM9sbPMbP4bZAUm1v0Vzk7aId2b+t4Sf
-7BlhwukizlrxEPVy6ApEAeFpYHqOCLJ5R5Fb1Rcl3ie9N9qDpJuCd7qPD00J5EUi2A9KTiN7ndbB
-fGsDyatauDRgiZw2ct7+gOpi24+CmjldZuBJOgpREyRveSjwwZRmiAggd29y+10Jxlfb/kI1/lk7
-ElTA4QjyTpHCaLjjJ5iPMSz5vwj0IXXnGjw+g6En5sXd3L07RYXRkDIGi64peG9ZvmIv7viTyQZ8
-k9a5x5XRnBZLoKr2PQf2cILfeaHY2jAs8ZqnTG28yAzP/r5mZe2J3C8PoH8besYErdRTTpRqkDAm
-/3HysGBOQraTJb7uV2AbZvnKFocGRLylOe4Wa0vacnL3Sbhrrn0oLvqrribAGOWfrWhiGXv9muxI
-E3HJdXklL7LRB7FLCOGMn7j+yssSTnE0lxgUKZbKNXU1Hw7SuIGRPcvz6aedHabvffNbel87T+1V
-6KIkrhZxavD5stvkkXMC+h80gqNKJM1mxoBFmMyRk+DvmFVB27Urrdt2mrjQaMWgwijVEFpLJT5K
-7CDuxMkhPfYJHOYCoLxVlUGrjljwnkCdOPobrZiSPT1KV5i0T2hDa0ACKbGDQD6is1TrmL5piOhw
-Sga3i0RrseSfLzJ9ruftYGwG3fuJzhgnLtM7EpfIcwQ3wGa1hHnSjAfZMW3avKILKFCoRL4BaUZ4
-8FP5vtS22ErQtHeBOpCIq5Y4+Cvlq6okqLxGNTd7jrEFVm0AkEf1tq3j4tpQs5FLgVvtZP09Xl5Y
-gjtaVnJ1mvNGuRNLvLDoRb3UmcdhkxWounir7zcCOtOBAaSv0wF37mbPRjCvAexw2092HfsetnlD
-h0JYi7+dA+bdNzt584xJEjlwjYbdsIbbkI+czhspvlLrJD1l4WT6jhjArUmpudNTLOGEbaG6O7ug
-8kd+1RVndOzIkSqClpq4ZpKG1tOGhZU6wG09w3aBevvM7dbJVfgNy/lcNfTYfF3o2vJRQx4duovC
-8crtccydwbf/aZ0DRx7pKPVphfOhocyNaMg1IL/rlb0NDYIatOvNbPq4MRwfgrWnRA0CO7R3/7Ej
-iqXXbhSmoMctNgujZl+9AMYixfGJ13AHL55JGoJ431nPvchJf/jYx8PDEPAMRAAq2C0FZF2Z7irM
-BFdjp5eT9OOOj/mRawwYdWJ/B3O3e2FNzdW=
+<?php
+
+/**
+ * Zend Framework
+ *
+ * LICENSE
+ *
+ * This source file is subject to the new BSD license that is bundled
+ * with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://framework.zend.com/license/new-bsd
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@zend.com so we can send you a copy immediately.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage App
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ * @version    $Id: Generator.php 16971 2009-07-22 18:05:45Z mikaelkael $
+ */
+
+/**
+ * @see Zend_Gdata_App_Extension
+ */
+require_once 'Zend/Gdata/App/Extension.php';
+
+/**
+ * Represents the atom:generator element
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage App
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+class Zend_Gdata_App_Extension_Generator extends Zend_Gdata_App_Extension
+{
+
+    protected $_rootElement = 'generator';
+    protected $_uri = null;
+    protected $_version = null;
+
+    public function __construct($text = null, $uri = null, $version = null)
+    {
+        parent::__construct();
+        $this->_text = $text;
+        $this->_uri = $uri;
+        $this->_version = $version;
+    }
+
+    public function getDOM($doc = null, $majorVersion = 1, $minorVersion = null)
+    {
+        $element = parent::getDOM($doc, $majorVersion, $minorVersion);
+        if ($this->_uri !== null) {
+            $element->setAttribute('uri', $this->_uri);
+        }
+        if ($this->_version !== null) {
+            $element->setAttribute('version', $this->_version);
+        }
+        return $element;
+    }
+
+    protected function takeAttributeFromDOM($attribute)
+    {
+        switch ($attribute->localName) {
+        case 'uri':
+            $this->_uri = $attribute->nodeValue;
+            break;
+        case 'version':
+            $this->_version= $attribute->nodeValue;
+            break;
+        default:
+            parent::takeAttributeFromDOM($attribute);
+        }
+    }
+
+    /**
+     * @return Zend_Gdata_App_Extension_Uri
+     */
+    public function getUri()
+    {
+        return $this->_uri;
+    }
+
+    /**
+     * @param Zend_Gdata_App_Extension_Uri $value
+     * @return Zend_Gdata_App_Entry Provides a fluent interface
+     */
+    public function setUri($value)
+    {
+        $this->_uri = $value;
+        return $this;
+    }
+
+    /**
+     * @return Zend_Gdata_App_Extension_Version
+     */
+    public function getVersion()
+    {
+        return $this->_version;
+    }
+
+    /**
+     * @param Zend_Gdata_App_Extension_Version $value
+     * @return Zend_Gdata_App_Entry Provides a fluent interface
+     */
+    public function setVersion($value)
+    {
+        $this->_version = $value;
+        return $this;
+    }
+
+}

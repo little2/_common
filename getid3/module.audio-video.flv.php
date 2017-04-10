@@ -1,382 +1,729 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
+<?php
+/////////////////////////////////////////////////////////////////
+/// getID3() by James Heinrich <info@getid3.org>               //
+//  available at http://getid3.sourceforge.net                 //
+//            or http://www.getid3.org                         //
+//                                                             //
+//  FLV module by Seth Kaufman <sethØwhirl-i-gig*com>          //
+//                                                             //
+//  * version 0.1 (26 June 2005)                               //
+//                                                             //
+//                                                             //
+//  * version 0.1.1 (15 July 2005)                             //
+//  minor modifications by James Heinrich <info@getid3.org>    //
+//                                                             //
+//  * version 0.2 (22 February 2006)                           //
+//  Support for On2 VP6 codec and meta information             //
+//    by Steve Webster <steve.websterØfeaturecreep*com>        //
+//                                                             //
+//  * version 0.3 (15 June 2006)                               //
+//  Modified to not read entire file into memory               //
+//    by James Heinrich <info@getid3.org>                      //
+//                                                             //
+//  * version 0.4 (07 December 2007)                           //
+//  Bugfixes for incorrectly parsed FLV dimensions             //
+//    and incorrect parsing of onMetaTag                       //
+//    by Evgeny Moysevich <moysevichØgmail*com>                //
+//                                                             //
+//  * version 0.5 (21 May 2009)                                //
+//  Fixed parsing of audio tags and added additional codec     //
+//    details. The duration is now read from onMetaTag (if     //
+//    exists), rather than parsing whole file                  //
+//    by Nigel Barnes <ngbarnesØhotmail*com>                   //
+//                                                             //
+//  * version 0.6 (24 May 2009)                                //
+//  Better parsing of files with h264 video                    //
+//    by Evgeny Moysevich <moysevichØgmail*com>                //
+//                                                             //
+//  * version 0.6.1 (30 May 2011)                              //
+//    prevent infinite loops in expGolombUe()                  //
+//                                                             //
+/////////////////////////////////////////////////////////////////
+//                                                             //
+// module.audio-video.flv.php                                  //
+// module for analyzing Shockwave Flash Video files            //
+// dependencies: NONE                                          //
+//                                                            ///
+/////////////////////////////////////////////////////////////////
+
+define('GETID3_FLV_TAG_AUDIO',          8);
+define('GETID3_FLV_TAG_VIDEO',          9);
+define('GETID3_FLV_TAG_META',          18);
+
+define('GETID3_FLV_VIDEO_H263',         2);
+define('GETID3_FLV_VIDEO_SCREEN',       3);
+define('GETID3_FLV_VIDEO_VP6FLV',       4);
+define('GETID3_FLV_VIDEO_VP6FLV_ALPHA', 5);
+define('GETID3_FLV_VIDEO_SCREENV2',     6);
+define('GETID3_FLV_VIDEO_H264',         7);
+
+define('H264_AVC_SEQUENCE_HEADER',          0);
+define('H264_PROFILE_BASELINE',            66);
+define('H264_PROFILE_MAIN',                77);
+define('H264_PROFILE_EXTENDED',            88);
+define('H264_PROFILE_HIGH',               100);
+define('H264_PROFILE_HIGH10',             110);
+define('H264_PROFILE_HIGH422',            122);
+define('H264_PROFILE_HIGH444',            144);
+define('H264_PROFILE_HIGH444_PREDICTIVE', 244);
+
+class getid3_flv extends getid3_handler
+{
+	public $max_frames = 100000; // break out of the loop if too many frames have been scanned; only scan this many if meta frame does not contain useful duration
+
+	public function Analyze() {
+		$info = &$this->getid3->info;
+
+		fseek($this->getid3->fp, $info['avdataoffset'], SEEK_SET);
+
+		$FLVdataLength = $info['avdataend'] - $info['avdataoffset'];
+		$FLVheader = fread($this->getid3->fp, 5);
+
+		$info['fileformat'] = 'flv';
+		$info['flv']['header']['signature'] =                           substr($FLVheader, 0, 3);
+		$info['flv']['header']['version']   = getid3_lib::BigEndian2Int(substr($FLVheader, 3, 1));
+		$TypeFlags                          = getid3_lib::BigEndian2Int(substr($FLVheader, 4, 1));
+
+		$magic = 'FLV';
+		if ($info['flv']['header']['signature'] != $magic) {
+			$info['error'][] = 'Expecting "'.getid3_lib::PrintHexBytes($magic).'" at offset '.$info['avdataoffset'].', found "'.getid3_lib::PrintHexBytes($info['flv']['header']['signature']).'"';
+			unset($info['flv']);
+			unset($info['fileformat']);
+			return false;
+		}
+
+		$info['flv']['header']['hasAudio'] = (bool) ($TypeFlags & 0x04);
+		$info['flv']['header']['hasVideo'] = (bool) ($TypeFlags & 0x01);
+
+		$FrameSizeDataLength = getid3_lib::BigEndian2Int(fread($this->getid3->fp, 4));
+		$FLVheaderFrameLength = 9;
+		if ($FrameSizeDataLength > $FLVheaderFrameLength) {
+			fseek($this->getid3->fp, $FrameSizeDataLength - $FLVheaderFrameLength, SEEK_CUR);
+		}
+		$Duration = 0;
+		$found_video = false;
+		$found_audio = false;
+		$found_meta  = false;
+		$found_valid_meta_playtime = false;
+		$tagParseCount = 0;
+		$info['flv']['framecount'] = array('total'=>0, 'audio'=>0, 'video'=>0);
+		$flv_framecount = &$info['flv']['framecount'];
+		while (((ftell($this->getid3->fp) + 16) < $info['avdataend']) && (($tagParseCount++ <= $this->max_frames) || !$found_valid_meta_playtime))  {
+			$ThisTagHeader = fread($this->getid3->fp, 16);
+
+			$PreviousTagLength = getid3_lib::BigEndian2Int(substr($ThisTagHeader,  0, 4));
+			$TagType           = getid3_lib::BigEndian2Int(substr($ThisTagHeader,  4, 1));
+			$DataLength        = getid3_lib::BigEndian2Int(substr($ThisTagHeader,  5, 3));
+			$Timestamp         = getid3_lib::BigEndian2Int(substr($ThisTagHeader,  8, 3));
+			$LastHeaderByte    = getid3_lib::BigEndian2Int(substr($ThisTagHeader, 15, 1));
+			$NextOffset = ftell($this->getid3->fp) - 1 + $DataLength;
+			if ($Timestamp > $Duration) {
+				$Duration = $Timestamp;
+			}
+
+			$flv_framecount['total']++;
+			switch ($TagType) {
+				case GETID3_FLV_TAG_AUDIO:
+					$flv_framecount['audio']++;
+					if (!$found_audio) {
+						$found_audio = true;
+						$info['flv']['audio']['audioFormat']     = ($LastHeaderByte >> 4) & 0x0F;
+						$info['flv']['audio']['audioRate']       = ($LastHeaderByte >> 2) & 0x03;
+						$info['flv']['audio']['audioSampleSize'] = ($LastHeaderByte >> 1) & 0x01;
+						$info['flv']['audio']['audioType']       =  $LastHeaderByte       & 0x01;
+					}
+					break;
+
+				case GETID3_FLV_TAG_VIDEO:
+					$flv_framecount['video']++;
+					if (!$found_video) {
+						$found_video = true;
+						$info['flv']['video']['videoCodec'] = $LastHeaderByte & 0x07;
+
+						$FLVvideoHeader = fread($this->getid3->fp, 11);
+
+						if ($info['flv']['video']['videoCodec'] == GETID3_FLV_VIDEO_H264) {
+							// this code block contributed by: moysevichØgmail*com
+
+							$AVCPacketType = getid3_lib::BigEndian2Int(substr($FLVvideoHeader, 0, 1));
+							if ($AVCPacketType == H264_AVC_SEQUENCE_HEADER) {
+								//	read AVCDecoderConfigurationRecord
+								$configurationVersion       = getid3_lib::BigEndian2Int(substr($FLVvideoHeader,  4, 1));
+								$AVCProfileIndication       = getid3_lib::BigEndian2Int(substr($FLVvideoHeader,  5, 1));
+								$profile_compatibility      = getid3_lib::BigEndian2Int(substr($FLVvideoHeader,  6, 1));
+								$lengthSizeMinusOne         = getid3_lib::BigEndian2Int(substr($FLVvideoHeader,  7, 1));
+								$numOfSequenceParameterSets = getid3_lib::BigEndian2Int(substr($FLVvideoHeader,  8, 1));
+
+								if (($numOfSequenceParameterSets & 0x1F) != 0) {
+									//	there is at least one SequenceParameterSet
+									//	read size of the first SequenceParameterSet
+									//$spsSize = getid3_lib::BigEndian2Int(substr($FLVvideoHeader, 9, 2));
+									$spsSize = getid3_lib::LittleEndian2Int(substr($FLVvideoHeader, 9, 2));
+									//	read the first SequenceParameterSet
+									$sps = fread($this->getid3->fp, $spsSize);
+									if (strlen($sps) == $spsSize) {	//	make sure that whole SequenceParameterSet was red
+										$spsReader = new AVCSequenceParameterSetReader($sps);
+										$spsReader->readData();
+										$info['video']['resolution_x'] = $spsReader->getWidth();
+										$info['video']['resolution_y'] = $spsReader->getHeight();
+									}
+								}
+							}
+							// end: moysevichØgmail*com
+
+						} elseif ($info['flv']['video']['videoCodec'] == GETID3_FLV_VIDEO_H263) {
+
+							$PictureSizeType = (getid3_lib::BigEndian2Int(substr($FLVvideoHeader, 3, 2))) >> 7;
+							$PictureSizeType = $PictureSizeType & 0x0007;
+							$info['flv']['header']['videoSizeType'] = $PictureSizeType;
+							switch ($PictureSizeType) {
+								case 0:
+									//$PictureSizeEnc = getid3_lib::BigEndian2Int(substr($FLVvideoHeader, 5, 2));
+									//$PictureSizeEnc <<= 1;
+									//$info['video']['resolution_x'] = ($PictureSizeEnc & 0xFF00) >> 8;
+									//$PictureSizeEnc = getid3_lib::BigEndian2Int(substr($FLVvideoHeader, 6, 2));
+									//$PictureSizeEnc <<= 1;
+									//$info['video']['resolution_y'] = ($PictureSizeEnc & 0xFF00) >> 8;
+
+									$PictureSizeEnc['x'] = getid3_lib::BigEndian2Int(substr($FLVvideoHeader, 4, 2));
+									$PictureSizeEnc['y'] = getid3_lib::BigEndian2Int(substr($FLVvideoHeader, 5, 2));
+									$PictureSizeEnc['x'] >>= 7;
+									$PictureSizeEnc['y'] >>= 7;
+									$info['video']['resolution_x'] = $PictureSizeEnc['x'] & 0xFF;
+									$info['video']['resolution_y'] = $PictureSizeEnc['y'] & 0xFF;
+									break;
+
+								case 1:
+									$PictureSizeEnc['x'] = getid3_lib::BigEndian2Int(substr($FLVvideoHeader, 4, 3));
+									$PictureSizeEnc['y'] = getid3_lib::BigEndian2Int(substr($FLVvideoHeader, 6, 3));
+									$PictureSizeEnc['x'] >>= 7;
+									$PictureSizeEnc['y'] >>= 7;
+									$info['video']['resolution_x'] = $PictureSizeEnc['x'] & 0xFFFF;
+									$info['video']['resolution_y'] = $PictureSizeEnc['y'] & 0xFFFF;
+									break;
+
+								case 2:
+									$info['video']['resolution_x'] = 352;
+									$info['video']['resolution_y'] = 288;
+									break;
+
+								case 3:
+									$info['video']['resolution_x'] = 176;
+									$info['video']['resolution_y'] = 144;
+									break;
+
+								case 4:
+									$info['video']['resolution_x'] = 128;
+									$info['video']['resolution_y'] = 96;
+									break;
+
+								case 5:
+									$info['video']['resolution_x'] = 320;
+									$info['video']['resolution_y'] = 240;
+									break;
+
+								case 6:
+									$info['video']['resolution_x'] = 160;
+									$info['video']['resolution_y'] = 120;
+									break;
+
+								default:
+									$info['video']['resolution_x'] = 0;
+									$info['video']['resolution_y'] = 0;
+									break;
+
+							}
+						}
+						$info['video']['pixel_aspect_ratio'] = $info['video']['resolution_x'] / $info['video']['resolution_y'];
+					}
+					break;
+
+				// Meta tag
+				case GETID3_FLV_TAG_META:
+					if (!$found_meta) {
+						$found_meta = true;
+						fseek($this->getid3->fp, -1, SEEK_CUR);
+						$datachunk = fread($this->getid3->fp, $DataLength);
+						$AMFstream = new AMFStream($datachunk);
+						$reader = new AMFReader($AMFstream);
+						$eventName = $reader->readData();
+						$info['flv']['meta'][$eventName] = $reader->readData();
+						unset($reader);
+
+						$copykeys = array('framerate'=>'frame_rate', 'width'=>'resolution_x', 'height'=>'resolution_y', 'audiodatarate'=>'bitrate', 'videodatarate'=>'bitrate');
+						foreach ($copykeys as $sourcekey => $destkey) {
+							if (isset($info['flv']['meta']['onMetaData'][$sourcekey])) {
+								switch ($sourcekey) {
+									case 'width':
+									case 'height':
+										$info['video'][$destkey] = intval(round($info['flv']['meta']['onMetaData'][$sourcekey]));
+										break;
+									case 'audiodatarate':
+										$info['audio'][$destkey] = getid3_lib::CastAsInt(round($info['flv']['meta']['onMetaData'][$sourcekey] * 1000));
+										break;
+									case 'videodatarate':
+									case 'frame_rate':
+									default:
+										$info['video'][$destkey] = $info['flv']['meta']['onMetaData'][$sourcekey];
+										break;
+								}
+							}
+						}
+						if (!empty($info['flv']['meta']['onMetaData']['duration'])) {
+							$found_valid_meta_playtime = true;
+						}
+					}
+					break;
+
+				default:
+					// noop
+					break;
+			}
+			fseek($this->getid3->fp, $NextOffset, SEEK_SET);
+		}
+
+		$info['playtime_seconds'] = $Duration / 1000;
+		if ($info['playtime_seconds'] > 0) {
+			$info['bitrate'] = (($info['avdataend'] - $info['avdataoffset']) * 8) / $info['playtime_seconds'];
+		}
+
+		if ($info['flv']['header']['hasAudio']) {
+			$info['audio']['codec']           =   $this->FLVaudioFormat($info['flv']['audio']['audioFormat']);
+			$info['audio']['sample_rate']     =     $this->FLVaudioRate($info['flv']['audio']['audioRate']);
+			$info['audio']['bits_per_sample'] = $this->FLVaudioBitDepth($info['flv']['audio']['audioSampleSize']);
+
+			$info['audio']['channels']   =  $info['flv']['audio']['audioType'] + 1; // 0=mono,1=stereo
+			$info['audio']['lossless']   = ($info['flv']['audio']['audioFormat'] ? false : true); // 0=uncompressed
+			$info['audio']['dataformat'] = 'flv';
+		}
+		if (!empty($info['flv']['header']['hasVideo'])) {
+			$info['video']['codec']      = $this->FLVvideoCodec($info['flv']['video']['videoCodec']);
+			$info['video']['dataformat'] = 'flv';
+			$info['video']['lossless']   = false;
+		}
+
+		// Set information from meta
+		if (!empty($info['flv']['meta']['onMetaData']['duration'])) {
+			$info['playtime_seconds'] = $info['flv']['meta']['onMetaData']['duration'];
+			$info['bitrate'] = (($info['avdataend'] - $info['avdataoffset']) * 8) / $info['playtime_seconds'];
+		}
+		if (isset($info['flv']['meta']['onMetaData']['audiocodecid'])) {
+			$info['audio']['codec'] = $this->FLVaudioFormat($info['flv']['meta']['onMetaData']['audiocodecid']);
+		}
+		if (isset($info['flv']['meta']['onMetaData']['videocodecid'])) {
+			$info['video']['codec'] = $this->FLVvideoCodec($info['flv']['meta']['onMetaData']['videocodecid']);
+		}
+		return true;
+	}
+
+
+	public function FLVaudioFormat($id) {
+		$FLVaudioFormat = array(
+			0  => 'Linear PCM, platform endian',
+			1  => 'ADPCM',
+			2  => 'mp3',
+			3  => 'Linear PCM, little endian',
+			4  => 'Nellymoser 16kHz mono',
+			5  => 'Nellymoser 8kHz mono',
+			6  => 'Nellymoser',
+			7  => 'G.711A-law logarithmic PCM',
+			8  => 'G.711 mu-law logarithmic PCM',
+			9  => 'reserved',
+			10 => 'AAC',
+			11 => false, // unknown?
+			12 => false, // unknown?
+			13 => false, // unknown?
+			14 => 'mp3 8kHz',
+			15 => 'Device-specific sound',
+		);
+		return (isset($FLVaudioFormat[$id]) ? $FLVaudioFormat[$id] : false);
+	}
+
+	public function FLVaudioRate($id) {
+		$FLVaudioRate = array(
+			0 =>  5500,
+			1 => 11025,
+			2 => 22050,
+			3 => 44100,
+		);
+		return (isset($FLVaudioRate[$id]) ? $FLVaudioRate[$id] : false);
+	}
+
+	public function FLVaudioBitDepth($id) {
+		$FLVaudioBitDepth = array(
+			0 =>  8,
+			1 => 16,
+		);
+		return (isset($FLVaudioBitDepth[$id]) ? $FLVaudioBitDepth[$id] : false);
+	}
+
+	public function FLVvideoCodec($id) {
+		$FLVvideoCodec = array(
+			GETID3_FLV_VIDEO_H263         => 'Sorenson H.263',
+			GETID3_FLV_VIDEO_SCREEN       => 'Screen video',
+			GETID3_FLV_VIDEO_VP6FLV       => 'On2 VP6',
+			GETID3_FLV_VIDEO_VP6FLV_ALPHA => 'On2 VP6 with alpha channel',
+			GETID3_FLV_VIDEO_SCREENV2     => 'Screen video v2',
+			GETID3_FLV_VIDEO_H264         => 'Sorenson H.264',
+		);
+		return (isset($FLVvideoCodec[$id]) ? $FLVvideoCodec[$id] : false);
+	}
+}
+
+class AMFStream {
+	public $bytes;
+	public $pos;
+
+	public function AMFStream(&$bytes) {
+		$this->bytes =& $bytes;
+		$this->pos = 0;
+	}
+
+	public function readByte() {
+		return getid3_lib::BigEndian2Int(substr($this->bytes, $this->pos++, 1));
+	}
+
+	public function readInt() {
+		return ($this->readByte() << 8) + $this->readByte();
+	}
+
+	public function readLong() {
+		return ($this->readByte() << 24) + ($this->readByte() << 16) + ($this->readByte() << 8) + $this->readByte();
+	}
+
+	public function readDouble() {
+		return getid3_lib::BigEndian2Float($this->read(8));
+	}
+
+	public function readUTF() {
+		$length = $this->readInt();
+		return $this->read($length);
+	}
+
+	public function readLongUTF() {
+		$length = $this->readLong();
+		return $this->read($length);
+	}
+
+	public function read($length) {
+		$val = substr($this->bytes, $this->pos, $length);
+		$this->pos += $length;
+		return $val;
+	}
+
+	public function peekByte() {
+		$pos = $this->pos;
+		$val = $this->readByte();
+		$this->pos = $pos;
+		return $val;
+	}
+
+	public function peekInt() {
+		$pos = $this->pos;
+		$val = $this->readInt();
+		$this->pos = $pos;
+		return $val;
+	}
+
+	public function peekLong() {
+		$pos = $this->pos;
+		$val = $this->readLong();
+		$this->pos = $pos;
+		return $val;
+	}
+
+	public function peekDouble() {
+		$pos = $this->pos;
+		$val = $this->readDouble();
+		$this->pos = $pos;
+		return $val;
+	}
+
+	public function peekUTF() {
+		$pos = $this->pos;
+		$val = $this->readUTF();
+		$this->pos = $pos;
+		return $val;
+	}
+
+	public function peekLongUTF() {
+		$pos = $this->pos;
+		$val = $this->readLongUTF();
+		$this->pos = $pos;
+		return $val;
+	}
+}
+
+class AMFReader {
+	public $stream;
+
+	public function AMFReader(&$stream) {
+		$this->stream =& $stream;
+	}
+
+	public function readData() {
+		$value = null;
+
+		$type = $this->stream->readByte();
+		switch ($type) {
+
+			// Double
+			case 0:
+				$value = $this->readDouble();
+			break;
+
+			// Boolean
+			case 1:
+				$value = $this->readBoolean();
+				break;
+
+			// String
+			case 2:
+				$value = $this->readString();
+				break;
+
+			// Object
+			case 3:
+				$value = $this->readObject();
+				break;
+
+			// null
+			case 6:
+				return null;
+				break;
+
+			// Mixed array
+			case 8:
+				$value = $this->readMixedArray();
+				break;
+
+			// Array
+			case 10:
+				$value = $this->readArray();
+				break;
+
+			// Date
+			case 11:
+				$value = $this->readDate();
+				break;
+
+			// Long string
+			case 13:
+				$value = $this->readLongString();
+				break;
+
+			// XML (handled as string)
+			case 15:
+				$value = $this->readXML();
+				break;
+
+			// Typed object (handled as object)
+			case 16:
+				$value = $this->readTypedObject();
+				break;
+
+			// Long string
+			default:
+				$value = '(unknown or unsupported data type)';
+			break;
+		}
+
+		return $value;
+	}
+
+	public function readDouble() {
+		return $this->stream->readDouble();
+	}
+
+	public function readBoolean() {
+		return $this->stream->readByte() == 1;
+	}
+
+	public function readString() {
+		return $this->stream->readUTF();
+	}
+
+	public function readObject() {
+		// Get highest numerical index - ignored
+//		$highestIndex = $this->stream->readLong();
+
+		$data = array();
+
+		while ($key = $this->stream->readUTF()) {
+			$data[$key] = $this->readData();
+		}
+		// Mixed array record ends with empty string (0x00 0x00) and 0x09
+		if (($key == '') && ($this->stream->peekByte() == 0x09)) {
+			// Consume byte
+			$this->stream->readByte();
+		}
+		return $data;
+	}
+
+	public function readMixedArray() {
+		// Get highest numerical index - ignored
+		$highestIndex = $this->stream->readLong();
+
+		$data = array();
+
+		while ($key = $this->stream->readUTF()) {
+			if (is_numeric($key)) {
+				$key = (float) $key;
+			}
+			$data[$key] = $this->readData();
+		}
+		// Mixed array record ends with empty string (0x00 0x00) and 0x09
+		if (($key == '') && ($this->stream->peekByte() == 0x09)) {
+			// Consume byte
+			$this->stream->readByte();
+		}
+
+		return $data;
+	}
+
+	public function readArray() {
+		$length = $this->stream->readLong();
+		$data = array();
+
+		for ($i = 0; $i < $length; $i++) {
+			$data[] = $this->readData();
+		}
+		return $data;
+	}
+
+	public function readDate() {
+		$timestamp = $this->stream->readDouble();
+		$timezone = $this->stream->readInt();
+		return $timestamp;
+	}
+
+	public function readLongString() {
+		return $this->stream->readLongUTF();
+	}
+
+	public function readXML() {
+		return $this->stream->readLongUTF();
+	}
+
+	public function readTypedObject() {
+		$className = $this->stream->readUTF();
+		return $this->readObject();
+	}
+}
+
+class AVCSequenceParameterSetReader {
+	public $sps;
+	public $start = 0;
+	public $currentBytes = 0;
+	public $currentBits = 0;
+	public $width;
+	public $height;
+
+	public function AVCSequenceParameterSetReader($sps) {
+		$this->sps = $sps;
+	}
+
+	public function readData() {
+		$this->skipBits(8);
+		$this->skipBits(8);
+		$profile = $this->getBits(8);	//	read profile
+		$this->skipBits(16);
+		$this->expGolombUe();	//	read sps id
+		if (in_array($profile, array(H264_PROFILE_HIGH, H264_PROFILE_HIGH10, H264_PROFILE_HIGH422, H264_PROFILE_HIGH444, H264_PROFILE_HIGH444_PREDICTIVE))) {
+			if ($this->expGolombUe() == 3) {
+				$this->skipBits(1);
+			}
+			$this->expGolombUe();
+			$this->expGolombUe();
+			$this->skipBits(1);
+			if ($this->getBit()) {
+				for ($i = 0; $i < 8; $i++) {
+					if ($this->getBit()) {
+						$size = $i < 6 ? 16 : 64;
+						$lastScale = 8;
+						$nextScale = 8;
+						for ($j = 0; $j < $size; $j++) {
+							if ($nextScale != 0) {
+								$deltaScale = $this->expGolombUe();
+								$nextScale = ($lastScale + $deltaScale + 256) % 256;
+							}
+							if ($nextScale != 0) {
+								$lastScale = $nextScale;
+							}
+						}
+					}
+				}
+			}
+		}
+		$this->expGolombUe();
+		$pocType = $this->expGolombUe();
+		if ($pocType == 0) {
+			$this->expGolombUe();
+		} elseif ($pocType == 1) {
+			$this->skipBits(1);
+			$this->expGolombSe();
+			$this->expGolombSe();
+			$pocCycleLength = $this->expGolombUe();
+			for ($i = 0; $i < $pocCycleLength; $i++) {
+				$this->expGolombSe();
+			}
+		}
+		$this->expGolombUe();
+		$this->skipBits(1);
+		$this->width = ($this->expGolombUe() + 1) * 16;
+		$heightMap = $this->expGolombUe() + 1;
+		$this->height = (2 - $this->getBit()) * $heightMap * 16;
+	}
+
+	public function skipBits($bits) {
+		$newBits = $this->currentBits + $bits;
+		$this->currentBytes += (int)floor($newBits / 8);
+		$this->currentBits = $newBits % 8;
+	}
+
+	public function getBit() {
+		$result = (getid3_lib::BigEndian2Int(substr($this->sps, $this->currentBytes, 1)) >> (7 - $this->currentBits)) & 0x01;
+		$this->skipBits(1);
+		return $result;
+	}
+
+	public function getBits($bits) {
+		$result = 0;
+		for ($i = 0; $i < $bits; $i++) {
+			$result = ($result << 1) + $this->getBit();
+		}
+		return $result;
+	}
+
+	public function expGolombUe() {
+		$significantBits = 0;
+		$bit = $this->getBit();
+		while ($bit == 0) {
+			$significantBits++;
+			$bit = $this->getBit();
+
+			if ($significantBits > 31) {
+				// something is broken, this is an emergency escape to prevent infinite loops
+				return 0;
+			}
+		}
+		return (1 << $significantBits) + $this->getBits($significantBits) - 1;
+	}
+
+	public function expGolombSe() {
+		$result = $this->expGolombUe();
+		if (($result & 0x01) == 0) {
+			return -($result >> 1);
+		} else {
+			return ($result + 1) >> 1;
+		}
+	}
+
+	public function getWidth() {
+		return $this->width;
+	}
+
+	public function getHeight() {
+		return $this->height;
+	}
+}

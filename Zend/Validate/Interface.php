@@ -1,14 +1,71 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-HR+cPmCwG4aa4hbk9O3LQgNcTwETfB4GvbzOPf6ixPnL72V1M8IzrGGNJuefHVh8rACIMskoQh6R
-f0M/4ATCT+/nAGyUhpyuSXDsWDye72IRwzyh3ZbGE7YhR/FGnaPpiCHyoQ7ggLTxgNqThXP47YLH
-h6zciSnH2E9ocvwB3pEAIpO8Bkzq7Cg186CrIgKsYmuCVjcUIjCuvF9HDziLpAZZaX5h0+KK+qnX
-hicpvAb8cWOK2hmlhrwnweW+pYE9d3TmcNPNW82mpf5SgOa/2PKw0WVrLHKhhC9e/u1LXbhRYzJW
-W1u3rj1B9YCs+NnrhaNiSujOtWLwzHOZmDsr7YsP+293LBqvDx/YuBH1IvZtDG7AI3cle3rGWgNn
-oaeOYxlSFKbHa5JiLZh5iifAYmJep1t6bJyC84I2AfN7MaLmo8vw89RElH1i1Ku5MPgZq99W+XPz
-0+zncUIQG9lHFrUpc10D3hxgGVYdJL8bvH7dRU1vBFieOx9kBBlu18NRURr4mBZXlMQI+cj2+mwh
-W00IPvQYUFp395eD+OuCNJNzILVLJeJfzswwwAUPozvCdeOgCTc7tujZtr2cg9Pk5S5Ht0FzINsj
-4Vr7qyr+PILohRhNus6UKt2+MMc7bpSI4R3a8MzHHoOZ9ILVOlmOrR4wi8E7PbkJZnWOADZpczhT
-Hmoe/1yROMtZzuMj//gURw5wjyS2pnMfs23Blf2wAYHXDOEUGfaqvd5UPuYgfyCm/1hbrJ8cNPzG
-xnPax8BNShzQqM4Fm/z4rU9AjW6iei73qguFDwgP0GVSfrkQwUH0T5hChL38scW=
+<?php
+
+/**
+ * Zend Framework
+ *
+ * LICENSE
+ *
+ * This source file is subject to the new BSD license that is bundled
+ * with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://framework.zend.com/license/new-bsd
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@zend.com so we can send you a copy immediately.
+ *
+ * @category   Zend
+ * @package    Zend_Validate
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ * @version    $Id: Interface.php 16223 2009-06-21 20:04:53Z thomas $
+ */
+
+
+/**
+ * @category   Zend
+ * @package    Zend_Validate
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+interface Zend_Validate_Interface
+{
+    /**
+     * Returns true if and only if $value meets the validation requirements
+     *
+     * If $value fails validation, then this method returns false, and
+     * getMessages() will return an array of messages that explain why the
+     * validation failed.
+     *
+     * @param  mixed $value
+     * @return boolean
+     * @throws Zend_Valid_Exception If validation of $value is impossible
+     */
+    public function isValid($value);
+
+    /**
+     * Returns an array of messages that explain why the most recent isValid()
+     * call returned false. The array keys are validation failure message identifiers,
+     * and the array values are the corresponding human-readable message strings.
+     *
+     * If isValid() was never called or if the most recent isValid() call
+     * returned true, then this method returns an empty array.
+     *
+     * @return array
+     */
+    public function getMessages();
+
+    /**
+     * Returns an array of message codes that explain why a previous isValid() call
+     * returned false.
+     *
+     * If isValid() was never called or if the most recent isValid() call
+     * returned true, then this method returns an empty array.
+     *
+     * This is now the same as calling array_keys() on the return value from getMessages().
+     *
+     * @return array
+     * @deprecated Since 1.5.0
+     */
+    public function getErrors();
+
+}

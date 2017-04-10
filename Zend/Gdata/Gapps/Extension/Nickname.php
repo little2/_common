@@ -1,38 +1,142 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
-8WD3hbPNW1K=
+<?php
+
+/**
+ * Zend Framework
+ *
+ * LICENSE
+ *
+ * This source file is subject to the new BSD license that is bundled
+ * with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://framework.zend.com/license/new-bsd
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@zend.com so we can send you a copy immediately.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Gapps
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ * @version    $Id: Nickname.php 16971 2009-07-22 18:05:45Z mikaelkael $
+ */
+
+/**
+ * @see Zend_Gdata_Extension
+ */
+require_once 'Zend/Gdata/Extension.php';
+
+/**
+ * @see Zend_Gdata_Gapps
+ */
+require_once 'Zend/Gdata/Gapps.php';
+
+/**
+ * Represents the apps:nickname element used by the Apps data API. This
+ * is used to describe a nickname's properties, and is usually contained
+ * within instances of Zend_Gdata_Gapps_NicknameEntry.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Gapps
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+class Zend_Gdata_Gapps_Extension_Nickname extends Zend_Gdata_Extension
+{
+
+    protected $_rootNamespace = 'apps';
+    protected $_rootElement = 'nickname';
+
+    /**
+     * The name of the nickname. This name is used as the email address
+     * for this nickname.
+     *
+     * @var string
+     */
+    protected $_name = null;
+
+    /**
+     * Constructs a new Zend_Gdata_Gapps_Extension_Nickname object.
+     * @param string $name (optional) The nickname being represented.
+     */
+    public function __construct($name = null)
+    {
+        $this->registerAllNamespaces(Zend_Gdata_Gapps::$namespaces);
+        parent::__construct();
+        $this->_name = $name;
+    }
+
+    /**
+     * Retrieves a DOMElement which corresponds to this element and all
+     * child properties.  This is used to build an entry back into a DOM
+     * and eventually XML text for sending to the server upon updates, or
+     * for application storage/persistence.
+     *
+     * @param DOMDocument $doc The DOMDocument used to construct DOMElements
+     * @return DOMElement The DOMElement representing this element and all
+     * child properties.
+     */
+    public function getDOM($doc = null, $majorVersion = 1, $minorVersion = null)
+    {
+        $element = parent::getDOM($doc, $majorVersion, $minorVersion);
+        if ($this->_name !== null) {
+            $element->setAttribute('name', $this->_name);
+        }
+        return $element;
+    }
+
+    /**
+     * Given a DOMNode representing an attribute, tries to map the data into
+     * instance members.  If no mapping is defined, the name and value are
+     * stored in an array.
+     *
+     * @param DOMNode $attribute The DOMNode attribute needed to be handled
+     */
+    protected function takeAttributeFromDOM($attribute)
+    {
+        switch ($attribute->localName) {
+        case 'name':
+            $this->_name = $attribute->nodeValue;
+            break;
+        default:
+            parent::takeAttributeFromDOM($attribute);
+        }
+    }
+
+    /**
+     * Get the value for this element's name attribute.
+     *
+     * @see setName
+     * @return string The requested attribute.
+     */
+    public function getName()
+    {
+        return $this->_name;
+    }
+
+    /**
+     * Set the value for this element's name attribute. This name uniquely
+     * describes this nickname within the domain. Emails addressed to this
+     * name will be delivered to the user who owns this nickname.
+     *
+     * @param string $value The desired value for this attribute.
+     * @return Zend_Gdata_Gapps_Extension_Nickname Provides a fluent
+     *          interface.
+     */
+    public function setName($value)
+    {
+        $this->_name = $value;
+        return $this;
+    }
+
+    /**
+     * Magic toString method allows using this directly via echo
+     * Works best in PHP >= 4.2.0
+     */
+    public function __toString()
+    {
+        return $this->getName();
+    }
+
+}

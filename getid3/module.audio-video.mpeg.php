@@ -1,230 +1,296 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
+<?php
+/////////////////////////////////////////////////////////////////
+/// getID3() by James Heinrich <info@getid3.org>               //
+//  available at http://getid3.sourceforge.net                 //
+//            or http://www.getid3.org                         //
+/////////////////////////////////////////////////////////////////
+// See readme.txt for more details                             //
+/////////////////////////////////////////////////////////////////
+//                                                             //
+// module.audio-video.mpeg.php                                 //
+// module for analyzing MPEG files                             //
+// dependencies: module.audio.mp3.php                          //
+//                                                            ///
+/////////////////////////////////////////////////////////////////
+
+getid3_lib::IncludeDependency(GETID3_INCLUDEPATH.'module.audio.mp3.php', __FILE__, true);
+
+define('GETID3_MPEG_VIDEO_PICTURE_START',   "\x00\x00\x01\x00");
+define('GETID3_MPEG_VIDEO_USER_DATA_START', "\x00\x00\x01\xB2");
+define('GETID3_MPEG_VIDEO_SEQUENCE_HEADER', "\x00\x00\x01\xB3");
+define('GETID3_MPEG_VIDEO_SEQUENCE_ERROR',  "\x00\x00\x01\xB4");
+define('GETID3_MPEG_VIDEO_EXTENSION_START', "\x00\x00\x01\xB5");
+define('GETID3_MPEG_VIDEO_SEQUENCE_END',    "\x00\x00\x01\xB7");
+define('GETID3_MPEG_VIDEO_GROUP_START',     "\x00\x00\x01\xB8");
+define('GETID3_MPEG_AUDIO_START',           "\x00\x00\x01\xC0");
+
+
+class getid3_mpeg extends getid3_handler
+{
+
+	public function Analyze() {
+		$info = &$this->getid3->info;
+
+		if ($info['avdataend'] <= $info['avdataoffset']) {
+			$info['error'][] = '"avdataend" ('.$info['avdataend'].') is unexpectedly less-than-or-equal-to "avdataoffset" ('.$info['avdataoffset'].')';
+			return false;
+		}
+		$info['fileformat'] = 'mpeg';
+		fseek($this->getid3->fp, $info['avdataoffset'], SEEK_SET);
+		$MPEGstreamData       = fread($this->getid3->fp, min(100000, $info['avdataend'] - $info['avdataoffset']));
+		$MPEGstreamDataLength = strlen($MPEGstreamData);
+
+		$foundVideo = true;
+		$VideoChunkOffset = 0;
+		while (substr($MPEGstreamData, $VideoChunkOffset++, 4) !== GETID3_MPEG_VIDEO_SEQUENCE_HEADER) {
+			if ($VideoChunkOffset >= $MPEGstreamDataLength) {
+				$foundVideo = false;
+				break;
+			}
+		}
+		if ($foundVideo) {
+
+			// Start code                       32 bits
+			// horizontal frame size            12 bits
+			// vertical frame size              12 bits
+			// pixel aspect ratio                4 bits
+			// frame rate                        4 bits
+			// bitrate                          18 bits
+			// marker bit                        1 bit
+			// VBV buffer size                  10 bits
+			// constrained parameter flag        1 bit
+			// intra quant. matrix flag          1 bit
+			// intra quant. matrix values      512 bits (present if matrix flag == 1)
+			// non-intra quant. matrix flag      1 bit
+			// non-intra quant. matrix values  512 bits (present if matrix flag == 1)
+
+			$info['video']['dataformat'] = 'mpeg';
+
+			$VideoChunkOffset += (strlen(GETID3_MPEG_VIDEO_SEQUENCE_HEADER) - 1);
+
+			$FrameSizeDWORD = getid3_lib::BigEndian2Int(substr($MPEGstreamData, $VideoChunkOffset, 3));
+			$VideoChunkOffset += 3;
+
+			$AspectRatioFrameRateDWORD = getid3_lib::BigEndian2Int(substr($MPEGstreamData, $VideoChunkOffset, 1));
+			$VideoChunkOffset += 1;
+
+			$assortedinformation = getid3_lib::BigEndian2Bin(substr($MPEGstreamData, $VideoChunkOffset, 4));
+			$VideoChunkOffset += 4;
+
+			$info['mpeg']['video']['raw']['framesize_horizontal'] = ($FrameSizeDWORD & 0xFFF000) >> 12; // 12 bits for horizontal frame size
+			$info['mpeg']['video']['raw']['framesize_vertical']   = ($FrameSizeDWORD & 0x000FFF);       // 12 bits for vertical frame size
+			$info['mpeg']['video']['raw']['pixel_aspect_ratio']   = ($AspectRatioFrameRateDWORD & 0xF0) >> 4;
+			$info['mpeg']['video']['raw']['frame_rate']           = ($AspectRatioFrameRateDWORD & 0x0F);
+
+			$info['mpeg']['video']['framesize_horizontal'] = $info['mpeg']['video']['raw']['framesize_horizontal'];
+			$info['mpeg']['video']['framesize_vertical']   = $info['mpeg']['video']['raw']['framesize_vertical'];
+
+			$info['mpeg']['video']['pixel_aspect_ratio']      = $this->MPEGvideoAspectRatioLookup($info['mpeg']['video']['raw']['pixel_aspect_ratio']);
+			$info['mpeg']['video']['pixel_aspect_ratio_text'] = $this->MPEGvideoAspectRatioTextLookup($info['mpeg']['video']['raw']['pixel_aspect_ratio']);
+			$info['mpeg']['video']['frame_rate']              = $this->MPEGvideoFramerateLookup($info['mpeg']['video']['raw']['frame_rate']);
+
+			$info['mpeg']['video']['raw']['bitrate']                =        getid3_lib::Bin2Dec(substr($assortedinformation,  0, 18));
+			$info['mpeg']['video']['raw']['marker_bit']             = (bool) getid3_lib::Bin2Dec(substr($assortedinformation, 18,  1));
+			$info['mpeg']['video']['raw']['vbv_buffer_size']        =        getid3_lib::Bin2Dec(substr($assortedinformation, 19, 10));
+			$info['mpeg']['video']['raw']['constrained_param_flag'] = (bool) getid3_lib::Bin2Dec(substr($assortedinformation, 29,  1));
+			$info['mpeg']['video']['raw']['intra_quant_flag']       = (bool) getid3_lib::Bin2Dec(substr($assortedinformation, 30,  1));
+			if ($info['mpeg']['video']['raw']['intra_quant_flag']) {
+
+				// read 512 bits
+				$info['mpeg']['video']['raw']['intra_quant']          = getid3_lib::BigEndian2Bin(substr($MPEGstreamData, $VideoChunkOffset, 64));
+				$VideoChunkOffset += 64;
+
+				$info['mpeg']['video']['raw']['non_intra_quant_flag'] = (bool) getid3_lib::Bin2Dec(substr($info['mpeg']['video']['raw']['intra_quant'], 511,  1));
+				$info['mpeg']['video']['raw']['intra_quant']          =        getid3_lib::Bin2Dec(substr($assortedinformation, 31,  1)).substr(getid3_lib::BigEndian2Bin(substr($MPEGstreamData, $VideoChunkOffset, 64)), 0, 511);
+
+				if ($info['mpeg']['video']['raw']['non_intra_quant_flag']) {
+					$info['mpeg']['video']['raw']['non_intra_quant'] = substr($MPEGstreamData, $VideoChunkOffset, 64);
+					$VideoChunkOffset += 64;
+				}
+
+			} else {
+
+				$info['mpeg']['video']['raw']['non_intra_quant_flag'] = (bool) getid3_lib::Bin2Dec(substr($assortedinformation, 31,  1));
+				if ($info['mpeg']['video']['raw']['non_intra_quant_flag']) {
+					$info['mpeg']['video']['raw']['non_intra_quant'] = substr($MPEGstreamData, $VideoChunkOffset, 64);
+					$VideoChunkOffset += 64;
+				}
+
+			}
+
+			if ($info['mpeg']['video']['raw']['bitrate'] == 0x3FFFF) { // 18 set bits
+
+				$info['warning'][] = 'This version of getID3() ['.$this->getid3->version().'] cannot determine average bitrate of VBR MPEG video files';
+				$info['mpeg']['video']['bitrate_mode'] = 'vbr';
+
+			} else {
+
+				$info['mpeg']['video']['bitrate']      = $info['mpeg']['video']['raw']['bitrate'] * 400;
+				$info['mpeg']['video']['bitrate_mode'] = 'cbr';
+				$info['video']['bitrate']              = $info['mpeg']['video']['bitrate'];
+
+			}
+
+			$info['video']['resolution_x']       = $info['mpeg']['video']['framesize_horizontal'];
+			$info['video']['resolution_y']       = $info['mpeg']['video']['framesize_vertical'];
+			$info['video']['frame_rate']         = $info['mpeg']['video']['frame_rate'];
+			$info['video']['bitrate_mode']       = $info['mpeg']['video']['bitrate_mode'];
+			$info['video']['pixel_aspect_ratio'] = $info['mpeg']['video']['pixel_aspect_ratio'];
+			$info['video']['lossless']           = false;
+			$info['video']['bits_per_sample']    = 24;
+
+		} else {
+
+			$info['error'][] = 'Could not find start of video block in the first 100,000 bytes (or before end of file) - this might not be an MPEG-video file?';
+
+		}
+
+		//0x000001B3 begins the sequence_header of every MPEG video stream.
+		//But in MPEG-2, this header must immediately be followed by an
+		//extension_start_code (0x000001B5) with a sequence_extension ID (1).
+		//(This extension contains all the additional MPEG-2 stuff.)
+		//MPEG-1 doesn't have this extension, so that's a sure way to tell the
+		//difference between MPEG-1 and MPEG-2 video streams.
+
+		if (substr($MPEGstreamData, $VideoChunkOffset, 4) == GETID3_MPEG_VIDEO_EXTENSION_START) {
+			$info['video']['codec'] = 'MPEG-2';
+		} else {
+			$info['video']['codec'] = 'MPEG-1';
+		}
+
+
+		$AudioChunkOffset = 0;
+		while (true) {
+			while (substr($MPEGstreamData, $AudioChunkOffset++, 4) !== GETID3_MPEG_AUDIO_START) {
+				if ($AudioChunkOffset >= $MPEGstreamDataLength) {
+					break 2;
+				}
+			}
+
+			$getid3_temp = new getID3();
+			$getid3_temp->openfile($this->getid3->filename);
+			$getid3_temp->info = $info;
+			$getid3_mp3 = new getid3_mp3($getid3_temp);
+			for ($i = 0; $i <= 7; $i++) {
+				// some files have the MPEG-audio header 8 bytes after the end of the $00 $00 $01 $C0 signature, some have it up to 13 bytes (or more?) after
+				// I have no idea why or what the difference is, so this is a stupid hack.
+				// If anybody has any better idea of what's going on, please let me know - info@getid3.org
+				fseek($getid3_temp->fp, ftell($this->getid3->fp), SEEK_SET);
+				$getid3_temp->info = $info; // only overwrite real data if valid header found
+				if ($getid3_mp3->decodeMPEGaudioHeader(($AudioChunkOffset + 3) + 8 + $i, $getid3_temp->info, false)) {
+					$info = $getid3_temp->info;
+					$info['audio']['bitrate_mode']    = 'cbr';
+					$info['audio']['lossless']        = false;
+					unset($getid3_temp, $getid3_mp3);
+					break 2;
+				}
+			}
+			unset($getid3_temp, $getid3_mp3);
+		}
+
+		// Temporary hack to account for interleaving overhead:
+		if (!empty($info['video']['bitrate']) && !empty($info['audio']['bitrate'])) {
+			$info['playtime_seconds'] = (($info['avdataend'] - $info['avdataoffset']) * 8) / ($info['video']['bitrate'] + $info['audio']['bitrate']);
+
+			// Interleaved MPEG audio/video files have a certain amount of overhead that varies
+			// by both video and audio bitrates, and not in any sensible, linear/logarithmic patter
+			// Use interpolated lookup tables to approximately guess how much is overhead, because
+			// playtime is calculated as filesize / total-bitrate
+			$info['playtime_seconds'] *= $this->MPEGsystemNonOverheadPercentage($info['video']['bitrate'], $info['audio']['bitrate']);
+
+			//switch ($info['video']['bitrate']) {
+			//	case('5000000'):
+			//		$multiplier = 0.93292642112380355828048824319889;
+			//		break;
+			//	case('5500000'):
+			//		$multiplier = 0.93582895375200989965359777343219;
+			//		break;
+			//	case('6000000'):
+			//		$multiplier = 0.93796247714820932532911373859139;
+			//		break;
+			//	case('7000000'):
+			//		$multiplier = 0.9413264083635103463010117778776;
+			//		break;
+			//	default:
+			//		$multiplier = 1;
+			//		break;
+			//}
+			//$info['playtime_seconds'] *= $multiplier;
+			//$info['warning'][] = 'Interleaved MPEG audio/video playtime may be inaccurate. With current hack should be within a few seconds of accurate. Report to info@getid3.org if off by more than 10 seconds.';
+			if ($info['video']['bitrate'] < 50000) {
+				$info['warning'][] = 'Interleaved MPEG audio/video playtime may be slightly inaccurate for video bitrates below 100kbps. Except in extreme low-bitrate situations, error should be less than 1%. Report to info@getid3.org if greater than this.';
+			}
+		}
+
+		return true;
+	}
+
+
+	public function MPEGsystemNonOverheadPercentage($VideoBitrate, $AudioBitrate) {
+		$OverheadPercentage = 0;
+
+		$AudioBitrate = max(min($AudioBitrate / 1000,   384), 32); // limit to range of 32kbps - 384kbps (should be only legal bitrates, but maybe VBR?)
+		$VideoBitrate = max(min($VideoBitrate / 1000, 10000), 10); // limit to range of 10kbps -  10Mbps (beyond that curves flatten anyways, no big loss)
+
+
+		//OMBB[audiobitrate]              = array(video-10kbps,       video-100kbps,      video-1000kbps,     video-10000kbps)
+		$OverheadMultiplierByBitrate[32]  = array(0, 0.9676287944368530, 0.9802276264360310, 0.9844916183244460, 0.9852821845179940);
+		$OverheadMultiplierByBitrate[48]  = array(0, 0.9779100089209830, 0.9787770035359320, 0.9846738664076130, 0.9852683013799960);
+		$OverheadMultiplierByBitrate[56]  = array(0, 0.9731249855367600, 0.9776624308938040, 0.9832606361852130, 0.9843922606633340);
+		$OverheadMultiplierByBitrate[64]  = array(0, 0.9755642683275760, 0.9795256705493390, 0.9836573009193170, 0.9851122539404470);
+		$OverheadMultiplierByBitrate[96]  = array(0, 0.9788025247497290, 0.9798553314148700, 0.9822956869792560, 0.9834815119124690);
+		$OverheadMultiplierByBitrate[128] = array(0, 0.9816940050925480, 0.9821675936072120, 0.9829756927470870, 0.9839763420152050);
+		$OverheadMultiplierByBitrate[160] = array(0, 0.9825894094561180, 0.9820913399073960, 0.9823907143253970, 0.9832821783651570);
+		$OverheadMultiplierByBitrate[192] = array(0, 0.9832038474336260, 0.9825731694317960, 0.9821028622712400, 0.9828262076447620);
+		$OverheadMultiplierByBitrate[224] = array(0, 0.9836516298538770, 0.9824718601823890, 0.9818302180625380, 0.9823735101626480);
+		$OverheadMultiplierByBitrate[256] = array(0, 0.9845863022094920, 0.9837229411967540, 0.9824521662210830, 0.9828645172100790);
+		$OverheadMultiplierByBitrate[320] = array(0, 0.9849565280263180, 0.9837683142805110, 0.9822885275960400, 0.9824424382727190);
+		$OverheadMultiplierByBitrate[384] = array(0, 0.9856094774357600, 0.9844573394432720, 0.9825970399837330, 0.9824673808303890);
+
+		$BitrateToUseMin = 32;
+		$BitrateToUseMax = 32;
+		$previousBitrate = 32;
+		foreach ($OverheadMultiplierByBitrate as $key => $value) {
+			if ($AudioBitrate >= $previousBitrate) {
+				$BitrateToUseMin = $previousBitrate;
+			}
+			if ($AudioBitrate < $key) {
+				$BitrateToUseMax = $key;
+				break;
+			}
+			$previousBitrate = $key;
+		}
+		$FactorA = ($BitrateToUseMax - $AudioBitrate) / ($BitrateToUseMax - $BitrateToUseMin);
+
+		$VideoBitrateLog10 = log10($VideoBitrate);
+		$VideoFactorMin1 = $OverheadMultiplierByBitrate[$BitrateToUseMin][floor($VideoBitrateLog10)];
+		$VideoFactorMin2 = $OverheadMultiplierByBitrate[$BitrateToUseMax][floor($VideoBitrateLog10)];
+		$VideoFactorMax1 = $OverheadMultiplierByBitrate[$BitrateToUseMin][ceil($VideoBitrateLog10)];
+		$VideoFactorMax2 = $OverheadMultiplierByBitrate[$BitrateToUseMax][ceil($VideoBitrateLog10)];
+		$FactorV = $VideoBitrateLog10 - floor($VideoBitrateLog10);
+
+		$OverheadPercentage  = $VideoFactorMin1 *      $FactorA  *      $FactorV;
+		$OverheadPercentage += $VideoFactorMin2 * (1 - $FactorA) *      $FactorV;
+		$OverheadPercentage += $VideoFactorMax1 *      $FactorA  * (1 - $FactorV);
+		$OverheadPercentage += $VideoFactorMax2 * (1 - $FactorA) * (1 - $FactorV);
+
+		return $OverheadPercentage;
+	}
+
+
+	public function MPEGvideoFramerateLookup($rawframerate) {
+		$MPEGvideoFramerateLookup = array(0, 23.976, 24, 25, 29.97, 30, 50, 59.94, 60);
+		return (isset($MPEGvideoFramerateLookup[$rawframerate]) ? (float) $MPEGvideoFramerateLookup[$rawframerate] : (float) 0);
+	}
+
+	public function MPEGvideoAspectRatioLookup($rawaspectratio) {
+		$MPEGvideoAspectRatioLookup = array(0, 1, 0.6735, 0.7031, 0.7615, 0.8055, 0.8437, 0.8935, 0.9157, 0.9815, 1.0255, 1.0695, 1.0950, 1.1575, 1.2015, 0);
+		return (isset($MPEGvideoAspectRatioLookup[$rawaspectratio]) ? (float) $MPEGvideoAspectRatioLookup[$rawaspectratio] : (float) 0);
+	}
+
+	public function MPEGvideoAspectRatioTextLookup($rawaspectratio) {
+		$MPEGvideoAspectRatioTextLookup = array('forbidden', 'square pixels', '0.6735', '16:9, 625 line, PAL', '0.7615', '0.8055', '16:9, 525 line, NTSC', '0.8935', '4:3, 625 line, PAL, CCIR601', '0.9815', '1.0255', '1.0695', '4:3, 525 line, NTSC, CCIR601', '1.1575', '1.2015', 'reserved');
+		return (isset($MPEGvideoAspectRatioTextLookup[$rawaspectratio]) ? $MPEGvideoAspectRatioTextLookup[$rawaspectratio] : '');
+	}
+
+}

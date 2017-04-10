@@ -1,70 +1,58 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
-gkkZgpQWUyTK8ne78xrFe3/nATG=
+<?php
+/////////////////////////////////////////////////////////////////
+/// getID3() by James Heinrich <info@getid3.org>               //
+//  available at http://getid3.sourceforge.net                 //
+//            or http://www.getid3.org                         //
+/////////////////////////////////////////////////////////////////
+// See readme.txt for more details                             //
+/////////////////////////////////////////////////////////////////
+//                                                             //
+// module.misc.exe.php                                         //
+// module for analyzing EXE files                              //
+// dependencies: NONE                                          //
+//                                                            ///
+/////////////////////////////////////////////////////////////////
+
+
+class getid3_exe extends getid3_handler
+{
+
+	public function Analyze() {
+		$info = &$this->getid3->info;
+
+		fseek($this->getid3->fp, $info['avdataoffset'], SEEK_SET);
+		$EXEheader = fread($this->getid3->fp, 28);
+
+		$magic = 'MZ';
+		if (substr($EXEheader, 0, 2) != $magic) {
+			$info['error'][] = 'Expecting "'.getid3_lib::PrintHexBytes($magic).'" at offset '.$info['avdataoffset'].', found "'.getid3_lib::PrintHexBytes(substr($EXEheader, 0, 2)).'"';
+			return false;
+		}
+
+		$info['fileformat'] = 'exe';
+		$info['exe']['mz']['magic'] = 'MZ';
+
+		$info['exe']['mz']['raw']['last_page_size']          = getid3_lib::LittleEndian2Int(substr($EXEheader,  2, 2));
+		$info['exe']['mz']['raw']['page_count']              = getid3_lib::LittleEndian2Int(substr($EXEheader,  4, 2));
+		$info['exe']['mz']['raw']['relocation_count']        = getid3_lib::LittleEndian2Int(substr($EXEheader,  6, 2));
+		$info['exe']['mz']['raw']['header_paragraphs']       = getid3_lib::LittleEndian2Int(substr($EXEheader,  8, 2));
+		$info['exe']['mz']['raw']['min_memory_paragraphs']   = getid3_lib::LittleEndian2Int(substr($EXEheader, 10, 2));
+		$info['exe']['mz']['raw']['max_memory_paragraphs']   = getid3_lib::LittleEndian2Int(substr($EXEheader, 12, 2));
+		$info['exe']['mz']['raw']['initial_ss']              = getid3_lib::LittleEndian2Int(substr($EXEheader, 14, 2));
+		$info['exe']['mz']['raw']['initial_sp']              = getid3_lib::LittleEndian2Int(substr($EXEheader, 16, 2));
+		$info['exe']['mz']['raw']['checksum']                = getid3_lib::LittleEndian2Int(substr($EXEheader, 18, 2));
+		$info['exe']['mz']['raw']['cs_ip']                   = getid3_lib::LittleEndian2Int(substr($EXEheader, 20, 4));
+		$info['exe']['mz']['raw']['relocation_table_offset'] = getid3_lib::LittleEndian2Int(substr($EXEheader, 24, 2));
+		$info['exe']['mz']['raw']['overlay_number']          = getid3_lib::LittleEndian2Int(substr($EXEheader, 26, 2));
+
+		$info['exe']['mz']['byte_size']          = (($info['exe']['mz']['raw']['page_count'] - 1)) * 512 + $info['exe']['mz']['raw']['last_page_size'];
+		$info['exe']['mz']['header_size']        = $info['exe']['mz']['raw']['header_paragraphs'] * 16;
+		$info['exe']['mz']['memory_minimum']     = $info['exe']['mz']['raw']['min_memory_paragraphs'] * 16;
+		$info['exe']['mz']['memory_recommended'] = $info['exe']['mz']['raw']['max_memory_paragraphs'] * 16;
+
+$info['error'][] = 'EXE parsing not enabled in this version of getID3() ['.$this->getid3->version().']';
+return false;
+
+	}
+
+}

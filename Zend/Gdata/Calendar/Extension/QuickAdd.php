@@ -1,43 +1,132 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
-4sm=
+<?php
+
+/**
+ * Zend Framework
+ *
+ * LICENSE
+ *
+ * This source file is subject to the new BSD license that is bundled
+ * with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://framework.zend.com/license/new-bsd
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@zend.com so we can send you a copy immediately.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Calendar
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ * @version    $Id: QuickAdd.php 16971 2009-07-22 18:05:45Z mikaelkael $
+ */
+
+/**
+ * @see Zend_Gdata_Extension
+ */
+require_once 'Zend/Gdata/Extension.php';
+
+/**
+ * Represents the gCal:quickAdd element used by the Calendar data API
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Calendar
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+class Zend_Gdata_Calendar_Extension_QuickAdd extends Zend_Gdata_Extension
+{
+
+    protected $_rootNamespace = 'gCal';
+    protected $_rootElement = 'quickadd';
+    protected $_value = null;
+
+    /**
+     * Constructs a new Zend_Gdata_Calendar_Extension_QuickAdd object.
+     * @param string $value (optional) The text content of the element.
+     */
+    public function __construct($value = null)
+    {
+        $this->registerAllNamespaces(Zend_Gdata_Calendar::$namespaces);
+        parent::__construct();
+        $this->_value = $value;
+    }
+
+    /**
+     * Retrieves a DOMElement which corresponds to this element and all
+     * child properties.  This is used to build an entry back into a DOM
+     * and eventually XML text for sending to the server upon updates, or
+     * for application storage/persistence.
+     *
+     * @param DOMDocument $doc The DOMDocument used to construct DOMElements
+     * @return DOMElement The DOMElement representing this element and all
+     * child properties.
+     */
+    public function getDOM($doc = null, $majorVersion = 1, $minorVersion = null)
+    {
+        $element = parent::getDOM($doc, $majorVersion, $minorVersion);
+        if ($this->_value !== null) {
+            $element->setAttribute('value', ($this->_value ? "true" : "false"));
+        }
+        return $element;
+    }
+
+    /**
+     * Given a DOMNode representing an attribute, tries to map the data into
+     * instance members.  If no mapping is defined, the name and value are
+     * stored in an array.
+     *
+     * @param DOMNode $attribute The DOMNode attribute needed to be handled
+     */
+    protected function takeAttributeFromDOM($attribute)
+    {
+        switch ($attribute->localName) {
+        case 'value':
+            if ($attribute->nodeValue == "true") {
+                $this->_value = true;
+            }
+            else if ($attribute->nodeValue == "false") {
+                $this->_value = false;
+            }
+            else {
+                throw new Zend_Gdata_App_InvalidArgumentException("Expected 'true' or 'false' for gCal:selected#value.");
+            }
+            break;
+        default:
+            parent::takeAttributeFromDOM($attribute);
+        }
+    }
+
+    /**
+     * Get the value for this element's value attribute.
+     *
+     * @return string The value associated with this attribute.
+     */
+    public function getValue()
+    {
+        return $this->_value;
+    }
+
+    /**
+     * Set the value for this element's value attribute.
+     *
+     * @param string $value The desired value for this attribute.
+     * @return Zend_Gdata_Calendar_Extension_QuickAdd The element being modified.
+     */
+    public function setValue($value)
+    {
+        $this->_value = $value;
+        return $this;
+    }
+
+    /**
+     * Magic toString method allows using this directly via echo
+     * Works best in PHP >= 4.2.0
+     */
+    public function __toString()
+    {
+        return $this->getValue();
+    }
+
+}

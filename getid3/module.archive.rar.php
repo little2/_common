@@ -1,35 +1,50 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
+<?php
+/////////////////////////////////////////////////////////////////
+/// getID3() by James Heinrich <info@getid3.org>               //
+//  available at http://getid3.sourceforge.net                 //
+//            or http://www.getid3.org                         //
+/////////////////////////////////////////////////////////////////
+// See readme.txt for more details                             //
+/////////////////////////////////////////////////////////////////
+//                                                             //
+// module.archive.rar.php                                      //
+// module for analyzing RAR files                              //
+// dependencies: NONE                                          //
+//                                                            ///
+/////////////////////////////////////////////////////////////////
+
+
+class getid3_rar extends getid3_handler
+{
+
+	public $option_use_rar_extension = false;
+
+	public function Analyze() {
+		$info = &$this->getid3->info;
+
+		$info['fileformat'] = 'rar';
+
+		if ($this->option_use_rar_extension === true) {
+			if (function_exists('rar_open')) {
+				if ($rp = rar_open($info['filenamepath'])) {
+					$info['rar']['files'] = array();
+					$entries = rar_list($rp);
+					foreach ($entries as $entry) {
+						$info['rar']['files'] = getid3_lib::array_merge_clobber($info['rar']['files'], getid3_lib::CreateDeepArray($entry->getName(), '/', $entry->getUnpackedSize()));
+					}
+					rar_close($rp);
+					return true;
+				} else {
+					$info['error'][] = 'failed to rar_open('.$info['filename'].')';
+				}
+			} else {
+				$info['error'][] = 'RAR support does not appear to be available in this PHP installation';
+			}
+		} else {
+			$info['error'][] = 'PHP-RAR processing has been disabled (set $getid3_rar->option_use_rar_extension=true to enable)';
+		}
+		return false;
+
+	}
+
+}

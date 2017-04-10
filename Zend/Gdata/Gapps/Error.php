@@ -1,61 +1,233 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
+<?php
+
+/**
+ * Zend Framework
+ *
+ * LICENSE
+ *
+ * This source file is subject to the new BSD license that is bundled
+ * with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://framework.zend.com/license/new-bsd
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@zend.com so we can send you a copy immediately.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Gapps
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ * @version    $Id: Error.php 18951 2009-11-12 16:26:19Z alexander $
+ */
+
+
+/**
+ * Zend_Gdata_App_Base
+ */
+require_once 'Zend/Gdata/App/Base.php';
+
+/**
+ * Gdata Gapps Error class. This class is used to represent errors returned
+ * within an AppsForYourDomainErrors message received from the Google Apps
+ * servers.
+ *
+ * Several different errors may be represented by this class, determined by
+ * the error code returned by the server. For a list of error codes
+ * available at the time of this writing, see getErrorCode.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Gapps
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+class Zend_Gdata_Gapps_Error extends Zend_Gdata_App_Base
+{
+
+    // Error codes as defined at
+    // http://code.google.com/apis/apps/gdata_provisioning_api_v2.0_reference.html#appendix_d
+
+    const UNKNOWN_ERROR = 1000;
+    const USER_DELETED_RECENTLY = 1100;
+    const USER_SUSPENDED = 1101;
+    const DOMAIN_USER_LIMIT_EXCEEDED = 1200;
+    const DOMAIN_ALIAS_LIMIT_EXCEEDED = 1201;
+    const DOMAIN_SUSPENDED = 1202;
+    const DOMAIN_FEATURE_UNAVAILABLE = 1203;
+    const ENTITY_EXISTS = 1300;
+    const ENTITY_DOES_NOT_EXIST = 1301;
+    const ENTITY_NAME_IS_RESERVED = 1302;
+    const ENTITY_NAME_NOT_VALID = 1303;
+    const INVALID_GIVEN_NAME = 1400;
+    const INVALID_FAMILY_NAME = 1401;
+    const INVALID_PASSWORD = 1402;
+    const INVALID_USERNAME = 1403;
+    const INVALID_HASH_FUNCTION_NAME = 1404;
+    const INVALID_HASH_DIGEST_LENGTH = 1405;
+    const INVALID_EMAIL_ADDRESS = 1406;
+    const INVALID_QUERY_PARAMETER_VALUE = 1407;
+    const TOO_MANY_RECIPIENTS_ON_EMAIL_LIST = 1500;
+
+    protected $_errorCode = null;
+    protected $_reason = null;
+    protected $_invalidInput = null;
+
+    public function __construct($errorCode = null, $reason = null,
+            $invalidInput = null) {
+        parent::__construct("Google Apps error received: $errorCode ($reason)");
+        $this->_errorCode = $errorCode;
+        $this->_reason = $reason;
+        $this->_invalidInput = $invalidInput;
+    }
+
+    /**
+     * Set the error code for this exception. For more information about
+     * error codes, see getErrorCode.
+     *
+     * @see getErrorCode
+     * @param integer $value The new value for the error code.
+     */
+    public function setErrorCode($value) {
+       $this->_errorCode = $value;
+    }
+
+    /**
+     * Get the error code for this exception. Currently valid values are
+     * available as constants within this class. These values are:
+     *
+     *   UNKNOWN_ERROR (1000)
+     *   USER_DELETED_RECENTLY (1100)
+     *   USER_SUSPENDED (1101)
+     *   DOMAIN_USER_LIMIT_EXCEEDED (1200)
+     *   DOMAIN_ALIAS_LIMIT_EXCEEDED (1201)
+     *   DOMAIN_SUSPENDED (1202)
+     *   DOMAIN_FEATURE_UNAVAILABLE (1203)
+     *   ENTITY_EXISTS (1300)
+     *   ENTITY_DOES_NOT_EXIST (1301)
+     *   ENTITY_NAME_IS_RESERVED (1302)
+     *   ENTITY_NAME_NOT_VALID (1303)
+     *   INVALID_GIVEN_NAME (1400)
+     *   INVALID_FAMILY_NAME (1401)
+     *   INVALID_PASSWORD (1402)
+     *   INVALID_USERNAME (1403)
+     *   INVALID_HASH_FUNCTION_NAME (1404)
+     *   INVALID_HASH_DIGEST_LENGTH (1405)
+     *   INVALID_EMAIL_ADDRESS (1406)
+     *   INVALID_QUERY_PARAMETER_VALUE (1407)
+     *   TOO_MANY_RECIPIENTS_ON_EMAIL_LIST (1500)
+     *
+     * Numbers in parenthesis indicate the actual integer value of the
+     * constant. This list should not be treated as exhaustive, as additional
+     * error codes may be added at any time.
+     *
+     * For more information about these codes and their meaning, please
+     * see Appendix D of the Google Apps Provisioning API Reference.
+     *
+     * @link http://code.google.com/apis/apps/gdata_provisioning_api_v2.0_reference.html#appendix_d Google Apps Provisioning API Reference: Appendix D - Gdata Error Codes
+     * @see setErrorCode
+     * @return integer The error code returned by the Google Apps server.
+     */
+    public function getErrorCode() {
+        return $this->_errorCode;
+    }
+
+    /**
+     * Set human-readable text describing the reason this exception occurred.
+     *
+     * @see getReason
+     * @param string $value The reason this exception occurred.
+     */
+    public function setReason($value) {
+       $this->_reason = $value;
+    }
+
+    /**
+     * Get human-readable text describing the reason this exception occurred.
+     *
+     * @see setReason
+     * @return string The reason this exception occurred.
+     */
+    public function getReason() {
+       return $this->_reason;
+    }
+
+    /**
+     * Set the invalid input which caused this exception.
+     *
+     * @see getInvalidInput
+     * @param string $value The invalid input that triggered this exception.
+     */
+    public function setInvalidInput($value) {
+       $this->_invalidInput = $value;
+    }
+
+    /**
+     * Set the invalid input which caused this exception.
+     *
+     * @see setInvalidInput
+     * @return string The reason this exception occurred.
+     */
+    public function getInvalidInput() {
+       return $this->_invalidInput;
+    }
+
+    /**
+     * Retrieves a DOMElement which corresponds to this element and all
+     * child properties.  This is used to build an entry back into a DOM
+     * and eventually XML text for application storage/persistence.
+     *
+     * @param DOMDocument $doc The DOMDocument used to construct DOMElements
+     * @return DOMElement The DOMElement representing this element and all
+     *          child properties.
+     */
+    public function getDOM($doc = null, $majorVersion = 1, $minorVersion = null)
+    {
+        $element = parent::getDOM($doc, $majorVersion, $minorVersion);
+        if ($this->_errorCode !== null) {
+            $element->setAttribute('errorCode', $this->_errorCode);
+        }
+        if ($this->_reason !== null) {
+            $element->setAttribute('reason', $this->_reason);
+        }
+        if ($this->_invalidInput !== null) {
+            $element->setAttribute('invalidInput', $this->_invalidInput);
+        }
+        return $element;
+    }
+
+    /**
+     * Given a DOMNode representing an attribute, tries to map the data into
+     * instance members.  If no mapping is defined, the name and value are
+     * stored in an array.
+     *
+     * @param DOMNode $attribute The DOMNode attribute needed to be handled
+     */
+    protected function takeAttributeFromDOM($attribute)
+    {
+        switch ($attribute->localName) {
+        case 'errorCode':
+            $this->_errorCode = $attribute->nodeValue;
+            break;
+        case 'reason':
+            $this->_reason = $attribute->nodeValue;
+            break;
+        case 'invalidInput':
+            $this->_invalidInput = $attribute->nodeValue;
+            break;
+        default:
+            parent::takeAttributeFromDOM($attribute);
+        }
+    }
+
+    /**
+     * Get a human readable version of this exception.
+     *
+     * @return string
+     */
+    public function __toString() {
+        return "Error " . $this->getErrorCode() . ": " . $this->getReason() .
+            "\n\tInvalid Input: \"" . $this->getInvalidInput() . "\"";
+    }
+
+}

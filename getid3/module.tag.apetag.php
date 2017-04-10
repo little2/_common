@@ -1,262 +1,370 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
-VU/UCSm+DOrgIGbYPijnkiNwjwul73q=
+<?php
+/////////////////////////////////////////////////////////////////
+/// getID3() by James Heinrich <info@getid3.org>               //
+//  available at http://getid3.sourceforge.net                 //
+//            or http://www.getid3.org                         //
+/////////////////////////////////////////////////////////////////
+// See readme.txt for more details                             //
+/////////////////////////////////////////////////////////////////
+//                                                             //
+// module.tag.apetag.php                                       //
+// module for analyzing APE tags                               //
+// dependencies: NONE                                          //
+//                                                            ///
+/////////////////////////////////////////////////////////////////
+
+class getid3_apetag extends getid3_handler
+{
+	public $inline_attachments = true; // true: return full data for all attachments; false: return no data for all attachments; integer: return data for attachments <= than this; string: save as file to this directory
+	public $overrideendoffset  = 0;
+
+	public function Analyze() {
+		$info = &$this->getid3->info;
+
+		if (!getid3_lib::intValueSupported($info['filesize'])) {
+			$info['warning'][] = 'Unable to check for APEtags because file is larger than '.round(PHP_INT_MAX / 1073741824).'GB';
+			return false;
+		}
+
+		$id3v1tagsize     = 128;
+		$apetagheadersize = 32;
+		$lyrics3tagsize   = 10;
+
+		if ($this->overrideendoffset == 0) {
+
+			fseek($this->getid3->fp, 0 - $id3v1tagsize - $apetagheadersize - $lyrics3tagsize, SEEK_END);
+			$APEfooterID3v1 = fread($this->getid3->fp, $id3v1tagsize + $apetagheadersize + $lyrics3tagsize);
+
+			//if (preg_match('/APETAGEX.{24}TAG.{125}$/i', $APEfooterID3v1)) {
+			if (substr($APEfooterID3v1, strlen($APEfooterID3v1) - $id3v1tagsize - $apetagheadersize, 8) == 'APETAGEX') {
+
+				// APE tag found before ID3v1
+				$info['ape']['tag_offset_end'] = $info['filesize'] - $id3v1tagsize;
+
+			//} elseif (preg_match('/APETAGEX.{24}$/i', $APEfooterID3v1)) {
+			} elseif (substr($APEfooterID3v1, strlen($APEfooterID3v1) - $apetagheadersize, 8) == 'APETAGEX') {
+
+				// APE tag found, no ID3v1
+				$info['ape']['tag_offset_end'] = $info['filesize'];
+
+			}
+
+		} else {
+
+			fseek($this->getid3->fp, $this->overrideendoffset - $apetagheadersize, SEEK_SET);
+			if (fread($this->getid3->fp, 8) == 'APETAGEX') {
+				$info['ape']['tag_offset_end'] = $this->overrideendoffset;
+			}
+
+		}
+		if (!isset($info['ape']['tag_offset_end'])) {
+
+			// APE tag not found
+			unset($info['ape']);
+			return false;
+
+		}
+
+		// shortcut
+		$thisfile_ape = &$info['ape'];
+
+		fseek($this->getid3->fp, $thisfile_ape['tag_offset_end'] - $apetagheadersize, SEEK_SET);
+		$APEfooterData = fread($this->getid3->fp, 32);
+		if (!($thisfile_ape['footer'] = $this->parseAPEheaderFooter($APEfooterData))) {
+			$info['error'][] = 'Error parsing APE footer at offset '.$thisfile_ape['tag_offset_end'];
+			return false;
+		}
+
+		if (isset($thisfile_ape['footer']['flags']['header']) && $thisfile_ape['footer']['flags']['header']) {
+			fseek($this->getid3->fp, $thisfile_ape['tag_offset_end'] - $thisfile_ape['footer']['raw']['tagsize'] - $apetagheadersize, SEEK_SET);
+			$thisfile_ape['tag_offset_start'] = ftell($this->getid3->fp);
+			$APEtagData = fread($this->getid3->fp, $thisfile_ape['footer']['raw']['tagsize'] + $apetagheadersize);
+		} else {
+			$thisfile_ape['tag_offset_start'] = $thisfile_ape['tag_offset_end'] - $thisfile_ape['footer']['raw']['tagsize'];
+			fseek($this->getid3->fp, $thisfile_ape['tag_offset_start'], SEEK_SET);
+			$APEtagData = fread($this->getid3->fp, $thisfile_ape['footer']['raw']['tagsize']);
+		}
+		$info['avdataend'] = $thisfile_ape['tag_offset_start'];
+
+		if (isset($info['id3v1']['tag_offset_start']) && ($info['id3v1']['tag_offset_start'] < $thisfile_ape['tag_offset_end'])) {
+			$info['warning'][] = 'ID3v1 tag information ignored since it appears to be a false synch in APEtag data';
+			unset($info['id3v1']);
+			foreach ($info['warning'] as $key => $value) {
+				if ($value == 'Some ID3v1 fields do not use NULL characters for padding') {
+					unset($info['warning'][$key]);
+					sort($info['warning']);
+					break;
+				}
+			}
+		}
+
+		$offset = 0;
+		if (isset($thisfile_ape['footer']['flags']['header']) && $thisfile_ape['footer']['flags']['header']) {
+			if ($thisfile_ape['header'] = $this->parseAPEheaderFooter(substr($APEtagData, 0, $apetagheadersize))) {
+				$offset += $apetagheadersize;
+			} else {
+				$info['error'][] = 'Error parsing APE header at offset '.$thisfile_ape['tag_offset_start'];
+				return false;
+			}
+		}
+
+		// shortcut
+		$info['replay_gain'] = array();
+		$thisfile_replaygain = &$info['replay_gain'];
+
+		for ($i = 0; $i < $thisfile_ape['footer']['raw']['tag_items']; $i++) {
+			$value_size = getid3_lib::LittleEndian2Int(substr($APEtagData, $offset, 4));
+			$offset += 4;
+			$item_flags = getid3_lib::LittleEndian2Int(substr($APEtagData, $offset, 4));
+			$offset += 4;
+			if (strstr(substr($APEtagData, $offset), "\x00") === false) {
+				$info['error'][] = 'Cannot find null-byte (0x00) seperator between ItemKey #'.$i.' and value. ItemKey starts '.$offset.' bytes into the APE tag, at file offset '.($thisfile_ape['tag_offset_start'] + $offset);
+				return false;
+			}
+			$ItemKeyLength = strpos($APEtagData, "\x00", $offset) - $offset;
+			$item_key      = strtolower(substr($APEtagData, $offset, $ItemKeyLength));
+
+			// shortcut
+			$thisfile_ape['items'][$item_key] = array();
+			$thisfile_ape_items_current = &$thisfile_ape['items'][$item_key];
+
+			$thisfile_ape_items_current['offset'] = $thisfile_ape['tag_offset_start'] + $offset;
+
+			$offset += ($ItemKeyLength + 1); // skip 0x00 terminator
+			$thisfile_ape_items_current['data'] = substr($APEtagData, $offset, $value_size);
+			$offset += $value_size;
+
+			$thisfile_ape_items_current['flags'] = $this->parseAPEtagFlags($item_flags);
+			switch ($thisfile_ape_items_current['flags']['item_contents_raw']) {
+				case 0: // UTF-8
+				case 3: // Locator (URL, filename, etc), UTF-8 encoded
+					$thisfile_ape_items_current['data'] = explode("\x00", trim($thisfile_ape_items_current['data']));
+					break;
+
+				default: // binary data
+					break;
+			}
+
+			switch (strtolower($item_key)) {
+				case 'replaygain_track_gain':
+					$thisfile_replaygain['track']['adjustment'] = (float) str_replace(',', '.', $thisfile_ape_items_current['data'][0]); // float casting will see "0,95" as zero!
+					$thisfile_replaygain['track']['originator'] = 'unspecified';
+					break;
+
+				case 'replaygain_track_peak':
+					$thisfile_replaygain['track']['peak']       = (float) str_replace(',', '.', $thisfile_ape_items_current['data'][0]); // float casting will see "0,95" as zero!
+					$thisfile_replaygain['track']['originator'] = 'unspecified';
+					if ($thisfile_replaygain['track']['peak'] <= 0) {
+						$info['warning'][] = 'ReplayGain Track peak from APEtag appears invalid: '.$thisfile_replaygain['track']['peak'].' (original value = "'.$thisfile_ape_items_current['data'][0].'")';
+					}
+					break;
+
+				case 'replaygain_album_gain':
+					$thisfile_replaygain['album']['adjustment'] = (float) str_replace(',', '.', $thisfile_ape_items_current['data'][0]); // float casting will see "0,95" as zero!
+					$thisfile_replaygain['album']['originator'] = 'unspecified';
+					break;
+
+				case 'replaygain_album_peak':
+					$thisfile_replaygain['album']['peak']       = (float) str_replace(',', '.', $thisfile_ape_items_current['data'][0]); // float casting will see "0,95" as zero!
+					$thisfile_replaygain['album']['originator'] = 'unspecified';
+					if ($thisfile_replaygain['album']['peak'] <= 0) {
+						$info['warning'][] = 'ReplayGain Album peak from APEtag appears invalid: '.$thisfile_replaygain['album']['peak'].' (original value = "'.$thisfile_ape_items_current['data'][0].'")';
+					}
+					break;
+
+				case 'mp3gain_undo':
+					list($mp3gain_undo_left, $mp3gain_undo_right, $mp3gain_undo_wrap) = explode(',', $thisfile_ape_items_current['data'][0]);
+					$thisfile_replaygain['mp3gain']['undo_left']  = intval($mp3gain_undo_left);
+					$thisfile_replaygain['mp3gain']['undo_right'] = intval($mp3gain_undo_right);
+					$thisfile_replaygain['mp3gain']['undo_wrap']  = (($mp3gain_undo_wrap == 'Y') ? true : false);
+					break;
+
+				case 'mp3gain_minmax':
+					list($mp3gain_globalgain_min, $mp3gain_globalgain_max) = explode(',', $thisfile_ape_items_current['data'][0]);
+					$thisfile_replaygain['mp3gain']['globalgain_track_min'] = intval($mp3gain_globalgain_min);
+					$thisfile_replaygain['mp3gain']['globalgain_track_max'] = intval($mp3gain_globalgain_max);
+					break;
+
+				case 'mp3gain_album_minmax':
+					list($mp3gain_globalgain_album_min, $mp3gain_globalgain_album_max) = explode(',', $thisfile_ape_items_current['data'][0]);
+					$thisfile_replaygain['mp3gain']['globalgain_album_min'] = intval($mp3gain_globalgain_album_min);
+					$thisfile_replaygain['mp3gain']['globalgain_album_max'] = intval($mp3gain_globalgain_album_max);
+					break;
+
+				case 'tracknumber':
+					if (is_array($thisfile_ape_items_current['data'])) {
+						foreach ($thisfile_ape_items_current['data'] as $comment) {
+							$thisfile_ape['comments']['track'][] = $comment;
+						}
+					}
+					break;
+
+				case 'cover art (artist)':
+				case 'cover art (back)':
+				case 'cover art (band logo)':
+				case 'cover art (band)':
+				case 'cover art (colored fish)':
+				case 'cover art (composer)':
+				case 'cover art (conductor)':
+				case 'cover art (front)':
+				case 'cover art (icon)':
+				case 'cover art (illustration)':
+				case 'cover art (lead)':
+				case 'cover art (leaflet)':
+				case 'cover art (lyricist)':
+				case 'cover art (media)':
+				case 'cover art (movie scene)':
+				case 'cover art (other icon)':
+				case 'cover art (other)':
+				case 'cover art (performance)':
+				case 'cover art (publisher logo)':
+				case 'cover art (recording)':
+				case 'cover art (studio)':
+					// list of possible cover arts from http://taglib-sharp.sourcearchive.com/documentation/2.0.3.0-2/Ape_2Tag_8cs-source.html
+					list($thisfile_ape_items_current['filename'], $thisfile_ape_items_current['data']) = explode("\x00", $thisfile_ape_items_current['data'], 2);
+					$thisfile_ape_items_current['data_offset'] = $thisfile_ape_items_current['offset'] + strlen($thisfile_ape_items_current['filename']."\x00");
+					$thisfile_ape_items_current['data_length'] = strlen($thisfile_ape_items_current['data']);
+
+					$thisfile_ape_items_current['image_mime'] = '';
+					$imageinfo = array();
+					$imagechunkcheck = getid3_lib::GetDataImageSize($thisfile_ape_items_current['data'], $imageinfo);
+					$thisfile_ape_items_current['image_mime'] = image_type_to_mime_type($imagechunkcheck[2]);
+
+					do {
+						if ($this->inline_attachments === false) {
+							// skip entirely
+							unset($thisfile_ape_items_current['data']);
+							break;
+						}
+						if ($this->inline_attachments === true) {
+							// great
+						} elseif (is_int($this->inline_attachments)) {
+							if ($this->inline_attachments < $thisfile_ape_items_current['data_length']) {
+								// too big, skip
+								$info['warning'][] = 'attachment at '.$thisfile_ape_items_current['offset'].' is too large to process inline ('.number_format($thisfile_ape_items_current['data_length']).' bytes)';
+								unset($thisfile_ape_items_current['data']);
+								break;
+							}
+						} elseif (is_string($this->inline_attachments)) {
+							$this->inline_attachments = rtrim(str_replace(array('/', '\\'), DIRECTORY_SEPARATOR, $this->inline_attachments), DIRECTORY_SEPARATOR);
+							if (!is_dir($this->inline_attachments) || !is_writable($this->inline_attachments)) {
+								// cannot write, skip
+								$info['warning'][] = 'attachment at '.$thisfile_ape_items_current['offset'].' cannot be saved to "'.$this->inline_attachments.'" (not writable)';
+								unset($thisfile_ape_items_current['data']);
+								break;
+							}
+						}
+						// if we get this far, must be OK
+						if (is_string($this->inline_attachments)) {
+							$destination_filename = $this->inline_attachments.DIRECTORY_SEPARATOR.md5($info['filenamepath']).'_'.$thisfile_ape_items_current['data_offset'];
+							if (!file_exists($destination_filename) || is_writable($destination_filename)) {
+								file_put_contents($destination_filename, $thisfile_ape_items_current['data']);
+							} else {
+								$info['warning'][] = 'attachment at '.$thisfile_ape_items_current['offset'].' cannot be saved to "'.$destination_filename.'" (not writable)';
+							}
+							$thisfile_ape_items_current['data_filename'] = $destination_filename;
+							unset($thisfile_ape_items_current['data']);
+						} else {
+							if (!isset($info['ape']['comments']['picture'])) {
+								$info['ape']['comments']['picture'] = array();
+							}
+							$info['ape']['comments']['picture'][] = array('data'=>$thisfile_ape_items_current['data'], 'image_mime'=>$thisfile_ape_items_current['image_mime']);
+						}
+					} while (false);
+					break;
+
+				default:
+					if (is_array($thisfile_ape_items_current['data'])) {
+						foreach ($thisfile_ape_items_current['data'] as $comment) {
+							$thisfile_ape['comments'][strtolower($item_key)][] = $comment;
+						}
+					}
+					break;
+			}
+
+		}
+		if (empty($thisfile_replaygain)) {
+			unset($info['replay_gain']);
+		}
+		return true;
+	}
+
+	public function parseAPEheaderFooter($APEheaderFooterData) {
+		// http://www.uni-jena.de/~pfk/mpp/sv8/apeheader.html
+
+		// shortcut
+		$headerfooterinfo['raw'] = array();
+		$headerfooterinfo_raw = &$headerfooterinfo['raw'];
+
+		$headerfooterinfo_raw['footer_tag']   =                  substr($APEheaderFooterData,  0, 8);
+		if ($headerfooterinfo_raw['footer_tag'] != 'APETAGEX') {
+			return false;
+		}
+		$headerfooterinfo_raw['version']      = getid3_lib::LittleEndian2Int(substr($APEheaderFooterData,  8, 4));
+		$headerfooterinfo_raw['tagsize']      = getid3_lib::LittleEndian2Int(substr($APEheaderFooterData, 12, 4));
+		$headerfooterinfo_raw['tag_items']    = getid3_lib::LittleEndian2Int(substr($APEheaderFooterData, 16, 4));
+		$headerfooterinfo_raw['global_flags'] = getid3_lib::LittleEndian2Int(substr($APEheaderFooterData, 20, 4));
+		$headerfooterinfo_raw['reserved']     =                              substr($APEheaderFooterData, 24, 8);
+
+		$headerfooterinfo['tag_version']         = $headerfooterinfo_raw['version'] / 1000;
+		if ($headerfooterinfo['tag_version'] >= 2) {
+			$headerfooterinfo['flags'] = $this->parseAPEtagFlags($headerfooterinfo_raw['global_flags']);
+		}
+		return $headerfooterinfo;
+	}
+
+	public function parseAPEtagFlags($rawflagint) {
+		// "Note: APE Tags 1.0 do not use any of the APE Tag flags.
+		// All are set to zero on creation and ignored on reading."
+		// http://www.uni-jena.de/~pfk/mpp/sv8/apetagflags.html
+		$flags['header']            = (bool) ($rawflagint & 0x80000000);
+		$flags['footer']            = (bool) ($rawflagint & 0x40000000);
+		$flags['this_is_header']    = (bool) ($rawflagint & 0x20000000);
+		$flags['item_contents_raw'] =        ($rawflagint & 0x00000006) >> 1;
+		$flags['read_only']         = (bool) ($rawflagint & 0x00000001);
+
+		$flags['item_contents']     = $this->APEcontentTypeFlagLookup($flags['item_contents_raw']);
+
+		return $flags;
+	}
+
+	public function APEcontentTypeFlagLookup($contenttypeid) {
+		static $APEcontentTypeFlagLookup = array(
+			0 => 'utf-8',
+			1 => 'binary',
+			2 => 'external',
+			3 => 'reserved'
+		);
+		return (isset($APEcontentTypeFlagLookup[$contenttypeid]) ? $APEcontentTypeFlagLookup[$contenttypeid] : 'invalid');
+	}
+
+	public function APEtagItemIsUTF8Lookup($itemkey) {
+		static $APEtagItemIsUTF8Lookup = array(
+			'title',
+			'subtitle',
+			'artist',
+			'album',
+			'debut album',
+			'publisher',
+			'conductor',
+			'track',
+			'composer',
+			'comment',
+			'copyright',
+			'publicationright',
+			'file',
+			'year',
+			'record date',
+			'record location',
+			'genre',
+			'media',
+			'related',
+			'isrc',
+			'abstract',
+			'language',
+			'bibliography'
+		);
+		return in_array(strtolower($itemkey), $APEtagItemIsUTF8Lookup);
+	}
+
+}

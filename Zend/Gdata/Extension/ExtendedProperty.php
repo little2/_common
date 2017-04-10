@@ -1,43 +1,106 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
+<?php
+
+/**
+ * Zend Framework
+ *
+ * LICENSE
+ *
+ * This source file is subject to the new BSD license that is bundled
+ * with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://framework.zend.com/license/new-bsd
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@zend.com so we can send you a copy immediately.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Gdata
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ * @version    $Id: ExtendedProperty.php 16971 2009-07-22 18:05:45Z mikaelkael $
+ */
+
+/**
+ * @see Zend_Gdata_Extension
+ */
+require_once 'Zend/Gdata/Extension.php';
+
+/**
+ * Data model for gd:extendedProperty element, used by some Gdata
+ * services to implement arbitrary name/value pair storage
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Gdata
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+class Zend_Gdata_Extension_ExtendedProperty extends Zend_Gdata_Extension
+{
+
+    protected $_rootElement = 'extendedProperty';
+    protected $_name = null;
+    protected $_value = null;
+
+    public function __construct($name = null, $value = null)
+    {
+        parent::__construct();
+        $this->_name = $name;
+        $this->_value = $value;
+    }
+
+    public function getDOM($doc = null, $majorVersion = 1, $minorVersion = null)
+    {
+        $element = parent::getDOM($doc, $majorVersion, $minorVersion);
+        if ($this->_name !== null) {
+            $element->setAttribute('name', $this->_name);
+        }
+        if ($this->_value !== null) {
+            $element->setAttribute('value', $this->_value);
+        }
+        return $element;
+    }
+
+    protected function takeAttributeFromDOM($attribute)
+    {
+        switch ($attribute->localName) {
+        case 'name':
+            $this->_name = $attribute->nodeValue;
+            break;
+        case 'value':
+            $this->_value = $attribute->nodeValue;
+            break;
+        default:
+            parent::takeAttributeFromDOM($attribute);
+        }
+    }
+
+    public function __toString()
+    {
+        return $this->getName() . '=' . $this->getValue();
+    }
+
+    public function getName()
+    {
+        return $this->_name;
+    }
+
+    public function setName($value)
+    {
+        $this->_name = $value;
+        return $this;
+    }
+
+    public function getValue()
+    {
+        return $this->_value;
+    }
+
+    public function setValue($value)
+    {
+        $this->_value = $value;
+        return $this;
+    }
+
+}

@@ -1,91 +1,300 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
+<?php
+
+/**
+ * Zend Framework
+ *
+ * LICENSE
+ *
+ * This source file is subject to the new BSD license that is bundled
+ * with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://framework.zend.com/license/new-bsd
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@zend.com so we can send you a copy immediately.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage YouTube
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ * @version    $Id: PlaylistListEntry.php 18951 2009-11-12 16:26:19Z alexander $
+ */
+
+/**
+ * @see Zend_Gdata_YouTube
+ */
+require_once 'Zend/Gdata/YouTube.php';
+
+/**
+ * @see Zend_Gdata_Entry
+ */
+require_once 'Zend/Gdata/Entry.php';
+
+/**
+ * @see Zend_Gdata_Extension_FeedLink
+ */
+require_once 'Zend/Gdata/Extension/FeedLink.php';
+
+/**
+ * @see Zend_Gdata_YouTube_Extension_Description
+ */
+require_once 'Zend/Gdata/YouTube/Extension/Description.php';
+
+/**
+ * @see Zend_Gdata_YouTube_Extension_PlaylistId
+ */
+require_once 'Zend/Gdata/YouTube/Extension/PlaylistId.php';
+
+/**
+ * @see Zend_Gdata_YouTube_Extension_CountHint
+ */
+require_once 'Zend/Gdata/YouTube/Extension/CountHint.php';
+
+/**
+ * Represents the YouTube video playlist flavor of an Atom entry
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage YouTube
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+class Zend_Gdata_YouTube_PlaylistListEntry extends Zend_Gdata_Entry
+{
+
+    protected $_entryClassName = 'Zend_Gdata_YouTube_PlaylistListEntry';
+
+    /**
+     * Nested feed links
+     *
+     * @var array
+     */
+    protected $_feedLink = array();
+
+    /**
+     * Description of this playlist
+     *
+     * @deprecated Deprecated as of version 2 of the YouTube API.
+     * @var Zend_Gdata_YouTube_Extension_Description
+     */
+    protected $_description = null;
+
+    /**
+     * Id of this playlist
+     *
+     * @var Zend_Gdata_YouTube_Extension_PlaylistId
+     */
+    protected $_playlistId = null;
+
+    /**
+     * CountHint for this playlist.
+     *
+     * @var Zend_Gdata_YouTube_Extension_CountHint
+     */
+    protected $_countHint = null;
+
+    /**
+     * Creates a Playlist list entry, representing an individual playlist
+     * in a list of playlists, usually associated with an individual user.
+     *
+     * @param DOMElement $element (optional) DOMElement from which this
+     *          object should be constructed.
+     */
+    public function __construct($element = null)
+    {
+        $this->registerAllNamespaces(Zend_Gdata_YouTube::$namespaces);
+        parent::__construct($element);
+    }
+
+    /**
+     * Retrieves a DOMElement which corresponds to this element and all
+     * child properties.  This is used to build an entry back into a DOM
+     * and eventually XML text for sending to the server upon updates, or
+     * for application storage/persistence.
+     *
+     * @param DOMDocument $doc The DOMDocument used to construct DOMElements
+     * @return DOMElement The DOMElement representing this element and all
+     * child properties.
+     */
+    public function getDOM($doc = null, $majorVersion = 1, $minorVersion = null)
+    {
+        $element = parent::getDOM($doc, $majorVersion, $minorVersion);
+        if ($this->_description != null) {
+            $element->appendChild($this->_description->getDOM($element->ownerDocument));
+        }
+        if ($this->_countHint != null) {
+            $element->appendChild($this->_countHint->getDOM($element->ownerDocument));
+        }
+        if ($this->_playlistId != null) {
+            $element->appendChild($this->_playlistId->getDOM($element->ownerDocument));
+        }
+        if ($this->_feedLink != null) {
+            foreach ($this->_feedLink as $feedLink) {
+                $element->appendChild($feedLink->getDOM($element->ownerDocument));
+            }
+        }
+        return $element;
+    }
+
+    /**
+     * Creates individual Entry objects of the appropriate type and
+     * stores them in the $_entry array based upon DOM data.
+     *
+     * @param DOMNode $child The DOMNode to process
+     */
+    protected function takeChildFromDOM($child)
+    {
+        $absoluteNodeName = $child->namespaceURI . ':' . $child->localName;
+        switch ($absoluteNodeName) {
+        case $this->lookupNamespace('yt') . ':' . 'description':
+            $description = new Zend_Gdata_YouTube_Extension_Description();
+            $description->transferFromDOM($child);
+            $this->_description = $description;
+            break;
+        case $this->lookupNamespace('yt') . ':' . 'countHint':
+            $countHint = new Zend_Gdata_YouTube_Extension_CountHint();
+            $countHint->transferFromDOM($child);
+            $this->_countHint = $countHint;
+            break;
+        case $this->lookupNamespace('yt') . ':' . 'playlistId':
+            $playlistId = new Zend_Gdata_YouTube_Extension_PlaylistId();
+            $playlistId->transferFromDOM($child);
+            $this->_playlistId = $playlistId;
+            break;
+        case $this->lookupNamespace('gd') . ':' . 'feedLink':
+            $feedLink = new Zend_Gdata_Extension_FeedLink();
+            $feedLink->transferFromDOM($child);
+            $this->_feedLink[] = $feedLink;
+            break;
+        default:
+            parent::takeChildFromDOM($child);
+            break;
+        }
+    }
+
+    /**
+     * Sets the description relating to the playlist.
+     *
+     * @deprecated Deprecated as of version 2 of the YouTube API.
+     * @param Zend_Gdata_YouTube_Extension_Description $description The description relating to the video
+     * @return Zend_Gdata_YouTube_PlaylistListEntry Provides a fluent interface
+     */
+    public function setDescription($description = null)
+    {
+        if ($this->getMajorProtocolVersion() >= 2) {
+            $this->setSummary($description);
+        } else {
+            $this->_description = $description;
+        }
+        return $this;
+    }
+
+    /**
+     * Returns the description relating to the video.
+     *
+     * @return Zend_Gdata_YouTube_Extension_Description  The description
+     *         relating to the video
+     */
+    public function getDescription()
+    {
+        if ($this->getMajorProtocolVersion() >= 2) {
+            return $this->getSummary();
+        } else {
+            return $this->_description;
+        }
+    }
+
+    /**
+     * Returns the countHint relating to the playlist.
+     *
+     * The countHint is the number of videos on a playlist.
+     *
+     * @throws Zend_Gdata_App_VersionException
+     * @return Zend_Gdata_YouTube_Extension_CountHint  The count of videos on
+     *         a playlist.
+     */
+    public function getCountHint()
+    {
+        if (($this->getMajorProtocolVersion() == null) ||
+            ($this->getMajorProtocolVersion() == 1)) {
+            require_once 'Zend/Gdata/App/VersionException.php';
+            throw new Zend_Gdata_App_VersionException('The yt:countHint ' .
+                'element is not supported in versions earlier than 2.');
+        } else {
+            return $this->_countHint;
+        }
+    }
+
+    /**
+     * Returns the Id relating to the playlist.
+     *
+     * @throws Zend_Gdata_App_VersionException
+     * @return Zend_Gdata_YouTube_Extension_PlaylistId  The id of this playlist.
+     */
+    public function getPlaylistId()
+    {
+        if (($this->getMajorProtocolVersion() == null) ||
+            ($this->getMajorProtocolVersion() == 1)) {
+            require_once 'Zend/Gdata/App/VersionException.php';
+            throw new Zend_Gdata_App_VersionException('The yt:playlistId ' .
+                'element is not supported in versions earlier than 2.');
+        } else {
+            return $this->_playlistId;
+        }
+    }
+
+    /**
+     * Sets the array of embedded feeds related to the playlist
+     *
+     * @param array $feedLink The array of embedded feeds relating to the video
+     * @return Zend_Gdata_YouTube_PlaylistListEntry Provides a fluent interface
+     */
+    public function setFeedLink($feedLink = null)
+    {
+        $this->_feedLink = $feedLink;
+        return $this;
+    }
+
+    /**
+     * Get the feed link property for this entry.
+     *
+     * @see setFeedLink
+     * @param string $rel (optional) The rel value of the link to be found.
+     *          If null, the array of links is returned.
+     * @return mixed If $rel is specified, a Zend_Gdata_Extension_FeedLink
+     *          object corresponding to the requested rel value is returned
+     *          if found, or null if the requested value is not found. If
+     *          $rel is null or not specified, an array of all available
+     *          feed links for this entry is returned, or null if no feed
+     *          links are set.
+     */
+    public function getFeedLink($rel = null)
+    {
+        if ($rel == null) {
+            return $this->_feedLink;
+        } else {
+            foreach ($this->_feedLink as $feedLink) {
+                if ($feedLink->rel == $rel) {
+                    return $feedLink;
+                }
+            }
+            return null;
+        }
+    }
+
+    /**
+     * Returns the URL of the playlist video feed
+     *
+     * @return string The URL of the playlist video feed
+     */
+    public function getPlaylistVideoFeedUrl()
+    {
+        if ($this->getMajorProtocolVersion() >= 2) {
+            return $this->getContent()->getSrc();
+        } else {
+            return $this->getFeedLink(Zend_Gdata_YouTube::PLAYLIST_REL)->href;
+        }
+    }
+
+}

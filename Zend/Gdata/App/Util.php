@@ -1,41 +1,112 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-HR+cPpsPE6FgUe5KvoYjGEZIANOBwi+Lnj6B/f+i+RUdb2RLP5ATPIFvxNnil/RYc6wdlFfMzgjg
-72m4FK8/Ub/CiLX5GNr1bGORKzI5uqwof5dj3u/sY5Ga1a2kR8O9Aeldu6x0XMdEHmPottEFBKN7
-4YoJ4M5tAOKqJZc6NR8ShKtOkS2dzgAg2Tsu/tBHPwEFDORfM78sA5BlV//ni3kUenLQTlM5KBvZ
-uPkN24dVZVytQtbb8uFFweW+pYE9d3TmcNPNW82mphbbkkjP4srKxin0nvLAqBjte/hMVE1t5TtS
-Xen9DEOXZGYbum7i6e6XJo44DYQGWarL8QJ1NmusdTo25EAfMpLZbw75QKG3pdR3u/e4Dkedy6HS
-7DbkeBaejAq9i0n6dRxLjvaDC4zrqHmNWNnm1Dowp1XSs4q1qhrcV/Q2wRGwqxdt0o+/4VJ+zfOg
-SlhM+mXRTBATyuMGza6vXrorqOOjqWr2LnNr/YWKTWWb4e7PNO1xuMQNerPR6YFSyFqk8MhG9Avc
-9jXOqW5HTrMmpVwETgwvwb3Rff5zMzCZSBUzsbu1cXaok/ZcualRH3AT/wUQVotZMSiElWN4rQmm
-zMiPLo3KVhnPJseX71HkBknP9u21r4TznDOHI6qju3HOhYhhRFmXNCnlqy3jcNAuDc/bxLcijmik
-xgq96ymh77vXZL5pPXy7vBEjQlaDSV2XKFnFPg1jfsugcsg2FJYn5OCZLyDPBAmekKc/UReORyga
-Y9QLm1kaYwqouTntiL6PR4yL9ehWszGnRSNArnKkzG3mehI7J0w1IRxEJU/QJWBOb++wKkQ6PDyd
-qnY99ATym5l1zh0fNmYVhD1TN1/9A6pj/m5PUb3BtRuYR24nV2Ep5syvweej22gPD1AfxAH8uADu
-biJQgQW+pHHM+seitQikYjrmI1x7rCSCGTjfR+0hke/iJxUhvrBTH68VxRO5yYd4itoPeAT74gN+
-Mc9o4nkvjZBjmc3f5X+wJsnxkAQgZlgpVrVsh/zE8P/Rl7CQHIMfMHavIyLTeOvjHFUzXj18WGyL
-1lSsc/0LMKMewWYHyi5XDwwyS2KdXhz01CzprniAxaRP/5RfdvcyJJOKXbXdSXMMAc01GWw8lws5
-yEuccltcHG8DgYcgtOM5SmYVSjCH5tVGxxb8cs+SlLLhl/4F+qoSAqFu7V28J9ujGVEIe3fP+Bft
-eUPj3IdrMxreegMcKBAARXImZAnDlAt8Zxyn7JfR0svq9MTmDDUTjbsWZcljW/zmqpQJiQJulPGM
-RUWCSggFC1enZdpWrsGaN1oEmMXxRquEBN7BI5aMVM09ISoPIQqQ3qeASyGhxjlWM6/SO6M/XCZp
-btEOymIuC1NcsQLZK3jxRzbhzpulxojF+lenqaySwUm4aQnF3eDNYW6Hx/Vpw2wi+YMeQfE2EnHV
-hnZ+h5li3jJlLXhj7OnnDdTo//amz8g/vJWk4q9BH40zOOGf8DMXggeabgvNWVnmMQFs5D8Dx0PB
-LeI9rO3hy2C/6bxFL16Zr1UDJvptNbwO0U71+elFRxXgmfOsIa5TzIz0hZUpAW20n0HIBW8szKkl
-sXnFfVv2kN+VfTHGHAlhGFqEXfbnJNG8znlFkk9lp5FQTNKuM4I5pCc/XZsug9ozPaUYzdmWqylf
-fjMl4qXClGKFnBme/YCaHqzaN3SBDrZpkPp0FoSkoaRX/gdxYy5/FMzr68XCnBbsiyDrn12LVmBJ
-Mm8aYklz03TsmxLyR9TpNLoNqZie8t9ueuYYGnrCw7DFEr+LxGzlAwqpdKEqcPePqHDA2yRTa7d2
-18EF1fHjx98jQSrDO+Kn8QtLKlUB0ZODADL479czQLUmRfB/I+ZMUaREQvHuAvRbLFpAv7RE9Yu7
-YmXSA4ZHUnEURqedri5x65kFXIXfXoRAIcpbgPm25rXPD2az58DwhAKC1OVGsQ+Xq0YhAbMwwHvV
-r41Yjt2wrzEEmMMaWecLAywpWhMEAet+NGLXcjZEpmcjxCVx3E2CCw734ugPOV3X9kXtuxq0gy85
-8Est63C67ic//yYcrCvhBPWEPwa6CkQR6nAeIY3k/mkxAHFXFtthhZV1vxrROKdXHny7ansNQ4ii
-1NFnJ970QlnyvEXSC7lq3ufD6hda1E8Csm+Pi8Ty5J2+neuT/0v1/HRpTKGPo+6P5k9y2Y1lWb/1
-I6JaGAG34GAy90O1CzmA06AqEJfA0ZED9vAy95woHvCRUrrn2SDvFvlNTaK3r4xcmFdmu8ednVB0
-ZaH1h9sUIhAZ6Do8OntR86xN8PBPLUwTn/1Vfmnso2bg5bC0NslkngkQwrR1ahKlYQnK/QsPhL4A
-c8H54Sb8QJbp8eFpcUaH87Ph9ZvwrMga2Spi3qjvDTGi1Zb2YhsUfyO5UkDlFGRCaUaemqXRBCk/
-bRZ7hdMdsJzxlQfKRr8HofdaZ1b2Ojo5Yj/HK6V+aRR03/XWxLy5JaDX0aA7T+pMyAvYtDF8efnl
-2xQbdHFYc4DfYpMGv8PxATm3OulNNr3M+EybRFwJyQDSvtizbaX5XN+b90Hb9ixF7GS6+qW4sEwn
-SZNtDY0ZQjZ94y/7Q3Ix3M3/lKblBsp0L5bIeneOMJSsNUTFB/FbW5kC2tnlSTxnm5I2+cr/IOF5
-agwKL9XpUGTW5L/Cm30VVj6pWuYODXhHnhskPRlwl9q5EqIZCU5XMDwikH8ei6CXQGzoG6vYc4iG
-LKFVVc6faoSQIEb9femH5hZ0OeqhLLRznwZAsJWzf2yl1bNp2tB385xVGvOnV4Qo7TrhTTSOJPzy
-nleX40nZT+LF92X79L5KmE26TKEUdhyBlWCaNKkE2KlJ4e2ZP0w6uNcu0wShzMHdqIE7lTIuLF4=
+<?php
+
+/**
+ * Zend Framework
+ *
+ * LICENSE
+ *
+ * This source file is subject to the new BSD license that is bundled
+ * with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://framework.zend.com/license/new-bsd
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@zend.com so we can send you a copy immediately.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage App
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ * @version    $Id: Util.php 16971 2009-07-22 18:05:45Z mikaelkael $
+ */
+
+/**
+ * Utility class for static functions needed by Zend_Gdata_App
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage App
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+class Zend_Gdata_App_Util
+{
+
+    /**
+     *  Convert timestamp into RFC 3339 date string.
+     *  2005-04-19T15:30:00
+     *
+     * @param int $timestamp
+     * @throws Zend_Gdata_App_InvalidArgumentException
+     */
+    public static function formatTimestamp($timestamp)
+    {
+        $rfc3339 = '/^(\d{4})\-?(\d{2})\-?(\d{2})((T|t)(\d{2})\:?(\d{2})' .
+                   '\:?(\d{2})(\.\d{1,})?((Z|z)|([\+\-])(\d{2})\:?(\d{2})))?$/';
+
+        if (ctype_digit($timestamp)) {
+            return gmdate('Y-m-d\TH:i:sP', $timestamp);
+        } elseif (preg_match($rfc3339, $timestamp) > 0) {
+            // timestamp is already properly formatted
+            return $timestamp;
+        } else {
+            $ts = strtotime($timestamp);
+            if ($ts === false) {
+                require_once 'Zend/Gdata/App/InvalidArgumentException.php';
+                throw new Zend_Gdata_App_InvalidArgumentException("Invalid timestamp: $timestamp.");
+            }
+            return date('Y-m-d\TH:i:s', $ts);
+        }
+    }
+
+    /** Find the greatest key that is less than or equal to a given upper
+      * bound, and return the value associated with that key.
+      *
+      * @param integer|null $maximumKey The upper bound for keys. If null, the
+      *        maxiumum valued key will be found.
+      * @param array $collection An two-dimensional array of key/value pairs
+      *        to search through.
+      * @returns mixed The value corresponding to the located key.
+      * @throws Zend_Gdata_App_Exception Thrown if $collection is empty.
+      */
+    public static function findGreatestBoundedValue($maximumKey, $collection)
+    {
+        $found = false;
+        $foundKey = $maximumKey;
+
+        // Sanity check: Make sure that the collection isn't empty
+        if (sizeof($collection) == 0) {
+            require_once 'Zend/Gdata/App/Exception.php';
+            throw new Zend_Gdata_App_Exception("Empty namespace collection encountered.");
+        }
+
+        if ($maximumKey === null) {
+            // If the key is null, then we return the maximum available
+            $keys = array_keys($collection);
+            sort($keys);
+            $found = true;
+            $foundKey = end($keys);
+        } else {
+            // Otherwise, we optimistically guess that the current version
+            // will have a matching namespce. If that fails, we decrement the
+            // version until we find a match.
+            while (!$found && $foundKey >= 0) {
+                if (array_key_exists($foundKey, $collection))
+                    $found = true;
+                else
+                    $foundKey--;
+            }
+        }
+
+        // Guard: A namespace wasn't found. Either none were registered, or
+        // the current protcol version is lower than the maximum namespace.
+        if (!$found) {
+            require_once 'Zend/Gdata/App/Exception.php';
+            throw new Zend_Gdata_App_Exception("Namespace compatible with current protocol not found.");
+        }
+
+        return $foundKey;
+    }
+
+}

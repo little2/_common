@@ -1,108 +1,181 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-HR+cPsb461Xb7+5VP8EDEvSfgu6jwg0MSE1ew8EiW65wFNzW8at5lSW6PH2quI6ExCKvacjjWMFF
-CbUDMXC4q44led1JX301ZD1+mTGned2g1TS2nfHL31qeDo/spFXuA7RDTHsmFvmq4pTvMikAZimR
-ssymWiw2aV0Y8icijYemOcF6Aj0dvdAgN2I37EM/oyCbR1l71asGksBVCVoIiFjL8mUMLutvhm7l
-1Flym4CitOEQxtIwCk+La2uPi+xshccs0KkTqUkXDqPWWyrfOu9I/SHcJYHRV1561QsuNUo2XjK6
-+P2CQXDg0IogD6be9aeegb0m/mQQl56FECsmTxiZSHu1zFnLdsH12wI2PAffjRJwABhjs0HtMFbL
-PPrZKrgV/+hM5dGR2iQmnXT4eYs6yOsnkdoCaOtgwWHClMIKkj1L7E5UovaYplK13Rv9K4eVmG/P
-yq2JiORX4XmeFMPaR/O5eT8l3SIWri10nbpIX5C86WDkJoQrUj6vK2ZK1Qe36v5px3veoFQzMT4N
-4HJR5cYWTomWut5XcYPUXRBg51tyXr9f04MP61kW1LgZ9huvdsTHV/cxAGc1kUL/B1WHXXygZlBO
-QDPO8fksnRFyBJB5z4hhz2ihDanATavc56UF5pMU7dlvrVOeVCKNFqaQCLRqBWtIRalaDQ8i2vnJ
-CWmCbQ5HVBMf4FkJGc21cBrAkUjlS7P8u+1HKdZuyEuKoMKLqsrU43y2po7fhbm2tpdzNFDmO+gq
-J1QWbIM7vDursGXwZZbkQ8gEaIsYHNgJkT+66YywwkAt4BLLekG6fLUAi1I4wbbs1997Y+G0Fo8g
-slzU2jwmNj3moE5RDOXsrM1Xj5TvR6jecC4ny7gnrikiGFMJZfgAYZuJyM8kg6efrKbdp6zrl46D
-QDuMmVqhZji7BvXlfx8wjNCGNT3DTjg5oe4JtG+GYz2bfLy/zHxo4gClbh32fZ065s6g1gdg+HLE
-NFySSKk7bD5+vsR89otVlgZw14Wq+FcuMXcxXx0F8G4fwnBCkBXY521iFH596RaFkZNCpTqarUOL
-b9Hi4u7tn6zAj+kPqdHujyGi02PhPk7e3Ktx1yQ5Tujw26Um8tAaEjLzaKRv7IPmsA3lmAGKDjky
-w2istHI9Ut4kZEi4lzf1xGdwSyt0TgVpv+uYZo4SwAlDjjMyVDLrnfrd7c5/5yAbyx7cIuKbh7MR
-n4eZGIU/k3sHMqnppsLWe5eaL3jio7qcgy26hh7DA75tHUeJVf/X695P5zb+waWTIr17sv8ZrOzw
-hUZQtR4Vh9K+TJ2Bnrd2fd0J93FNKV1+2b+8TkfmDQkUepKY2szlX4sYz9qu7taOxCpMQE6PdhUc
-i0YnR8R0OJt5pLpDWPC20QsTHnBv1kBYJBlmaDPU2gTUyJ79o4NshvMUOs2ZM8qB0/QIfhHA+fBr
-zWSzeRYzCAlmMxhUvrmwSmTLcE7Dgd4tNlHfL0JY1yvwc3fJdpkMnmse1iz6frZrzwbRbeXxwC6X
-O5LilVjNl53Y6ERvS1g/+FkVvgXabY995BgOgbv++0+kj+K5/FpA02vupWqC6mjnHuVxnX2wjr73
-BWTthyjUTgsoTwttGeKLCwDRDL8qUtONXNxID1qf+vuuyoztBO2TR1fDgbJRWJ8VP2S3FSnm0eVG
-BGjaMnLzMbxafYluRpsPWU/ps5FcRyZU3k6UajeODT0EphyuQYQjTKW2SMJbYmU2+ttWA99dR1oi
-S0TcX4r/di+bXkfAE9XHMHiHPecXhCCvo3lMhrOvXv3tB4nZxWGBNjgRABT516vr5hDzVPPHQyZ0
-A1rp77U74LMjQJ6Z8XhAe0qtnvEVv54BcBThFRyM7V5xsboq/2/3NbZ56vkN+oqr/xmwmmNw6KBQ
-T9n2jEk8ivPfZ9hA0iA1daHPf+P51bt1zKne0wodhNXVkuWOCDVJIXQjol3V9Im9ZUWcgqjz7zIi
-TlV7KQzYADF9vj2LLxK61iGP9PsbDgVCfNSWEXJnvFkBVIa6c3LBuCK8EsWNtDwgmf9UHIhWRi7Z
-FZC3fAoDB/WJ+ZSwBuq6M8LGbJimpXUN0r2h+AMCJzoXW+Hgs2pD9dXt98bS9J8sc07HtJv+z37f
-pFoyud8S5Oqiz/BHA1qpjN+fq9MkDIdlug9NEZCu1OWJjflB3HnITOvWSD4abCxTG+LUULRPefHq
-Pz+sb01GDww0pNjcUNa+p81f8nNGzalMVEW2O7f0yk/w75ehMESAOibGfX7/+Gtyxl/rqmp83Ab3
-+Sl0Kki0QET3PiDw5s7QP+7b+Df9aqk9/n8+Pm05MYySopgqtsYbHUSX8jceeD3zNV1rqRk7KDFH
-wR/184gBTLx3gmlbbUDjRPCMl4uV/wktsFRCMOUHIgs2VYpw88sI4fdLt79b+a5rlEcAl5T/earo
-agC7JMS2pKHLRlhfyjCWa9ra95DOYpbkzpRI/BbKu04eXZ4502KXxiTFz5Yu24XpaohA2dbLHIt8
-jV1mIMXNEOY9xUPzDFhTCPr9hGOMs4NNq+HY5rniSWNCItKCWs45eJwbVIOmHMgHf0mwkPm+Lf0Z
-tsWqqauoTjj9IjITbvXjBv5tKl83fox1w/W6Gnyp5Hyx8dCEc2vK4ihH8U+VqwvXywvH38ipiGev
-fK6GYXCjVENs5F32g99499yJCi/5Nj7Jr1JFYom8XDqLDfJRQQuXS69DhLQ/Pdz4/KR/LXwUl3xf
-GJNUZdQ7rnd3bowLtBOkQaF0JnfM6x5t2MzUCQ092qL3Zg9FR6rMD2FQM37vdvQLhLKTk1uq2Sao
-bIFlqfsr1moVPH7whdNsdlLQ+5nndvJBWF/h2xEQGtOvjrOL2n+RMH1HP8ip1hr6npG1JS9EkFw9
-GE7xwae977XGcVH2ADhDAn36PQkSm6DmRjgpHBld9RheEV8XuLPNhDmAkQ0n08UK83j4vnGu1ZsR
-uMx9lfXvsAFFnLHscwW0GPprgosjzoJmrfV0IjIRsyU4y5bWzB4l4PvbmGY30ek7iWRUzwm6zjOZ
-S67ksJ3fSd2fOE9I1h41+c9GuVzi3rKrK5LlGfpJa795icy/rDHi3PcO5qdU7pNCto3fjZ8F5dch
-K9HJUbP1h1UZm1Q1dG10CbY70Un96aaVG8CjKC3MA1Uo14Ic39GQ2986KFeO1fXGHIwHZoyrgIDO
-EbuuMZ0I+HAmDb0N46Zu2iSv8MJpZUzjVlvAUM+vEjByum0KXFs0pEpIm8t8buOnmheY8qBnefu+
-CAJ3ovOa//ClZTsfCAW81fjiHUae3vETGmmAfGvjkEmIwlLz+0E/ysNz4PSJNfwcdByB9foQAf3P
-uhuH0fCSohD3XsgRQEblsga+00NwyzIT1Rk+m89pG/+WpeCVgruUT+bVZQF5YWAfDHe971XD/y6p
-121vrUJ3h6AkcM1hsoCVkAuwGjyVDPQlvPgsd5J0FvLZzptjUtRUBZ7xQMLu8FoqBb6x3rNkJJ56
-DLR7vW9jBJEwcClO8IoVGPNXPbWWaexO+E/D38PZRfhghNiZI6Ycm/0t+SYtnEcZ3XkZrqf2rr9Y
-71OjdBs2gN5l+zs/bPRRjM74e9GpBy5C0fP8AaOolFaE859CMMCZuR3lJ6dCqq3HV3wEBAamQBNa
-ANNmoc+u4SG5Zy13Tlev75WeTiIwxRsMVQNFd4zsJjBSssJTv1z2AC+V67lQ9cwNpj87wQ5nCcM5
-1nDaetXRo4wNWwoPO91ImmxZRQ2pz3X4YNF/dlTuJOknSocCRcKsSB3w9Z1hqfWPeFxZJjfaaqHP
-efPiphaOZzBlOpjrU3c1mtpsXdPMwLmqmVJ/bFqStm7emnXIoAwqtkqCoDsxMVo/dzoIdNNOaOF3
-MRGT0GXfpkw724FW7om2URIqwM2j0Z8xMW8loEdBGoYqZH9sK0jc59HxRUbfnbMqtGa45J/tl0S9
-RdW+qLUybv1ZLSk92VzGjeRorab0YLnat6eJRBDdXpyx19vHzzHoSJ2qILjp2+TNuSVaUh1AoRAL
-T0w2HQ1lbHVxkd09qbpjEwos9uzj/5aTocoAc4Kum/C1+rWvje4DZ24guxXut0g/skVm2+5jAwmT
-lzHUFvrBzigHxPzMGDazmcrBb+XtnrRjc822hWAqNcl4oKkNXWN7jAd1OBjyhfKUDsGajyBpriyk
-Kh6SCXKKLVqxb6TnxocR7N+nBJjjq5Hn0h9ijNWYy9a1V/AwptrVMz35vmwBkoNDEg2GZ+2Ur0g2
-JK+qmAfVwNSLLKt5uePSNY1dUYaM9t4nAPsEZ2m34uwfrs+icF7AneR3Z0JB/TVjWSNWOMuoDy4w
-Yt56C+75Imt6k9hL0Ep5ex6fpzH0GI8/BHs83kt8lQpWUmjdmzktyS8kyrD+rmeqZN8kDohN/8Rb
-3nw3hfAO9VY65Gd00jVf7PsbbxvRFR9rZqKc7mOoj6yU/s/vYzUuo5gIi0AE+9IdMY7JkeQv4eED
-MYrA6yqMBcEO2FtkrhhtPVEw4slkihSeN995mufQD75byV2Z0W5Bun9i6NdmIVeMM9mzkhhqgn42
-wpHbtmnrM+JZlZh8Xu4X2FEu4wYDXifnXzVRcOzigQSY+TthG3v8uGMqia6i1y1wJ6/bSbjVyAz6
-YM+zQ4tmsbF3b5buLQuMofUSR2AFudKWTCinx9QcBxR4IBXtX1yTu5hEH2VHvEUKr0hRNus/w3Ue
-gscYyopxGtJMa/xHuR6UnF3HIpJAFN8aMAbb/8dDT6MyeeYtwvH8qjvtoutTGWbfBZz8HnUMlVQT
-j2vdI4t/qWvB8KA3i8IIRoshP/MyHJSS0prfGbA6rOWdrGAeeJZqJbpy84o4KM/iYpNkVltipexH
-wug8K9R5mJjHiVs1edhJ/DHeD3h++lQ7r4dESp7srlZVEodDgvrwVGIhG2/PlnIDVyrQUNrEJPnk
-86ggGk16IAHNJ/e8j/mqlDELbz1q2dig6fiazaui4z6aMp7+ZHKfYNB/i57fXTfgPdL6ZL+D4h8k
-IeSqXg0tJc2jonsuzWGXk1gpZychDc5Ov4I7GOvJEjftU9xFLEcLxXV2pylsn12oOO6BW3KDgGqr
-BuePncNb987LABuFWU0MSFwHrdt90B06KHIZdOlYllSRSWDpOEcIGorJ0MjSNlcn2PNyAsYCXbcR
-ybHLi9JK4MH1wRito6sZoDcvjytJnrlY4zOftisX6/rN447aJLQQJuD8yxiN2haKMJ7z7RtRBO8o
-ctwOb9FnNDj/pRIDZW9VgmhnVWQ0uYNtVAHfILvhnXraggfmg3xmuO9YdxIaQJhzeqYHWZwlicp2
-jsVwtKQQqMATx0n6dA/wOqD9WQiCrMBTqwPCwdOWv5t6NaUmG2ZoX604AQwJ7b3OEbE5Px22P5T7
-j0aKEVPjRYN2v33SJ6j6gg1ZbdgD9oQNRXmHpmLlxF1HMK5J5HacJydBjztBiqyhsX0nckw0SBtj
-9efEYgvIAN2mGx9YFh83K+rIhuZHYgnuEX9gwwACjNQSs7VyrTIMNfBgUQy35t93TW/+AmssUCHK
-tCFV9XuJQ5d+4pWnk2eUeHkNAWks0gUYXsEnd0emXVkkoiybawDS2VLgWzCAgn7vHkiQyek2YhqS
-geYn7HitgLVPC5s3gcd2T5rz74Etrt7zEbQTojFLLbbwCiqEITtfzDH1JWx9CGlrCNU/kS8THx1o
-HI320cte4+fUd9SIMAgL5PwjBKQzy/mKYV83HHABaKlQTfVlLm8H7zAQWBjchq8+lrxw043gaP1z
-RBTIteYHRHn03EMyw6KXbzclD+3EPwVhznTmhh1zggPV9QuBhcEejKnAe1ntG4h/lcfTVFITa7u6
-RxK0BmAgmB5Vpn0V3khpZtTZENygZlvi+6x6lqCS21qcorNzVEa+3+EOipfOWycblsQOvaVEs9a2
-FGYvNjNvwocc5qwLPyq+2CREBhAwcHmJVFeH7rtFxysBEpadLedXIH0cXT6zjUUEzDD+0yfdP2Co
-uN9RgUlyt8bM2DfbhQO1U1VmBxRmXntQRc77kgyVlIcFPW4YGQtHAH22qK6ajIuzuDMS/eALcX7r
-OBu2Yfz6Lxu9laH6PvXOi39npv5YRQ3PIlRiBkJwGtW66qvVk7E/qPdrNSDurOcAmhHIriF2uGbi
-JAOInKWaU+hdbVXqkcpavKDi1nGR4wcUOXXKDw8SRBeHPwqsEQBPNeSD3I+1WsXqylOML//gH3NH
-NyQgX2l2cr7pwVjRoz+jzxZUTcVtLanA4FJrJ4/G2YP3i8tRDsq8YvAaWruYXGK1AjT/sDAj26K3
-h91MZl1ke6kGvXGL9NPv28ueC2LVurl94IzxfYvz6SNNyogH6eXEz1kG8P6bdmgySmSx+LYNLwts
-dpKPX3tZoi8WhyaYmDVufQaQoecGe0kC4Vz9X8yK58Pybw8ZJ439mth3dkVhvCnTMULqAfYHMyFg
-yfOngS0Bf81/AMK/cqu/Oo4QxbjHOWaBLvzb3m15vZI3XVPw10osfXk/zg+6MJ0vK9OrMvXohiaS
-/pGUowt9nyAsp7hIfI3l4L59MF/VouLkGOfs5pjeFSydpcJ7P/qEYkTCYfZMUW9GEW5eZfG5oXV+
-uIxtPycoXFj9YAisdQHOasLMQSVs9Fxw0VQ6uOnc4PWaTmLAr8N8STp7LBOMbzU6ZdCV+vp3jCVg
-dxHjP0nGol2i0vCG+8W+ATFBaKMzLFVvsSHniUPh/LcjeW1+i0AlmD4ISjxqZPHxrEyqOtIR8KT8
-riJuenjzd1UPYJJ1AgHq6FPFjYAo6iBLHHtio0c8ZMLddnpk6nJXHK6C9AE4d491vd59js0oqlUQ
-ZHcwMcmKhkgx9Ea5WBlJxCfUxteT1OwjuDrnVmhj/KlQBF7nKsp4NDOoSEQGT4NWJ3Iya1vgS88Q
-ASlbvyO2PGjdPfHQ7N87UL/KueJPuKzBqBsqqQq3SMfBac1zdClBXgp0G1Nwe91feq+KMjBbfK2b
-J6bNqrfLAvjnLAEsXv8c5/DZDwNQr+TYIbQnMvPizGdrw4KW9rLsYWCARde7gaZWz1v0V8N/rPni
-y43TdjsxBPK1iAEkdsdgHtmSDz1TlgLbUe16hM4fMITdMDm6j1yRQpWir1XfiGbIB8+lA2U3RxUW
-qXkxu19LBQZgT2sOYj8gxCdtSb5MmX977qmgA8NAtQXIKDxbM7qdYaWv4N9S7b32WCvDicaBMKcU
-QX1x08paooTcuNVW3gPftVKObbuRHFpRY786PA/wzX1CXmWTiYJ0XH/37AtUkPPdQwM5d7AuGUAi
-y1YcVP6K7O+nlGiNaeNAv/byDPz3LUCjd+nJcmn88YbU2fnyFUaP1XktNs8p5uHXez1GAJiYZpLl
-0vmxn5N5lvjotUCQjPRCNdTjO0k1RP5PntN1ZbBzlO3/2ZuqH6+8CGstGcJbDFaawV1DE7NBA/Z9
-1CiVckOl0qbGbkbKbFuEiW0JWsvLhEiLf9SnqdJaMm3cb4VnRL6As8g30ZCwjw2gPyEO73wRTCLh
-fwrg55y9wceeedT5kJ9Q1zg0Lf+Q4bC2SQ7lmj+me2Q+iWAE2rK0eGv6CLuv4UGkzhy6hLUS75+f
-sqz4bewqmmWow05G97wR7Os1R7YjGOv4pZIOcn+91h2DC6BbwdVWhdAyI4B6GDE9rcnjxTLGbfu6
-9VR6HHpiWfNSFHfIHUShwtiuYqn+7cO2b4NFn+AtzvrL5KRCGn8qnct1q+iFoH1kS4kKEZ31iyzX
-UhSndMnAHpgM8o9Qd47WJZDZjmMtpKzxKua0PmDaW3ikNPL4EcuRj56dBMjYkRELP3WzrZB2CDwA
-P5YS0Hfj+1UnuVC1wI3BiQiRDgBA5MsnPk48jF5mHI2ISWGEU55Nu0vZ7zbsUHU+31RnJzL5i5pD
-WzERwZNm2N1z6UCOntO86qG8/M2Co3Aac1DEgW==
+<?php
+/////////////////////////////////////////////////////////////////
+/// getID3() by James Heinrich <info@getid3.org>               //
+//  available at http://getid3.sourceforge.net                 //
+//            or http://www.getid3.org                         //
+/////////////////////////////////////////////////////////////////
+// See readme.txt for more details                             //
+/////////////////////////////////////////////////////////////////
+//                                                             //
+// module.audio.shorten.php                                    //
+// module for analyzing Shorten Audio files                    //
+// dependencies: NONE                                          //
+//                                                            ///
+/////////////////////////////////////////////////////////////////
+
+
+class getid3_shorten extends getid3_handler
+{
+
+	public function Analyze() {
+		$info = &$this->getid3->info;
+
+		fseek($this->getid3->fp, $info['avdataoffset'], SEEK_SET);
+
+		$ShortenHeader = fread($this->getid3->fp, 8);
+		$magic = 'ajkg';
+		if (substr($ShortenHeader, 0, 4) != $magic) {
+			$info['error'][] = 'Expecting "'.getid3_lib::PrintHexBytes($magic).'" at offset '.$info['avdataoffset'].', found "'.getid3_lib::PrintHexBytes(substr($ShortenHeader, 0, 4)).'"';
+			return false;
+		}
+		$info['fileformat']            = 'shn';
+		$info['audio']['dataformat']   = 'shn';
+		$info['audio']['lossless']     = true;
+		$info['audio']['bitrate_mode'] = 'vbr';
+
+		$info['shn']['version'] = getid3_lib::LittleEndian2Int(substr($ShortenHeader, 4, 1));
+
+		fseek($this->getid3->fp, $info['avdataend'] - 12, SEEK_SET);
+		$SeekTableSignatureTest = fread($this->getid3->fp, 12);
+		$info['shn']['seektable']['present'] = (bool) (substr($SeekTableSignatureTest, 4, 8) == 'SHNAMPSK');
+		if ($info['shn']['seektable']['present']) {
+			$info['shn']['seektable']['length'] = getid3_lib::LittleEndian2Int(substr($SeekTableSignatureTest, 0, 4));
+			$info['shn']['seektable']['offset'] = $info['avdataend'] - $info['shn']['seektable']['length'];
+			fseek($this->getid3->fp, $info['shn']['seektable']['offset'], SEEK_SET);
+			$SeekTableMagic = fread($this->getid3->fp, 4);
+			$magic = 'SEEK';
+			if ($SeekTableMagic != $magic) {
+
+				$info['error'][] = 'Expecting "'.getid3_lib::PrintHexBytes($magic).'" at offset '.$info['shn']['seektable']['offset'].', found "'.getid3_lib::PrintHexBytes($SeekTableMagic).'"';
+				return false;
+
+			} else {
+
+				// typedef struct tag_TSeekEntry
+				// {
+				//   unsigned long SampleNumber;
+				//   unsigned long SHNFileByteOffset;
+				//   unsigned long SHNLastBufferReadPosition;
+				//   unsigned short SHNByteGet;
+				//   unsigned short SHNBufferOffset;
+				//   unsigned short SHNFileBitOffset;
+				//   unsigned long SHNGBuffer;
+				//   unsigned short SHNBitShift;
+				//   long CBuf0[3];
+				//   long CBuf1[3];
+				//   long Offset0[4];
+				//   long Offset1[4];
+				// }TSeekEntry;
+
+				$SeekTableData = fread($this->getid3->fp, $info['shn']['seektable']['length'] - 16);
+				$info['shn']['seektable']['entry_count'] = floor(strlen($SeekTableData) / 80);
+				//$info['shn']['seektable']['entries'] = array();
+				//$SeekTableOffset = 0;
+				//for ($i = 0; $i < $info['shn']['seektable']['entry_count']; $i++) {
+				//	$SeekTableEntry['sample_number'] = getid3_lib::LittleEndian2Int(substr($SeekTableData, $SeekTableOffset, 4));
+				//	$SeekTableOffset += 4;
+				//	$SeekTableEntry['shn_file_byte_offset'] = getid3_lib::LittleEndian2Int(substr($SeekTableData, $SeekTableOffset, 4));
+				//	$SeekTableOffset += 4;
+				//	$SeekTableEntry['shn_last_buffer_read_position'] = getid3_lib::LittleEndian2Int(substr($SeekTableData, $SeekTableOffset, 4));
+				//	$SeekTableOffset += 4;
+				//	$SeekTableEntry['shn_byte_get'] = getid3_lib::LittleEndian2Int(substr($SeekTableData, $SeekTableOffset, 2));
+				//	$SeekTableOffset += 2;
+				//	$SeekTableEntry['shn_buffer_offset'] = getid3_lib::LittleEndian2Int(substr($SeekTableData, $SeekTableOffset, 2));
+				//	$SeekTableOffset += 2;
+				//	$SeekTableEntry['shn_file_bit_offset'] = getid3_lib::LittleEndian2Int(substr($SeekTableData, $SeekTableOffset, 2));
+				//	$SeekTableOffset += 2;
+				//	$SeekTableEntry['shn_gbuffer'] = getid3_lib::LittleEndian2Int(substr($SeekTableData, $SeekTableOffset, 4));
+				//	$SeekTableOffset += 4;
+				//	$SeekTableEntry['shn_bit_shift'] = getid3_lib::LittleEndian2Int(substr($SeekTableData, $SeekTableOffset, 2));
+				//	$SeekTableOffset += 2;
+				//	for ($j = 0; $j < 3; $j++) {
+				//		$SeekTableEntry['cbuf0'][$j] = getid3_lib::LittleEndian2Int(substr($SeekTableData, $SeekTableOffset, 4));
+				//		$SeekTableOffset += 4;
+				//	}
+				//	for ($j = 0; $j < 3; $j++) {
+				//		$SeekTableEntry['cbuf1'][$j] = getid3_lib::LittleEndian2Int(substr($SeekTableData, $SeekTableOffset, 4));
+				//		$SeekTableOffset += 4;
+				//	}
+				//	for ($j = 0; $j < 4; $j++) {
+				//		$SeekTableEntry['offset0'][$j] = getid3_lib::LittleEndian2Int(substr($SeekTableData, $SeekTableOffset, 4));
+				//		$SeekTableOffset += 4;
+				//	}
+				//	for ($j = 0; $j < 4; $j++) {
+				//		$SeekTableEntry['offset1'][$j] = getid3_lib::LittleEndian2Int(substr($SeekTableData, $SeekTableOffset, 4));
+				//		$SeekTableOffset += 4;
+				//	}
+				//
+				//	$info['shn']['seektable']['entries'][] = $SeekTableEntry;
+				//}
+
+			}
+
+		}
+
+		if (preg_match('#(1|ON)#i', ini_get('safe_mode'))) {
+			$info['error'][] = 'PHP running in Safe Mode - backtick operator not available, cannot run shntool to analyze Shorten files';
+			return false;
+		}
+
+		if (GETID3_OS_ISWINDOWS) {
+
+			$RequiredFiles = array('shorten.exe', 'cygwin1.dll', 'head.exe');
+			foreach ($RequiredFiles as $required_file) {
+				if (!is_readable(GETID3_HELPERAPPSDIR.$required_file)) {
+					$info['error'][] = GETID3_HELPERAPPSDIR.$required_file.' does not exist';
+					return false;
+				}
+			}
+			$commandline = GETID3_HELPERAPPSDIR.'shorten.exe -x "'.$info['filenamepath'].'" - | '.GETID3_HELPERAPPSDIR.'head.exe -c 64';
+			$commandline = str_replace('/', '\\', $commandline);
+
+		} else {
+
+			static $shorten_present;
+			if (!isset($shorten_present)) {
+				$shorten_present = file_exists('/usr/local/bin/shorten') || `which shorten`;
+			}
+			if (!$shorten_present) {
+				$info['error'][] = 'shorten binary was not found in path or /usr/local/bin';
+				return false;
+			}
+			$commandline = (file_exists('/usr/local/bin/shorten') ? '/usr/local/bin/' : '' ) . 'shorten -x '.escapeshellarg($info['filenamepath']).' - | head -c 64';
+
+		}
+
+		$output = `$commandline`;
+
+		if (!empty($output) && (substr($output, 12, 4) == 'fmt ')) {
+
+			getid3_lib::IncludeDependency(GETID3_INCLUDEPATH.'module.audio-video.riff.php', __FILE__, true);
+
+			$fmt_size = getid3_lib::LittleEndian2Int(substr($output, 16, 4));
+			$DecodedWAVFORMATEX = getid3_riff::parseWAVEFORMATex(substr($output, 20, $fmt_size));
+			$info['audio']['channels']        = $DecodedWAVFORMATEX['channels'];
+			$info['audio']['bits_per_sample'] = $DecodedWAVFORMATEX['bits_per_sample'];
+			$info['audio']['sample_rate']     = $DecodedWAVFORMATEX['sample_rate'];
+
+			if (substr($output, 20 + $fmt_size, 4) == 'data') {
+
+				$info['playtime_seconds'] = getid3_lib::LittleEndian2Int(substr($output, 20 + 4 + $fmt_size, 4)) / $DecodedWAVFORMATEX['raw']['nAvgBytesPerSec'];
+
+			} else {
+
+				$info['error'][] = 'shorten failed to decode DATA chunk to expected location, cannot determine playtime';
+				return false;
+
+			}
+
+			$info['audio']['bitrate'] = (($info['avdataend'] - $info['avdataoffset']) / $info['playtime_seconds']) * 8;
+
+		} else {
+
+			$info['error'][] = 'shorten failed to decode file to WAV for parsing';
+			return false;
+
+		}
+
+		return true;
+	}
+
+}

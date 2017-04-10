@@ -1,38 +1,142 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
-KvkqkuD/xGOjfgL7RRfv
+<?php
+
+/**
+ * Zend Framework
+ *
+ * LICENSE
+ *
+ * This source file is subject to the new BSD license that is bundled
+ * with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://framework.zend.com/license/new-bsd
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@zend.com so we can send you a copy immediately.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Gapps
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ * @version    $Id: Quota.php 16971 2009-07-22 18:05:45Z mikaelkael $
+ */
+
+/**
+ * @see Zend_Gdata_Extension
+ */
+require_once 'Zend/Gdata/Extension.php';
+
+/**
+ * @see Zend_Gdata_Gapps
+ */
+require_once 'Zend/Gdata/Gapps.php';
+
+/**
+ * Represents the apps:quota element used by the Apps data API. This is
+ * used to indicate the amount of storage space available to a user. Quotas
+ * may not be able to be set, depending on the domain used. This class
+ * is usually contained within an instance of Zend_Gdata_Gapps_UserEntry.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Gapps
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+class Zend_Gdata_Gapps_Extension_Quota extends Zend_Gdata_Extension
+{
+
+    protected $_rootNamespace = 'apps';
+    protected $_rootElement = 'quota';
+
+    /**
+     * The amount of storage space available to the user in megabytes.
+     *
+     * @var integer
+     */
+    protected $_limit = null;
+
+    /**
+     * Constructs a new Zend_Gdata_Gapps_Extension_Quota object.
+     *
+     * @param string $limit (optional) The limit, in bytes, for this quota.
+     */
+    public function __construct($limit = null)
+    {
+        $this->registerAllNamespaces(Zend_Gdata_Gapps::$namespaces);
+        parent::__construct();
+        $this->_limit = $limit;
+    }
+
+    /**
+     * Retrieves a DOMElement which corresponds to this element and all
+     * child properties.  This is used to build an entry back into a DOM
+     * and eventually XML text for sending to the server upon updates, or
+     * for application storage/persistence.
+     *
+     * @param DOMDocument $doc The DOMDocument used to construct DOMElements
+     * @return DOMElement The DOMElement representing this element and all
+     * child properties.
+     */
+    public function getDOM($doc = null, $majorVersion = 1, $minorVersion = null)
+    {
+        $element = parent::getDOM($doc, $majorVersion, $minorVersion);
+        if ($this->_limit !== null) {
+            $element->setAttribute('limit', $this->_limit);
+        }
+        return $element;
+    }
+
+    /**
+     * Given a DOMNode representing an attribute, tries to map the data into
+     * instance members.  If no mapping is defined, the name and value are
+     * stored in an array.
+     *
+     * @param DOMNode $attribute The DOMNode attribute needed to be handled
+     */
+    protected function takeAttributeFromDOM($attribute)
+    {
+        switch ($attribute->localName) {
+        case 'limit':
+            $this->_limit = $attribute->nodeValue;
+            break;
+        default:
+            parent::takeAttributeFromDOM($attribute);
+        }
+    }
+
+    /**
+     * Get the value for this element's limit attribute.
+     *
+     * @see setLimit
+     * @return string The requested attribute.
+     */
+    public function getLimit()
+    {
+        return $this->_limit;
+    }
+
+    /**
+     * Set the value for this element's limit attribute. This is the amount
+     * of storage space, in bytes, that should be made available to
+     * the associated user.
+     *
+     * @param string $value The desired value for this attribute.
+     * @return Zend_Gdata_Gapps_Extension_Quota Provides a fluent interface.
+     */
+    public function setLimit($value)
+    {
+        $this->_limit = $value;
+        return $this;
+    }
+
+    /**
+     * Magic toString method allows using this directly via echo
+     * Works best in PHP >= 4.2.0
+     */
+    public function __toString()
+    {
+        return $this->getLimit();
+    }
+
+}

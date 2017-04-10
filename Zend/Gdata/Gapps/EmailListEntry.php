@@ -1,58 +1,214 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
-ipszJH4EGDbibI9Gr31U7IlV3eEmzhjoaH74
+<?php
+
+/**
+ * Zend Framework
+ *
+ * LICENSE
+ *
+ * This source file is subject to the new BSD license that is bundled
+ * with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://framework.zend.com/license/new-bsd
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@zend.com so we can send you a copy immediately.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Gapps
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ * @version    $Id: EmailListEntry.php 16971 2009-07-22 18:05:45Z mikaelkael $
+ */
+
+/**
+ * @see Zend_Gdata_Entry
+ */
+require_once 'Zend/Gdata/Entry.php';
+
+/**
+ * @see Zend_Gdata_Extension_FeedLink
+ */
+require_once 'Zend/Gdata/Extension/FeedLink.php';
+
+/**
+ * @see Zend_Gdata_Gapps_Extension_EmailList
+ */
+require_once 'Zend/Gdata/Gapps/Extension/EmailList.php';
+
+/**
+ * Data model class for a Google Apps Email List Entry.
+ *
+ * Each email list entry describes a single email list within a Google Apps
+ * hosted domain. Email lists may contain multiple recipients, as
+ * described by instances of Zend_Gdata_Gapps_EmailListRecipient. Multiple
+ * entries are contained within instances of Zend_Gdata_Gapps_EmailListFeed.
+ *
+ * To transfer email list entries to and from the Google Apps servers,
+ * including creating new entries, refer to the Google Apps service class,
+ * Zend_Gdata_Gapps.
+ *
+ * This class represents <atom:entry> in the Google Data protocol.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Gapps
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+class Zend_Gdata_Gapps_EmailListEntry extends Zend_Gdata_Entry
+{
+
+    protected $_entryClassName = 'Zend_Gdata_Gapps_EmailListEntry';
+
+    /**
+     * <apps:emailList> child element containing general information about
+     * this email list.
+     *
+     * @var Zend_Gdata_Gapps_Extension_EmailList
+     */
+    protected $_emailList = null;
+
+    /**
+     * <gd:feedLink> element containing information about other feeds
+     * relevant to this entry.
+     *
+     * @var Zend_Gdata_Extension_FeedLink
+     */
+    protected $_feedLink = array();
+
+    /**
+     * Create a new instance.
+     *
+     * @param DOMElement $element (optional) DOMElement from which this
+     *          object should be constructed.
+     */
+    public function __construct($element = null)
+    {
+        $this->registerAllNamespaces(Zend_Gdata_Gapps::$namespaces);
+        parent::__construct($element);
+    }
+
+    /**
+     * Retrieves a DOMElement which corresponds to this element and all
+     * child properties.  This is used to build an entry back into a DOM
+     * and eventually XML text for application storage/persistence.
+     *
+     * @param DOMDocument $doc The DOMDocument used to construct DOMElements
+     * @return DOMElement The DOMElement representing this element and all
+     *          child properties.
+     */
+    public function getDOM($doc = null, $majorVersion = 1, $minorVersion = null)
+    {
+        $element = parent::getDOM($doc, $majorVersion, $minorVersion);
+        if ($this->_emailList !== null) {
+            $element->appendChild($this->_emailList->getDOM($element->ownerDocument));
+        }
+        foreach ($this->_feedLink as $feedLink) {
+            $element->appendChild($feedLink->getDOM($element->ownerDocument));
+        }
+        return $element;
+    }
+
+    /**
+     * Creates individual Entry objects of the appropriate type and
+     * stores them as members of this entry based upon DOM data.
+     *
+     * @param DOMNode $child The DOMNode to process
+     */
+    protected function takeChildFromDOM($child)
+    {
+        $absoluteNodeName = $child->namespaceURI . ':' . $child->localName;
+
+        switch ($absoluteNodeName) {
+            case $this->lookupNamespace('apps') . ':' . 'emailList';
+                $emailList = new Zend_Gdata_Gapps_Extension_EmailList();
+                $emailList->transferFromDOM($child);
+                $this->_emailList = $emailList;
+                break;
+            case $this->lookupNamespace('gd') . ':' . 'feedLink';
+                $feedLink = new Zend_Gdata_Extension_FeedLink();
+                $feedLink->transferFromDOM($child);
+                $this->_feedLink[] = $feedLink;
+                break;
+            default:
+                parent::takeChildFromDOM($child);
+                break;
+        }
+    }
+
+    /**
+     * Retrieve the email list property for this entry.
+     *
+     * @see setEmailList
+     * @return Zend_Gdata_Gapps_Extension_EmailList The requested object
+     *              or null if not set.
+     */
+    public function getEmailList()
+    {
+        return $this->_emailList;
+    }
+
+    /**
+     * Set the email list property for this entry. This property contains
+     * information such as the name of this email list.
+     *
+     * This corresponds to the <apps:emailList> property in the Google Data
+     * protocol.
+     *
+     * @param Zend_Gdata_Gapps_Extension_EmailList $value The desired value
+     *              this element, or null to unset.
+     * @return Zend_Gdata_Gapps_EventEntry Provides a fluent interface
+     */
+    public function setEmailList($value)
+    {
+        $this->_emailList = $value;
+        return $this;
+    }
+
+    /**
+     * Get the feed link property for this entry.
+     *
+     * @see setFeedLink
+     * @param string $rel (optional) The rel value of the link to be found.
+     *          If null, the array of links is returned.
+     * @return mixed If $rel is specified, a Zend_Gdata_Extension_FeedLink
+     *          object corresponding to the requested rel value is returned
+     *          if found, or null if the requested value is not found. If
+     *          $rel is null or not specified, an array of all available
+     *          feed links for this entry is returned, or null if no feed
+     *          links are set.
+     */
+    public function getFeedLink($rel = null)
+    {
+        if ($rel == null) {
+            return $this->_feedLink;
+        } else {
+            foreach ($this->_feedLink as $feedLink) {
+                if ($feedLink->rel == $rel) {
+                    return $feedLink;
+                }
+            }
+            return null;
+        }
+    }
+
+    /**
+     * Set the feed link property for this entry. Feed links provide
+     * information about other feeds associated with this entry.
+     *
+     * This corresponds to the <gd:feedLink> property in the Google Data
+     * protocol.
+     *
+     * @param array $value A collection of Zend_Gdata_Gapps_Extension_FeedLink
+     *          instances representing all feed links for this entry, or
+     *          null to unset.
+     * @return Zend_Gdata_Gapps_EventEntry Provides a fluent interface
+     */
+    public function setFeedLink($value)
+    {
+        $this->_feedLink = $value;
+        return $this;
+    }
+
+}

@@ -1,269 +1,678 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
-wqOB
+<?php
+/**
+ * Zend Framework
+ *
+ * LICENSE
+ *
+ * This source file is subject to the new BSD license that is bundled
+ * with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://framework.zend.com/license/new-bsd
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@zend.com so we can send you a copy immediately.
+ *
+ * @category   Zend
+ * @package    Zend_Validate
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ * @version    $Id: Hostname.php 17141 2009-07-26 12:49:17Z thomas $
+ */
+
+/**
+ * @see Zend_Validate_Abstract
+ */
+require_once 'Zend/Validate/Abstract.php';
+
+/**
+ * @see Zend_Validate_Ip
+ */
+require_once 'Zend/Validate/Ip.php';
+
+/**
+ * Please note there are two standalone test scripts for testing IDN characters due to problems
+ * with file encoding.
+ *
+ * The first is tests/Zend/Validate/HostnameTestStandalone.php which is designed to be run on
+ * the command line.
+ *
+ * The second is tests/Zend/Validate/HostnameTestForm.php which is designed to be run via HTML
+ * to allow users to test entering UTF-8 characters in a form.
+ *
+ * @category   Zend
+ * @package    Zend_Validate
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+class Zend_Validate_Hostname extends Zend_Validate_Abstract
+{
+    const INVALID                 = 'hostnameInvalid';
+    const IP_ADDRESS_NOT_ALLOWED  = 'hostnameIpAddressNotAllowed';
+    const UNKNOWN_TLD             = 'hostnameUnknownTld';
+    const INVALID_DASH            = 'hostnameDashCharacter';
+    const INVALID_HOSTNAME_SCHEMA = 'hostnameInvalidHostnameSchema';
+    const UNDECIPHERABLE_TLD      = 'hostnameUndecipherableTld';
+    const INVALID_HOSTNAME        = 'hostnameInvalidHostname';
+    const INVALID_LOCAL_NAME      = 'hostnameInvalidLocalName';
+    const LOCAL_NAME_NOT_ALLOWED  = 'hostnameLocalNameNotAllowed';
+    const CANNOT_DECODE_PUNYCODE  = 'hostnameCannotDecodePunycode';
+
+    /**
+     * @var array
+     */
+    protected $_messageTemplates = array(
+        self::INVALID                 => "Invalid type given, value should be a string",
+        self::IP_ADDRESS_NOT_ALLOWED  => "'%value%' appears to be an IP address, but IP addresses are not allowed",
+        self::UNKNOWN_TLD             => "'%value%' appears to be a DNS hostname but cannot match TLD against known list",
+        self::INVALID_DASH            => "'%value%' appears to be a DNS hostname but contains a dash (-) in an invalid position",
+        self::INVALID_HOSTNAME_SCHEMA => "'%value%' appears to be a DNS hostname but cannot match against hostname schema for TLD '%tld%'",
+        self::UNDECIPHERABLE_TLD      => "'%value%' appears to be a DNS hostname but cannot extract TLD part",
+        self::INVALID_HOSTNAME        => "'%value%' does not match the expected structure for a DNS hostname",
+        self::INVALID_LOCAL_NAME      => "'%value%' does not appear to be a valid local network name",
+        self::LOCAL_NAME_NOT_ALLOWED  => "'%value%' appears to be a local network name but local network names are not allowed",
+        self::CANNOT_DECODE_PUNYCODE  => "'%value%' appears to be a DNS hostname but the given punycode notation cannot be decoded"
+    );
+
+    /**
+     * @var array
+     */
+    protected $_messageVariables = array(
+        'tld' => '_tld'
+    );
+
+    /**
+     * Allows Internet domain names (e.g., example.com)
+     */
+    const ALLOW_DNS   = 1;
+
+    /**
+     * Allows IP addresses
+     */
+    const ALLOW_IP    = 2;
+
+    /**
+     * Allows local network names (e.g., localhost, www.localdomain)
+     */
+    const ALLOW_LOCAL = 4;
+
+    /**
+     * Allows all types of hostnames
+     */
+    const ALLOW_ALL   = 7;
+
+    /**
+     * Whether IDN domains are validated
+     *
+     * @var boolean
+     */
+    private $_validateIdn = true;
+
+    /**
+     * Whether TLDs are validated against a known list
+     *
+     * @var boolean
+     */
+    private $_validateTld = true;
+
+    /**
+     * Bit field of ALLOW constants; determines which types of hostnames are allowed
+     *
+     * @var integer
+     */
+    protected $_allow;
+
+    /**
+     * Array of valid top-level-domains
+     *
+     * @see ftp://data.iana.org/TLD/tlds-alpha-by-domain.txt  List of all TLDs by domain
+     * @see http://www.iana.org/domains/root/db/ Official list of supported TLDs
+     * @var array
+     */
+    protected $_validTlds = array(
+        'ac', 'ad', 'ae', 'aero', 'af', 'ag', 'ai', 'al', 'am', 'an', 'ao', 'aq', 'ar', 'arpa',
+        'as', 'asia', 'at', 'au', 'aw', 'ax', 'az', 'ba', 'bb', 'bd', 'be', 'bf', 'bg', 'bh', 'bi',
+        'biz', 'bj', 'bm', 'bn', 'bo', 'br', 'bs', 'bt', 'bv', 'bw', 'by', 'bz', 'ca', 'cat', 'cc',
+        'cd', 'cf', 'cg', 'ch', 'ci', 'ck', 'cl', 'cm', 'cn', 'co', 'com', 'coop', 'cr', 'cu',
+        'cv', 'cx', 'cy', 'cz', 'de', 'dj', 'dk', 'dm', 'do', 'dz', 'ec', 'edu', 'ee', 'eg', 'er',
+        'es', 'et', 'eu', 'fi', 'fj', 'fk', 'fm', 'fo', 'fr', 'ga', 'gb', 'gd', 'ge', 'gf', 'gg',
+        'gh', 'gi', 'gl', 'gm', 'gn', 'gov', 'gp', 'gq', 'gr', 'gs', 'gt', 'gu', 'gw', 'gy', 'hk',
+        'hm', 'hn', 'hr', 'ht', 'hu', 'id', 'ie', 'il', 'im', 'in', 'info', 'int', 'io', 'iq',
+        'ir', 'is', 'it', 'je', 'jm', 'jo', 'jobs', 'jp', 'ke', 'kg', 'kh', 'ki', 'km', 'kn', 'kp',
+        'kr', 'kw', 'ky', 'kz', 'la', 'lb', 'lc', 'li', 'lk', 'lr', 'ls', 'lt', 'lu', 'lv', 'ly',
+        'ma', 'mc', 'md', 'me', 'mg', 'mh', 'mil', 'mk', 'ml', 'mm', 'mn', 'mo', 'mobi', 'mp',
+        'mq', 'mr', 'ms', 'mt', 'mu', 'museum', 'mv', 'mw', 'mx', 'my', 'mz', 'na', 'name', 'nc',
+        'ne', 'net', 'nf', 'ng', 'ni', 'nl', 'no', 'np', 'nr', 'nu', 'nz', 'om', 'org', 'pa', 'pe',
+        'pf', 'pg', 'ph', 'pk', 'pl', 'pm', 'pn', 'pr', 'pro', 'ps', 'pt', 'pw', 'py', 'qa', 're',
+        'ro', 'rs', 'ru', 'rw', 'sa', 'sb', 'sc', 'sd', 'se', 'sg', 'sh', 'si', 'sj', 'sk', 'sl',
+        'sm', 'sn', 'so', 'sr', 'st', 'su', 'sv', 'sy', 'sz', 'tc', 'td', 'tel', 'tf', 'tg', 'th',
+        'tj', 'tk', 'tl', 'tm', 'tn', 'to', 'tp', 'tr', 'travel', 'tt', 'tv', 'tw', 'tz', 'ua',
+        'ug', 'uk', 'um', 'us', 'uy', 'uz', 'va', 'vc', 've', 'vg', 'vi', 'vn', 'vu', 'wf', 'ws',
+        'ye', 'yt', 'yu', 'za', 'zm', 'zw'
+    );
+
+    /**
+     * @var string
+     */
+    protected $_tld;
+
+    /**
+     * Array for valid Idns
+     * @see http://www.iana.org/domains/idn-tables/ Official list of supported IDN Chars
+     * (.AC) Ascension Island http://www.nic.ac/pdf/AC-IDN-Policy.pdf
+     * (.AR) Argentinia http://www.nic.ar/faqidn.html
+     * (.AS) American Samoa http://www.nic.as/idn/chars.cfm
+     * (.AT) Austria http://www.nic.at/en/service/technical_information/idn/charset_converter/
+     * (.BIZ) International http://www.iana.org/domains/idn-tables/
+     * (.BR) Brazil http://registro.br/faq/faq6.html
+     * (.BV) Bouvett Island http://www.norid.no/domeneregistrering/idn/idn_nyetegn.en.html
+     * (.CAT) Catalan http://www.iana.org/domains/idn-tables/tables/cat_ca_1.0.html
+     * (.CH) Switzerland https://nic.switch.ch/reg/ocView.action?res=EF6GW2JBPVTG67DLNIQXU234MN6SC33JNQQGI7L6#anhang1
+     * (.CL) Chile http://www.iana.org/domains/idn-tables/tables/cl_latn_1.0.html
+     * (.COM) International http://www.verisign.com/information-services/naming-services/internationalized-domain-names/index.html
+     * (.DE) Germany http://www.denic.de/en/domains/idns/liste.html
+     * (.DK) Danmark http://www.dk-hostmaster.dk/index.php?id=151
+     * (.ES) Spain https://www.nic.es/media/2008-05/1210147705287.pdf
+     * (.FI) Finland http://www.ficora.fi/en/index/palvelut/fiverkkotunnukset/aakkostenkaytto.html
+     * (.GR) Greece https://grweb.ics.forth.gr/CharacterTable1_en.jsp
+     * (.HU) Hungary http://www.domain.hu/domain/English/szabalyzat/szabalyzat.html
+     * (.INFO) International http://www.nic.info/info/idn
+     * (.IO) British Indian Ocean Territory http://www.nic.io/IO-IDN-Policy.pdf
+     * (.IR) Iran http://www.nic.ir/Allowable_Characters_dot-iran
+     * (.IS) Iceland http://www.isnic.is/domain/rules.php
+     * (.KR) Korea http://www.iana.org/domains/idn-tables/tables/kr_ko-kr_1.0.html
+     * (.LI) Liechtenstein https://nic.switch.ch/reg/ocView.action?res=EF6GW2JBPVTG67DLNIQXU234MN6SC33JNQQGI7L6#anhang1
+     * (.LT) Lithuania http://www.domreg.lt/static/doc/public/idn_symbols-en.pdf
+     * (.MD) Moldova http://www.register.md/
+     * (.MUSEUM) International http://www.iana.org/domains/idn-tables/tables/museum_latn_1.0.html
+     * (.NET) International http://www.verisign.com/information-services/naming-services/internationalized-domain-names/index.html
+     * (.NO) Norway http://www.norid.no/domeneregistrering/idn/idn_nyetegn.en.html
+     * (.NU) Niue http://www.worldnames.net/
+     * (.ORG) International http://www.pir.org/index.php?db=content/FAQs&tbl=FAQs_Registrant&id=2
+     * (.PE) Peru https://www.nic.pe/nuevas_politicas_faq_2.php
+     * (.PL) Poland http://www.dns.pl/IDN/allowed_character_sets.pdf
+     * (.PR) Puerto Rico http://www.nic.pr/idn_rules.asp
+     * (.PT) Portugal https://online.dns.pt/dns_2008/do?com=DS;8216320233;111;+PAGE(4000058)+K-CAT-CODIGO(C.125)+RCNT(100);
+     * (.RU) Russia http://www.iana.org/domains/idn-tables/tables/ru_ru-ru_1.0.html
+     * (.SA) Saudi Arabia http://www.iana.org/domains/idn-tables/tables/sa_ar_1.0.html
+     * (.SE) Sweden http://www.iis.se/english/IDN_campaignsite.shtml?lang=en
+     * (.SH) Saint Helena http://www.nic.sh/SH-IDN-Policy.pdf
+     * (.SJ) Svalbard and Jan Mayen http://www.norid.no/domeneregistrering/idn/idn_nyetegn.en.html
+     * (.TH) Thailand http://www.iana.org/domains/idn-tables/tables/th_th-th_1.0.html
+     * (.TM) Turkmenistan http://www.nic.tm/TM-IDN-Policy.pdf
+     * (.TR) Turkey https://www.nic.tr/index.php
+     * (.VE) Venice http://www.iana.org/domains/idn-tables/tables/ve_es_1.0.html
+     * (.VN) Vietnam http://www.vnnic.vn/english/5-6-300-2-2-04-20071115.htm#1.%20Introduction
+     *
+     * @var array
+     */
+    protected $_validIdns = array(
+        'AC'  => array(1 => '/^[\x{002d}0-9a-zà-öø-ÿāăąćĉċčďđēėęěĝġģĥħīįĵķĺļľŀłńņňŋőœŕŗřśŝşšţťŧūŭůűųŵŷźżž]{1,63}$/iu'),
+        'AR'  => array(1 => '/^[\x{002d}0-9a-zà-ãç-êìíñ-õü]{1,63}$/iu'),
+        'AS'  => array(1 => '/^[\x{002d}0-9a-zà-öø-ÿāăąćĉċčďđēĕėęěĝğġģĥħĩīĭįıĵķĸĺļľłńņňŋōŏőœŕŗřśŝşšţťŧũūŭůűųŵŷźż]{1,63}$/iu'),
+        'AT'  => array(1 => '/^[\x{002d}0-9a-zà-öø-ÿœšž]{1,63}$/iu'),
+        'BIZ' => 'Hostname/Biz.php',
+        'BR'  => array(1 => '/^[\x{002d}0-9a-zà-ãçéíó-õúü]{1,63}$/iu'),
+        'BV'  => array(1 => '/^[\x{002d}0-9a-zàáä-éêñ-ôöøüčđńŋšŧž]{1,63}$/iu'),
+        'CAT' => array(1 => '/^[\x{002d}0-9a-z·àç-éíïòóúü]{1,63}$/iu'),
+        'CH'  => array(1 => '/^[\x{002d}0-9a-zà-öø-ÿœ]{1,63}$/iu'),
+        'CL'  => array(1 => '/^[\x{002d}0-9a-záéíñóúü]{1,63}$/iu'),
+        'CN'  => 'Hostname/Cn.php',
+        'COM' => 'Zend/Validate/Hostname/Com.php',
+        'DE'  => array(1 => '/^[\x{002d}0-9a-zà-öø-ÿăąāćĉčċďđĕěėęēğĝġģĥħĭĩįīıĵķĺľļłńňņŋŏőōœĸŕřŗśŝšşťţŧŭůűũųūŵŷźžż]{1,63}$/iu'),
+        'DK'  => array(1 => '/^[\x{002d}0-9a-zäéöü]{1,63}$/iu'),
+        'ES'  => array(1 => '/^[\x{002d}0-9a-zàáçèéíïñòóúü·]{1,63}$/iu'),
+        'FI'  => array(1 => '/^[\x{002d}0-9a-zäåö]{1,63}$/iu'),
+        'GR'  => array(1 => '/^[\x{002d}0-9a-zΆΈΉΊΌΎ-ΡΣ-ώἀ-ἕἘ-Ἕἠ-ὅὈ-Ὅὐ-ὗὙὛὝὟ-ώᾀ-ᾴᾶ-ᾼῂῃῄῆ-ῌῐ-ΐῖ-Ίῠ-Ῥῲῳῴῶ-ῼ]{1,63}$/iu'),
+        'HK'  => 'Zend/Validate/Hostname/Cn.php',
+        'HU'  => array(1 => '/^[\x{002d}0-9a-záéíóöúüőű]{1,63}$/iu'),
+        'INFO'=> array(1 => '/^[\x{002d}0-9a-zäåæéöøü]{1,63}$/iu',
+            2 => '/^[\x{002d}0-9a-záéíóöúüőű]{1,63}$/iu',
+            3 => '/^[\x{002d}0-9a-záæéíðóöúýþ]{1,63}$/iu',
+            4 => '/^[\x{AC00}-\x{D7A3}]{1,17}$/iu',
+            5 => '/^[\x{002d}0-9a-zāčēģīķļņōŗšūž]{1,63}$/iu',
+            6 => '/^[\x{002d}0-9a-ząčėęįšūųž]{1,63}$/iu',
+            7 => '/^[\x{002d}0-9a-zóąćęłńśźż]{1,63}$/iu',
+            8 => '/^[\x{002d}0-9a-záéíñóúü]{1,63}$/iu'),
+        'IO'  => array(1 => '/^[\x{002d}0-9a-zà-öø-ÿăąāćĉčċďđĕěėęēğĝġģĥħĭĩįīıĵķĺľļłńňņŋŏőōœĸŕřŗśŝšşťţŧŭůűũųūŵŷźžż]{1,63}$/iu'),
+        'IS'  => array(1 => '/^[\x{002d}0-9a-záéýúíóþæöð]{1,63}$/iu'),
+        'JP'  => 'Zend/Validate/Hostname/Jp.php',
+        'KR'  => array(1 => '/^[\x{AC00}-\x{D7A3}]{1,17}$/iu'),
+        'LI'  => array(1 => '/^[\x{002d}0-9a-zà-öø-ÿœ]{1,63}$/iu'),
+        'LT'  => array(1 => '/^[\x{002d}0-9ąčęėįšųūž]{1,63}$/iu'),
+        'MD'  => array(1 => '/^[\x{002d}0-9ăâîşţ]{1,63}$/iu'),
+        'MUSEUM' => array(1 => '/^[\x{002d}0-9a-zà-öø-ÿāăąćċčďđēėęěğġģħīįıķĺļľłńņňŋōőœŕŗřśşšţťŧūůűųŵŷźżžǎǐǒǔ\x{01E5}\x{01E7}\x{01E9}\x{01EF}ə\x{0292}ẁẃẅỳ]{1,63}$/iu'),
+        'NET' => 'Zend/Validate/Hostname/Com.php',
+        'NO'  => array(1 => '/^[\x{002d}0-9a-zàáä-éêñ-ôöøüčđńŋšŧž]{1,63}$/iu'),
+        'NU'  => 'Zend/Validate/Hostname/Com.php',
+        'ORG' => array(1 => '/^[\x{002d}0-9a-záéíñóúü]{1,63}$/iu',
+            2 => '/^[\x{002d}0-9a-zóąćęłńśźż]{1,63}$/iu',
+            3 => '/^[\x{002d}0-9a-záäåæéëíðóöøúüýþ]{1,63}$/iu',
+            4 => '/^[\x{002d}0-9a-záéíóöúüőű]{1,63}$/iu',
+            5 => '/^[\x{002d}0-9a-ząčėęįšūųž]{1,63}$/iu',
+            6 => '/^[\x{AC00}-\x{D7A3}]{1,17}$/iu',
+            7 => '/^[\x{002d}0-9a-zāčēģīķļņōŗšūž]{1,63}$/iu'),
+        'PE'  => array(1 => '/^[\x{002d}0-9a-zñáéíóúü]{1,63}$/iu'),
+        'PL'  => array(1 => '/^[\x{002d}0-9a-zāčēģīķļņōŗšūž]{1,63}$/iu',
+            2 => '/^[\x{002d}а-ик-ш\x{0450}ѓѕјљњќџ]{1,63}$/iu',
+            3 => '/^[\x{002d}0-9a-zâîăşţ]{1,63}$/iu',
+            4 => '/^[\x{002d}0-9а-яё\x{04C2}]{1,63}$/iu',
+            5 => '/^[\x{002d}0-9a-zàáâèéêìíîòóôùúûċġħż]{1,63}$/iu',
+            6 => '/^[\x{002d}0-9a-zàäåæéêòóôöøü]{1,63}$/iu',
+            7 => '/^[\x{002d}0-9a-zóąćęłńśźż]{1,63}$/iu',
+            8 => '/^[\x{002d}0-9a-zàáâãçéêíòóôõúü]{1,63}$/iu',
+            9 => '/^[\x{002d}0-9a-zâîăşţ]{1,63}$/iu',
+            10=> '/^[\x{002d}0-9a-záäéíóôúýčďĺľňŕšťž]{1,63}$/iu',
+            11=> '/^[\x{002d}0-9a-zçë]{1,63}$/iu',
+            12=> '/^[\x{002d}0-9а-ик-шђјљњћџ]{1,63}$/iu',
+            13=> '/^[\x{002d}0-9a-zćčđšž]{1,63}$/iu',
+            14=> '/^[\x{002d}0-9a-zâçöûüğış]{1,63}$/iu',
+            15=> '/^[\x{002d}0-9a-záéíñóúü]{1,63}$/iu',
+            16=> '/^[\x{002d}0-9a-zäõöüšž]{1,63}$/iu',
+            17=> '/^[\x{002d}0-9a-zĉĝĥĵŝŭ]{1,63}$/iu',
+            18=> '/^[\x{002d}0-9a-zâäéëîô]{1,63}$/iu',
+            19=> '/^[\x{002d}0-9a-zàáâäåæçèéêëìíîïðñòôöøùúûüýćčłńřśš]{1,63}$/iu',
+            20=> '/^[\x{002d}0-9a-zäåæõöøüšž]{1,63}$/iu',
+            21=> '/^[\x{002d}0-9a-zàáçèéìíòóùú]{1,63}$/iu',
+            22=> '/^[\x{002d}0-9a-zàáéíóöúüőű]{1,63}$/iu',
+            23=> '/^[\x{002d}0-9ΐά-ώ]{1,63}$/iu',
+            24=> '/^[\x{002d}0-9a-zàáâåæçèéêëðóôöøüþœ]{1,63}$/iu',
+            25=> '/^[\x{002d}0-9a-záäéíóöúüýčďěňřšťůž]{1,63}$/iu',
+            26=> '/^[\x{002d}0-9a-z·àçèéíïòóúü]{1,63}$/iu',
+            27=> '/^[\x{002d}0-9а-ъьюя\x{0450}\x{045D}]{1,63}$/iu',
+            28=> '/^[\x{002d}0-9а-яёіў]{1,63}$/iu',
+            29=> '/^[\x{002d}0-9a-ząčėęįšūųž]{1,63}$/iu',
+            30=> '/^[\x{002d}0-9a-záäåæéëíðóöøúüýþ]{1,63}$/iu',
+            31=> '/^[\x{002d}0-9a-zàâæçèéêëîïñôùûüÿœ]{1,63}$/iu',
+            32=> '/^[\x{002d}0-9а-щъыьэюяёєіїґ]{1,63}$/iu',
+            33=> '/^[\x{002d}0-9א-ת]{1,63}$/iu'),
+        'PR'  => array(1 => '/^[\x{002d}0-9a-záéíóúñäëïüöâêîôûàèùæçœãõ]{1,63}$/iu'),
+        'PT'  => array(1 => '/^[\x{002d}0-9a-záàâãçéêíóôõú]{1,63}$/iu'),
+        'RU'  => array(1 => '/^[\x{002d}0-9а-яё]{1,63}$/iu'),
+        'SA'  => array(1 => '/^[\x{002d}.0-9\x{0621}-\x{063A}\x{0641}-\x{064A}\x{0660}-\x{0669}]{1,63}$/iu'),
+        'SE'  => array(1 => '/^[\x{002d}0-9a-zäåéöü]{1,63}$/iu'),
+        'SH'  => array(1 => '/^[\x{002d}0-9a-zà-öø-ÿăąāćĉčċďđĕěėęēğĝġģĥħĭĩįīıĵķĺľļłńňņŋŏőōœĸŕřŗśŝšşťţŧŭůűũųūŵŷźžż]{1,63}$/iu'),
+        'SJ'  => array(1 => '/^[\x{002d}0-9a-zàáä-éêñ-ôöøüčđńŋšŧž]{1,63}$/iu'),
+        'TH'  => array(1 => '/^[\x{002d}0-9a-z\x{0E01}-\x{0E3A}\x{0E40}-\x{0E4D}\x{0E50}-\x{0E59}]{1,63}$/iu'),
+        'TM'  => array(1 => '/^[\x{002d}0-9a-zà-öø-ÿāăąćĉċčďđēėęěĝġģĥħīįĵķĺļľŀłńņňŋőœŕŗřśŝşšţťŧūŭůűųŵŷźżž]{1,63}$/iu'),
+        'TW'  => 'Zend/Validate/Hostname/Cn.php',
+        'TR'  => array(1 => '/^[\x{002d}0-9a-zğıüşöç]{1,63}$/iu'),
+        'VE'  => array(1 => '/^[\x{002d}0-9a-záéíóúüñ]{1,63}$/iu'),
+        'VN'  => array(1 => '/^[ÀÁÂÃÈÉÊÌÍÒÓÔÕÙÚÝàáâãèéêìíòóôõùúýĂăĐđĨĩŨũƠơƯư\x{1EA0}-\x{1EF9}]{1,63}$/iu'),
+        'ایران' => array(1 => '/^[\x{0621}-\x{0624}\x{0626}-\x{063A}\x{0641}\x{0642}\x{0644}-\x{0648}\x{067E}\x{0686}\x{0698}\x{06A9}\x{06AF}\x{06CC}\x{06F0}-\x{06F9}]{1,30}$/iu'),
+        '中国' => 'Zend/Validate/Hostname/Cn.php',
+        '公司' => 'Zend/Validate/Hostname/Cn.php',
+        '网络' => 'Zend/Validate/Hostname/Cn.php'
+    );
+
+    protected $_idnLength = array(
+        'BIZ' => array(5 => 17, 11 => 15, 12 => 20),
+        'CN'  => array(1 => 20),
+        'COM' => array(3 => 17, 5 => 20),
+        'HK'  => array(1 => 15),
+        'INFO'=> array(4 => 17),
+        'KR'  => array(1 => 17),
+        'NET' => array(3 => 17, 5 => 20),
+        'ORG' => array(6 => 17),
+        'TW'  => array(1 => 20),
+        'ایران' => array(1 => 30),
+        '中国' => array(1 => 20),
+        '公司' => array(1 => 20),
+        '网络' => array(1 => 20),
+    );
+
+    /**
+     * Sets validator options
+     *
+     * @param integer          $allow       OPTIONAL Set what types of hostname to allow (default ALLOW_DNS)
+     * @param boolean          $validateIdn OPTIONAL Set whether IDN domains are validated (default true)
+     * @param boolean          $validateTld OPTIONAL Set whether the TLD element of a hostname is validated (default true)
+     * @param Zend_Validate_Ip $ipValidator OPTIONAL
+     * @return void
+     * @see http://www.iana.org/cctld/specifications-policies-cctlds-01apr02.htm  Technical Specifications for ccTLDs
+     */
+    public function __construct($allow = self::ALLOW_DNS, $validateIdn = true, $validateTld = true, Zend_Validate_Ip $ipValidator = null)
+    {
+        // Set allow options
+        $this->setAllow($allow);
+
+        // Set validation options
+        $this->_validateIdn = $validateIdn;
+        $this->_validateTld = $validateTld;
+
+        $this->setIpValidator($ipValidator);
+    }
+
+    /**
+     * @param Zend_Validate_Ip $ipValidator OPTIONAL
+     * @return void;
+     */
+    public function setIpValidator(Zend_Validate_Ip $ipValidator = null)
+    {
+        if ($ipValidator === null) {
+            $ipValidator = new Zend_Validate_Ip();
+        }
+        $this->_ipValidator = $ipValidator;
+    }
+
+    /**
+     * Returns the allow option
+     *
+     * @return integer
+     */
+    public function getAllow()
+    {
+        return $this->_allow;
+    }
+
+    /**
+     * Sets the allow option
+     *
+     * @param  integer $allow
+     * @return Zend_Validate_Hostname Provides a fluent interface
+     */
+    public function setAllow($allow)
+    {
+        $this->_allow = $allow;
+        return $this;
+    }
+
+    /**
+     * Set whether IDN domains are validated
+     *
+     * This only applies when DNS hostnames are validated
+     *
+     * @param boolean $allowed Set allowed to true to validate IDNs, and false to not validate them
+     */
+    public function setValidateIdn ($allowed)
+    {
+        $this->_validateIdn = (bool) $allowed;
+    }
+
+    /**
+     * Set whether the TLD element of a hostname is validated
+     *
+     * This only applies when DNS hostnames are validated
+     *
+     * @param boolean $allowed Set allowed to true to validate TLDs, and false to not validate them
+     */
+    public function setValidateTld ($allowed)
+    {
+        $this->_validateTld = (bool) $allowed;
+    }
+
+    /**
+     * Defined by Zend_Validate_Interface
+     *
+     * Returns true if and only if the $value is a valid hostname with respect to the current allow option
+     *
+     * @param  string $value
+     * @throws Zend_Validate_Exception if a fatal error occurs for validation process
+     * @return boolean
+     */
+    public function isValid($value)
+    {
+        if (!is_string($value)) {
+            $this->_error(self::INVALID);
+            return false;
+        }
+
+        $this->_setValue($value);
+
+        // Check input against IP address schema
+        if (preg_match('/^[0-9.a-e:.]*$/i', $value) &&
+            $this->_ipValidator->setTranslator($this->getTranslator())->isValid($value)) {
+            if (!($this->_allow & self::ALLOW_IP)) {
+                $this->_error(self::IP_ADDRESS_NOT_ALLOWED);
+                return false;
+            } else {
+                return true;
+            }
+        }
+
+        // Check input against DNS hostname schema
+        $domainParts = explode('.', $value);
+        if ((count($domainParts) > 1) && (strlen($value) >= 4) && (strlen($value) <= 254)) {
+            $status = false;
+
+            $origenc = iconv_get_encoding('internal_encoding');
+            iconv_set_encoding('internal_encoding', 'UTF-8');
+            do {
+                // First check TLD
+                $matches = array();
+                if (preg_match('/([^.]{2,10})$/i', end($domainParts), $matches) ||
+                    (end($domainParts) == 'ایران') || (end($domainParts) == '中国') ||
+                    (end($domainParts) == '公司') || (end($domainParts) == '网络')) {
+
+                    reset($domainParts);
+
+                    // Hostname characters are: *(label dot)(label dot label); max 254 chars
+                    // label: id-prefix [*ldh{61} id-prefix]; max 63 chars
+                    // id-prefix: alpha / digit
+                    // ldh: alpha / digit / dash
+
+                    // Match TLD against known list
+                    $this->_tld = strtolower($matches[1]);
+                    if ($this->_validateTld) {
+                        if (!in_array($this->_tld, $this->_validTlds)) {
+                            $this->_error(self::UNKNOWN_TLD);
+                            $status = false;
+                            break;
+                        }
+                    }
+
+                    /**
+                     * Match against IDN hostnames
+                     * Note: Keep label regex short to avoid issues with long patterns when matching IDN hostnames
+                     * @see Zend_Validate_Hostname_Interface
+                     */
+                    $regexChars = array(0 => '/^[a-z0-9\x2d]{1,63}$/i');
+                    if ($this->_validateIdn &&  isset($this->_validIdns[strtoupper($this->_tld)])) {
+                        if (is_string($this->_validIdns[strtoupper($this->_tld)])) {
+                            $regexChars += include($this->_validIdns[strtoupper($this->_tld)]);
+                        } else {
+                            $regexChars += $this->_validIdns[strtoupper($this->_tld)];
+                        }
+                    }
+
+                    // Check each hostname part
+                    $valid = true;
+                    foreach ($domainParts as $domainPart) {
+
+                        // Decode Punycode domainnames to IDN
+                        if (strpos($domainPart, 'xn--') === 0) {
+                            $domainPart = $this->decodePunycode(substr($domainPart, 4));
+                            if ($domainPart === false) {
+                                return false;
+                            }
+                        }
+
+                        // Check dash (-) does not start, end or appear in 3rd and 4th positions
+                        if ((strpos($domainPart, '-') === 0)
+                            || ((strlen($domainPart) > 2) && (strpos($domainPart, '-', 2) == 2) && (strpos($domainPart, '-', 3) == 3))
+                            || (strpos($domainPart, '-') === (strlen($domainPart) - 1))) {
+                            $this->_error(self::INVALID_DASH);
+                            $status = false;
+                            break 2;
+                        }
+
+                        // Check each domain part
+                        $check = false;
+                        foreach($regexChars as $regexKey => $regexChar) {
+                            $status = @preg_match($regexChar, $domainPart);
+                            if ($status === false) {
+                                iconv_set_encoding('internal_encoding', $origenc);
+                                require_once 'Zend/Validate/Exception.php';
+                                throw new Zend_Validate_Exception('Internal error: DNS validation failed');
+                            } elseif ($status !== 0) {
+                                $length = 63;
+                                if (array_key_exists(strtoupper($this->_tld), $this->_idnLength)
+                                    && (array_key_exists($regexKey, $this->_idnLength[strtoupper($this->_tld)]))) {
+                                    $length = $this->_idnLength[strtoupper($this->_tld)];
+                                }
+
+                                if (iconv_strlen($domainPart, 'UTF-8') > $length) {
+                                    $this->_error(self::INVALID_HOSTNAME);
+                                } else {
+                                    $check = true;
+                                    break 2;
+                                }
+                            }
+                        }
+
+                        if (!$check) {
+                            $valid = false;
+                        }
+                    }
+
+                    // If all labels didn't match, the hostname is invalid
+                    if (!$valid) {
+                        $this->_error(self::INVALID_HOSTNAME_SCHEMA);
+                        $status = false;
+                    }
+
+                } else {
+                    // Hostname not long enough
+                    $this->_error(self::UNDECIPHERABLE_TLD);
+                    $status = false;
+                }
+            } while (false);
+
+            iconv_set_encoding('internal_encoding', $origenc);
+            // If the input passes as an Internet domain name, and domain names are allowed, then the hostname
+            // passes validation
+            if ($status && ($this->_allow & self::ALLOW_DNS)) {
+                return true;
+            }
+        } else {
+            $this->_error(self::INVALID_HOSTNAME);
+        }
+
+        // Check input against local network name schema; last chance to pass validation
+        $regexLocal = '/^(([a-zA-Z0-9\x2d]{1,63}\x2e)*[a-zA-Z0-9\x2d]{1,63}){1,254}$/';
+        $status = @preg_match($regexLocal, $value);
+        if (false === $status) {
+            /**
+             * Regex error
+             * @see Zend_Validate_Exception
+             */
+            require_once 'Zend/Validate/Exception.php';
+            throw new Zend_Validate_Exception('Internal error: local network name validation failed');
+        }
+
+        // If the input passes as a local network name, and local network names are allowed, then the
+        // hostname passes validation
+        $allowLocal = $this->_allow & self::ALLOW_LOCAL;
+        if ($status && $allowLocal) {
+            return true;
+        }
+
+        // If the input does not pass as a local network name, add a message
+        if (!$status) {
+            $this->_error(self::INVALID_LOCAL_NAME);
+        }
+
+        // If local network names are not allowed, add a message
+        if ($status && !$allowLocal) {
+            $this->_error(self::LOCAL_NAME_NOT_ALLOWED);
+        }
+
+        return false;
+    }
+
+    /**
+     * Decodes a punycode encoded string to it's original utf8 string
+     * In case of a decoding failure the original string is returned
+     *
+     * @param  string $encoded Punycode encoded string to decode
+     * @return string
+     */
+    protected function decodePunycode($encoded)
+    {
+        $found = preg_match('/([^a-z0-9\x2d]{1,10})$/i', $encoded);
+        if (empty($encoded) || ($found > 0)) {
+            // no punycode encoded string, return as is
+            $this->_error(self::CANNOT_DECODE_PUNYCODE);
+            return false;
+        }
+
+        $separator = strrpos($encoded, '-');
+        if ($separator > 0) {
+            for ($x = 0; $x < $separator; ++$x) {
+                // prepare decoding matrix
+                $decoded[] = ord($encoded[$x]);
+            }
+        } else {
+            $this->_error(self::CANNOT_DECODE_PUNYCODE);
+            return false;
+        }
+
+        $lengthd = count($decoded);
+        $lengthe = strlen($encoded);
+
+        // decoding
+        $init  = true;
+        $base  = 72;
+        $index = 0;
+        $char  = 0x80;
+
+        for ($indexe = ($separator) ? ($separator + 1) : 0; $indexe < $lengthe; ++$lengthd) {
+            for ($old_index = $index, $pos = 1, $key = 36; 1 ; $key += 36) {
+                $hex   = ord($encoded[$indexe++]);
+                $digit = ($hex - 48 < 10) ? $hex - 22
+                       : (($hex - 65 < 26) ? $hex - 65
+                       : (($hex - 97 < 26) ? $hex - 97
+                       : 36));
+
+                $index += $digit * $pos;
+                $tag    = ($key <= $base) ? 1 : (($key >= $base + 26) ? 26 : ($key - $base));
+                if ($digit < $tag) {
+                    break;
+                }
+
+                $pos = (int) ($pos * (36 - $tag));
+            }
+
+            $delta   = intval($init ? (($index - $old_index) / 700) : (($index - $old_index) / 2));
+            $delta  += intval($delta / ($lengthd + 1));
+            for ($key = 0; $delta > 910 / 2; $key += 36) {
+                $delta = intval($delta / 35);
+            }
+
+            $base   = intval($key + 36 * $delta / ($delta + 38));
+            $init   = false;
+            $char  += (int) ($index / ($lengthd + 1));
+            $index %= ($lengthd + 1);
+            if ($lengthd > 0) {
+                for ($i = $lengthd; $i > $index; $i--) {
+                    $decoded[$i] = $decoded[($i - 1)];
+                }
+            }
+
+            $decoded[$index++] = $char;
+        }
+
+        // convert decoded ucs4 to utf8 string
+        foreach ($decoded as $key => $value) {
+            if ($value < 128) {
+                $decoded[$key] = chr($value);
+            } elseif ($value < (1 << 11)) {
+                $decoded[$key]  = chr(192 + ($value >> 6));
+                $decoded[$key] .= chr(128 + ($value & 63));
+            } elseif ($value < (1 << 16)) {
+                $decoded[$key]  = chr(224 + ($value >> 12));
+                $decoded[$key] .= chr(128 + (($value >> 6) & 63));
+                $decoded[$key] .= chr(128 + ($value & 63));
+            } elseif ($value < (1 << 21)) {
+                $decoded[$key]  = chr(240 + ($value >> 18));
+                $decoded[$key] .= chr(128 + (($value >> 12) & 63));
+                $decoded[$key] .= chr(128 + (($value >> 6) & 63));
+                $decoded[$key] .= chr(128 + ($value & 63));
+            } else {
+                $this->_error(self::CANNOT_DECODE_PUNYCODE);
+                return false;
+            }
+        }
+
+        return implode($decoded);
+    }
+}

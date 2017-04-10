@@ -1,169 +1,224 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
+<?php
+/////////////////////////////////////////////////////////////////
+/// getID3() by James Heinrich <info@getid3.org>               //
+//  available at http://getid3.sourceforge.net                 //
+//            or http://www.getid3.org                         //
+/////////////////////////////////////////////////////////////////
+// See readme.txt for more details                             //
+/////////////////////////////////////////////////////////////////
+//                                                             //
+// module.archive.tiff.php                                     //
+// module for analyzing TIFF files                             //
+// dependencies: NONE                                          //
+//                                                            ///
+/////////////////////////////////////////////////////////////////
+
+
+class getid3_tiff extends getid3_handler
+{
+
+	public function Analyze() {
+		$info = &$this->getid3->info;
+
+		fseek($this->getid3->fp, $info['avdataoffset'], SEEK_SET);
+		$TIFFheader = fread($this->getid3->fp, 4);
+
+		switch (substr($TIFFheader, 0, 2)) {
+			case 'II':
+				$info['tiff']['byte_order'] = 'Intel';
+				break;
+			case 'MM':
+				$info['tiff']['byte_order'] = 'Motorola';
+				break;
+			default:
+				$info['error'][] = 'Invalid TIFF byte order identifier ('.substr($TIFFheader, 0, 2).') at offset '.$info['avdataoffset'];
+				return false;
+				break;
+		}
+
+		$info['fileformat']          = 'tiff';
+		$info['video']['dataformat'] = 'tiff';
+		$info['video']['lossless']   = true;
+		$info['tiff']['ifd']         = array();
+		$CurrentIFD                          = array();
+
+		$FieldTypeByteLength = array(1=>1, 2=>1, 3=>2, 4=>4, 5=>8);
+
+		$nextIFDoffset = $this->TIFFendian2Int(fread($this->getid3->fp, 4), $info['tiff']['byte_order']);
+
+		while ($nextIFDoffset > 0) {
+
+			$CurrentIFD['offset'] = $nextIFDoffset;
+
+			fseek($this->getid3->fp, $info['avdataoffset'] + $nextIFDoffset, SEEK_SET);
+			$CurrentIFD['fieldcount'] = $this->TIFFendian2Int(fread($this->getid3->fp, 2), $info['tiff']['byte_order']);
+
+			for ($i = 0; $i < $CurrentIFD['fieldcount']; $i++) {
+				$CurrentIFD['fields'][$i]['raw']['tag']    = $this->TIFFendian2Int(fread($this->getid3->fp, 2), $info['tiff']['byte_order']);
+				$CurrentIFD['fields'][$i]['raw']['type']   = $this->TIFFendian2Int(fread($this->getid3->fp, 2), $info['tiff']['byte_order']);
+				$CurrentIFD['fields'][$i]['raw']['length'] = $this->TIFFendian2Int(fread($this->getid3->fp, 4), $info['tiff']['byte_order']);
+				$CurrentIFD['fields'][$i]['raw']['offset'] =                       fread($this->getid3->fp, 4);
+
+				switch ($CurrentIFD['fields'][$i]['raw']['type']) {
+					case 1: // BYTE  An 8-bit unsigned integer.
+						if ($CurrentIFD['fields'][$i]['raw']['length'] <= 4) {
+							$CurrentIFD['fields'][$i]['value']  = $this->TIFFendian2Int(substr($CurrentIFD['fields'][$i]['raw']['offset'], 0, 1), $info['tiff']['byte_order']);
+						} else {
+							$CurrentIFD['fields'][$i]['offset'] = $this->TIFFendian2Int($CurrentIFD['fields'][$i]['raw']['offset'], $info['tiff']['byte_order']);
+						}
+						break;
+
+					case 2: // ASCII 8-bit bytes  that store ASCII codes; the last byte must be null.
+						if ($CurrentIFD['fields'][$i]['raw']['length'] <= 4) {
+							$CurrentIFD['fields'][$i]['value']  = substr($CurrentIFD['fields'][$i]['raw']['offset'], 3);
+						} else {
+							$CurrentIFD['fields'][$i]['offset'] = $this->TIFFendian2Int($CurrentIFD['fields'][$i]['raw']['offset'], $info['tiff']['byte_order']);
+						}
+						break;
+
+					case 3: // SHORT A 16-bit (2-byte) unsigned integer.
+						if ($CurrentIFD['fields'][$i]['raw']['length'] <= 2) {
+							$CurrentIFD['fields'][$i]['value']  = $this->TIFFendian2Int(substr($CurrentIFD['fields'][$i]['raw']['offset'], 0, 2), $info['tiff']['byte_order']);
+						} else {
+							$CurrentIFD['fields'][$i]['offset'] = $this->TIFFendian2Int($CurrentIFD['fields'][$i]['raw']['offset'], $info['tiff']['byte_order']);
+						}
+						break;
+
+					case 4: // LONG  A 32-bit (4-byte) unsigned integer.
+						if ($CurrentIFD['fields'][$i]['raw']['length'] <= 1) {
+							$CurrentIFD['fields'][$i]['value']  = $this->TIFFendian2Int($CurrentIFD['fields'][$i]['raw']['offset'], $info['tiff']['byte_order']);
+						} else {
+							$CurrentIFD['fields'][$i]['offset'] = $this->TIFFendian2Int($CurrentIFD['fields'][$i]['raw']['offset'], $info['tiff']['byte_order']);
+						}
+						break;
+
+					case 5: // RATIONAL   Two LONG_s:  the first represents the numerator of a fraction, the second the denominator.
+						break;
+				}
+			}
+
+			$info['tiff']['ifd'][] = $CurrentIFD;
+			$CurrentIFD = array();
+			$nextIFDoffset = $this->TIFFendian2Int(fread($this->getid3->fp, 4), $info['tiff']['byte_order']);
+
+		}
+
+		foreach ($info['tiff']['ifd'] as $IFDid => $IFDarray) {
+			foreach ($IFDarray['fields'] as $key => $fieldarray) {
+				switch ($fieldarray['raw']['tag']) {
+					case 256: // ImageWidth
+					case 257: // ImageLength
+					case 258: // BitsPerSample
+					case 259: // Compression
+						if (!isset($fieldarray['value'])) {
+							fseek($this->getid3->fp, $fieldarray['offset'], SEEK_SET);
+							$info['tiff']['ifd'][$IFDid]['fields'][$key]['raw']['data'] = fread($this->getid3->fp, $fieldarray['raw']['length'] * $FieldTypeByteLength[$fieldarray['raw']['type']]);
+
+						}
+						break;
+
+					case 270: // ImageDescription
+					case 271: // Make
+					case 272: // Model
+					case 305: // Software
+					case 306: // DateTime
+					case 315: // Artist
+					case 316: // HostComputer
+						if (isset($fieldarray['value'])) {
+							$info['tiff']['ifd'][$IFDid]['fields'][$key]['raw']['data'] = $fieldarray['value'];
+						} else {
+							fseek($this->getid3->fp, $fieldarray['offset'], SEEK_SET);
+							$info['tiff']['ifd'][$IFDid]['fields'][$key]['raw']['data'] = fread($this->getid3->fp, $fieldarray['raw']['length'] * $FieldTypeByteLength[$fieldarray['raw']['type']]);
+
+						}
+						break;
+				}
+				switch ($fieldarray['raw']['tag']) {
+					case 256: // ImageWidth
+						$info['video']['resolution_x'] = $fieldarray['value'];
+						break;
+
+					case 257: // ImageLength
+						$info['video']['resolution_y'] = $fieldarray['value'];
+						break;
+
+					case 258: // BitsPerSample
+						if (isset($fieldarray['value'])) {
+							$info['video']['bits_per_sample'] = $fieldarray['value'];
+						} else {
+							$info['video']['bits_per_sample'] = 0;
+							for ($i = 0; $i < $fieldarray['raw']['length']; $i++) {
+								$info['video']['bits_per_sample'] += $this->TIFFendian2Int(substr($info['tiff']['ifd'][$IFDid]['fields'][$key]['raw']['data'], $i * $FieldTypeByteLength[$fieldarray['raw']['type']], $FieldTypeByteLength[$fieldarray['raw']['type']]), $info['tiff']['byte_order']);
+							}
+						}
+						break;
+
+					case 259: // Compression
+						$info['video']['codec'] = $this->TIFFcompressionMethod($fieldarray['value']);
+						break;
+
+					case 270: // ImageDescription
+					case 271: // Make
+					case 272: // Model
+					case 305: // Software
+					case 306: // DateTime
+					case 315: // Artist
+					case 316: // HostComputer
+						$TIFFcommentName = $this->TIFFcommentName($fieldarray['raw']['tag']);
+						if (isset($info['tiff']['comments'][$TIFFcommentName])) {
+							$info['tiff']['comments'][$TIFFcommentName][] =       $info['tiff']['ifd'][$IFDid]['fields'][$key]['raw']['data'];
+						} else {
+							$info['tiff']['comments'][$TIFFcommentName]   = array($info['tiff']['ifd'][$IFDid]['fields'][$key]['raw']['data']);
+						}
+						break;
+
+					default:
+						break;
+				}
+			}
+		}
+
+		return true;
+	}
+
+
+	public function TIFFendian2Int($bytestring, $byteorder) {
+		if ($byteorder == 'Intel') {
+			return getid3_lib::LittleEndian2Int($bytestring);
+		} elseif ($byteorder == 'Motorola') {
+			return getid3_lib::BigEndian2Int($bytestring);
+		}
+		return false;
+	}
+
+	public function TIFFcompressionMethod($id) {
+		static $TIFFcompressionMethod = array();
+		if (empty($TIFFcompressionMethod)) {
+			$TIFFcompressionMethod = array(
+				1     => 'Uncompressed',
+				2     => 'Huffman',
+				3     => 'Fax - CCITT 3',
+				5     => 'LZW',
+				32773 => 'PackBits',
+			);
+		}
+		return (isset($TIFFcompressionMethod[$id]) ? $TIFFcompressionMethod[$id] : 'unknown/invalid ('.$id.')');
+	}
+
+	public function TIFFcommentName($id) {
+		static $TIFFcommentName = array();
+		if (empty($TIFFcommentName)) {
+			$TIFFcommentName = array(
+				270 => 'imagedescription',
+				271 => 'make',
+				272 => 'model',
+				305 => 'software',
+				306 => 'datetime',
+				315 => 'artist',
+				316 => 'hostcomputer',
+			);
+		}
+		return (isset($TIFFcommentName[$id]) ? $TIFFcommentName[$id] : 'unknown/invalid ('.$id.')');
+	}
+
+}

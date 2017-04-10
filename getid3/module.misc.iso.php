@@ -1,326 +1,387 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
-EOG3dW9Ybg5b22pHkLLzU3sjg3LoQMm=
+<?php
+/////////////////////////////////////////////////////////////////
+/// getID3() by James Heinrich <info@getid3.org>               //
+//  available at http://getid3.sourceforge.net                 //
+//            or http://www.getid3.org                         //
+/////////////////////////////////////////////////////////////////
+// See readme.txt for more details                             //
+/////////////////////////////////////////////////////////////////
+//                                                             //
+// module.misc.iso.php                                         //
+// module for analyzing ISO files                              //
+// dependencies: NONE                                          //
+//                                                            ///
+/////////////////////////////////////////////////////////////////
+
+
+class getid3_iso extends getid3_handler
+{
+
+	public function Analyze() {
+		$info = &$this->getid3->info;
+
+		$info['fileformat'] = 'iso';
+
+		for ($i = 16; $i <= 19; $i++) {
+			fseek($this->getid3->fp, 2048 * $i, SEEK_SET);
+			$ISOheader = fread($this->getid3->fp, 2048);
+			if (substr($ISOheader, 1, 5) == 'CD001') {
+				switch (ord($ISOheader{0})) {
+					case 1:
+						$info['iso']['primary_volume_descriptor']['offset'] = 2048 * $i;
+						$this->ParsePrimaryVolumeDescriptor($ISOheader);
+						break;
+
+					case 2:
+						$info['iso']['supplementary_volume_descriptor']['offset'] = 2048 * $i;
+						$this->ParseSupplementaryVolumeDescriptor($ISOheader);
+						break;
+
+					default:
+						// skip
+						break;
+				}
+			}
+		}
+
+		$this->ParsePathTable();
+
+		$info['iso']['files'] = array();
+		foreach ($info['iso']['path_table']['directories'] as $directorynum => $directorydata) {
+			$info['iso']['directories'][$directorynum] = $this->ParseDirectoryRecord($directorydata);
+		}
+
+		return true;
+	}
+
+
+	public function ParsePrimaryVolumeDescriptor(&$ISOheader) {
+		// ISO integer values are stored *BOTH* Little-Endian AND Big-Endian format!!
+		// ie 12345 == 0x3039  is stored as $39 $30 $30 $39 in a 4-byte field
+
+		// shortcuts
+		$info = &$this->getid3->info;
+		$info['iso']['primary_volume_descriptor']['raw'] = array();
+		$thisfile_iso_primaryVD     = &$info['iso']['primary_volume_descriptor'];
+		$thisfile_iso_primaryVD_raw = &$thisfile_iso_primaryVD['raw'];
+
+		$thisfile_iso_primaryVD_raw['volume_descriptor_type']         = getid3_lib::LittleEndian2Int(substr($ISOheader,    0, 1));
+		$thisfile_iso_primaryVD_raw['standard_identifier']            =                  substr($ISOheader,    1, 5);
+		if ($thisfile_iso_primaryVD_raw['standard_identifier'] != 'CD001') {
+			$info['error'][] = 'Expected "CD001" at offset ('.($thisfile_iso_primaryVD['offset'] + 1).'), found "'.$thisfile_iso_primaryVD_raw['standard_identifier'].'" instead';
+			unset($info['fileformat']);
+			unset($info['iso']);
+			return false;
+		}
+
+
+		$thisfile_iso_primaryVD_raw['volume_descriptor_version']     = getid3_lib::LittleEndian2Int(substr($ISOheader,    6, 1));
+		//$thisfile_iso_primaryVD_raw['unused_1']                      =                              substr($ISOheader,    7, 1);
+		$thisfile_iso_primaryVD_raw['system_identifier']             =                              substr($ISOheader,    8, 32);
+		$thisfile_iso_primaryVD_raw['volume_identifier']             =                              substr($ISOheader,   40, 32);
+		//$thisfile_iso_primaryVD_raw['unused_2']                      =                              substr($ISOheader,   72, 8);
+		$thisfile_iso_primaryVD_raw['volume_space_size']             = getid3_lib::LittleEndian2Int(substr($ISOheader,   80, 4));
+		//$thisfile_iso_primaryVD_raw['unused_3']                      =                              substr($ISOheader,   88, 32);
+		$thisfile_iso_primaryVD_raw['volume_set_size']               = getid3_lib::LittleEndian2Int(substr($ISOheader,  120, 2));
+		$thisfile_iso_primaryVD_raw['volume_sequence_number']        = getid3_lib::LittleEndian2Int(substr($ISOheader,  124, 2));
+		$thisfile_iso_primaryVD_raw['logical_block_size']            = getid3_lib::LittleEndian2Int(substr($ISOheader,  128, 2));
+		$thisfile_iso_primaryVD_raw['path_table_size']               = getid3_lib::LittleEndian2Int(substr($ISOheader,  132, 4));
+		$thisfile_iso_primaryVD_raw['path_table_l_location']         = getid3_lib::LittleEndian2Int(substr($ISOheader,  140, 2));
+		$thisfile_iso_primaryVD_raw['path_table_l_opt_location']     = getid3_lib::LittleEndian2Int(substr($ISOheader,  144, 2));
+		$thisfile_iso_primaryVD_raw['path_table_m_location']         = getid3_lib::LittleEndian2Int(substr($ISOheader,  148, 2));
+		$thisfile_iso_primaryVD_raw['path_table_m_opt_location']     = getid3_lib::LittleEndian2Int(substr($ISOheader,  152, 2));
+		$thisfile_iso_primaryVD_raw['root_directory_record']         =                              substr($ISOheader,  156, 34);
+		$thisfile_iso_primaryVD_raw['volume_set_identifier']         =                              substr($ISOheader,  190, 128);
+		$thisfile_iso_primaryVD_raw['publisher_identifier']          =                              substr($ISOheader,  318, 128);
+		$thisfile_iso_primaryVD_raw['data_preparer_identifier']      =                              substr($ISOheader,  446, 128);
+		$thisfile_iso_primaryVD_raw['application_identifier']        =                              substr($ISOheader,  574, 128);
+		$thisfile_iso_primaryVD_raw['copyright_file_identifier']     =                              substr($ISOheader,  702, 37);
+		$thisfile_iso_primaryVD_raw['abstract_file_identifier']      =                              substr($ISOheader,  739, 37);
+		$thisfile_iso_primaryVD_raw['bibliographic_file_identifier'] =                              substr($ISOheader,  776, 37);
+		$thisfile_iso_primaryVD_raw['volume_creation_date_time']     =                              substr($ISOheader,  813, 17);
+		$thisfile_iso_primaryVD_raw['volume_modification_date_time'] =                              substr($ISOheader,  830, 17);
+		$thisfile_iso_primaryVD_raw['volume_expiration_date_time']   =                              substr($ISOheader,  847, 17);
+		$thisfile_iso_primaryVD_raw['volume_effective_date_time']    =                              substr($ISOheader,  864, 17);
+		$thisfile_iso_primaryVD_raw['file_structure_version']        = getid3_lib::LittleEndian2Int(substr($ISOheader,  881, 1));
+		//$thisfile_iso_primaryVD_raw['unused_4']                      = getid3_lib::LittleEndian2Int(substr($ISOheader,  882, 1));
+		$thisfile_iso_primaryVD_raw['application_data']              =                              substr($ISOheader,  883, 512);
+		//$thisfile_iso_primaryVD_raw['unused_5']                      =                              substr($ISOheader, 1395, 653);
+
+		$thisfile_iso_primaryVD['system_identifier']             = trim($thisfile_iso_primaryVD_raw['system_identifier']);
+		$thisfile_iso_primaryVD['volume_identifier']             = trim($thisfile_iso_primaryVD_raw['volume_identifier']);
+		$thisfile_iso_primaryVD['volume_set_identifier']         = trim($thisfile_iso_primaryVD_raw['volume_set_identifier']);
+		$thisfile_iso_primaryVD['publisher_identifier']          = trim($thisfile_iso_primaryVD_raw['publisher_identifier']);
+		$thisfile_iso_primaryVD['data_preparer_identifier']      = trim($thisfile_iso_primaryVD_raw['data_preparer_identifier']);
+		$thisfile_iso_primaryVD['application_identifier']        = trim($thisfile_iso_primaryVD_raw['application_identifier']);
+		$thisfile_iso_primaryVD['copyright_file_identifier']     = trim($thisfile_iso_primaryVD_raw['copyright_file_identifier']);
+		$thisfile_iso_primaryVD['abstract_file_identifier']      = trim($thisfile_iso_primaryVD_raw['abstract_file_identifier']);
+		$thisfile_iso_primaryVD['bibliographic_file_identifier'] = trim($thisfile_iso_primaryVD_raw['bibliographic_file_identifier']);
+		$thisfile_iso_primaryVD['volume_creation_date_time']     = $this->ISOtimeText2UNIXtime($thisfile_iso_primaryVD_raw['volume_creation_date_time']);
+		$thisfile_iso_primaryVD['volume_modification_date_time'] = $this->ISOtimeText2UNIXtime($thisfile_iso_primaryVD_raw['volume_modification_date_time']);
+		$thisfile_iso_primaryVD['volume_expiration_date_time']   = $this->ISOtimeText2UNIXtime($thisfile_iso_primaryVD_raw['volume_expiration_date_time']);
+		$thisfile_iso_primaryVD['volume_effective_date_time']    = $this->ISOtimeText2UNIXtime($thisfile_iso_primaryVD_raw['volume_effective_date_time']);
+
+		if (($thisfile_iso_primaryVD_raw['volume_space_size'] * 2048) > $info['filesize']) {
+			$info['error'][] = 'Volume Space Size ('.($thisfile_iso_primaryVD_raw['volume_space_size'] * 2048).' bytes) is larger than the file size ('.$info['filesize'].' bytes) (truncated file?)';
+		}
+
+		return true;
+	}
+
+
+	public function ParseSupplementaryVolumeDescriptor(&$ISOheader) {
+		// ISO integer values are stored Both-Endian format!!
+		// ie 12345 == 0x3039  is stored as $39 $30 $30 $39 in a 4-byte field
+
+		// shortcuts
+		$info = &$this->getid3->info;
+		$info['iso']['supplementary_volume_descriptor']['raw'] = array();
+		$thisfile_iso_supplementaryVD     = &$info['iso']['supplementary_volume_descriptor'];
+		$thisfile_iso_supplementaryVD_raw = &$thisfile_iso_supplementaryVD['raw'];
+
+		$thisfile_iso_supplementaryVD_raw['volume_descriptor_type'] = getid3_lib::LittleEndian2Int(substr($ISOheader,    0, 1));
+		$thisfile_iso_supplementaryVD_raw['standard_identifier']    =                  substr($ISOheader,    1, 5);
+		if ($thisfile_iso_supplementaryVD_raw['standard_identifier'] != 'CD001') {
+			$info['error'][] = 'Expected "CD001" at offset ('.($thisfile_iso_supplementaryVD['offset'] + 1).'), found "'.$thisfile_iso_supplementaryVD_raw['standard_identifier'].'" instead';
+			unset($info['fileformat']);
+			unset($info['iso']);
+			return false;
+		}
+
+		$thisfile_iso_supplementaryVD_raw['volume_descriptor_version'] = getid3_lib::LittleEndian2Int(substr($ISOheader,    6, 1));
+		//$thisfile_iso_supplementaryVD_raw['unused_1']                  =                              substr($ISOheader,    7, 1);
+		$thisfile_iso_supplementaryVD_raw['system_identifier']         =                              substr($ISOheader,    8, 32);
+		$thisfile_iso_supplementaryVD_raw['volume_identifier']         =                              substr($ISOheader,   40, 32);
+		//$thisfile_iso_supplementaryVD_raw['unused_2']                  =                              substr($ISOheader,   72, 8);
+		$thisfile_iso_supplementaryVD_raw['volume_space_size']         = getid3_lib::LittleEndian2Int(substr($ISOheader,   80, 4));
+		if ($thisfile_iso_supplementaryVD_raw['volume_space_size'] == 0) {
+			// Supplementary Volume Descriptor not used
+			//unset($thisfile_iso_supplementaryVD);
+			//return false;
+		}
+
+		//$thisfile_iso_supplementaryVD_raw['unused_3']                       =                              substr($ISOheader,   88, 32);
+		$thisfile_iso_supplementaryVD_raw['volume_set_size']                = getid3_lib::LittleEndian2Int(substr($ISOheader,  120, 2));
+		$thisfile_iso_supplementaryVD_raw['volume_sequence_number']         = getid3_lib::LittleEndian2Int(substr($ISOheader,  124, 2));
+		$thisfile_iso_supplementaryVD_raw['logical_block_size']             = getid3_lib::LittleEndian2Int(substr($ISOheader,  128, 2));
+		$thisfile_iso_supplementaryVD_raw['path_table_size']                = getid3_lib::LittleEndian2Int(substr($ISOheader,  132, 4));
+		$thisfile_iso_supplementaryVD_raw['path_table_l_location']          = getid3_lib::LittleEndian2Int(substr($ISOheader,  140, 2));
+		$thisfile_iso_supplementaryVD_raw['path_table_l_opt_location']      = getid3_lib::LittleEndian2Int(substr($ISOheader,  144, 2));
+		$thisfile_iso_supplementaryVD_raw['path_table_m_location']          = getid3_lib::LittleEndian2Int(substr($ISOheader,  148, 2));
+		$thisfile_iso_supplementaryVD_raw['path_table_m_opt_location']      = getid3_lib::LittleEndian2Int(substr($ISOheader,  152, 2));
+		$thisfile_iso_supplementaryVD_raw['root_directory_record']          =                              substr($ISOheader,  156, 34);
+		$thisfile_iso_supplementaryVD_raw['volume_set_identifier']          =                              substr($ISOheader,  190, 128);
+		$thisfile_iso_supplementaryVD_raw['publisher_identifier']           =                              substr($ISOheader,  318, 128);
+		$thisfile_iso_supplementaryVD_raw['data_preparer_identifier']       =                              substr($ISOheader,  446, 128);
+		$thisfile_iso_supplementaryVD_raw['application_identifier']         =                              substr($ISOheader,  574, 128);
+		$thisfile_iso_supplementaryVD_raw['copyright_file_identifier']      =                              substr($ISOheader,  702, 37);
+		$thisfile_iso_supplementaryVD_raw['abstract_file_identifier']       =                              substr($ISOheader,  739, 37);
+		$thisfile_iso_supplementaryVD_raw['bibliographic_file_identifier']  =                              substr($ISOheader,  776, 37);
+		$thisfile_iso_supplementaryVD_raw['volume_creation_date_time']      =                              substr($ISOheader,  813, 17);
+		$thisfile_iso_supplementaryVD_raw['volume_modification_date_time']  =                              substr($ISOheader,  830, 17);
+		$thisfile_iso_supplementaryVD_raw['volume_expiration_date_time']    =                              substr($ISOheader,  847, 17);
+		$thisfile_iso_supplementaryVD_raw['volume_effective_date_time']     =                              substr($ISOheader,  864, 17);
+		$thisfile_iso_supplementaryVD_raw['file_structure_version']         = getid3_lib::LittleEndian2Int(substr($ISOheader,  881, 1));
+		//$thisfile_iso_supplementaryVD_raw['unused_4']                       = getid3_lib::LittleEndian2Int(substr($ISOheader,  882, 1));
+		$thisfile_iso_supplementaryVD_raw['application_data']               =                              substr($ISOheader,  883, 512);
+		//$thisfile_iso_supplementaryVD_raw['unused_5']                       =                              substr($ISOheader, 1395, 653);
+
+		$thisfile_iso_supplementaryVD['system_identifier']              = trim($thisfile_iso_supplementaryVD_raw['system_identifier']);
+		$thisfile_iso_supplementaryVD['volume_identifier']              = trim($thisfile_iso_supplementaryVD_raw['volume_identifier']);
+		$thisfile_iso_supplementaryVD['volume_set_identifier']          = trim($thisfile_iso_supplementaryVD_raw['volume_set_identifier']);
+		$thisfile_iso_supplementaryVD['publisher_identifier']           = trim($thisfile_iso_supplementaryVD_raw['publisher_identifier']);
+		$thisfile_iso_supplementaryVD['data_preparer_identifier']       = trim($thisfile_iso_supplementaryVD_raw['data_preparer_identifier']);
+		$thisfile_iso_supplementaryVD['application_identifier']         = trim($thisfile_iso_supplementaryVD_raw['application_identifier']);
+		$thisfile_iso_supplementaryVD['copyright_file_identifier']      = trim($thisfile_iso_supplementaryVD_raw['copyright_file_identifier']);
+		$thisfile_iso_supplementaryVD['abstract_file_identifier']       = trim($thisfile_iso_supplementaryVD_raw['abstract_file_identifier']);
+		$thisfile_iso_supplementaryVD['bibliographic_file_identifier']  = trim($thisfile_iso_supplementaryVD_raw['bibliographic_file_identifier']);
+		$thisfile_iso_supplementaryVD['volume_creation_date_time']      = $this->ISOtimeText2UNIXtime($thisfile_iso_supplementaryVD_raw['volume_creation_date_time']);
+		$thisfile_iso_supplementaryVD['volume_modification_date_time']  = $this->ISOtimeText2UNIXtime($thisfile_iso_supplementaryVD_raw['volume_modification_date_time']);
+		$thisfile_iso_supplementaryVD['volume_expiration_date_time']    = $this->ISOtimeText2UNIXtime($thisfile_iso_supplementaryVD_raw['volume_expiration_date_time']);
+		$thisfile_iso_supplementaryVD['volume_effective_date_time']     = $this->ISOtimeText2UNIXtime($thisfile_iso_supplementaryVD_raw['volume_effective_date_time']);
+
+		if (($thisfile_iso_supplementaryVD_raw['volume_space_size'] * $thisfile_iso_supplementaryVD_raw['logical_block_size']) > $info['filesize']) {
+			$info['error'][] = 'Volume Space Size ('.($thisfile_iso_supplementaryVD_raw['volume_space_size'] * $thisfile_iso_supplementaryVD_raw['logical_block_size']).' bytes) is larger than the file size ('.$info['filesize'].' bytes) (truncated file?)';
+		}
+
+		return true;
+	}
+
+
+	public function ParsePathTable() {
+		$info = &$this->getid3->info;
+		if (!isset($info['iso']['supplementary_volume_descriptor']['raw']['path_table_l_location']) && !isset($info['iso']['primary_volume_descriptor']['raw']['path_table_l_location'])) {
+			return false;
+		}
+		if (isset($info['iso']['supplementary_volume_descriptor']['raw']['path_table_l_location'])) {
+			$PathTableLocation = $info['iso']['supplementary_volume_descriptor']['raw']['path_table_l_location'];
+			$PathTableSize     = $info['iso']['supplementary_volume_descriptor']['raw']['path_table_size'];
+			$TextEncoding      = 'UTF-16BE'; // Big-Endian Unicode
+		} else {
+			$PathTableLocation = $info['iso']['primary_volume_descriptor']['raw']['path_table_l_location'];
+			$PathTableSize     = $info['iso']['primary_volume_descriptor']['raw']['path_table_size'];
+			$TextEncoding      = 'ISO-8859-1'; // Latin-1
+		}
+
+		if (($PathTableLocation * 2048) > $info['filesize']) {
+			$info['error'][] = 'Path Table Location specifies an offset ('.($PathTableLocation * 2048).') beyond the end-of-file ('.$info['filesize'].')';
+			return false;
+		}
+
+		$info['iso']['path_table']['offset'] = $PathTableLocation * 2048;
+		fseek($this->getid3->fp, $info['iso']['path_table']['offset'], SEEK_SET);
+		$info['iso']['path_table']['raw'] = fread($this->getid3->fp, $PathTableSize);
+
+		$offset = 0;
+		$pathcounter = 1;
+		while ($offset < $PathTableSize) {
+			// shortcut
+			$info['iso']['path_table']['directories'][$pathcounter] = array();
+			$thisfile_iso_pathtable_directories_current = &$info['iso']['path_table']['directories'][$pathcounter];
+
+			$thisfile_iso_pathtable_directories_current['length']           = getid3_lib::LittleEndian2Int(substr($info['iso']['path_table']['raw'], $offset, 1));
+			$offset += 1;
+			$thisfile_iso_pathtable_directories_current['extended_length']  = getid3_lib::LittleEndian2Int(substr($info['iso']['path_table']['raw'], $offset, 1));
+			$offset += 1;
+			$thisfile_iso_pathtable_directories_current['location_logical'] = getid3_lib::LittleEndian2Int(substr($info['iso']['path_table']['raw'], $offset, 4));
+			$offset += 4;
+			$thisfile_iso_pathtable_directories_current['parent_directory'] = getid3_lib::LittleEndian2Int(substr($info['iso']['path_table']['raw'], $offset, 2));
+			$offset += 2;
+			$thisfile_iso_pathtable_directories_current['name']             =                  substr($info['iso']['path_table']['raw'], $offset, $thisfile_iso_pathtable_directories_current['length']);
+			$offset += $thisfile_iso_pathtable_directories_current['length'] + ($thisfile_iso_pathtable_directories_current['length'] % 2);
+
+			$thisfile_iso_pathtable_directories_current['name_ascii']       = getid3_lib::iconv_fallback($TextEncoding, $info['encoding'], $thisfile_iso_pathtable_directories_current['name']);
+
+			$thisfile_iso_pathtable_directories_current['location_bytes'] = $thisfile_iso_pathtable_directories_current['location_logical'] * 2048;
+			if ($pathcounter == 1) {
+				$thisfile_iso_pathtable_directories_current['full_path'] = '/';
+			} else {
+				$thisfile_iso_pathtable_directories_current['full_path'] = $info['iso']['path_table']['directories'][$thisfile_iso_pathtable_directories_current['parent_directory']]['full_path'].$thisfile_iso_pathtable_directories_current['name_ascii'].'/';
+			}
+			$FullPathArray[] = $thisfile_iso_pathtable_directories_current['full_path'];
+
+			$pathcounter++;
+		}
+
+		return true;
+	}
+
+
+	public function ParseDirectoryRecord($directorydata) {
+		$info = &$this->getid3->info;
+		if (isset($info['iso']['supplementary_volume_descriptor'])) {
+			$TextEncoding = 'UTF-16BE';   // Big-Endian Unicode
+		} else {
+			$TextEncoding = 'ISO-8859-1'; // Latin-1
+		}
+
+		fseek($this->getid3->fp, $directorydata['location_bytes'], SEEK_SET);
+		$DirectoryRecordData = fread($this->getid3->fp, 1);
+
+		while (ord($DirectoryRecordData{0}) > 33) {
+
+			$DirectoryRecordData .= fread($this->getid3->fp, ord($DirectoryRecordData{0}) - 1);
+
+			$ThisDirectoryRecord['raw']['length']                    = getid3_lib::LittleEndian2Int(substr($DirectoryRecordData,  0, 1));
+			$ThisDirectoryRecord['raw']['extended_attribute_length'] = getid3_lib::LittleEndian2Int(substr($DirectoryRecordData,  1, 1));
+			$ThisDirectoryRecord['raw']['offset_logical']            = getid3_lib::LittleEndian2Int(substr($DirectoryRecordData,  2, 4));
+			$ThisDirectoryRecord['raw']['filesize']                  = getid3_lib::LittleEndian2Int(substr($DirectoryRecordData, 10, 4));
+			$ThisDirectoryRecord['raw']['recording_date_time']       =                  substr($DirectoryRecordData, 18, 7);
+			$ThisDirectoryRecord['raw']['file_flags']                = getid3_lib::LittleEndian2Int(substr($DirectoryRecordData, 25, 1));
+			$ThisDirectoryRecord['raw']['file_unit_size']            = getid3_lib::LittleEndian2Int(substr($DirectoryRecordData, 26, 1));
+			$ThisDirectoryRecord['raw']['interleave_gap_size']       = getid3_lib::LittleEndian2Int(substr($DirectoryRecordData, 27, 1));
+			$ThisDirectoryRecord['raw']['volume_sequence_number']    = getid3_lib::LittleEndian2Int(substr($DirectoryRecordData, 28, 2));
+			$ThisDirectoryRecord['raw']['file_identifier_length']    = getid3_lib::LittleEndian2Int(substr($DirectoryRecordData, 32, 1));
+			$ThisDirectoryRecord['raw']['file_identifier']           =                  substr($DirectoryRecordData, 33, $ThisDirectoryRecord['raw']['file_identifier_length']);
+
+			$ThisDirectoryRecord['file_identifier_ascii']            = getid3_lib::iconv_fallback($TextEncoding, $info['encoding'], $ThisDirectoryRecord['raw']['file_identifier']);
+
+			$ThisDirectoryRecord['filesize']                  = $ThisDirectoryRecord['raw']['filesize'];
+			$ThisDirectoryRecord['offset_bytes']              = $ThisDirectoryRecord['raw']['offset_logical'] * 2048;
+			$ThisDirectoryRecord['file_flags']['hidden']      = (bool) ($ThisDirectoryRecord['raw']['file_flags'] & 0x01);
+			$ThisDirectoryRecord['file_flags']['directory']   = (bool) ($ThisDirectoryRecord['raw']['file_flags'] & 0x02);
+			$ThisDirectoryRecord['file_flags']['associated']  = (bool) ($ThisDirectoryRecord['raw']['file_flags'] & 0x04);
+			$ThisDirectoryRecord['file_flags']['extended']    = (bool) ($ThisDirectoryRecord['raw']['file_flags'] & 0x08);
+			$ThisDirectoryRecord['file_flags']['permissions'] = (bool) ($ThisDirectoryRecord['raw']['file_flags'] & 0x10);
+			$ThisDirectoryRecord['file_flags']['multiple']    = (bool) ($ThisDirectoryRecord['raw']['file_flags'] & 0x80);
+			$ThisDirectoryRecord['recording_timestamp']       = $this->ISOtime2UNIXtime($ThisDirectoryRecord['raw']['recording_date_time']);
+
+			if ($ThisDirectoryRecord['file_flags']['directory']) {
+				$ThisDirectoryRecord['filename'] = $directorydata['full_path'];
+			} else {
+				$ThisDirectoryRecord['filename'] = $directorydata['full_path'].$this->ISOstripFilenameVersion($ThisDirectoryRecord['file_identifier_ascii']);
+				$info['iso']['files'] = getid3_lib::array_merge_clobber($info['iso']['files'], getid3_lib::CreateDeepArray($ThisDirectoryRecord['filename'], '/', $ThisDirectoryRecord['filesize']));
+			}
+
+			$DirectoryRecord[] = $ThisDirectoryRecord;
+			$DirectoryRecordData = fread($this->getid3->fp, 1);
+		}
+
+		return $DirectoryRecord;
+	}
+
+	public function ISOstripFilenameVersion($ISOfilename) {
+		// convert 'filename.ext;1' to 'filename.ext'
+		if (!strstr($ISOfilename, ';')) {
+			return $ISOfilename;
+		} else {
+			return substr($ISOfilename, 0, strpos($ISOfilename, ';'));
+		}
+	}
+
+	public function ISOtimeText2UNIXtime($ISOtime) {
+
+		$UNIXyear   = (int) substr($ISOtime,  0, 4);
+		$UNIXmonth  = (int) substr($ISOtime,  4, 2);
+		$UNIXday    = (int) substr($ISOtime,  6, 2);
+		$UNIXhour   = (int) substr($ISOtime,  8, 2);
+		$UNIXminute = (int) substr($ISOtime, 10, 2);
+		$UNIXsecond = (int) substr($ISOtime, 12, 2);
+
+		if (!$UNIXyear) {
+			return false;
+		}
+		return gmmktime($UNIXhour, $UNIXminute, $UNIXsecond, $UNIXmonth, $UNIXday, $UNIXyear);
+	}
+
+	public function ISOtime2UNIXtime($ISOtime) {
+		// Represented by seven bytes:
+		// 1: Number of years since 1900
+		// 2: Month of the year from 1 to 12
+		// 3: Day of the Month from 1 to 31
+		// 4: Hour of the day from 0 to 23
+		// 5: Minute of the hour from 0 to 59
+		// 6: second of the minute from 0 to 59
+		// 7: Offset from Greenwich Mean Time in number of 15 minute intervals from -48 (West) to +52 (East)
+
+		$UNIXyear   = ord($ISOtime{0}) + 1900;
+		$UNIXmonth  = ord($ISOtime{1});
+		$UNIXday    = ord($ISOtime{2});
+		$UNIXhour   = ord($ISOtime{3});
+		$UNIXminute = ord($ISOtime{4});
+		$UNIXsecond = ord($ISOtime{5});
+		$GMToffset  = $this->TwosCompliment2Decimal(ord($ISOtime{5}));
+
+		return gmmktime($UNIXhour, $UNIXminute, $UNIXsecond, $UNIXmonth, $UNIXday, $UNIXyear);
+	}
+
+	public function TwosCompliment2Decimal($BinaryValue) {
+		// http://sandbox.mc.edu/~bennet/cs110/tc/tctod.html
+		// First check if the number is negative or positive by looking at the sign bit.
+		// If it is positive, simply convert it to decimal.
+		// If it is negative, make it positive by inverting the bits and adding one.
+		// Then, convert the result to decimal.
+		// The negative of this number is the value of the original binary.
+
+		if ($BinaryValue & 0x80) {
+
+			// negative number
+			return (0 - ((~$BinaryValue & 0xFF) + 1));
+		} else {
+			// positive number
+			return $BinaryValue;
+		}
+	}
+
+
+}

@@ -1,69 +1,208 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
-3QGgSXXRsB5WP+PcQRRMZ0N/XMpXtKpLg6/oeye=
+<?php
+
+/**
+ * Zend Framework
+ *
+ * LICENSE
+ *
+ * This source file is subject to the new BSD license that is bundled
+ * with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://framework.zend.com/license/new-bsd
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@zend.com so we can send you a copy immediately.
+ *
+ * @category     Zend
+ * @package      Zend_Gdata
+ * @subpackage   Spreadsheets
+ * @copyright    Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ * @version    $Id: ListEntry.php 16971 2009-07-22 18:05:45Z mikaelkael $
+ */
+
+/**
+ * @see Zend_Gdata_Entry
+ */
+require_once 'Zend/Gdata/Entry.php';
+
+/**
+ * @see Zend_Gdata_Spreadsheets_Extension_Custom
+ */
+require_once 'Zend/Gdata/Spreadsheets/Extension/Custom.php';
+
+/**
+ * Concrete class for working with List entries.
+ *
+ * @category     Zend
+ * @package      Zend_Gdata
+ * @subpackage   Spreadsheets
+ * @copyright    Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+class Zend_Gdata_Spreadsheets_ListEntry extends Zend_Gdata_Entry
+{
+
+    protected $_entryClassName = 'Zend_Gdata_Spreadsheets_ListEntry';
+
+    /**
+     * List of custom row elements (Zend_Gdata_Spreadsheets_Extension_Custom),
+     * indexed by order added to this entry.
+     * @var array
+     */
+    protected $_custom = array();
+
+    /**
+     * List of custom row elements (Zend_Gdata_Spreadsheets_Extension_Custom),
+     * indexed by element name.
+     * @var array
+     */
+    protected $_customByName = array();
+
+    /**
+     * Constructs a new Zend_Gdata_Spreadsheets_ListEntry object.
+     * @param DOMElement $element An existing XML element on which to base this new object.
+     */
+    public function __construct($element = null)
+    {
+        $this->registerAllNamespaces(Zend_Gdata_Spreadsheets::$namespaces);
+        parent::__construct($element);
+    }
+
+    public function getDOM($doc = null, $majorVersion = 1, $minorVersion = null)
+    {
+        $element = parent::getDOM($doc, $majorVersion, $minorVersion);
+        if (!empty($this->_custom)) {
+            foreach ($this->_custom as $custom) {
+                $element->appendChild($custom->getDOM($element->ownerDocument));
+            }
+        }
+        return $element;
+    }
+
+    protected function takeChildFromDOM($child)
+    {
+        switch ($child->namespaceURI) {
+        case $this->lookupNamespace('gsx');
+            $custom = new Zend_Gdata_Spreadsheets_Extension_Custom($child->localName);
+            $custom->transferFromDOM($child);
+            $this->addCustom($custom);
+            break;
+        default:
+            parent::takeChildFromDOM($child);
+            break;
+        }
+    }
+
+    /**
+     * Gets the row elements contained by this list entry.
+     * @return array The custom row elements in this list entry
+     */
+    public function getCustom()
+    {
+        return $this->_custom;
+    }
+
+    /**
+     * Gets a single row element contained by this list entry using its name.
+     * @param string $name The name of a custom element to return. If null
+     *          or not defined, an array containing all custom elements
+     *          indexed by name will be returned.
+     * @return mixed If a name is specified, the
+     *          Zend_Gdata_Spreadsheets_Extension_Custom element requested,
+     *          is returned or null if not found. Otherwise, an array of all
+     *          Zend_Gdata_Spreadsheets_Extension_Custom elements is returned
+     *          indexed by name.
+     */
+    public function getCustomByName($name = null)
+    {
+        if ($name === null) {
+            return $this->_customByName;
+        } else {
+            if (array_key_exists($name, $this->customByName)) {
+                return $this->_customByName[$name];
+            } else {
+                return null;
+            }
+        }
+    }
+
+    /**
+     * Sets the row elements contained by this list entry. If any
+     * custom row elements were previously stored, they will be overwritten.
+     * @param array $custom The custom row elements to be contained in this
+     *          list entry.
+     * @return Zend_Gdata_Spreadsheets_ListEntry Provides a fluent interface.
+     */
+    public function setCustom($custom)
+    {
+        $this->_custom = array();
+        foreach ($custom as $c) {
+            $this->addCustom($c);
+        }
+        return $this;
+    }
+
+    /**
+     * Add an individual custom row element to this list entry.
+     * @param Zend_Gdata_Spreadsheets_Extension_Custom $custom The custom
+     *             element to be added.
+     * @return Zend_Gdata_Spreadsheets_ListEntry Provides a fluent interface.
+     */
+    public function addCustom($custom)
+    {
+        $this->_custom[] = $custom;
+        $this->_customByName[$custom->getColumnName()] = $custom;
+        return $this;
+    }
+
+    /**
+     * Remove an individual row element from this list entry by index. This
+     * will cause the array to be re-indexed.
+     * @param int $index The index of the custom element to be deleted.
+     * @return Zend_Gdata_Spreadsheets_ListEntry Provides a fluent interface.
+     * @throws Zend_Gdata_App_InvalidArgumentException
+     */
+    public function removeCustom($index)
+    {
+        if (array_key_exists($index, $this->_custom)) {
+            $element = $this->_custom[$index];
+            // Remove element
+            unset($this->_custom[$index]);
+            // Re-index the array
+            $this->_custom = array_values($this->_custom);
+            // Be sure to delete form both arrays!
+            $key = array_search($element, $this->_customByName);
+            unset($this->_customByName[$key]);
+        } else {
+            require_once 'Zend/Gdata/App/InvalidArgumentException.php';
+            throw new Zend_Gdata_App_InvalidArgumentException(
+                'Element does not exist.');
+        }
+        return $this;
+    }
+
+    /**
+     * Remove an individual row element from this list entry by name.
+     * @param string $name The name of the custom element to be deleted.
+     * @return Zend_Gdata_Spreadsheets_ListEntry Provides a fluent interface.
+     * @throws Zend_Gdata_App_InvalidArgumentException
+     */
+    public function removeCustomByName($name)
+    {
+        if (array_key_exists($name, $this->_customByName)) {
+            $element = $this->_customByName[$name];
+            // Remove element
+            unset($this->_customByName[$name]);
+            // Be sure to delete from both arrays!
+            $key = array_search($element, $this->_custom);
+            unset($this->_custom[$key]);
+        } else {
+            require_once 'Zend/Gdata/App/InvalidArgumentException.php';
+            throw new Zend_Gdata_App_InvalidArgumentException(
+                'Element does not exist.');
+        }
+        return $this;
+    }
+
+}

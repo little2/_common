@@ -1,33 +1,122 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
-kwgbMvW/MT1wW2Nvgi7EXjS=
+<?php
+
+/**
+ * Zend Framework
+ *
+ * LICENSE
+ *
+ * This source file is subject to the new BSD license that is bundled
+ * with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://framework.zend.com/license/new-bsd
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@zend.com so we can send you a copy immediately.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage App
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ * @version    $Id: MediaEntry.php 16971 2009-07-22 18:05:45Z mikaelkael $
+ */
+
+/**
+ * @see Zend_Gdata_App_Entry
+ */
+require_once 'Zend/Gdata/App/Entry.php';
+
+/**
+ * @see Zend_Gdata_App_MediaSource
+ */
+require_once 'Zend/Gdata/App/MediaSource.php';
+
+/**
+ * @see Zend_Gdata_MediaMimeStream
+ */
+require_once 'Zend/Gdata/MediaMimeStream.php';
+
+/**
+ * Concrete class for working with Atom entries containing multi-part data.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage App
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+class Zend_Gdata_App_MediaEntry extends Zend_Gdata_App_Entry
+{
+    /**
+     * The attached MediaSource/file
+     *
+     * @var Zend_Gdata_App_MediaSource
+     */
+    protected $_mediaSource = null;
+
+    /**
+     * Constructs a new MediaEntry, representing XML data and optional
+     * file to upload
+     *
+     * @param DOMElement $element (optional) DOMElement from which this
+     *          object should be constructed.
+     */
+    public function __construct($element = null, $mediaSource = null)
+    {
+        parent::__construct($element);
+        $this->_mediaSource = $mediaSource;
+    }
+
+    /**
+     * Return the MIME multipart representation of this MediaEntry.
+     *
+     * @return string|Zend_Gdata_MediaMimeStream The MIME multipart
+     *         representation of this MediaEntry. If the entry consisted only
+     *         of XML, a string is returned.
+     */
+    public function encode()
+    {
+
+        $xmlData = $this->saveXML();
+
+        $mediaSource = $this->getMediaSource();
+
+        if ($mediaSource === null) {
+            // No attachment, just send XML for entry
+            return $xmlData;
+        } else {
+            return new Zend_Gdata_MediaMimeStream($xmlData,
+                $mediaSource->getFilename(), $mediaSource->getContentType());
+        }
+    }
+
+    /**
+     * Return the MediaSource object representing the file attached to this
+     * MediaEntry.
+     *
+     * @return Zend_Gdata_App_MediaSource The attached MediaSource/file
+     */
+    public function getMediaSource()
+    {
+        return $this->_mediaSource;
+    }
+
+    /**
+     * Set the MediaSource object (file) for this MediaEntry
+     *
+     * @param Zend_Gdata_App_MediaSource $value The attached MediaSource/file
+     * @return Zend_Gdata_App_MediaEntry Provides a fluent interface
+     */
+    public function setMediaSource($value)
+    {
+        if ($value instanceof Zend_Gdata_App_MediaSource) {
+            $this->_mediaSource = $value;
+        } else {
+            require_once 'Zend/Gdata/App/InvalidArgumentException.php';
+            throw new Zend_Gdata_App_InvalidArgumentException(
+                    'You must specify the media data as a class that conforms to Zend_Gdata_App_MediaSource.');
+        }
+        return $this;
+    }
+
+}

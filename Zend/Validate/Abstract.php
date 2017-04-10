@@ -1,124 +1,436 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
-W4Ak9oEj4Xm3XNplBQRUu08p
+<?php
+/**
+ * Zend Framework
+ *
+ * LICENSE
+ *
+ * This source file is subject to the new BSD license that is bundled
+ * with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://framework.zend.com/license/new-bsd
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@zend.com so we can send you a copy immediately.
+ *
+ * @category   Zend
+ * @package    Zend_Validate
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ * @version    $Id: Abstract.php 18688 2009-10-25 16:08:24Z thomas $
+ */
+
+/**
+ * @see Zend_Validate_Interface
+ */
+require_once 'Zend/Validate/Interface.php';
+
+/**
+ * @category   Zend
+ * @package    Zend_Validate
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+abstract class Zend_Validate_Abstract implements Zend_Validate_Interface
+{
+    /**
+     * The value to be validated
+     *
+     * @var mixed
+     */
+    protected $_value;
+
+    /**
+     * Additional variables available for validation failure messages
+     *
+     * @var array
+     */
+    protected $_messageVariables = array();
+
+    /**
+     * Validation failure message template definitions
+     *
+     * @var array
+     */
+    protected $_messageTemplates = array();
+
+    /**
+     * Array of validation failure messages
+     *
+     * @var array
+     */
+    protected $_messages = array();
+
+    /**
+     * Flag indidcating whether or not value should be obfuscated in error
+     * messages
+     * @var bool
+     */
+    protected $_obscureValue = false;
+
+    /**
+     * Array of validation failure message codes
+     *
+     * @var array
+     * @deprecated Since 1.5.0
+     */
+    protected $_errors = array();
+
+    /**
+     * Translation object
+     * @var Zend_Translate
+     */
+    protected $_translator;
+
+    /**
+     * Default translation object for all validate objects
+     * @var Zend_Translate
+     */
+    protected static $_defaultTranslator;
+
+    /**
+     * Is translation disabled?
+     * @var Boolean
+     */
+    protected $_translatorDisabled = false;
+
+    /**
+     * Limits the maximum returned length of a error message
+     *
+     * @var Integer
+     */
+    protected static $_messageLength = -1;
+
+    /**
+     * Returns array of validation failure messages
+     *
+     * @return array
+     */
+    public function getMessages()
+    {
+        return $this->_messages;
+    }
+
+    /**
+     * Returns an array of the names of variables that are used in constructing validation failure messages
+     *
+     * @return array
+     */
+    public function getMessageVariables()
+    {
+        return array_keys($this->_messageVariables);
+    }
+
+    /**
+     * Returns the message templates from the validator
+     *
+     * @return array
+     */
+    public function getMessageTemplates()
+    {
+        return $this->_messageTemplates;
+    }
+
+    /**
+     * Sets the validation failure message template for a particular key
+     *
+     * @param  string $messageString
+     * @param  string $messageKey     OPTIONAL
+     * @return Zend_Validate_Abstract Provides a fluent interface
+     * @throws Zend_Validate_Exception
+     */
+    public function setMessage($messageString, $messageKey = null)
+    {
+        if ($messageKey === null) {
+            $keys = array_keys($this->_messageTemplates);
+            foreach($keys as $key) {
+                $this->setMessage($messageString, $key);
+            }
+            return $this;
+        }
+
+        if (!isset($this->_messageTemplates[$messageKey])) {
+            require_once 'Zend/Validate/Exception.php';
+            throw new Zend_Validate_Exception("No message template exists for key '$messageKey'");
+        }
+
+        $this->_messageTemplates[$messageKey] = $messageString;
+        return $this;
+    }
+
+    /**
+     * Sets validation failure message templates given as an array, where the array keys are the message keys,
+     * and the array values are the message template strings.
+     *
+     * @param  array $messages
+     * @return Zend_Validate_Abstract
+     */
+    public function setMessages(array $messages)
+    {
+        foreach ($messages as $key => $message) {
+            $this->setMessage($message, $key);
+        }
+        return $this;
+    }
+
+    /**
+     * Magic function returns the value of the requested property, if and only if it is the value or a
+     * message variable.
+     *
+     * @param  string $property
+     * @return mixed
+     * @throws Zend_Validate_Exception
+     */
+    public function __get($property)
+    {
+        if ($property == 'value') {
+            return $this->_value;
+        }
+        if (array_key_exists($property, $this->_messageVariables)) {
+            return $this->{$this->_messageVariables[$property]};
+        }
+        /**
+         * @see Zend_Validate_Exception
+         */
+        require_once 'Zend/Validate/Exception.php';
+        throw new Zend_Validate_Exception("No property exists by the name '$property'");
+    }
+
+    /**
+     * Constructs and returns a validation failure message with the given message key and value.
+     *
+     * Returns null if and only if $messageKey does not correspond to an existing template.
+     *
+     * If a translator is available and a translation exists for $messageKey,
+     * the translation will be used.
+     *
+     * @param  string $messageKey
+     * @param  string $value
+     * @return string
+     */
+    protected function _createMessage($messageKey, $value)
+    {
+        if (!isset($this->_messageTemplates[$messageKey])) {
+            return null;
+        }
+
+        $message = $this->_messageTemplates[$messageKey];
+
+        if (null !== ($translator = $this->getTranslator())) {
+            if ($translator->isTranslated($message)) {
+                $message = $translator->translate($message);
+            } elseif ($translator->isTranslated($messageKey)) {
+                $message = $translator->translate($messageKey);
+            }
+        }
+
+        if (is_object($value)) {
+            if (!in_array('__toString', get_class_methods($value))) {
+                $value = get_class($value) . ' object';
+            } else {
+                $value = $value->__toString();
+            }
+        } else {
+            $value = (string)$value;
+        }
+
+        if ($this->getObscureValue()) {
+            $value = str_repeat('*', strlen($value));
+        }
+
+        $message = str_replace('%value%', (string) $value, $message);
+        foreach ($this->_messageVariables as $ident => $property) {
+            $message = str_replace("%$ident%", (string) $this->$property, $message);
+        }
+
+        $length = self::getMessageLength();
+        if (($length > -1) && (strlen($message) > $length)) {
+            $message = substr($message, 0, (self::getMessageLength() - 3)) . '...';
+        }
+
+        return $message;
+    }
+
+    /**
+     * @param  string $messageKey OPTIONAL
+     * @param  string $value      OPTIONAL
+     * @return void
+     */
+    protected function _error($messageKey = null, $value = null)
+    {
+        if ($messageKey === null) {
+            $keys = array_keys($this->_messageTemplates);
+            $messageKey = current($keys);
+        }
+        if ($value === null) {
+            $value = $this->_value;
+        }
+        $this->_errors[]              = $messageKey;
+        $this->_messages[$messageKey] = $this->_createMessage($messageKey, $value);
+    }
+
+    /**
+     * Sets the value to be validated and clears the messages and errors arrays
+     *
+     * @param  mixed $value
+     * @return void
+     */
+    protected function _setValue($value)
+    {
+        $this->_value    = $value;
+        $this->_messages = array();
+        $this->_errors   = array();
+    }
+
+    /**
+     * Returns array of validation failure message codes
+     *
+     * @return array
+     * @deprecated Since 1.5.0
+     */
+    public function getErrors()
+    {
+        return $this->_errors;
+    }
+
+    /**
+     * Set flag indicating whether or not value should be obfuscated in messages
+     *
+     * @param  bool $flag
+     * @return Zend_Validate_Abstract
+     */
+    public function setObscureValue($flag)
+    {
+        $this->_obscureValue = (bool) $flag;
+        return $this;
+    }
+
+    /**
+     * Retrieve flag indicating whether or not value should be obfuscated in
+     * messages
+     *
+     * @return bool
+     */
+    public function getObscureValue()
+    {
+        return $this->_obscureValue;
+    }
+
+    /**
+     * Set translation object
+     *
+     * @param  Zend_Translate|Zend_Translate_Adapter|null $translator
+     * @return Zend_Validate_Abstract
+     */
+    public function setTranslator($translator = null)
+    {
+        if ((null === $translator) || ($translator instanceof Zend_Translate_Adapter)) {
+            $this->_translator = $translator;
+        } elseif ($translator instanceof Zend_Translate) {
+            $this->_translator = $translator->getAdapter();
+        } else {
+            require_once 'Zend/Validate/Exception.php';
+            throw new Zend_Validate_Exception('Invalid translator specified');
+        }
+        return $this;
+    }
+
+    /**
+     * Return translation object
+     *
+     * @return Zend_Translate_Adapter|null
+     */
+    public function getTranslator()
+    {
+        if ($this->translatorIsDisabled()) {
+            return null;
+        }
+
+        if (null === $this->_translator) {
+            return self::getDefaultTranslator();
+        }
+
+        return $this->_translator;
+    }
+
+    /**
+     * Set default translation object for all validate objects
+     *
+     * @param  Zend_Translate|Zend_Translate_Adapter|null $translator
+     * @return void
+     */
+    public static function setDefaultTranslator($translator = null)
+    {
+        if ((null === $translator) || ($translator instanceof Zend_Translate_Adapter)) {
+            self::$_defaultTranslator = $translator;
+        } elseif ($translator instanceof Zend_Translate) {
+            self::$_defaultTranslator = $translator->getAdapter();
+        } else {
+            require_once 'Zend/Validate/Exception.php';
+            throw new Zend_Validate_Exception('Invalid translator specified');
+        }
+    }
+
+    /**
+     * Get default translation object for all validate objects
+     *
+     * @return Zend_Translate_Adapter|null
+     */
+    public static function getDefaultTranslator()
+    {
+        if (null === self::$_defaultTranslator) {
+            require_once 'Zend/Registry.php';
+            if (Zend_Registry::isRegistered('Zend_Translate')) {
+                $translator = Zend_Registry::get('Zend_Translate');
+                if ($translator instanceof Zend_Translate_Adapter) {
+                    return $translator;
+                } elseif ($translator instanceof Zend_Translate) {
+                    return $translator->getAdapter();
+                }
+            }
+        }
+
+        return self::$_defaultTranslator;
+    }
+
+    /**
+     * Indicate whether or not translation should be disabled
+     *
+     * @param  bool $flag
+     * @return Zend_Validate_Abstract
+     */
+    public function setDisableTranslator($flag)
+    {
+        $this->_translatorDisabled = (bool) $flag;
+        return $this;
+    }
+
+    /**
+     * Is translation disabled?
+     *
+     * @return bool
+     */
+    public function translatorIsDisabled()
+    {
+        return $this->_translatorDisabled;
+    }
+
+    /**
+     * Returns the maximum allowed message length
+     *
+     * @return integer
+     */
+    public static function getMessageLength()
+    {
+        return self::$_messageLength;
+    }
+
+    /**
+     * Sets the maximum allowed message length
+     *
+     * @param integer $length
+     */
+    public static function setMessageLength($length = -1)
+    {
+        self::$_messageLength = $length;
+    }
+}

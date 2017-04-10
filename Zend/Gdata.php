@@ -1,77 +1,241 @@
-<?php //0046a
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo('Site error: the file <b>'.__FILE__.'</b> requires the ionCube PHP Loader '.basename($__ln).' to be installed by the website operator. If you are the website operator please use the <a href="http://www.ioncube.com/lw/">ionCube Loader Wizard</a> to assist with installation.');exit(199);
-?>
-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
-4wIkSBkrgG==
+<?php
+
+/**
+ * Zend Framework
+ *
+ * LICENSE
+ *
+ * This source file is subject to the new BSD license that is bundled
+ * with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://framework.zend.com/license/new-bsd
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@zend.com so we can send you a copy immediately.
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Gdata
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ * @version    $Id: Gdata.php 16971 2009-07-22 18:05:45Z mikaelkael $
+ */
+
+/**
+ * Zend_Gdata_App
+ */
+require_once 'Zend/Gdata/App.php';
+
+/**
+ * Provides functionality to interact with Google data APIs
+ * Subclasses exist to implement service-specific features
+ *
+ * As the Google data API protocol is based upon the Atom Publishing Protocol
+ * (APP), Gdata functionality extends the appropriate Zend_Gdata_App classes
+ *
+ * @link http://code.google.com/apis/gdata/overview.html
+ *
+ * @category   Zend
+ * @package    Zend_Gdata
+ * @subpackage Gdata
+ * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
+ * @license    http://framework.zend.com/license/new-bsd     New BSD License
+ */
+class Zend_Gdata extends Zend_Gdata_App
+{
+
+    /**
+     * Service name for use with Google's authentication mechanisms
+     *
+     * @var string
+     */
+    const AUTH_SERVICE_NAME = 'xapi';
+
+    /**
+     * Default URI to which to POST.
+     *
+     * @var string
+     */
+    protected $_defaultPostUri = null;
+
+    /**
+     * Packages to search for classes when using magic __call method, in order.
+     *
+     * @var array
+     */
+    protected $_registeredPackages = array(
+            'Zend_Gdata_Kind',
+            'Zend_Gdata_Extension',
+            'Zend_Gdata',
+            'Zend_Gdata_App_Extension',
+            'Zend_Gdata_App');
+
+    /**
+     * Namespaces used for Gdata data
+     *
+     * @var array
+     */
+    public static $namespaces = array(
+        array('gd', 'http://schemas.google.com/g/2005', 1, 0),
+        array('openSearch', 'http://a9.com/-/spec/opensearchrss/1.0/', 1, 0),
+        array('openSearch', 'http://a9.com/-/spec/opensearch/1.1/', 2, 0),
+        array('rss', 'http://blogs.law.harvard.edu/tech/rss', 1, 0)
+    );
+
+    /**
+     * Client object used to communicate
+     *
+     * @var Zend_Gdata_HttpClient
+     */
+    protected $_httpClient;
+
+    /**
+     * Client object used to communicate in static context
+     *
+     * @var Zend_Gdata_HttpClient
+     */
+    protected static $_staticHttpClient = null;
+
+    /**
+     * Create Gdata object
+     *
+     * @param Zend_Http_Client $client
+     * @param string $applicationId The identity of the app in the form of
+     *          Company-AppName-Version
+     */
+    public function __construct($client = null, $applicationId = 'MyCompany-MyApp-1.0')
+    {
+        parent::__construct($client, $applicationId);
+    }
+
+    /**
+     * Imports a feed located at $uri.
+     *
+     * @param  string $uri
+     * @param  Zend_Http_Client $client The client used for communication
+     * @param  string $className The class which is used as the return type
+     * @throws Zend_Gdata_App_Exception
+     * @return string|Zend_Gdata_App_Feed Returns string only if the object
+     *                                    mapping has been disabled explicitly
+     *                                    by passing false to the
+     *                                    useObjectMapping() function.
+     */
+    public static function import($uri, $client = null,
+        $className='Zend_Gdata_Feed')
+    {
+        $app = new Zend_Gdata($client);
+        $requestData = $app->decodeRequest('GET', $uri);
+        $response = $app->performHttpRequest($requestData['method'], $requestData['url']);
+
+        $feedContent = $response->getBody();
+
+        $feed = self::importString($feedContent, $className);
+        if ($client != null) {
+            $feed->setHttpClient($client);
+        }
+        return $feed;
+    }
+
+    /**
+     * Retrieve feed as string or object
+     *
+     * @param mixed $location The location as string or Zend_Gdata_Query
+     * @param string $className The class type to use for returning the feed
+     * @throws Zend_Gdata_App_InvalidArgumentException
+     * @return string|Zend_Gdata_App_Feed Returns string only if the object
+     *                                    mapping has been disabled explicitly
+     *                                    by passing false to the
+     *                                    useObjectMapping() function.
+     */
+    public function getFeed($location, $className='Zend_Gdata_Feed')
+    {
+        if (is_string($location)) {
+            $uri = $location;
+        } elseif ($location instanceof Zend_Gdata_Query) {
+            $uri = $location->getQueryUrl();
+        } else {
+            require_once 'Zend/Gdata/App/InvalidArgumentException.php';
+            throw new Zend_Gdata_App_InvalidArgumentException(
+                    'You must specify the location as either a string URI ' .
+                    'or a child of Zend_Gdata_Query');
+        }
+        return parent::getFeed($uri, $className);
+    }
+
+    /**
+     * Retrieve entry as string or object
+     *
+     * @param mixed $location The location as string or Zend_Gdata_Query
+     * @throws Zend_Gdata_App_InvalidArgumentException
+     * @return string|Zend_Gdata_App_Entry Returns string only if the object
+     *                                     mapping has been disabled explicitly
+     *                                     by passing false to the
+     *                                     useObjectMapping() function.
+     */
+    public function getEntry($location, $className='Zend_Gdata_Entry')
+    {
+        if (is_string($location)) {
+            $uri = $location;
+        } elseif ($location instanceof Zend_Gdata_Query) {
+            $uri = $location->getQueryUrl();
+        } else {
+            require_once 'Zend/Gdata/App/InvalidArgumentException.php';
+            throw new Zend_Gdata_App_InvalidArgumentException(
+                    'You must specify the location as either a string URI ' .
+                    'or a child of Zend_Gdata_Query');
+        }
+        return parent::getEntry($uri, $className);
+    }
+
+    /**
+     * Performs a HTTP request using the specified method.
+     *
+     * Overrides the definition in the parent (Zend_Gdata_App)
+     * and uses the Zend_Gdata_HttpClient functionality
+     * to filter the HTTP requests and responses.
+     *
+     * @param string $method The HTTP method for the request -
+     *                       'GET', 'POST', 'PUT', 'DELETE'
+     * @param string $url The URL to which this request is being performed,
+     *                    or null if found in $data
+     * @param array $headers An associative array of HTTP headers
+     *                       for this request
+     * @param string $body The body of the HTTP request
+     * @param string $contentType The value for the content type of the
+     *                            request body
+     * @param int $remainingRedirects Number of redirects to follow
+     *                                if requests results in one
+     * @return Zend_Http_Response The response object
+     */
+    public function performHttpRequest($method, $url, $headers = array(), $body = null, $contentType = null, $remainingRedirects = null)
+    {
+        if ($this->_httpClient instanceof Zend_Gdata_HttpClient) {
+            $filterResult = $this->_httpClient->filterHttpRequest($method, $url, $headers, $body, $contentType);
+            $method = $filterResult['method'];
+            $url = $filterResult['url'];
+            $body = $filterResult['body'];
+            $headers = $filterResult['headers'];
+            $contentType = $filterResult['contentType'];
+            return $this->_httpClient->filterHttpResponse(parent::performHttpRequest($method, $url, $headers, $body, $contentType, $remainingRedirects));
+        } else {
+            return parent::performHttpRequest($method, $url, $headers, $body, $contentType, $remainingRedirects);
+        }
+    }
+
+    /**
+     * Determines whether service object is authenticated.
+     *
+     * @return boolean True if service object is authenticated, false otherwise.
+     */
+    public function isAuthenticated()
+    {
+        $client = parent::getHttpClient();
+        if ($client->getClientLoginToken() ||
+            $client->getAuthSubToken()) {
+                return true;
+        }
+
+        return false;
+    }
+
+}
